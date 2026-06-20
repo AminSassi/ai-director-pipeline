@@ -19,7 +19,9 @@ Locked order. No exceptions.
 ## Director's Timeline Workflow
 - Director watches Premiere Pro timeline in real time
 - Passes 10 seconds on the timeline, then gives that 10-second chunk of script
-- MiMo generates shots for that specific 10-second segment
+- MiMo generates for that specific 10-second segment:
+  - 1x START FRAME image prompt (Nano Banana 2)
+  - 1x VIDEO prompt (Grok, 10 seconds)
 - Keeps shots coherent with script AND synced to timeline
 - Do NOT wait for "DONE" or give 2 prompts at a time
 - Director controls the pace — gives script chunk when ready
