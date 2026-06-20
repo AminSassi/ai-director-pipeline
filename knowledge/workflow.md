@@ -16,6 +16,19 @@ Locked order. No exceptions.
 2. GROK VIDEO → Grok Imagine — always 10 seconds
 3. KLING VIDEO → Kling VIDEO 3.0 — always 15 seconds
 
+## AI-Corrects-AI (Built Into One Session)
+Every prompt I generate goes through self-review before presenting:
+1. Generate start frame + video prompt
+2. Check against critical-rules.md (6 broken rules)
+3. Check against quality-checklist.md
+4. Check shot count matches word count
+5. Check camera angle variety (no repeats, minimum 30° rotation)
+6. Check character is mid-action, not posed
+7. Check VO-to-visual mapping (every word represented)
+8. Fix anything wrong, then present final version
+
+No second session needed. Director can always override or correct, and corrections get saved to knowledge/learnings.md.
+
 ## Director's Timeline Workflow
 - Director watches Premiere Pro timeline in real time
 - Passes 10 seconds on the timeline, then gives that 10-second chunk of script
