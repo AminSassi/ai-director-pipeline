@@ -16,6 +16,14 @@ Locked order. No exceptions.
 2. GROK VIDEO → Grok Imagine — always 10 seconds
 3. KLING VIDEO → Kling VIDEO 3.0 — always 15 seconds
 
+## Director's Timeline Workflow
+- Director watches Premiere Pro timeline in real time
+- Passes 10 seconds on the timeline, then gives that 10-second chunk of script
+- MiMo generates shots for that specific 10-second segment
+- Keeps shots coherent with script AND synced to timeline
+- Do NOT wait for "DONE" or give 2 prompts at a time
+- Director controls the pace — gives script chunk when ready
+
 ## Clip Math
 - Grok clip = 10 seconds generated
 - Kling clip = 15 seconds generated
