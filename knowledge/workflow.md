@@ -1,0 +1,38 @@
+# Production Workflow
+
+Locked order. No exceptions.
+
+## Phase 1 — Pre-Production (before any generation)
+1. Receive script
+2. Full asset scan (every recurring asset, named AND anonymous)
+3. Build ALL boards upfront in one block
+4. Clip math
+5. Scene map
+6. Energy map
+7. Suno music prompt
+
+## Phase 2 — Generation (per scene, locked order)
+1. START FRAME → Flow Nano Banana 2 ONLY (never Grok, never Kling)
+2. GROK VIDEO → Grok Imagine — always 10 seconds
+3. KLING VIDEO → Kling VIDEO 3.0 — always 15 seconds
+
+## Clip Math
+- Grok clip = 10 seconds generated
+- Kling clip = 15 seconds generated
+- Average cut in Premiere = 5–7 seconds
+- Formula: Script length (seconds) ÷ Average cut length = Clips needed
+
+## VO-to-Visual Mapping
+Map every VO sentence to a specific visual beat BEFORE writing any shot.
+- No shot exists unless it directly illustrates a specific VO sentence
+- Generic b-roll = failure
+- Objects when VO names a person = failure
+
+## Platform Differences
+| Rule | Grok | Kling |
+|---|---|---|
+| Negatives | --no flags at end | Separate Negative Prompt field |
+| Duration | 10s always | 15s always |
+| Multi-shot | Automatic | Multi-Shot ON + Custom Multi-Shot ON |
+| Aspect ratio | --ar 16:9 in prompt | Set in UI only |
+| Start frames | Not used | Not used — Nano Banana 2 only |
