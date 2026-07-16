@@ -1,6 +1,6 @@
 # Additional Production Rules
 
-From director's live production experience. These override or supplement ULTIMATE_SKILL.
+From director's live production experience. These supplement the rules in `AGENTS.md`.
 
 ## Short VO Integration
 - If VO is short, integrate it into another prompt. Don't create a single frame/prompt for it.

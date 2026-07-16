@@ -19,19 +19,12 @@ Each 10-second clip prompt should include:
 5. **Style**: Film look, color grading
 6. **Duration cue**: Implied pacing (slow/fast)
 
-## Prompt structure (Nano Banana 2 - image)
-
-Each image prompt should include:
-1. **Subject**: Main focus
-2. **Composition**: Framing rule
-3. **Lighting**: Source and quality
-4. **Color**: Palette/mood
-5. **Style**: Photorealistic, cinematic, etc.
-
 ## Rules
 
-- Never use negative prompts unless director specifies
+- Under 35 words for best results (complex prompts cause hallucination)
+- `--no` flags at end for negatives (Grok syntax only)
+- `--ar 16:9` for aspect ratio
 - Always specify camera movement for video clips
-- Keep prompts under 80 words for best results
 - Include "cinematic" or "film" in every prompt
 - Specify aspect ratio explicitly
+- Kling: negative prompts go in SEPARATE field (never --no flags inside prompt body)

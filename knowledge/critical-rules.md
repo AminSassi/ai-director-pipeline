@@ -1,4 +1,4 @@
-# Critical Rules (from ULTIMATE_SKILL)
+# Critical Rules
 
 Hard-learned rules from live production. Never skip these.
 

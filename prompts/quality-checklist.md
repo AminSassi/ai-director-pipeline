@@ -10,7 +10,7 @@ Use this checklist to review every prompt before presenting to the director.
 - [ ] Lighting described
 - [ ] Cinematic/film style mentioned
 - [ ] Pacing implied (slow, steady, dynamic)
-- [ ] Under 80 words
+- [ ] Under 35 words for Grok (complex prompts cause hallucination)
 - [ ] No conflicting instructions
 - [ ] Matches the scene's emotional tone
 
