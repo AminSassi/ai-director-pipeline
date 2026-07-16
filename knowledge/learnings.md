@@ -39,6 +39,18 @@ Accumulated corrections and discoveries from sessions. Updated automatically whe
 
 - [2026-06-25] INSIGHT: Locked Assets Workflow — Before generating prompts, identify ALL recurring characters, locations, objects that appear more than once. Create reference sheet prompts for each FIRST. Generate and lock them. Then use them in all future prompts as "same [character/location/object]". Ensures visual consistency throughout.
 
+## LOCKED ASSET TEMPLATES (USE THESE)
+
+### CHARACTER REFERENCE SHEET TEMPLATE
+```
+Professional character reference sheet, technical model turnaround style, clean neutral plain background, photorealistic. [CHARACTER DESCRIPTION]. Two horizontal rows. Top row: four full-body standing views — front view, left profile view facing left, right profile view facing right, back view. Bottom row: three close-up portraits — front portrait, left profile portrait facing left, right profile portrait facing right. Relaxed A-pose, consistent scale, accurate anatomy, clear silhouette, even spacing, uniform framing, consistent head height and facial scale across all panels. Same direction intensity and softness lighting across all panels, natural controlled shadows. Canon SL3, 17-85mm lens, fine pores, DSLR photography look, no airbrush, no CGI retouch, no text overlays. Landscape 16:9 -no white background or white bars
+```
+
+### LOCATION REFERENCE SHEET TEMPLATE
+```
+Create a professional location reference sheet. Clean neutral background, technical reference style. Arrange into a grid of six views: top row — wide establishing shot of [LOCATION 1], medium shot of [LOCATION 2], close detail of [LOCATION 3]. Bottom row — aerial view of [LOCATION 4], [LOCATION 5], [LOCATION 6]. Maintain consistent location identity across all panels — [LOCATION IDENTITY DESCRIPTION]. Lighting consistent across panels. Sharp details, photorealistic, Canon SL3, 17-85mm lens. No text overlays. Landscape 16:9 -no white background or white bars
+```
+
 - [2026-06-25] INSIGHT: Shot Count by Word Count — See `knowledge/critical-rules.md` Broken Rule #4 for the canonical table.
 
 - [2026-06-25] INSIGHT: Video prompts use SHOT 1/2/3/4 format. Each shot = 1 camera angle + 1 action. No more than 4 shots per 10-second clip.
