@@ -77,7 +77,7 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-17] INSIGHT: Short VO (2-5 words) = 2 shots max. Only when correcting previously generated chunks.
 
-- [2026-07-17] INSIGHT: ALWAYS tag locked assets when character appears in chunk. If VO mentions Shetty, tag @YOUNGSHETTY or @BRSHETTY. Never forget — wastes time and money on regeneration.
+- [2026-07-17] INSIGHT: ALWAYS tag locked assets at VERY BEGINNING of prompt — even if character only appears in final shot. NEVER put tags in middle of prompt. Tag placement: @TAG1 @TAG2 at start, then description. Example: "@YOUNGSHETTY @NMCCLINIC Young Indian pharmacist walking toward clinic..." NOT "Young Indian pharmacist @YOUNGSHETTY walking toward @NMCCLINIC clinic..."
 
 - [2026-07-17] INSIGHT: "Open parentheses" = Seedance 2.0 mode. "Close parentheses" = Grok/Kling mode. Switch between them as director instructs.
 
