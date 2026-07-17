@@ -94,3 +94,15 @@ Create a professional location reference sheet. Clean neutral background, techni
 - [2026-07-17] INSIGHT: Always re-read repo files before starting prompt generation — director requires this every session.
 
 - [2026-07-17] INSIGHT: Push changes to GitHub immediately after saving to learnings.md — director uses multiple PCs and needs synced repo.
+
+- [2026-07-17] CRITICAL: NEVER make boring prompts with no action. Characters are NEVER standing still doing nothing. Always mid-action, always doing something. Every scene needs movement, purpose, story.
+
+- [2026-07-17] CRITICAL: Camera movements must be VARIED and CREATIVE. Never repeat the same movement twice in a row. Use: dolly in, dolly out, tracking, pan, tilt, crane, handheld, orbital arc, static. Mix them up.
+
+- [2026-07-17] CRITICAL: NEVER use fast camera motion — Grok can't handle it and creates artifacts. Keep movements slow and deliberate.
+
+- [2026-07-17] CRITICAL: Every WORD in the script must be visualized in the video. Map each phrase to a specific visual shot. No generic filler shots.
+
+- [2026-07-17] CRITICAL: Each shot should have DIFFERENT camera angle and movement from the previous shot. Never two push-ins in a row. Never three static holds.
+
+- [2026-07-17] CRITICAL: Read the FULL repo before generating any prompts. The rules, learnings, and creative guidelines are there for a reason. Director requires this every session.
