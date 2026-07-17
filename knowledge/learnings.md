@@ -106,3 +106,5 @@ Create a professional location reference sheet. Clean neutral background, techni
 - [2026-07-17] CRITICAL: Each shot should have DIFFERENT camera angle and movement from the previous shot. Never two push-ins in a row. Never three static holds.
 
 - [2026-07-17] CRITICAL: Read the FULL repo before generating any prompts. The rules, learnings, and creative guidelines are there for a reason. Director requires this every session.
+
+- [2026-07-17] CRITICAL: NEVER use "Single person" prefix in shot descriptions — it was banned ages ago. Just describe the action directly without specifying person count.
