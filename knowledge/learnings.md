@@ -68,3 +68,29 @@ Create a professional location reference sheet. Clean neutral background, techni
 - [2026-06-25] INSIGHT: Character reference sheets — front angle, head to toe, white background. Location reference sheets — angle where everything is visible. Lock them before starting scene prompts.
 
 - [2026-06-25] INSIGHT: Thumbnail prompts with "dark room", "film grain", "harsh lighting" can make user's photo look too dark and unclear. For personal photos/video stills, use "bright", "well-lit", "natural lighting", "clear face visible" to keep subject bright while black space stays dark.
+
+- [2026-07-17] INSIGHT: NEVER use split screen effects — looks like AI slop, cheap, breaks immersion. Use grounded cinematic transitions instead.
+
+- [2026-07-17] INSIGHT: NEVER use generic noir tropes (rain-soaked streets, silhouettes at windows, detective aesthetics) — stay grounded in the ACTUAL story setting. NMC Health = Gulf region = warm desert tones, golden hour, Abu Dhabi architecture. Match colors/atmosphere to story location.
+
+- [2026-07-17] INSIGHT: NEVER do same first frame, same plan, same angle, same idea across chunks. Always introduce new visual approaches. Repetition kills creativity and wastes credits.
+
+- [2026-07-17] INSIGHT: Short VO (2-5 words) = 2 shots max. Only when correcting previously generated chunks.
+
+- [2026-07-17] INSIGHT: ALWAYS tag locked assets when character appears in chunk. If VO mentions Shetty, tag @YOUNGSHETTY or @BRSHETTY. Never forget — wastes time and money on regeneration.
+
+- [2026-07-17] INSIGHT: "Open parentheses" = Seedance 2.0 mode. "Close parentheses" = Grok/Kling mode. Switch between them as director instructs.
+
+- [2026-07-17] INSIGHT: Always include script text before each chunk prompt so director can verify sync.
+
+- [2026-07-17] INSIGHT: Work in batches of 4 chunks. Wait for "done" before next batch.
+
+- [2026-07-17] INSIGHT: When correcting chunks, can use fewer shots for short VO segments (breaks the 4-shot rule).
+
+- [2026-07-17] INSIGHT: Locked asset reference sheets use Canon SL3, 17-85mm lens format. Character = front angle, head to toe, white background. Location = angle where everything visible.
+
+- [2026-07-17] INSIGHT: Grok video prompts: use @image1 as visual anchor as start frame @TAGS. First frame uses Nano Banana 2. Video uses Grok.
+
+- [2026-07-17] INSIGHT: Always re-read repo files before starting prompt generation — director requires this every session.
+
+- [2026-07-17] INSIGHT: Push changes to GitHub immediately after saving to learnings.md — director uses multiple PCs and needs synced repo.
