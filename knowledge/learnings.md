@@ -69,7 +69,7 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-06-25] INSIGHT: Thumbnail prompts with "dark room", "film grain", "harsh lighting" can make user's photo look too dark and unclear. For personal photos/video stills, use "bright", "well-lit", "natural lighting", "clear face visible" to keep subject bright while black space stays dark.
 
-- [2026-07-17] INSIGHT: NEVER use split screen effects — looks like AI slop, cheap, breaks immersion. Use grounded cinematic transitions instead.
+- [2026-07-17] INSIGHT: NEVER use split screen effects — looks like AI slop, cheap, breaks immersion. Use grounded cinematic transitions instead. NEVER write "split screen" in any shot description. If showing growth/comparison, use time-lapse, montage, or sequential shots — NOT split screen.
 
 - [2026-07-17] INSIGHT: NEVER use generic noir tropes (rain-soaked streets, silhouettes at windows, detective aesthetics) — stay grounded in the ACTUAL story setting. NMC Health = Gulf region = warm desert tones, golden hour, Abu Dhabi architecture. Match colors/atmosphere to story location.
 
