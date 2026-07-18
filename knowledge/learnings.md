@@ -99,4 +99,11 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-17] CRITICAL: MiMo UI has rendering bug where text appears without spaces. NEVER type long text (descriptions, tags, metadata) directly in chat. ALWAYS write to file on Desktop first, then tell user to copy-paste from file. This is permanent — no fix possible from our side.
 
+## MiMo Architecture (Laptop)
+- Config: .config/mimocode/mimocode.json → "plugin": ["./plugins/local-workspace.js"]
+- Plugin: .config/mimocode/plugins/local-workspace.js (ESM export default)
+- Flow: mimo.exe → reads mimocode.json → imports plugin → registers "local" adaptor
+- Workspace adaptor resolution: PU map (plugins) → Ec map (built-in) → error if not found
+- Restart required after plugin changes
+
 
