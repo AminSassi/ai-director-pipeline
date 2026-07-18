@@ -97,4 +97,6 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-17] CRITICAL: NEVER repeat the same action across multiple chunks. "Walking" is banned as default action. Vary actions: sitting, standing, reviewing documents, talking on phone, typing, looking out window, signing papers, pacing, gesturing, embracing, pointing, writing, dialing, hanging up, opening doors, closing doors, picking up objects, setting down objects. Minimum 3 different actions per 4-chunk batch.
 
+- [2026-07-17] CRITICAL: MiMo UI has rendering bug where text appears without spaces. NEVER type long text (descriptions, tags, metadata) directly in chat. ALWAYS write to file on Desktop first, then tell user to copy-paste from file. This is permanent — no fix possible from our side.
+
 
