@@ -119,7 +119,11 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-23] CRITICAL: Video prompts must be ONE-BUTTON COPIABLE — All prompts (start frame + video) must be written directly in chat for copy-paste. Do NOT just save to files. User needs to copy-paste directly into generators.
 
-- [2026-07-23] CRITICAL: Tags at VERY BEGINNING of BOTH start frame AND video prompts — Start frame: "@TAG1 @TAG2 [description]". Video prompt: "Use @image1 as visual anchor for start frame.\n\n@TAG1 @TAG2\nSHOT 1/4...". Tags FIRST, always.
+- [2026-07-23] CRITICAL: Tags at BEGINNING AND MIDDLE — Video prompt format:
+  BEGINNING: @TAG1 @TAG2 (all locked assets for the chunk)
+  MIDDLE: @TAG1 (specific asset appearing in THAT specific shot)
+  Example: "@JHOLOW @NAJIBRAZAK\nSHOT 1/4 @JHOLOW Man walking...\nSHOT 2/4 @NAJIBRAZAK Man signing..."
+  This helps AI understand which locked asset appears in which shot.
 
 - [2026-07-23] CRITICAL: Trust user's manual chunk corrections — When user corrects chunk timing or narration, accept it immediately. User knows the correct sync. Do not argue or re-parse SRT.
 
