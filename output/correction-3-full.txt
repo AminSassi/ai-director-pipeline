@@ -1,0 +1,36 @@
+## CORRECTION 3 — Full narration
+
+"nobody fully explains. If that's your kind of story, hit subscribe right now so you don't lose this channel. Okay. Back to Malaysia. In the late 1990s, a Malaysian"
+
+**Context:** Chunk 8. Subscribe CTA + transition back to Malaysia story. Per CTA rule: NO people talking. Use graphics/phone screens only.
+
+**Locked assets:** @HARROWSCHOOL
+
+---
+
+**START FRAME:**
+```
+@HARROWSCHOOL Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Over-shoulder macro shot of smartphone in hand, screen showing channel page, thumb hovering over subscribe button, shallow depth of field, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+```
+
+**VIDEO:**
+```
+Use @image1 as visual anchor for start frame.
+
+SHOT 1/4 Over-shoulder macro shot of thumb tapping subscribe button on phone, screen showing channel, 50mm lens, extreme shallow depth of field, film grain texture
+
+SHOT 2/4 Wide aerial shot of Kuala Lumpur skyline, Petronas Towers visible, golden hour lighting, transition back to Malaysia, 35mm lens, film grain, cinematic color grading
+
+SHOT 3/4 @HARROWSCHOOL Wide establishing shot of historic British boarding school, Gothic architecture, golden morning light, sense of 1990s period setting, 35mm lens, film grain, cinematic atmosphere
+
+--ar 16:9 --no blur --no watermark --no artifacts
+```
+
+---
+
+This covers:
+- Shot 1: Subscribe CTA (phone screen, no people talking)
+- Shot 2: "Back to Malaysia" transition (Kuala Lumpur)
+- Shot 3: "In the late 1990s, a Malaysian" (Harrow School establishing)
+
+Ready for next batch.
