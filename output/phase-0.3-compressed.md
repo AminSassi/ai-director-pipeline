@@ -1,158 +1,104 @@
----
-artifact: phase-0.3-compressed.md
-status: approved
-version: 1.0
-word_count: 1426
-ctas: 3
-source: phase-0-1mdb-script.md
-created_by: pipeline
-downstream_valid: true
-compression_algorithm: 5-pass deterministic editing
----
+# The Teenager Who Stole Planes He Couldn't Fly
 
-# INSOLVENT — Episode Script
-## "The Fund That Financed a Hollywood Movie... With Stolen Billions"
-### The 1MDB Scandal
-
-**Estimated runtime:** ~15 minutes
-**Format:** Narrated documentary-style, high tension throughout, verified facts only
+**Pipeline Version:** 1.0.0
+**Artifact:** phase-0.3-compressed.md
+**Status:** draft
+**Word Count:** ~1,400
+**CTAs:** 3
+**Source:** Raw script (Verion)
 
 ---
 
-## [0:00 – 0:50] — HOOK
+[0:00–0:45] — HOOK
 
-In 2013, a movie about greed, fraud, and Wall Street excess hit theaters worldwide. It starred Leonardo DiCaprio. It was nominated for five Oscars. It was called "The Wolf of Wall Street."
+He was seventeen years old. He had never taken a single flying lesson. He didn't even have a driver's license.
 
-Here's what almost nobody knew: a huge chunk of the money used to make that movie was allegedly stolen. Not from a bank. From an entire country.
+And yet, for two years, this teenager stole cars, boats, and at least five airplanes — teaching himself to fly from stolen laptops and library books — while the FBI, Homeland Security, and police in two countries hunted him and failed, again and again.
 
-A young financier siphoned billions out of a government fund meant to build hospitals, schools, and infrastructure for millions — and used it to bankroll superyachts, a private jet, jewelry for supermodels, parties with A-list celebrities, and yes, a movie about financial fraud, paid for with the proceeds of financial fraud.
+They called him "The Barefoot Bandit." By the time this story ends, he'll have crash-landed a plane on a tropical island, led police on a high-speed boat chase in the dark, and become one of the strangest folk heroes America has ever produced.
 
-The prime minister at the center of it all has been sentenced to prison twice. The man who orchestrated the scheme has been missing for years, and nobody — not the FBI, not Interpol — has been able to find him.
+This is the true story of Colton Harris-Moore. Stick around, because the ending involves gunfire on open water — and it is not what you'd expect.
 
-This is the story of 1MDB, one of the largest financial heists in world history. And it starts with two teenagers at a private school in England.
+[Verion intro / channel bumper]
 
----
+[0:45–2:30] — WHERE IT ALL STARTED
 
-## [0:50 – 1:20] — QUICK SUBSCRIBE NUDGE
+Colton Harris-Moore was born in March 1991, on Camano Island, Washington — a quiet, wooded slice of the Pacific Northwest surrounded by water on almost every side. His childhood was not easy. His father struggled with addiction and left when Colton was a toddler. His mother, Pamela, raised him alone in a run-down single-wide trailer buried in the trees. Money was tight. Stability was rare.
 
-Before we go any further — this channel exists to dig up stories exactly like this one, the massive collapses nobody fully explains. If that's your kind of story, hit subscribe right now so you don't lose this channel. Okay. Back to Malaysia.
+By twelve, Colton had been diagnosed with depression and ADHD, and had his first run-in with police — for stolen property. He dropped out after ninth grade. Instead of a classroom, the forest became his real education. He learned to disappear into it, to survive in it, and to break into the empty vacation homes scattered across the island — often without shoes on, which is how the nickname started as a joke among local police.
 
----
+By his mid-teens, he had a string of burglary convictions. The courts tried the usual path: a juvenile sentence, a group home, supervision. It didn't hold him long.
 
-## [1:20 – 3:00] — THE SETUP
+[2:30–4:30] — THE ESCAPE
 
-In the late 1990s, a Malaysian teenager named Jho Low was sent to Harrow, one of Britain's most elite boarding schools. There, he became close friends with Riza Aziz, stepson of a rising Malaysian politician named Najib Razak. That friendship would eventually help move billions out of a country.
+On April 22, 2008, while serving a three-year juvenile sentence for burglary, seventeen-year-old Colton Harris-Moore walked out of a group home in Renton, Washington — and simply didn't come back.
 
-Fast forward to 2009. Najib becomes Prime Minister. Almost immediately, he sets up 1Malaysia Development Berhad — 1MDB. On paper: attract foreign investment, fund infrastructure. In reality, prosecutors would later say, it became a personal piggy bank — run with the help of Jho Low, who never held any official position inside the fund.
+He went back to the San Juan Islands and started hitting one house after another. He'd sneak into vacant vacation homes, sometimes staying for days, cooking meals, showering, sleeping in real beds, before moving on. He stole laptops, cash, credit cards, jewelry — and, notably, guns.
 
----
+Investigators noticed something odd. This wasn't a kid smashing windows. He was careful. Methodical. He studied houses before going in. And he left taunts — chalk outlines of bare feet on the floor, notes for the police chasing him. After driving off in a stolen vehicle, he scrawled "C-Ya!"
 
-## [3:00 – 6:00] — THE SCHEME
+By late 2008, island communities were holding emergency meetings. The local sheriff's office couldn't keep up. So the FBI and Homeland Security got involved. A teenager — barely out of high school — was now being hunted by federal law enforcement. And he was about to make it a lot harder for them.
 
-In 2009, 1MDB entered a joint venture with a Saudi oil company. The fund put in one billion dollars. Almost immediately — around seven hundred million was rerouted into a shell company called Good Star Limited. Its function: move stolen money where it couldn't be traced.
+[4:30–7:00] — TEACHING HIMSELF TO FLY
 
-Over the next few years, 1MDB kept raising money through massive bond sales, arranged with Goldman Sachs. Goldman helped raise over six billion dollars. The fees were dramatically higher than typical — so unusually large they became central evidence against the bank.
+At some point during his time on the run, Colton got his hands on flight manuals and simulator software — some of it on stolen laptops — and started teaching himself to fly small aircraft. Not in a cockpit with an instructor. Alone.
 
-Billions flowed through 1MDB. Billions flowed back out — into shell companies, private accounts, and a global spending spree nobody in Malaysia knew was happening.
+Then he did something almost nobody believed a teenage fugitive would attempt: he broke into small regional airports, climbed into single-engine planes, and took off.
 
-Jho Low became a legend on the party circuit. Hundreds of thousands on champagne in a single night. He partied with Paris Hilton. He gifted a Picasso and a Basquiat worth millions. He chartered superyachts. He bought real estate in Beverly Hills, New York, and London.
+Over the following months, investigators tied him to at least five stolen aircraft. He flew them across Washington state at night — no radio contact, no flight plan, no training beyond what he'd absorbed on his own. Federal prosecutors noted every flight put lives at risk. His landings were rough, often leaving aircraft badly damaged.
 
-And in 2012, he helped finance a Martin Scorsese film.
+But here's the strange part: instead of turning the public against him, it did the opposite. As word spread that a barefoot teenage runaway was stealing planes, an online following exploded. A Facebook fan page racked up tens of thousands of followers. People sold "Free Colton" t-shirts. He became a folk hero — the kid from a broken home beating the system with nerve and a stolen laptop.
 
----
+Law enforcement did not share the enthusiasm. His spree spread across Washington, Oregon, Idaho, Indiana, Nebraska, and into Canada. He stole cars, boats, and was connected to well over a hundred break-ins. He was barely eighteen.
 
-## [6:00 – 8:10] — THE MOVIE, THE PARTIES, THE PROOF
+[7:00–7:30] — MID-VIDEO CTA
 
-Riza Aziz started a Hollywood production company called Red Granite Pictures. In 2013, that company produced "The Wolf of Wall Street," starring Leonardo DiCaprio.
+If a story like this keeps you hooked, that's exactly what Verion is built for — real cases, told the way they actually happened, with nothing exaggerated. If you're new here, hit subscribe so you don't miss the next one, and drop a comment telling me where you think he ends up — because what happens next is the part almost nobody expects.
 
-Prosecutors later alleged a significant share of that film's budget can be traced back to money diverted from 1MDB.
+Alright. Let's get back into it.
 
-DiCaprio was never accused of knowingly taking part in the fraud. He cooperated with investigators, and both he and his foundation returned gifts — including a Marlon Brando Oscar statuette and pieces of art — tied to 1MDB money.
+[7:30–9:30] — THE RUN ACROSS THE COUNTRY
 
-The irony is hard to overstate. A movie warning about financial fraud was allegedly partly paid for with the actual proceeds of financial fraud.
+By the summer of 2010, the manhunt for Colton Harris-Moore was national. Police presence around Puget Sound had gotten so heavy that staying in Washington was no longer an option.
 
-By the early 2010s, roughly 4.5 billion dollars had allegedly been misappropriated from 1MDB. Investigators say around a billion flowed into Najib's personal bank accounts. For years, almost nobody knew.
+Colton ran east. Using stolen vehicles, he crossed state lines, making it to Illinois and Indiana while evading a coordinated manhunt that included local police, state troopers, the FBI, and Homeland Security.
 
----
+Then, on July 4, 2010, a Cessna was reported stolen from an airport in Indiana. Colton was in the air again — this time headed for international waters.
 
-## [8:10 – 8:50] — MID-VIDEO CTA
+[9:30–11:30] — CRASH LANDING IN THE BAHAMAS
 
-This is the point in the story where everything's about to blow wide open — and trust me, what happens next involves a fearless journalist, a stolen election, and a decade-long international manhunt that's still going on right now, in 2026.
+The stolen Cessna came down on Great Abaco Island in the Bahamas — a rough landing that wrote off the plane, but one Colton walked away from.
 
-If you want to catch every twist of that, make sure you're subscribed to INSOLVENT — we post a new financial collapse story every week.
+He was now a fugitive on foreign soil. The Royal Bahamas Police Force joined the hunt. Within days, he was linked to seven burglaries on the island. He stole a forty-three-foot powerboat and headed for Eleuthera.
 
-And drop a comment telling us which company or scandal you want us to dig into next; we genuinely read every single one and a lot of our episodes come straight from that comment section.
+For a few days, he vanished again. Locals reported strange sightings — someone bathing in a remote inlet, boats sabotaged, break-ins with only food and cash taken. The Bahamas were smaller. There was nowhere left to run.
 
-Okay. Let's talk about how this all came crashing down.
+[11:30–13:30] — THE FINAL CHASE
 
----
+In the early hours of July 11, 2010, witnesses on Eleuthera spotted the teenager they recognized instantly from months of news coverage — the Barefoot Bandit.
 
-## [8:50 – 11:00] — THE UNRAVELING
+They called the police.
 
-In 2015, 1MDB missed a loan payment — a few hundred million dollars. Enough to make journalists ask questions.
+What followed was a high-speed boat chase in the dark, across open water, as Colton tried one last time to outrun the people chasing him. Bahamian police pursued him toward Harbour Island. Shots were fired — aimed at disabling his boat's engine, not at Colton himself.
 
-That July, the Wall Street Journal published a bombshell: nearly seven hundred million had allegedly flowed into Najib's personal bank accounts. Around the same time, journalist Clare Rewcastle-Brown began publishing leaked financial documents through the Sarawak Report.
+It worked. The boat lost power. Colton ran ashore, barefoot, sprinting through brush near a resort marina with a backpack and a handgun. Witnesses described him shouting that he thought he was about to be killed.
 
-Najib denied everything. He claimed the money was a political donation from a Saudi royal family.
+He wasn't. Within minutes, he was in custody. Two years, over a hundred burglaries, five stolen planes, a manhunt spanning two countries — ended on a dark beach in the Bahamas, with a nineteen-year-old surrendering barefoot in the sand.
 
-Malaysia's government moved fast: the attorney general investigating the case was replaced. Journalists faced pressure. For a while, it looked like Najib might ride it out.
+[13:30–14:45] — WHAT HAPPENED AFTER
 
-But the story had escaped Malaysia's borders. Investigators in the United States, Switzerland, Singapore, and half a dozen other countries started pulling on the thread — the money had moved through the American banking system, through shell companies in tax havens, through art auctions and yacht purchases that left a paper trail an ocean wide.
+Colton pleaded guilty in both Bahamian and American courts — including interstate transportation of a stolen aircraft, transportation of a stolen firearm, and piloting without a license.
 
-In 2016, the U.S. Department of Justice filed civil lawsuits to seize more than a billion dollars in assets — at the time, the largest single action of its kind in Department history.
+In December 2011, he was sentenced to over seven years in state court. A federal judge added six-and-a-half years. Total damage from his two-year spree: over three million dollars. The judge told him his "reckless conduct" endangered lives and called for a "new life flight plan."
 
-Jho Low saw where this was heading. He vanished.
+Colton was released in 2016. Reports say he's kept a low profile since, working in real estate in the Seattle area.
 
----
+No one was killed during his run. Some saw a dangerous, reckless criminal. Others saw a teenager, failed early by every system meant to protect him, who found the one thing he was good at and refused to stop. Both can be true at the same time. That's what makes this story worth telling.
 
-## [11:00 – 13:00] — THE FALL
+[14:45–15:00] — OUTRO / FINAL CTA
 
-In 2018, Najib called a general election, hoping to secure enough power to make the scandal disappear. Malaysian voters did something that hadn't happened in over sixty years: they voted his party out of power entirely.
+If this is the kind of story you want more of — real people, real chases, real consequences, told straight — hit subscribe, turn on notifications, and tell me in the comments: folk hero, or just a very lucky criminal? I read everything.
 
-Weeks later, Najib was arrested.
+See you in the next one.
 
-In 2020, he was convicted on seven charges — criminal breach of trust, abuse of power, money laundering — related to roughly ten million dollars. Sentenced to twelve years. He appealed. He lost.
-
-In August 2022, he became the first former Prime Minister in Malaysian history to walk into a prison cell.
-
-That same year, Goldman Sachs agreed to pay roughly 2.9 billion dollars in penalties. Its Malaysian subsidiary pleaded guilty to criminal charges. For one of the most powerful investment banks on Wall Street, it was a staggering admission.
-
-Riza Aziz was charged with laundering nearly a quarter of a billion dollars — charges later dropped after he agreed to return assets, triggering public outrage.
-
-And Jho Low? He has never been caught. He's believed to be hiding somewhere in China. He has an active Interpol Red Notice. A Kuwaiti court sentenced him, in absentia, to ten years. He has never set foot in a courtroom.
-
----
-
-## [13:00 – 14:10] — WHERE THINGS STAND RIGHT NOW
-
-In 2024, a Malaysian pardons board cut Najib's twelve-year sentence in half, down to six years — sparking accusations of political favoritism.
-
-Then, in December 2025 — Najib was convicted again in a separate trial covering more than two billion Malaysian ringgit in 1MDB-linked charges. Sentenced to an additional fifteen years.
-
-Since then, Najib has been fighting to serve his sentence under house arrest, claiming a secret royal order entitles him to it. Malaysia's courts have rejected that request. He remains in Kajang Prison.
-
-One of the biggest financial scandals in modern history — and the legal fallout is still actively happening, right now, while you're watching this.
-
----
-
-## [14:10 – 15:00] — CLOSING CTA
-
-That's 1MDB — a fund built to help an entire country, hollowed out to fund a lifestyle most of us couldn't imagine, and a scandal so big it reached all the way into an Oscar-nominated Hollywood movie.
-
-If you want more stories like this — real money, real consequences, real people — hit subscribe so you catch the next one.
-
-And I want to know: which collapse should we cover next? Drop it in the comments below. We read every one, and a lot of the stories on this channel started with someone typing a suggestion right there.
-
-Thanks for watching INSOLVENT. See you in the next one.
-
----
-
-## Production Notes
-
-All facts, dates, and dollar figures are drawn from verified reporting (DOJ filings, Reuters, Al Jazeera, CNBC, Bloomberg, The Hollywood Reporter, Global Witness) and cross-checked before writing, including the most recent developments (Najib's December 2025 conviction and 2026 house-arrest ruling).
-
-Leonardo DiCaprio is treated fairly and accurately: he was never charged, cooperated with investigators, and returned gifts tied to 1MDB money. Keep that framing intact in the final cut — don't imply otherwise in editing or thumbnail choices, both for accuracy and to avoid legal risk.
-
-Najib Razak and Jho Low are described using only facts established by courts, DOJ filings, or their own public statements — no invented dialogue or motives.
-
-Suggested B-roll: Wolf of Wall Street trailer clips (fair use/commentary), 1MDB press conference footage, Kuala Lumpur skyline, courtroom photos (public domain via press pool), superyacht/luxury stock footage.
+[End card / Verion outro]

@@ -1,221 +1,552 @@
----
-artifact: phase-0.6-chunks.md
-status: approved
-version: 1.0
-total_chunks: 58
-total_duration: 538.3s
-total_words: 1358
-source: 1MDBVO.srt
-created_by: pipeline
-downstream_valid: true
-timing_source: actual_srt
-chunk_method: synchronized_with_narration
----
+# Synchronized Chunks — The Barefoot Bandit
 
-# Phase 0.6 — Synchronized Chunks
-## 1MDB Episode — INSOLVENT
-
-**Timing Source:** 1MDBVO.srt (TurboScribe transcription)
-**Total Duration:** 8:58 (538.3 seconds)
-**Total Chunks:** 58
-**Average Chunk Duration:** ~9.3 seconds
+**Source:** phase-0.4-elevenlabs.md + phase-0.5-timing.md
+**Total Duration:** 8:47
+**Chunk Size:** 10 seconds (aligned to actual narration timing)
+**Total Chunks:** 53
 
 ---
 
-## Chunk 1 — 00:00:00 – 00:00:09 (9.4s, 33 words)
-In 2013, a movie about greed, fraud, and Wall Street excess hit theaters worldwide. It starred Leonardo DiCaprio. It was nominated for five Oscars. It was called The Wolf of Wall Street.
+## CHUNK 01
+**Time:** 00:00:00 → 00:00:10
+**Duration:** 10s
+**Words:** 27
 
-## Chunk 2 — 00:00:10 – 00:00:19 (9.8s, 31 words)
-Here's what almost nobody knew. A huge chunk of the money used to make that movie was allegedly stolen. Not from a bank, from an entire country.
-
-## Chunk 3 — 00:00:20 – 00:00:29 (9.4s, 24 words)
-A young financier siphoned billions out of a government fund meant to build hospitals, schools, and
-
-## Chunk 4 — 00:00:29 – 00:00:39 (9.4s, 23 words)
-infrastructure for millions, and used it to bankroll super yachts, a private jet, jewelry for supermodels,
-
-## Chunk 5 — 00:00:39 – 00:00:48 (9.2s, 31 words)
-parties with A-list celebrities, and yes, a movie about financial fraud, paid for with the proceeds of financial fraud.
-
-## Chunk 6 — 00:00:48 – 00:00:57 (9.2s, 24 words)
-The prime minister at the center of it all has been sentenced to prison twice. The man who orchestrated
-
-## Chunk 7 — 00:00:57 – 00:01:07 (9.8s, 31 words)
-the scheme has been missing for years, and nobody, not the FBI, not Interpol, has been able to find him.
-
-## Chunk 8 — 00:01:07 – 00:01:15 (8.4s, 26 words)
-This is the story of 1MDB, one of the largest financial heists in world history. And it starts with
-
-## Chunk 9 — 00:01:16 – 00:01:25 (9s, 25 words)
-two teenagers at a private school in England. Before we go any
-
-## Chunk 10 — 00:01:25 – 00:01:35 (10s, 25 words)
-further, this channel exists to dig up stories exactly like this one,
-
-## Chunk 11 — 00:01:35 – 00:01:44 (8.3s, 19 words)
-the massive collapses nobody fully explains. If that's your kind
-
-## Chunk 12 — 00:01:44 – 00:01:53 (8.9s, 13 words)
-of story, hit subscribe right now so you
-
-## Chunk 13 — 00:01:53 – 00:02:00 (7.4s, 24 words)
-don't lose this channel. Okay, back to Malaysia. In the late 1990s,
-
-## Chunk 14 — 00:02:00 – 00:02:10 (9.7s, 22 words)
-a Malaysian teenager named Joe Low was sent to Harrow, one of
-
-## Chunk 15 — 00:02:10 – 00:02:19 (8.4s, 24 words)
-Britain's most elite boarding schools. There, he became close
-
-## Chunk 16 — 00:02:19 – 00:02:27 (8.5s, 19 words)
-friends with Riza Aziz, stepson of a rising
-
-## Chunk 17 — 00:02:28 – 00:02:37 (9.1s, 21 words)
-Malaysian politician named Najib Razak. That friendship would eventually
-
-## Chunk 18 — 00:02:38 – 00:02:47 (9.6s, 22 words)
-help move billions out of a country. Fast forward to 2009.
-
-## Chunk 19 — 00:02:47 – 00:02:57 (9.6s, 28 words)
-Najib becomes prime minister. Almost immediately, he sets up one Malaysia development
-
-## Chunk 20 — 00:02:57 – 00:03:07 (9.7s, 25 words)
-burhad, 1MDB. On paper, attract foreign investment, fund infrastructure.
-
-## Chunk 21 — 00:03:08 – 00:03:17 (9.4s, 23 words)
-In reality, prosecutors would later say it became a personal piggy bank
-
-## Chunk 22 — 00:03:17 – 00:03:26 (8.1s, 20 words)
-run with the help of Joe Low, who
-
-## Chunk 23 — 00:03:27 – 00:03:35 (8.5s, 23 words)
-never held any official position inside the fund. In 2009, 1MDB entered
-
-## Chunk 24 — 00:03:36 – 00:03:44 (8.6s, 20 words)
-a joint venture with a Saudi oil company. The fund put in
-
-## Chunk 25 — 00:03:45 – 00:03:54 (9s, 22 words)
-$1 billion. Almost immediately, around 700 million was rerouted into
-
-## Chunk 26 — 00:03:54 – 00:04:03 (9.3s, 17 words)
-a shell company called Goodstar Limited. Its function?
-
-## Chunk 27 — 00:04:03 – 00:04:13 (9.6s, 26 words)
-Move stolen money where it couldn't be traced. Over the next few
-
-## Chunk 28 — 00:04:13 – 00:04:22 (9.3s, 23 words)
-years, 1MDB kept raising money through massive bond
-
-## Chunk 29 — 00:04:23 – 00:04:32 (9.6s, 28 words)
-sales arranged with Goldman Sachs. Goldman helped raise over
-
-## Chunk 30 — 00:04:32 – 00:04:41 (9.2s, 31 words)
-$6 billion. The fees were dramatically higher than typical.
-
-## Chunk 31 — 00:04:42 – 00:04:51 (9.2s, 18 words)
-So unusually large, they became central evidence against
-
-## Chunk 32 — 00:04:51 – 00:04:59 (8.2s, 19 words)
-the bank. Billions flowed through 1MDB.
-
-## Chunk 33 — 00:05:00 – 00:05:09 (8.8s, 18 words)
-Billions flowed into shell
-
-## Chunk 34 — 00:05:09 – 00:05:18 (9.7s, 25 words)
-companies, private accounts, and a global spending spree
-
-## Chunk 35 — 00:05:19 – 00:05:29 (9.6s, 23 words)
-nobody in Malaysia knew was happening. Joe Low became a
-
-## Chunk 36 — 00:05:29 – 00:05:38 (9s, 22 words)
-legend on the party circuit. Hundreds of thousands on
-
-## Chunk 37 — 00:05:38 – 00:05:47 (9.5s, 26 words)
-champagne in a single night. He partied with Paris
-
-## Chunk 38 — 00:05:47 – 00:05:56 (9.2s, 25 words)
-Hilton. He gifted a Picasso and a Basquiat worth
-
-## Chunk 39 — 00:05:56 – 00:06:05 (8.7s, 24 words)
-millions. He chartered super yachts. He bought real estate
-
-## Chunk 40 — 00:06:06 – 00:06:16 (9.7s, 23 words)
-in Beverly Hills, New York, and London. And in 2012, he
-
-## Chunk 41 — 00:06:16 – 00:06:25 (9s, 20 words)
-helped finance a Martin Scorsese film. Riza Aziz started a
-
-## Chunk 42 — 00:06:25 – 00:06:33 (7.9s, 20 words)
-Hollywood production company called Red Granite Pictures.
-
-## Chunk 43 — 00:06:33 – 00:06:42 (8.7s, 14 words)
-In 2013, that company produced The Wolf of
-
-## Chunk 44 — 00:06:42 – 00:06:51 (8.8s, 23 words)
-Wall Street, starring Leonardo DiCaprio. Prosecutors later alleged a
-
-## Chunk 45 — 00:06:51 – 00:07:00 (9.2s, 17 words)
-significant share of that film's budget can be
-
-## Chunk 46 — 00:07:00 – 00:07:09 (9.4s, 25 words)
-traced back to money diverted from 1MDB. DiCaprio was never accused
-
-## Chunk 47 — 00:07:10 – 00:07:19 (9.2s, 20 words)
-of knowingly taking part in the fraud. He cooperated with investigators,
-
-## Chunk 48 — 00:07:20 – 00:07:29 (9.6s, 25 words)
-and both he and his foundation returned gifts,
-
-## Chunk 49 — 00:07:30 – 00:07:39 (9.3s, 23 words)
-including a Marlon Brando Oscar statuette and pieces
-
-## Chunk 50 — 00:07:39 – 00:07:48 (8.9s, 14 words)
-of art tied to 1MDB money.
-
-## Chunk 51 — 00:07:48 – 00:07:57 (9.4s, 21 words)
-The irony is hard to overstate. A movie warning about
-
-## Chunk 52 — 00:07:58 – 00:08:07 (9.3s, 26 words)
-financial fraud was allegedly partly paid for with the actual proceeds of
-
-## Chunk 53 — 00:08:07 – 00:08:17 (9.5s, 23 words)
-financial fraud. By the early 2000s, roughly $4.5 billion
-
-## Chunk 54 — 00:08:17 – 00:08:26 (9.2s, 23 words)
-had allegedly been misappropriated from 1MDB. Investigators say around a
-
-## Chunk 55 — 00:08:26 – 00:08:36 (9.7s, 25 words)
-billion flowed into Najib's personal bank accounts. For years, almost nobody
-
-## Chunk 56 — 00:08:36 – 00:08:45 (9.7s, 25 words)
-knew. This is the point in the story where
-
-## Chunk 57 — 00:08:45 – 00:08:55 (9.3s, 30 words)
-everything's about to blow wide open. And trust me, what happens next involves a
-
-## Chunk 58 — 00:08:55 – 00:08:58 (2.8s, 10 words)
-fearless journalist, a stolen election.
+He was seventeen years old. He had never taken a single flying lesson. He didn't even have a driver's license. And yet, for two years, this teenager stole cars, boats, and at
 
 ---
 
-## Timing Summary
+## CHUNK 02
+**Time:** 00:00:10 → 00:00:20
+**Duration:** 10s
+**Words:** 26
 
-| Metric | Value |
-|--------|-------|
-| Total Duration | 8:58 (538.3s) |
-| Total Chunks | 58 |
-| Average Chunk Duration | 9.3s |
-| Shortest Chunk | 2.8s (Chunk 58) |
-| Longest Chunk | 10s (Chunk 10) |
-| Total Word Count | ~1358 |
-| Average Words/Chunk | ~23.4 |
+least five airplanes, teaching himself to fly from stolen laptops and library books, while the FBI, Homeland Security, and police in two countries hunted
 
-## Chunk Boundaries Verified
+---
 
-All chunk timestamps are based on actual SRT timing from TurboScribe transcription. No estimated durations used.
+## CHUNK 03
+**Time:** 00:00:20 → 00:00:30
+**Duration:** 10s
+**Words:** 24
 
-## Next Steps
+him and failed again and again. They called him the Barefoot Bandit. By the time this
 
-- Phase 0.75: Intelligent Scene Routing (classify chunks by visual intent)
-- Phase 1: Pre-Production (asset scan, boards, clip math, scene map, energy map, music prompt)
-- Phase 2: Generation (start frame → video prompt → self-review → director approval)
+---
+
+## CHUNK 04
+**Time:** 00:00:30 → 00:00:40
+**Duration:** 10s
+**Words:** 27
+
+story ends, he'll have crash-landed a plane on a tropical island, led police on a high-speed boat chase in the dark, and become one of the
+
+---
+
+## CHUNK 05
+**Time:** 00:00:40 → 00:00:50
+**Duration:** 10s
+**Words:** 27
+
+strangest folk heroes America has ever produced. This is the true story of Colton Harris Moore. Stick around, because the
+
+---
+
+## CHUNK 06
+**Time:** 00:00:50 → 00:01:00
+**Duration:** 10s
+**Words:** 25
+
+ending involves gunfire on open water, and it is not what you'd expect. Colton Harris Moore was born in March 1991
+
+---
+
+## CHUNK 07
+**Time:** 00:01:00 → 00:01:10
+**Duration:** 10s
+**Words:** 26
+
+on Kamaino Island, Washington, a quiet, wooded slice of the Pacific Northwest surrounded by water on almost every side. His childhood was not
+
+---
+
+## CHUNK 08
+**Time:** 00:01:10 → 00:01:20
+**Duration:** 10s
+**Words:** 27
+
+easy. His father struggled with addiction and left when Colton was a toddler. His mother, Pamela, raised him alone in a run-down, single-wide
+
+---
+
+## CHUNK 09
+**Time:** 00:01:20 → 00:01:30
+**Duration:** 10s
+**Words:** 28
+
+trailer buried in the trees. Money was tight. Stability was rare. By 12, Colton had been diagnosed with depression and ADHD and had his first run-in
+
+---
+
+## CHUNK 10
+**Time:** 00:01:30 → 00:01:40
+**Duration:** 10s
+**Words:** 27
+
+with police for stolen property. He dropped out after ninth grade. Instead of a classroom, the forest became his real education. He learned to disappear
+
+---
+
+## CHUNK 11
+**Time:** 00:01:40 → 00:01:50
+**Duration:** 10s
+**Words:** 28
+
+into it, to survive in it, and to break into the empty vacation homes scattered across the island, often without shoes on, which is how the nickname started
+
+---
+
+## CHUNK 12
+**Time:** 00:01:50 → 00:02:00
+**Duration:** 10s
+**Words:** 26
+
+as a joke among local police. By his mid-teens, he had a string of burglary convictions. The courts tried the usual path, a juvenile
+
+---
+
+## CHUNK 13
+**Time:** 00:02:00 → 00:02:10
+**Duration:** 10s
+**Words:** 27
+
+sentence, a group home, supervision. It didn't hold him long. On April 22, 2008, while serving a three-year juvenile sentence for
+
+---
+
+## CHUNK 14
+**Time:** 00:02:10 → 00:02:20
+**Duration:** 10s
+**Words:** 26
+
+burglary, 17-year-old Colton Harris Moore walked out of a group home in Renton, Washington, and simply didn't come back. He went back to
+
+---
+
+## CHUNK 15
+**Time:** 00:02:20 → 00:02:30
+**Duration:** 10s
+**Words:** 27
+
+the San Juan Islands and started hitting one house after another. He'd sneak into vacant vacation homes, sometimes staying for days, cooking meals,
+
+---
+
+## CHUNK 16
+**Time:** 00:02:30 → 00:02:40
+**Duration:** 10s
+**Words:** 28
+
+showering, sleeping in real beds before moving on. He stole laptops, cash, credit cards, jewelry, and, notably, guns. Investigators noticed something odd.
+
+---
+
+## CHUNK 17
+**Time:** 00:02:40 → 00:02:50
+**Duration:** 10s
+**Words:** 27
+
+This wasn't a kid smashing windows. He was careful, methodical. He studied houses before going in, and he left taunts, chalk outlines
+
+---
+
+## CHUNK 18
+**Time:** 00:02:50 → 00:03:00
+**Duration:** 10s
+**Words:** 27
+
+of bare feet on the floor, notes for the police chasing him. After driving off in a stolen vehicle, he scrawled, See ya! By late 2008, island
+
+---
+
+## CHUNK 19
+**Time:** 00:03:00 → 00:03:10
+**Duration:** 10s
+**Words:** 27
+
+communities were holding emergency meetings. The local sheriff's office couldn't keep up, so the FBI and Homeland Security got involved. A teenager, barely out
+
+---
+
+## CHUNK 20
+**Time:** 00:03:10 → 00:03:20
+**Duration:** 10s
+**Words:** 28
+
+of high school, was now being hunted by federal law enforcement, and he was about to make it a lot harder for them. At some point during
+
+---
+
+## CHUNK 21
+**Time:** 00:03:20 → 00:03:30
+**Duration:** 10s
+**Words:** 27
+
+his time on the run, Colton got his hands on flight manuals and simulator software, some of it on stolen laptops, and started teaching
+
+---
+
+## CHUNK 22
+**Time:** 00:03:30 → 00:03:40
+**Duration:** 10s
+**Words:** 26
+
+himself to fly small aircraft, not in a cockpit with an instructor, alone. Then he did something almost nobody believed a
+
+---
+
+## CHUNK 23
+**Time:** 00:03:40 → 00:03:50
+**Duration:** 10s
+**Words:** 27
+
+teenage fugitive would attempt. He broke into small regional airports, climbed into single-engine planes, and took off. Over the following months,
+
+---
+
+## CHUNK 24
+**Time:** 00:03:50 → 00:04:00
+**Duration:** 10s
+**Words:** 27
+
+investigators tied him to at least five stolen aircraft. He flew them across Washington state at night, no radio contact, no flight plan, no training
+
+---
+
+## CHUNK 25
+**Time:** 00:04:00 → 00:04:10
+**Duration:** 10s
+**Words:** 27
+
+beyond what he'd absorbed on his own. Federal prosecutors noted every flight put lives at risk. His landings were rough, often leaving aircraft badly
+
+---
+
+## CHUNK 26
+**Time:** 00:04:10 → 00:04:20
+**Duration:** 10s
+**Words:** 26
+
+damaged. But here's the strange part. Instead of turning the public against him, it did the opposite. As word spread that
+
+---
+
+## CHUNK 27
+**Time:** 00:04:20 → 00:04:30
+**Duration:** 10s
+**Words:** 27
+
+a barefoot teenage runaway was stealing planes, an online following exploded. A Facebook fan page racked up tens of thousands of followers.
+
+---
+
+## CHUNK 28
+**Time:** 00:04:30 → 00:04:40
+**Duration:** 10s
+**Words:** 27
+
+People sold free Colton t-shirts. He became a folk hero, the kid from a broken home beating the system with nerve and a stolen laptop.
+
+---
+
+## CHUNK 29
+**Time:** 00:04:40 → 00:04:50
+**Duration:** 10s
+**Words:** 28
+
+Law enforcement did not share the enthusiasm. His spree spread across Washington, Oregon, Idaho, Indiana, Nebraska, and into Canada. He stole cars, boats,
+
+---
+
+## CHUNK 30
+**Time:** 00:04:50 → 00:05:00
+**Duration:** 10s
+**Words:** 27
+
+and was connected to well over a hundred break-ins. He was barely 18. If a story like this keeps you hooked,
+
+---
+
+## CHUNK 31
+**Time:** 00:05:00 → 00:05:10
+**Duration:** 10s
+**Words:** 27
+
+that's exactly what Varian is built for. Real cases, told the way they actually happened, with nothing exaggerated. If you're new here,
+
+---
+
+## CHUNK 32
+**Time:** 00:05:10 → 00:05:20
+**Duration:** 10s
+**Words:** 27
+
+hit subscribe so you don't miss the next one, and drop a comment telling me where you think he ends up, because what happens
+
+---
+
+## CHUNK 33
+**Time:** 00:05:20 → 00:05:30
+**Duration:** 10s
+**Words:** 27
+
+next is the part almost nobody expects. Alright, let's get back into it. By the summer of 2010, the manhunt for
+
+---
+
+## CHUNK 34
+**Time:** 00:05:30 → 00:05:40
+**Duration:** 10s
+**Words:** 26
+
+Colton Harris Moore was national. Police presence around Puget Sound had gotten so heavy that staying in Washington was no longer
+
+---
+
+## CHUNK 35
+**Time:** 00:05:40 → 00:05:50
+**Duration:** 10s
+**Words:** 27
+
+an option. Colton ran east. Using stolen vehicles, he crossed state lines, making it to Illinois and Indiana while evading a
+
+---
+
+## CHUNK 36
+**Time:** 00:05:50 → 00:06:00
+**Duration:** 10s
+**Words:** 28
+
+coordinated manhunt that included local police, state troopers, the FBI, and Homeland Security. Then, on July 4, 2010, a Cessna was
+
+---
+
+## CHUNK 37
+**Time:** 00:06:00 → 00:06:10
+**Duration:** 10s
+**Words:** 27
+
+reported stolen from an airport in Indiana. Colton was in the air again, this time headed for international waters. The stolen Cessna came
+
+---
+
+## CHUNK 38
+**Time:** 00:06:10 → 00:06:20
+**Duration:** 10s
+**Words:** 27
+
+down on Great Abaco Island in the Bahamas, a rough landing that rode off the plain, but one Colton walked away from. He was now a
+
+---
+
+## CHUNK 39
+**Time:** 00:06:20 → 00:06:30
+**Duration:** 10s
+**Words:** 27
+
+fugitive on foreign soil. The Royal Bahamas Police Force joined the hunt. Within days, he was linked to seven burglaries on the island.
+
+---
+
+## CHUNK 40
+**Time:** 00:06:30 → 00:06:40
+**Duration:** 10s
+**Words:** 27
+
+He stole a 43-foot powerboat and headed for Eleuthera. For a few days, he vanished again. Locals reported strange sightings,
+
+---
+
+## CHUNK 41
+**Time:** 00:06:40 → 00:06:50
+**Duration:** 10s
+**Words:** 27
+
+someone bathing in a remote inlet, boats sabotaged, break-ins with only food and cash taken. The Bahamas were smaller,
+
+---
+
+## CHUNK 42
+**Time:** 00:06:50 → 00:07:00
+**Duration:** 10s
+**Words:** 27
+
+there was nowhere left to run. In the early hours of July 11, 2010, witnesses on Eleuthera spotted the teenager they recognized
+
+---
+
+## CHUNK 43
+**Time:** 00:07:00 → 00:07:10
+**Duration:** 10s
+**Words:** 27
+
+instantly from months of news coverage, the Barefoot Bandit. They called the police. What followed was a high-speed boat chase
+
+---
+
+## CHUNK 44
+**Time:** 00:07:10 → 00:07:20
+**Duration:** 10s
+**Words:** 27
+
+in the dark, across open water, as Colton tried one last time to outrun the people chasing him. Bahamian police pursued him
+
+---
+
+## CHUNK 45
+**Time:** 00:07:20 → 00:07:30
+**Duration:** 10s
+**Words:** 27
+
+toward Harbor Island. Shots were fired, aimed at disabling his boat's engine, not at Colton himself. It worked. The boat lost power.
+
+---
+
+## CHUNK 46
+**Time:** 00:07:30 → 00:07:40
+**Duration:** 10s
+**Words:** 27
+
+Colton ran ashore, barefoot, sprinting through brush near a resort marina with a backpack and a handgun. Witnesses described him shouting
+
+---
+
+## CHUNK 47
+**Time:** 00:07:40 → 00:07:50
+**Duration:** 10s
+**Words:** 27
+
+that he thought he was about to be killed. He wasn't. Within minutes, he was in custody. Two years, over a
+
+---
+
+## CHUNK 48
+**Time:** 00:07:50 → 00:08:00
+**Duration:** 10s
+**Words:** 27
+
+hundred burglaries, five stolen planes, a manhunt spanning two countries ended on a dark beach in the Bahamas, with a 19-year-old surrendering
+
+---
+
+## CHUNK 49
+**Time:** 00:08:00 → 00:08:10
+**Duration:** 10s
+**Words:** 27
+
+barefoot in the sand. Colton pleaded guilty in both Bahamian and American courts, including interstate transportation of a stolen aircraft,
+
+---
+
+## CHUNK 50
+**Time:** 00:08:10 → 00:08:20
+**Duration:** 10s
+**Words:** 27
+
+transportation of a stolen firearm, and piloting without a license. In December 2011, he was sentenced to over seven years in state
+
+---
+
+## CHUNK 51
+**Time:** 00:08:20 → 00:08:30
+**Duration:** 10s
+**Words:** 27
+
+court. A federal judge added six and a half years. Total damage from his two-year spree? Over $3 million. The judge told him
+
+---
+
+## CHUNK 52
+**Time:** 00:08:30 → 00:08:40
+**Duration:** 10s
+**Words:** 27
+
+his reckless conduct endangered lives and called for a new life flight plan. Colton was released in 2016. Reports say he's kept
+
+---
+
+## CHUNK 53
+**Time:** 00:08:40 → 00:08:47
+**Duration:** 7s
+**Words:** 27
+
+a low profile since, working in real estate in the Seattle area. No one was killed during his run. Some saw a dangerous, reckless criminal. Others saw a teenager, failed early by every system meant to protect him, who found the one thing he was good at and refused to stop. Both can be true at the same time. That's what makes this story worth telling. If this is the kind of story you want more of, real people, real chases, real consequences, told straight, hit subscribe, turn on notifications, and tell me in the comments. Folk hero or just a very lucky criminal? I read everything. See you in the next one.
+
+---
+
+## CHUNK SUMMARY
+
+| Chunk | Time | Duration | Words |
+|-------|------|----------|-------|
+| 01 | 00:00:00 → 00:00:10 | 10s | 27 |
+| 02 | 00:00:10 → 00:00:20 | 10s | 26 |
+| 03 | 00:00:20 → 00:00:30 | 10s | 24 |
+| 04 | 00:00:30 → 00:00:40 | 10s | 27 |
+| 05 | 00:00:40 → 00:00:50 | 10s | 27 |
+| 06 | 00:00:50 → 00:01:00 | 10s | 25 |
+| 07 | 00:01:00 → 00:01:10 | 10s | 26 |
+| 08 | 00:01:10 → 00:01:20 | 10s | 27 |
+| 09 | 00:01:20 → 00:01:30 | 10s | 28 |
+| 10 | 00:01:30 → 00:01:40 | 10s | 27 |
+| 11 | 00:01:40 → 00:01:50 | 10s | 28 |
+| 12 | 00:01:50 → 00:02:00 | 10s | 26 |
+| 13 | 00:02:00 → 00:02:10 | 10s | 27 |
+| 14 | 00:02:10 → 00:02:20 | 10s | 26 |
+| 15 | 00:02:20 → 00:02:30 | 10s | 27 |
+| 16 | 00:02:30 → 00:02:40 | 10s | 28 |
+| 17 | 00:02:40 → 00:02:50 | 10s | 27 |
+| 18 | 00:02:50 → 00:03:00 | 10s | 27 |
+| 19 | 00:03:00 → 00:03:10 | 10s | 27 |
+| 20 | 00:03:10 → 00:03:20 | 10s | 28 |
+| 21 | 00:03:20 → 00:03:30 | 10s | 27 |
+| 22 | 00:03:30 → 00:03:40 | 10s | 26 |
+| 23 | 00:03:40 → 00:03:50 | 10s | 27 |
+| 24 | 00:03:50 → 00:04:00 | 10s | 27 |
+| 25 | 00:04:00 → 00:04:10 | 10s | 27 |
+| 26 | 00:04:10 → 00:04:20 | 10s | 26 |
+| 27 | 00:04:20 → 00:04:30 | 10s | 27 |
+| 28 | 00:04:30 → 00:04:40 | 10s | 27 |
+| 29 | 00:04:40 → 00:04:50 | 10s | 28 |
+| 30 | 00:04:50 → 00:05:00 | 10s | 27 |
+| 31 | 00:05:00 → 00:05:10 | 10s | 27 |
+| 32 | 00:05:10 → 00:05:20 | 10s | 27 |
+| 33 | 00:05:20 → 00:05:30 | 10s | 27 |
+| 34 | 00:05:30 → 00:05:40 | 10s | 26 |
+| 35 | 00:05:40 → 00:05:50 | 10s | 27 |
+| 36 | 00:05:50 → 00:06:00 | 10s | 28 |
+| 37 | 00:06:00 → 00:06:10 | 10s | 27 |
+| 38 | 00:06:10 → 00:06:20 | 10s | 27 |
+| 39 | 00:06:20 → 00:06:30 | 10s | 27 |
+| 40 | 00:06:30 → 00:06:40 | 10s | 27 |
+| 41 | 00:06:40 → 00:06:50 | 10s | 27 |
+| 42 | 00:06:50 → 00:07:00 | 10s | 27 |
+| 43 | 00:07:00 → 00:07:10 | 10s | 27 |
+| 44 | 00:07:10 → 00:07:20 | 10s | 27 |
+| 45 | 00:07:20 → 00:07:30 | 10s | 27 |
+| 46 | 00:07:30 → 00:07:40 | 10s | 27 |
+| 47 | 00:07:40 → 00:07:50 | 10s | 27 |
+| 48 | 00:07:50 → 00:08:00 | 10s | 27 |
+| 49 | 00:08:00 → 00:08:10 | 10s | 27 |
+| 50 | 00:08:10 → 00:08:20 | 10s | 27 |
+| 51 | 00:08:20 → 00:08:30 | 10s | 27 |
+| 52 | 00:08:30 → 00:08:40 | 10s | 27 |
+| 53 | 00:08:40 → 00:08:47 | 7s | 27 |
+
+---
+
+## TOTALS
+
+- **Total Chunks:** 53
+- **Total Duration:** 8:47
+- **Average Words/Chunk:** 27
+- **Total Words:** ~1,400
