@@ -143,6 +143,16 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-23] CRITICAL: Money shots — Use steady slow movement: money counting machines running, stacks of cash on tables, bills being counted by hand. NEVER floating money, flying bills, or chaotic money movement. Keep it grounded and realistic.
 
+- [2026-07-23] AI SLOP PATTERNS — NEVER do these again:
+  1. "papers flying through air" — Papers should be stacked, held, on desks, or being read. Never flying.
+  2. "papers exploding outward from desk" — Never exploding. Papers stay on surfaces.
+  3. "calendar pages flying off" — Calendar should be static, hand-flipping, or Ken Burns on static. Never pages flying.
+  4. "money flying through fingers" — Money should be in counting machines, stacks, or hands. Never flying through fingers.
+  5. "money flowing across screen" — Money stays physical. Counting machines, stacks, hands. Not digital flowing.
+  6. "person waving goodbye" — For closing, use graphics/logo. Never person waving.
+  7. "person talking/saying subscribe" — CTAs use graphics, phone screens, logos. Never people speaking.
+  8. "Talking head for narrator moments" — Use atmospheric visuals, not person looking at camera.
+
 - [2026-07-23] CRITICAL: Tag only where asset APPEARS — If character/location is NOT visible in start frame, do NOT tag them in start frame. Only tag them in the specific SHOT in video prompt where they actually appear. Start frame tags = only assets visible in that image.
 
 - [2026-07-23] CRITICAL: Video prompt tag format — After "Use @image1 as visual anchor for start frame." list ALL tags that appear ANYWHERE in the shots. Then tag each specific asset in its SHOT line. Example: "@TAG1 @TAG2\nSHOT 1/4 @TAG1 ...\nSHOT 2/4 @TAG2 ..."
