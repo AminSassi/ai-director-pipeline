@@ -137,6 +137,8 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-23] CRITICAL: Leonardo DiCaprio — Not locked as asset, but user uses his online pictures. Tag as @DICAPRIO when he appears in shots.
 
+- [2026-07-23] CRITICAL: Subscribe/CTA reminders — NEVER show people talking, saying bye, or asking to subscribe. That looks silly. Instead use: logos, graphic animations, phone screens showing channel, comment sections scrolling, real devices. Visual graphics only for CTAs, not people speaking.
+
 - [2026-07-21] CRITICAL: Pipeline Engineer Approach — Every video prompt MUST follow this workflow:
   1. Clip Math & VO Breakdown FIRST — map every word of narration to a visual shot
   2. Every distinct action or phrase = at least one unique visual shot
