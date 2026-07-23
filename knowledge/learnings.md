@@ -131,6 +131,12 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-23] CRITICAL: Final Correction Phase — After all chunks are generated, user reviews and identifies AI slop/mistakes. User provides small clips that need regeneration. Regenerate with MAX 2-3 shots per clip. These are short correction clips, not full chunks. Wait for user to provide the problematic segments.
 
+- [2026-07-23] CRITICAL: Read FULL script before generating prompts — Don't just look at the chunk. Read the surrounding context to understand what's happening. Many mistakes come from not understanding the full scene.
+
+- [2026-07-23] CRITICAL: Tag EVERY shot in video prompt — Don't forget to tag the specific asset in each shot where it appears. Not just at beginning, but in each SHOT line.
+
+- [2026-07-23] CRITICAL: Leonardo DiCaprio — Not locked as asset, but user uses his online pictures. Tag as @DICAPRIO when he appears in shots.
+
 - [2026-07-21] CRITICAL: Pipeline Engineer Approach — Every video prompt MUST follow this workflow:
   1. Clip Math & VO Breakdown FIRST — map every word of narration to a visual shot
   2. Every distinct action or phrase = at least one unique visual shot
