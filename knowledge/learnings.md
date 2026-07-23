@@ -26,16 +26,20 @@ Accumulated corrections and discoveries from sessions. Updated automatically whe
 
 - [2026-06-25] INSIGHT: "Torn paper style" — when user asks for this, use: Aged paper texture background, black and white photograph style, bold typewriter font, aged sepia and greyscale tones, film grain texture, high contrast shadows, investigative documentary thumbnail style, 4K, --ar 16:9, --no blur --no watermark --no artifacts --no distortion --no photorealism. Photo should look like printed article clipping with white border around image.
 
-- [2026-06-25] INSIGHT: YouTube Thumbnail Structure (True Crime style):
-  1. Camera/Visual Style (ultrarealistic cinematic photography, 35mm anamorphic lens, film grain, etc.)
-  2. "IMPORTANT: High-CTR true crime YouTube thumbnail"
-  3. Pitch-black negative space on LEFT or RIGHT
-  4. Subject/Scene description (what's visible)
-  5. Typography in black space: WHITE top line (hook word) + BLOOD-RED bottom line (impact word)
-  6. Mood description (chilling, eerie, gritty, etc.)
-  7. Technical: 4k, high quality, --ar 16:9
-  8. --no flags (daylight, clean aesthetic, smiling, etc.)
-  Example structure: [style] + IMPORTANT: High-CTR + [black space side] + [scene] + [text: WHITE top / RED bottom] + [mood] + 4k --ar 16:9 --no flags
+- [2026-06-25] INSIGHT: YouTube Thumbnail Structure (True Crime style) — DEPRECATED, use new style below.
+
+- [2026-07-23] INSIGHT: YouTube Thumbnail Style — Documentary Collage Aesthetic:
+  1. Black and white photograph of main subject (person)
+  2. Red color accent on clothing or design elements
+  3. Bold typography — title in large text
+  4. Subtitle/description text below title
+  5. Collage elements in background (related imagery)
+  6. Red geometric shapes/lines as design overlays
+  7. Aged paper/document texture background
+  8. Grid patterns, handwritten elements
+  9. Circular design elements
+  10. Gritty, investigative documentary feel
+  Example: B&W photo of subject + red accent + bold title + subtitle + collage background + geometric overlays + aged texture
 
 - [2026-06-25] INSIGHT: Locked Assets Workflow — Before generating prompts, identify ALL recurring characters, locations, objects that appear more than once. Create reference sheet prompts for each FIRST. Generate and lock them. Then use them in all future prompts as "same [character/location/object]". Ensures visual consistency throughout.
 
