@@ -139,6 +139,12 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-23] CRITICAL: Subscribe/CTA reminders — NEVER show people talking, saying bye, or asking to subscribe. That looks silly. Instead use: logos, graphic animations, phone screens showing channel, comment sections scrolling, real devices. Visual graphics only for CTAs, not people speaking.
 
+- [2026-07-23] CRITICAL: NO floating papers, floating objects, floating text — This is AI slop. Papers should be stacked, held, or on desks. Never floating in air. Money should be in counting machines, stacks on tables, or in hands — never floating.
+
+- [2026-07-23] CRITICAL: Money shots — Use steady slow movement: money counting machines running, stacks of cash on tables, bills being counted by hand. NEVER floating money, flying bills, or chaotic money movement. Keep it grounded and realistic.
+
+- [2026-07-23] CRITICAL: Tag only where asset APPEARS — If character/location is NOT visible in start frame, do NOT tag them in start frame. Only tag them in the specific SHOT in video prompt where they actually appear. Start frame tags = only assets visible in that image.
+
 - [2026-07-21] CRITICAL: Pipeline Engineer Approach — Every video prompt MUST follow this workflow:
   1. Clip Math & VO Breakdown FIRST — map every word of narration to a visual shot
   2. Every distinct action or phrase = at least one unique visual shot
