@@ -99,6 +99,50 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-17] CRITICAL: MiMo UI has rendering bug where text appears without spaces. NEVER type long text (descriptions, tags, metadata) directly in chat. ALWAYS write to file on Desktop first, then tell user to copy-paste from file. This is permanent — no fix possible from our side.
 
+- [2026-07-22] CRITICAL: Self-Review After Every Prompt — After generating each prompt, review against these checks:
+  1. Are characters MID-ACTION (never posed)?
+  2. Is there at least ONE creative angle (worm's eye, dutch tilt, through-glass, macro, bird's eye, ground-level tracking, first-person POV, reverse angle, orbital arc)?
+  3. Are there at least 3 different camera movements across the 4 shots?
+  4. Is every word of narration visually represented?
+  5. Are scenes ALIVE with action (not camera wandering)?
+  6. Is there visual variety (no repeated angles/movements)?
+  7. Does each shot have Subject & Action, Camera & Motion, Lens & Light, Texture & Mood?
+  8. Are characters caught mid-action (not static)?
+  9. Is scene composition interesting (behind objects, in crowd, environmental activity)?
+  10. Would you freeze this frame and see implied motion? If yes = correct.
+
+- [2026-07-22] CRITICAL: Paste prompts directly in chat, not just save to files. User needs one-button copy-paste access.
+
+- [2026-07-22] CRITICAL: NEVER use glowing UI elements, floating buttons, cursors, or digital overlays in video prompts. These look AI-generated and funny. Use real-world grounded visuals only — real people, real objects, real environments. Subscribe CTAs should show real people gesturing, real phone/computer screens, or cinematic text overlays — NOT floating buttons with lens flares.
+
+- [2026-07-23] CRITICAL: USER PROVIDES CHUNKS — Agent is BAD at chunking from SRT. NEVER parse SRT to create chunks. User will always provide a pre-chunked file (VO_10s_chunks.txt or similar). Use that file as the source of truth. If user gives you SRT, ask for the chunked file instead.
+
+- [2026-07-23] CRITICAL: Video prompts must be ONE-BUTTON COPIABLE — All prompts (start frame + video) must be written directly in chat for copy-paste. Do NOT just save to files. User needs to copy-paste directly into generators.
+
+- [2026-07-23] CRITICAL: Tags at VERY BEGINNING of BOTH start frame AND video prompts — Start frame: "@TAG1 @TAG2 [description]". Video prompt: "Use @image1 as visual anchor for start frame.\n\n@TAG1 @TAG2\nSHOT 1/4...". Tags FIRST, always.
+
+- [2026-07-23] CRITICAL: Trust user's manual chunk corrections — When user corrects chunk timing or narration, accept it immediately. User knows the correct sync. Do not argue or re-parse SRT.
+
+- [2026-07-23] CRITICAL: Work in batches of 4 chunks — After each batch, wait for "done" before next batch. User approves before continuing.
+
+- [2026-07-23] CRITICAL: Final Correction Phase — After all chunks are generated, user reviews and identifies AI slop/mistakes. User provides small clips that need regeneration. Regenerate with MAX 2-3 shots per clip. These are short correction clips, not full chunks. Wait for user to provide the problematic segments.
+
+- [2026-07-21] CRITICAL: Pipeline Engineer Approach — Every video prompt MUST follow this workflow:
+  1. Clip Math & VO Breakdown FIRST — map every word of narration to a visual shot
+  2. Every distinct action or phrase = at least one unique visual shot
+  3. Do NOT summarize or group narrative — word-by-word mapping
+  4. Ensure every word in script is visually represented
+  5. Use 4-Layer Prompt Build for each shot:
+     - Subject & Action (what/who is happening)
+     - Camera & Motion (angle, movement, handheld/dolly/pan)
+     - Lens & Light (35-50mm, golden hour, practical glow, haze)
+     - Texture & Mood (film grain, halation, soft grade, shoulder rig look)
+  6. Active scenes only — people doing things, not camera wandering
+  7. Creative transitions between chunks
+  8. Visual variety — never repeat camera movements, body movements, or angles
+  9. Scene composition — place camera behind objects, integrate into crowd, add environmental activity
+  10. Word count to shot count: 2-5 words=2 shots, 6-12 words=3 shots, 13-20 words=4 shots, 20-30+=split into 2 scenes with 4 shots each
+
 ## MiMo Architecture (Laptop)
 - Config: .config/mimocode/mimocode.json → "plugin": ["./plugins/local-workspace.js"]
 - Plugin: .config/mimocode/plugins/local-workspace.js (ESM export default)

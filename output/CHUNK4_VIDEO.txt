@@ -1,0 +1,11 @@
+Use @image1 as visual anchor for start frame.
+
+SHOT 1/4 First-person POV from stern of superyacht, white wake churning behind, hand holding champagne glass mid-tilt toward lips, golden sunset on horizon, turquoise water spraying, 35mm lens, film grain, handheld gentle sway, shoulder rig look
+
+SHOT 2/4 Macro close-up of hand clasping diamond necklace around woman's neck, fingers working clasp mid-motion, light refracting through stones, through-mirror reflection showing face smiling, 50mm lens, extreme shallow depth of field, film grain texture
+
+SHOT 3/4 Dutch tilt handheld shot of VIP nightclub, crowd dancing mid-movement, champagne being poured into glasses, colorful club lights flashing, chaotic energy, dynamic camera movement, 35mm lens, film grain, halation effect
+
+SHOT 4/4 Reverse angle from behind film camera, director mid-yell pointing at actors, clapperboard snapping shut in foreground, crew moving in background, movie set energy, natural lighting, 35mm lens, handheld shake, documentary feel
+
+--ar 16:9 --no blur --no watermark --no artifacts

@@ -1,0 +1,19 @@
+Use @image1 as visual anchor for start frame.
+
+SHOT 1/4 Close-up movie poster "The Wolf of Wall Street" on theater wall, dramatic neon lighting reflecting off glossy surface, slow push-in toward title, teal and orange color grading, 35mm lens, film grain, shallow depth of field
+
+SHOT 2/4 Character leaning forward in dark room, conspiratorial whisper, hand gesturing secret, dramatic side lighting casting shadows on face, 50mm lens, shallow depth of field, film grain texture, shoulder rig look
+
+SHOT 3/4 Extreme close-up stacks of hundred dollar bills, bundles wrapped in plastic, camera slowly pans across cash, warm golden lighting, shallow depth of field, film grain, halation effect
+
+SHOT 4/4 Film set production, camera crew working, director's chair visible, clapperboard in frame, behind-the-scenes documentary feel, natural lighting, handheld camera movement, 35mm lens
+
+SHOT 1/4 Hand reaching into dark office safe, shadows stretching across floor, tension building, dramatic low angle, single light source, 35mm lens, film grain, shallow depth of field
+
+SHOT 2/4 Bank vault door slowly opening, empty shelves visible inside, cold institutional lighting, dramatic reveal, slow dolly forward, 50mm lens, film grain texture
+
+SHOT 3/4 Wide aerial shot of Kuala Lumpur skyline, Petronas Towers visible, Malaysian landscape stretching to horizon, golden hour lighting, slow pan across city, 35mm lens, cinematic color grading
+
+SHOT 4/4 Medium shot Malaysian citizens walking through busy street market, daily life, warm natural lighting, documentary feel, handheld camera following subject, 35mm lens, film grain
+
+--ar 16:9 --no blur --no watermark --no artifacts
