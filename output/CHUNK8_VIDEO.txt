@@ -1,0 +1,8 @@
+Use @image1 as visual anchor for start frame.
+
+@HARROWSCHOOL
+SHOT 1/4 @HARROWSCHOOL Tracking shot following two teenage boys in uniforms walking across courtyard, mid-stride, one laughing mid-sentence, other listening intently, golden morning light, school buildings passing in background, 35mm lens, film grain, handheld gentle sway
+
+SHOT 2/4 @HARROWSCHOOL Over-shoulder close-up of two boys' faces mid-conversation, genuine laughter, teeth showing, eyes crinkling, shallow depth of field blurring school behind them, 50mm lens, film grain texture, warm natural lighting
+
+--ar 16:9 --no blur --no watermark --no artifacts

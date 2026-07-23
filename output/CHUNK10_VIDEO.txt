@@ -1,0 +1,7 @@
+Use @image1 as visual anchor for start frame.
+
+SHOT 1/4 School building scene dissolving into dark cinematic background, subscribe button glowing red in center, lens flare sweeping across, smooth transition, 35mm lens, film grain, slow zoom out revealing button
+
+SHOT 2/4 Extreme close-up of cursor hovering over subscribe button, finger about to click, button pulsing with light, anticipation building, shallow depth of field, 50mm lens, film grain texture, halation effect
+
+--ar 16:9 --no blur --no watermark --no artifacts

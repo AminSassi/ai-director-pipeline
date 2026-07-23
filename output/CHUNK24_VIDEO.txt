@@ -1,0 +1,12 @@
+Use @image1 as visual anchor for start frame.
+
+@1MDBOFFICES
+SHOT 1/4 Dutch tilt low angle of gavel mid-slam toward wooden block, dramatic lighting, dust particles in air, 35mm lens, film grain, handheld shake
+
+SHOT 2/4 Time-lapse of calendar pages flying off, years ticking from early 2000s, Ken Burns effect zooming into dates, dramatic lighting, 35mm lens, film grain, halation effect
+
+SHOT 3/4 @1MDBOFFICES Extreme close-up orbital arc around digital counter climbing to $4.5 billion, numbers flashing, blue screen glow, 50mm lens, extreme shallow depth of field, film grain
+
+SHOT 4/4 @1MDBOFFICES Wide shot of 1MDB logo on screen fading, money symbols disappearing, slow dolly out revealing empty dark room, sense of loss, 35mm lens, film grain, cinematic color grading
+
+--ar 16:9 --no blur --no watermark --no artifacts

@@ -1,0 +1,8 @@
+Use @image1 as visual anchor for start frame.
+
+@HARROWSCHOOL @JHOLOW @RIZAAZIZ
+SHOT 1/4 @HARROWSCHOOL Crane shot rising from courtyard level up past school building facade, revealing Gothic architecture against morning sky, students small below walking across grounds, golden hour light, sense of grandeur, 35mm lens, film grain, cinematic color grading
+
+SHOT 2/4 @HARROWSCHOOL Macro close-up of school crest carved into stone wall, morning light catching edges, rack focus from sharp crest to blurry students walking in courtyard behind, depth shift, 50mm lens, extreme shallow depth of field, film grain texture
+
+--ar 16:9 --no blur --no watermark --no artifacts

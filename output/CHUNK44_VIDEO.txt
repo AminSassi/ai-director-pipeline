@@ -1,0 +1,12 @@
+Use @image1 as visual anchor for start frame.
+
+@RIZAAZIZ @JHOLOW
+SHOT 1/4 @RIZAAZIZ Extreme close-up orbital arc around hand signing document, pen tip touching paper mid-stroke, ink flowing, agreement moment, 50mm lens, shallow depth of field, film grain, halation effect
+
+SHOT 2/4 Wide handheld shot of crowd protesting, signs waving, mid-chant, public anger, outdoor lighting, 35mm lens, film grain, documentary feel
+
+SHOT 3/4 @JHOLOW Wide static shot of empty office chair, dust floating in morning light, sense of absence, mystery, 35mm lens, film grain, soft grade
+
+SHOT 4/4 @JHOLOW Wide shot of shadow figure walking away down long corridor, disappearing into darkness, never caught, slow dolly out, 35mm lens, film grain, cinematic atmosphere
+
+--ar 16:9 --no blur --no watermark --no artifacts

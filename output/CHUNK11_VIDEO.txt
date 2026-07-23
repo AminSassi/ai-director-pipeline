@@ -1,0 +1,11 @@
+Use @image1 as visual anchor for start frame.
+
+SHOT 1/4 Medium shot of person at cluttered desk mid-reach for文件 folder, papers scattered, warm desk lamp casting shadows, focused expression, dolly in toward face, 35mm lens, film grain, shallow depth of field
+
+SHOT 2/4 Rapid montage cuts of dramatic moments - stock ticker crashing, courtroom gavel slamming, handcuffs clicking - Dutch tilt on each, fast transitions, chaotic energy, 35mm lens, film grain, handheld shake
+
+SHOT 3/4 Wide shot of corporate building facade, windows shattering outward, dust cloud erupting, debris falling, crane rising to capture scale of collapse, 35mm lens, film grain, cinematic color grading
+
+SHOT 4/4 Slow dolly through abandoned trading floor, papers scattered across desks, chairs overturned, dust particles floating in cold morning light, sense of aftermath, 50mm lens, film grain texture, soft grade
+
+--ar 16:9 --no blur --no watermark --no artifacts

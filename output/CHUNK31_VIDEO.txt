@@ -1,0 +1,12 @@
+Use @image1 as visual anchor for start frame.
+
+@NAJIBRAZAK
+SHOT 1/4 @NAJIBRAZAK Through-glass POV of hands opening safe, stacks of cash visible, blue safe light on face, tension, 50mm lens, shallow depth of field, film grain texture
+
+SHOT 2/4 Wide static shot composition showing safe with money on left, journalist working at desk on right, visual contrast, dramatic lighting, 35mm lens, film grain, cinematic color grading
+
+SHOT 3/4 Medium close-up tracking shot of woman journalist typing at desk, determined expression, focused on screen, warm desk lamp lighting, 50mm lens, shallow depth of field, film grain
+
+SHOT 4/4 Macro push-in on printer spitting out leaked financial documents, paper feeding through, text visible, dramatic reveal, 50mm lens, shallow depth of field, film grain, halation effect
+
+--ar 16:9 --no blur --no watermark --no artifacts

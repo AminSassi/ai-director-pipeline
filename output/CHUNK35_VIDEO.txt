@@ -1,0 +1,11 @@
+Use @image1 as visual anchor for start frame.
+
+SHOT 1/4 Extreme close-up tracking shot of money flowing through bank vault, bills in motion, blue security lighting, 50mm lens, shallow depth of field, film grain texture
+
+SHOT 2/4 Wide establishing shot of tropical offshore island, palm trees, company signs on buildings, sense of hidden wealth, 35mm lens, film grain, cinematic color grading
+
+SHOT 3/4 Dutch tilt shot of auction house interior, gavel mid-slam, paintings on walls, wealthy bidders, dramatic moment, 35mm lens, film grain, dynamic energy
+
+SHOT 4/4 Wide shot of superyacht cruising on ocean, documents scattered on deck by wind, paper trail visual, camera craning up, 35mm lens, film grain, golden hour lighting
+
+--ar 16:9 --no blur --no watermark --no artifacts

@@ -1,0 +1,11 @@
+Use @image1 as visual anchor for start frame.
+
+SHOT 1/4 Extreme close-up orbital arc around cash counting machine, hundred dollar bills flying through mechanism, hands reaching in to grab stack mid-motion, warm golden lighting, 50mm lens, shallow depth of field, film grain, halation effect
+
+SHOT 2/4 Tracking shot following man in dark suit mid-stride through government hallway, security guards flanking behind, marble floors reflecting, fluorescent lights overhead, determined expression, 35mm lens, handheld shake, shoulder rig look, film grain
+
+SHOT 3/4 Dutch tilt dramatic low angle of judge's gavel mid-slam toward wooden block, man in suit flinching in background, courtroom tension, dust particles in air, single overhead light, 35mm lens, film grain texture, shallow depth of field
+
+SHOT 4/4 Static wide shot of empty office chair at mahogany desk, dust particles floating in cold morning light, slow dolly out revealing empty room, abandoned papers on desk, sense of absence, 50mm lens, film grain, soft grade
+
+--ar 16:9 --no blur --no watermark --no artifacts

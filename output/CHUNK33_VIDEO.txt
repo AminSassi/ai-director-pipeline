@@ -1,0 +1,12 @@
+Use @image1 as visual anchor for start frame.
+
+@NAJIBRAZAK
+SHOT 1/4 Medium tracking shot of man packing box, leaving office, mid-stride toward door, sense of finality, natural lighting, 50mm lens, shallow depth of field, film grain texture
+
+SHOT 2/4 Close-up handheld shot of journalist receiving phone call, answering mid-ring, expression shifting to concern, warm office lighting, 50mm lens, shallow depth of field, film grain
+
+SHOT 3/4 @NAJIBRAZAK Medium static shot of man smiling confidently, relieved expression, sitting back in chair, sense of victory, 50mm lens, shallow depth of field, film grain
+
+SHOT 4/4 @NAJIBRAZAK Wide shot of man walking free through government building entrance, sunlight hitting face, sense of temporary victory, slow dolly out, 35mm lens, film grain, cinematic color grading
+
+--ar 16:9 --no blur --no watermark --no artifacts

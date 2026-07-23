@@ -1,0 +1,12 @@
+Use @image1 as visual anchor for start frame.
+
+@GOLDMANSACHS @RIZAAZIZ
+SHOT 1/4 @GOLDMANSACHS Low angle tilt up of Wall Street sign, building towering behind, sense of power diminished, dramatic sky, 35mm lens, film grain, cinematic color grading
+
+SHOT 2/4 @GOLDMANSACHS Medium static shot of man at press conference podium, head down in shame, microphones flashing, institutional admission, 50mm lens, shallow depth of field, film grain texture
+
+SHOT 3/4 @RIZAAZIZ Tracking shot following man in handcuffs being led through corridor, mid-walk, police escort, media cameras, 35mm lens, film grain, documentary feel
+
+SHOT 4/4 @RIZAAZIZ Close-up handheld shot of man's face showing shock, eyes wide, expression of disbelief, natural lighting, 50mm lens, shallow depth of field, film grain
+
+--ar 16:9 --no blur --no watermark --no artifacts

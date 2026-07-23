@@ -1,0 +1,8 @@
+Use @image1 as visual anchor for start frame.
+
+@HARROWSCHOOL
+SHOT 1/4 @HARROWSCHOOL Low angle looking up as ornate wooden door swings open, morning light flooding through doorway, dust particles floating in beam, two teenage silhouettes visible stepping through, 35mm lens, film grain, dolly in through doorway
+
+SHOT 2/4 @HARROWSCHOOL Wide establishing shot of historic British boarding school, Gothic architecture, manicured lawns, two teenagers walking into frame from left, golden morning light, slow pan following them, 35mm lens, film grain, cinematic color grading
+
+--ar 16:9 --no blur --no watermark --no artifacts

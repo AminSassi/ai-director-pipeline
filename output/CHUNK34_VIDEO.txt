@@ -1,0 +1,11 @@
+Use @image1 as visual anchor for start frame.
+
+SHOT 1/4 Wide slow zoom out from map of Malaysia, red lines spreading outward to multiple countries, dramatic lighting, sense of international scale, 35mm lens, film grain, cinematic color grading
+
+SHOT 2/4 Low angle tilt up of FBI building facade, American flag waving, institutional power, sense of authority, 35mm lens, film grain, dramatic sky
+
+SHOT 3/4 Aerial establishing shot of Swiss Alps transitioning to Singapore skyline, international locations, golden hour lighting, 35mm lens, film grain, cinematic atmosphere
+
+SHOT 4/4 Wide slow pan across multiple investigators at desks in different countries, connected by red lines on map, synchronized investigation, 35mm lens, film grain, documentary feel
+
+--ar 16:9 --no blur --no watermark --no artifacts

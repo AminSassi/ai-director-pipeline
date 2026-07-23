@@ -1,0 +1,12 @@
+Use @image1 as visual anchor for start frame.
+
+@JHOLOW @NAJIBRAZAK
+SHOT 1/4 @JHOLOW Wide static shot of empty courtroom, defendant's chair vacant, absence, justice incomplete, 35mm lens, film grain, cinematic atmosphere
+
+SHOT 2/4 Wide establishing shot of Malaysian pardons board members seated at table, voting, serious expressions, institutional setting, 35mm lens, film grain, documentary feel
+
+SHOT 3/4 @NAJIBRAZAK Close-up handheld shot of man's face showing relief, slight smile forming, emotional moment, natural lighting, 50mm lens, shallow depth of field, film grain texture
+
+SHOT 4/4 Wide tracking shot of crowd protesting outside, signs waving, public anger, sense of injustice, 35mm lens, film grain, dynamic energy
+
+--ar 16:9 --no blur --no watermark --no artifacts
