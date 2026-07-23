@@ -147,6 +147,8 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-23] CRITICAL: Video prompt tag format — After "Use @image1 as visual anchor for start frame." list ALL tags that appear ANYWHERE in the shots. Then tag each specific asset in its SHOT line. Example: "@TAG1 @TAG2\nSHOT 1/4 @TAG1 ...\nSHOT 2/4 @TAG2 ..."
 
+- [2026-07-23] CRITICAL: Subscribe/CTA — Use @channellogo tag for channel logo in first frame when CTA appears. User will add the logo image. Tag tells user which asset to add.
+
 - [2026-07-21] CRITICAL: Pipeline Engineer Approach — Every video prompt MUST follow this workflow:
   1. Clip Math & VO Breakdown FIRST — map every word of narration to a visual shot
   2. Every distinct action or phrase = at least one unique visual shot
