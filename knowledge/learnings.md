@@ -181,7 +181,7 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-24] CRITICAL: ElevenLabs VO target is 1400 words — NOT the compressed script. The 1400-word target applies to the spoken narration text only (Phase 0.4), not the full script with visual directions (Phase 0.3). Always verify word count of ElevenLabs version specifically.
 
-- [2026-07-24] CRITICAL: Locked asset prompts must start with "alt [NAME]" before the actual prompt. Example: "alt Mecklenburg Prison Exterior\nProfessional character reference sheet..." This allows searching by name in Google Flow and other tools to quickly find the right reference image. Do NOT correct already-generated assets — apply this rule to ALL NEW locked asset prompts going forward.
+- [2026-07-24] CRITICAL: Locked asset prompts must start with "@ [NAME]" before the actual prompt. Example: "@ Mecklenburg Prison Exterior\nProfessional character reference sheet..." This allows searching by name in Google Flow and other tools to quickly find the right reference image. Do NOT correct already-generated assets — apply this rule to ALL NEW locked asset prompts going forward.
 
 ## MiMo Architecture (Laptop)
 - Config: .config/mimocode/mimocode.json → "plugin": ["./plugins/local-workspace.js"]

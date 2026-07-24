@@ -79,7 +79,7 @@ Create a professional location reference sheet. Clean neutral background, techni
 3. **No modification:** Locked assets cannot be changed without director approval
 4. **First appearance:** Generate reference sheets BEFORE scene prompts
 5. **Visual anchor:** Use @image1 as start frame reference for locked characters
-6. **Alt text:** Always start locked asset prompts with "alt [NAME]" for searchability in Google Flow
+6. **Alt text:** Always start locked asset prompts with "@ [NAME]" for searchability in Google Flow
 
 ---
 
