@@ -179,6 +179,10 @@ Create a professional location reference sheet. Clean neutral background, techni
   9. Scene composition — place camera behind objects, integrate into crowd, add environmental activity
   10. Word count to shot count: 2-5 words=2 shots, 6-12 words=3 shots, 13-20 words=4 shots, 20-30+=split into 2 scenes with 4 shots each
 
+- [2026-07-24] CRITICAL: ElevenLabs VO target is 1400 words — NOT the compressed script. The 1400-word target applies to the spoken narration text only (Phase 0.4), not the full script with visual directions (Phase 0.3). Always verify word count of ElevenLabs version specifically.
+
+- [2026-07-24] CRITICAL: Locked asset prompts must start with "alt [NAME]" before the actual prompt. Example: "alt Mecklenburg Prison Exterior\nProfessional character reference sheet..." This allows searching by name in Google Flow and other tools to quickly find the right reference image. Do NOT correct already-generated assets — apply this rule to ALL NEW locked asset prompts going forward.
+
 ## MiMo Architecture (Laptop)
 - Config: .config/mimocode/mimocode.json → "plugin": ["./plugins/local-workspace.js"]
 - Plugin: .config/mimocode/plugins/local-workspace.js (ESM export default)
