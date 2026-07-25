@@ -183,6 +183,10 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-24] CRITICAL: Locked asset prompts must start with "@ [NAME]" before the actual prompt. Example: "@ Mecklenburg Prison Exterior\nProfessional character reference sheet..." This allows searching by name in Google Flow and other tools to quickly find the right reference image. Do NOT correct already-generated assets — apply this rule to ALL NEW locked asset prompts going forward.
 
+- [2026-07-24] STYLE: Documentary archival style works great — newspapers, headlines, event-related graphics. Use when needed but don't overdo. NEVER make papers move or float. Pictures inside graphics should stay STATIC like video stills, not animated. Ken Burns effect (slow zoom/pan) on static images is fine. Use graphic elements sparingly for key moments only.
+
+- [2026-07-24] FORMAT: Video prompts — tags ONLY at beginning + in "Use @image1 as visual anchor" line. Do NOT add extra tag line before anchor line.
+
 ## MiMo Architecture (Laptop)
 - Config: .config/mimocode/mimocode.json → "plugin": ["./plugins/local-workspace.js"]
 - Plugin: .config/mimocode/plugins/local-workspace.js (ESM export default)
