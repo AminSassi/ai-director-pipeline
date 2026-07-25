@@ -191,6 +191,22 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-24] CRITICAL: AVOID AI SLOP in video prompts — Never use generic descriptions. Each shot needs: specific visual details, lighting description, atmosphere/mood, texture (grain, halation), camera movement, emotional beat. Bad: "Wide shot FBI agents alone surrounding garage". Good: "Wide shot FBI tactical team surrounding garage at night, spotlights cutting through fog, tense atmosphere, harsh shadows on concrete walls, 35mm lens, deep focus, thriller mood, film grain".
 
+- [2026-07-24] CRITICAL: NO SPLIT IMAGES or split screen compositions — Always single-frame shots. Split screens look like AI slop and break immersion.
+
+- [2026-07-24] CRITICAL: READ FULL SCRIPT before generating each prompt — Understand story context, emotional arc, and where the line fits. Stay in storyline. Don't generate prompts in isolation.
+
+- [2026-07-24] CRITICAL: Match script time of day — If script says "night" or "evening", prompts MUST be set at NIGHT. Don't default to day. Lighting must match narration.
+
+- [2026-07-24] CRITICAL: Corrections = COMPLETELY NEW ideas — When redoing prompts, never reuse old angles, compositions, or ideas. Fresh camera angles, fresh perspectives, fresh emotional beats every time.
+
+- [2026-07-24] CRITICAL: Use camera/angles.md for creativity — Every scene needs at least ONE creative angle (worm's eye, dutch tilt, through-glass, macro, bird's eye, ground-level tracking, first-person POV, reverse angle, orbital arc). Reference camera/angles.md before every prompt generation.
+
+- [2026-07-24] CRITICAL: Non-locked characters — Describe with "African American man/woman" + clothing/appearance details. Don't use @TAG for characters without reference sheets.
+
+- [2026-07-24] CRITICAL: Locations as tags — Only use @TAG for LOCKED locations (@MECKLENBURG, @DEATHROW, @GATEHOUSE). Don't use @TAG for generic locations like @VERMONT, @WARRENTON, @COMMUNITY.
+
+- [2026-07-24] FORMAT: Locked assets outside prison — When using locked characters in non-prison scenes, describe new outfit + reference facial features. Format: "@TAG same facial features as locked reference, now wearing [new outfit]".
+
 ## MiMo Architecture (Laptop)
 - Config: .config/mimocode/mimocode.json → "plugin": ["./plugins/local-workspace.js"]
 - Plugin: .config/mimocode/plugins/local-workspace.js (ESM export default)
