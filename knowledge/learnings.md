@@ -115,3 +115,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 - [2026-07-25] CRITICAL: NEVER touch the VST file. Director gives it already split into 10-second chunks. Just USE it as-is. Do NOT modify, re-split, re-parse, or touch it in any way. No separate chunks file needed. VST IS the chunks. This is permanent.
 
 - [2026-07-25] CRITICAL: ONLY use Grok Imagine for video generation. We no longer use Kling. Remove all Kling references from workflow. Grok = 10 seconds always.
+
+- [2026-07-25] CRITICAL: ALWAYS TAG LOCKED ASSETS. In start frame prompt — tag if asset appears. In video prompt — tag at beginning of prompt AND at start of shot line. Example: "Use @image1 as visual anchor for start frame @AIVAR_REHE." and "SHOT 1/1 @AIVAR_REHE same character walking..." NEVER FORGET THIS.
