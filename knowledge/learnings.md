@@ -109,3 +109,7 @@ Create a professional location reference sheet. Clean neutral background, techni
 - [2026-07-25] INSIGHT: ALWAYS paste the final ElevenLabs script (Phase 0.4) directly in chat for the director after creating it. Never just save to file. Director needs it copy-paste ready immediately. This is a permanent workflow rule.
 
 - [2026-07-25] INSIGHT: Pipeline order is: ElevenLabs → Suno Prompt → [WAIT FOR .vst] → Chunks. Suno prompt comes AFTER ElevenLabs but BEFORE the VST timing file. Never skip Suno prompt.
+
+- [2026-07-25] INSIGHT: Suno prompt for Danske Bank — user said first version sounded like "someone crashing something and annoying high hertz noise at start with nothing special." Avoid: high-pitched tones, chaotic crashes, glitchy interference at opening. Keep it clean, cinematic, slow-building tension.
+
+- [2026-07-25] CRITICAL: NEVER touch the VST file. Director gives it already split into 10-second chunks. Just USE it as-is. Do NOT modify, re-split, re-parse, or touch it in any way. This is permanent.
