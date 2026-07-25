@@ -107,3 +107,5 @@ Create a professional location reference sheet. Clean neutral background, techni
    10. Would you freeze this frame and see implied motion? If yes = correct.
 
 - [2026-07-25] INSIGHT: ALWAYS paste the final ElevenLabs script (Phase 0.4) directly in chat for the director after creating it. Never just save to file. Director needs it copy-paste ready immediately. This is a permanent workflow rule.
+
+- [2026-07-25] INSIGHT: Pipeline order is: ElevenLabs → Suno Prompt → [WAIT FOR .vst] → Chunks. Suno prompt comes AFTER ElevenLabs but BEFORE the VST timing file. Never skip Suno prompt.

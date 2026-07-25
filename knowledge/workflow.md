@@ -108,10 +108,11 @@ Phase [X] and invalidate downstream artifacts."
 Changing a phase invalidates every downstream phase.
 
 ```
-Edit Phase 0     → Delete validity of 0.1–0.4
-Edit Phase 0.1   → Delete validity of 0.2–0.4
-Edit Phase 0.2   → Delete validity of 0.3–0.4
-Edit Phase 0.3   → Delete validity of 0.4
+Edit Phase 0     → Delete validity of 0.1–0.45
+Edit Phase 0.1   → Delete validity of 0.2–0.45
+Edit Phase 0.2   → Delete validity of 0.3–0.45
+Edit Phase 0.3   → Delete validity of 0.4–0.45
+Edit Phase 0.4   → Delete validity of 0.45
 Edit Phase 0.5   → Delete validity of 0.6–0.75
 Edit Phase 0.6   → Delete validity of 0.75
 ```
@@ -253,6 +254,22 @@ Pass 5 — Delete low-impact context
 - Change structure
 - Reopen previous phases
 **Exit condition:** ElevenLabs-ready script produced
+
+---
+
+### Phase 0.45 — Suno Music Prompt
+
+**Input:** phase-0.4-elevenlabs.md
+**Output:** phase-0.45-suno.md
+**Allowed:**
+- Generate Suno music prompt based on episode tone
+- Use `knowledge/suno-prompt-template.md` as reference
+- Match energy arc to episode structure
+**Forbidden:**
+- Exceed 200 words in prompt
+- Skip this phase
+- Modify ElevenLabs script
+**Exit condition:** Suno music prompt produced
 
 ---
 

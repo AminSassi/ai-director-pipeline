@@ -45,7 +45,7 @@ ai-director-pipeline/
 ## Pipeline Overview
 
 ```
-Raw Script → Expand (1600-1900w) → Insert CTAs → Verify Facts → Compress (1400w) → ElevenLabs → [WAIT FOR .vst] → Chunks → Routing → Prompts
+Raw Script → Expand (1600-1900w) → Insert CTAs → Verify Facts → Compress (1400w) → ElevenLabs → Suno Prompt → [WAIT FOR .vst] → Chunks → Routing → Prompts
 ```
 
 ### Phase 0 — Script Expansion
@@ -62,6 +62,9 @@ Compress to 1,400 ±25 words. Deterministic editing, not rewriting.
 
 ### Phase 0.4 — Final VO
 Format for ElevenLabs copy-paste. Ready for narration.
+
+### Phase 0.45 — Suno Music Prompt
+Generate Suno music prompt based on episode tone. Max 200 words.
 
 ### Phase 0.5 — Import Timing File
 Load .vst narration timing. Do not chunk before this.

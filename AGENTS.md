@@ -49,7 +49,7 @@ Additional modules loaded only when needed:
 ## Pipeline Workflow
 
 ```
-Raw Script → Expand (1600-1900w) → Insert CTAs → Verify Facts → Compress (1400w) → ElevenLabs (1400 words VO only) → [WAIT FOR .vst] → Chunks → Routing → Prompts
+Raw Script → Expand (1600-1900w) → Insert CTAs → Verify Facts → Compress (1400w) → ElevenLabs (1400 words VO only) → Suno Music Prompt → [WAIT FOR .vst] → Chunks → Routing → Prompts
 ```
 
 ## Pipeline Rules — NEVER VIOLATE
@@ -103,10 +103,11 @@ When the director corrects you or shares a discovery:
 Changing a phase invalidates every downstream phase:
 
 ```
-Edit Phase 0     → Delete validity of 0.1–0.4
-Edit Phase 0.1   → Delete validity of 0.2–0.4
-Edit Phase 0.2   → Delete validity of 0.3–0.4
-Edit Phase 0.3   → Delete validity of 0.4
+Edit Phase 0     → Delete validity of 0.1–0.45
+Edit Phase 0.1   → Delete validity of 0.2–0.45
+Edit Phase 0.2   → Delete validity of 0.3–0.45
+Edit Phase 0.3   → Delete validity of 0.4–0.45
+Edit Phase 0.4   → Delete validity of 0.45
 Edit Phase 0.5   → Delete validity of 0.6–0.75
 Edit Phase 0.6   → Delete validity of 0.75
 ```
