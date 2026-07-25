@@ -30,3 +30,9 @@ Hard-learned rules from live production. Never skip these.
 - Kling: negative prompt goes in SEPARATE field in UI
 - NEVER --no flags inside Kling prompt body → causes "Something went wrong"
 - --no flags are Grok syntax only
+
+## Broken Rule #7 — Character descriptions in shots
+- When character is ALONE in shot → say "Clanton alone walking" etc.
+- When with UNKNOWN people (not from tags) → say "with other inmates" or "with other people"
+- When with LOCKED characters from tags → say "Clanton with James" or "with Briley brothers"
+- Makes AI generator understand who appears in shot
