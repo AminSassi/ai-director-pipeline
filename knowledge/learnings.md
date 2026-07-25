@@ -117,3 +117,13 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 - [2026-07-25] CRITICAL: ONLY use Grok Imagine for video generation. We no longer use Kling. Remove all Kling references from workflow. Grok = 10 seconds always.
 
 - [2026-07-25] CRITICAL: ALWAYS TAG LOCKED ASSETS. In start frame prompt — tag if asset appears. In video prompt — tag at beginning of prompt AND at start of shot line. Example: "Use @image1 as visual anchor for start frame @AIVAR_REHE." and "SHOT 1/1 @AIVAR_REHE same character walking..." NEVER FORGET THIS.
+
+- [2026-07-25] CRITICAL: ALWAYS 4 SHOTS PER CHUNK. Every 10-second chunk gets 4 shots in the video prompt. Format: SHOT 1/4, SHOT 2/4, SHOT 3/4, SHOT 4/Each shot = 1 camera angle + 1 action. NEVER do less than 4 shots.
+
+- [2026-07-25] CRITICAL: TAG FORMAT RULES:
+  1. Start frame: "@TAG description of scene..."
+  2. Video prompt header: "Use @image1 as visual anchor for start frame @TAG."
+  3. Each shot line: "SHOT X/4 @TAG description..."
+  4. Tag goes FIRST in every line where asset appears
+  5. Never put tag in middle of description
+  6. Even if asset only appears in shot 4, still tag in prompt header
