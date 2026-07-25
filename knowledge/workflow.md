@@ -346,7 +346,6 @@ Pass 5 — Delete low-impact context
 3. Clip math
 4. Scene map
 5. Energy map
-6. Suno music prompt
 
 ## Phase 2 — Generation
 1. START FRAME → Flow Nano Banana 2 ONLY
