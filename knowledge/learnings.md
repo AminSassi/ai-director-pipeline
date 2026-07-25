@@ -104,4 +104,6 @@ Create a professional location reference sheet. Clean neutral background, techni
   7. Does each shot have Subject & Action, Camera & Motion, Lens & Light, Texture & Mood?
   8. Are characters caught mid-action (not static)?
   9. Is scene composition interesting (behind objects, in crowd, environmental activity)?
-  10. Would you freeze this frame and see implied motion? If yes = correct.
+   10. Would you freeze this frame and see implied motion? If yes = correct.
+
+- [2026-07-25] INSIGHT: ALWAYS paste the final ElevenLabs script (Phase 0.4) directly in chat for the director after creating it. Never just save to file. Director needs it copy-paste ready immediately. This is a permanent workflow rule.
