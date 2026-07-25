@@ -348,8 +348,7 @@ Pass 5 — Delete low-impact context
 
 ## Phase 2 — Generation
 1. START FRAME → Flow Nano Banana 2 ONLY
-2. GROK VIDEO → Grok Imagine — always 10 seconds
-3. KLING VIDEO → Kling VIDEO 3.0 — always 15 seconds
+2. GROK VIDEO → Grok Imagine — always 10 seconds — ALWAYS USE THIS
 
 ## AI-Corrects-AI
 Every prompt goes through self-review before presenting.

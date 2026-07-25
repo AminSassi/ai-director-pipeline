@@ -113,3 +113,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 - [2026-07-25] INSIGHT: Suno prompt for Danske Bank — user said first version sounded like "someone crashing something and annoying high hertz noise at start with nothing special." Avoid: high-pitched tones, chaotic crashes, glitchy interference at opening. Keep it clean, cinematic, slow-building tension.
 
 - [2026-07-25] CRITICAL: NEVER touch the VST file. Director gives it already split into 10-second chunks. Just USE it as-is. Do NOT modify, re-split, re-parse, or touch it in any way. No separate chunks file needed. VST IS the chunks. This is permanent.
+
+- [2026-07-25] CRITICAL: ONLY use Grok Imagine for video generation. We no longer use Kling. Remove all Kling references from workflow. Grok = 10 seconds always.

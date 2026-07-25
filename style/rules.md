@@ -27,4 +27,3 @@ Each 10-second clip prompt should include:
 - Always specify camera movement for video clips
 - Include "cinematic" or "film" in every prompt
 - Specify aspect ratio explicitly
-- Kling: negative prompts go in SEPARATE field (never --no flags inside prompt body)

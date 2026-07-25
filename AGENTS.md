@@ -93,9 +93,8 @@ When the director corrects you or shares a discovery:
 
 ## Tools Reference
 
-- **Grok Imagine**: 10-second video generation clips
+- **Grok Imagine**: 10-second video generation clips — ALWAYS USE THIS
 - **Nano Banana 2**: Image generation (start frames, reference sheets)
-- **Kling VIDEO 3.0**: 15-second video generation clips
 - **Seedance 2.0**: Action-heavy scenes
 
 ## Artifact Invalidation
