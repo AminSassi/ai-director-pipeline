@@ -1,6 +1,32 @@
 # Additional Production Rules
 
-From director's live production experience. These supplement the rules in `AGENTS.md`.
+Production workflow and prompt format rules. Supplements critical-rules.md.
+
+---
+
+## 4-Layer Prompt Build
+
+Every shot MUST include these 4 layers:
+
+1. **Subject & Action** — what/who is happening
+2. **Camera & Motion** — angle, movement, handheld/dolly/pan
+3. **Lens & Light** — 35-50mm, golden hour, practical glow, haze
+4. **Texture & Mood** — film grain, halation, soft grade, shoulder rig look
+
+### The Problem
+- Locked-off tripod = looks like a render
+- Real cameras "breathe"
+
+### The Toolkit
+- Motion: handheld shake, slow sway, push-in
+- Lens: 35–50mm, shallow depth of field
+- Light: golden hour, practical glow, haze
+- Texture: film grain, halation, soft grade
+
+### Technique
+- "Shoulder Rig" look (handheld gentle drift) adds weight and human intent
+
+---
 
 ## Short VO Integration
 - If VO is short, integrate it into another prompt. Don't create a single frame/prompt for it.
@@ -13,7 +39,7 @@ From director's live production experience. These supplement the rules in `AGENT
 
 ## Visual Variety
 - Change visual setting occasionally even if current location fits the VO
-- Never repeat camera movements, body movements, scenes, or locations (except essential story locations like a house)
+- Never repeat camera movements, body movements, scenes, or locations (except essential story locations)
 - Always introduce new angles and movements to catch viewer attention
 
 ## Emotional Focus
@@ -32,25 +58,6 @@ From director's live production experience. These supplement the rules in `AGENT
 ## Pacing Mix
 - Balance slower documentary scenes (zooming on person) with exciting moments
 - Viewer stays engaged, story doesn't feel like random objects
-
-## Cinematic Realism (4-Layer Prompt Build)
-1. Subject & Action
-2. Camera & Motion
-3. Lens & Light
-4. Texture & Mood
-
-### The Problem
-- Locked-off tripod = looks like a render
-- Real cameras "breathe"
-
-### The Toolkit
-- Motion: handheld shake, slow sway, push-in
-- Lens: 35–50mm, shallow depth of field
-- Light: golden hour, practical glow, haze
-- Texture: film grain, halation, soft grade
-
-### Technique
-- "Shoulder Rig" look (handheld gentle drift) adds weight and human intent
 
 ## Timing Calculation
 - 27 words or 145 characters (including spaces) = 10 seconds of video
@@ -71,7 +78,7 @@ From director's live production experience. These supplement the rules in `AGENT
 - Do not generate anything until script is provided
 - Ensure every word in script is visually represented
 
-## Character/Location Presentation
+## Character/Location Presentation (Reference Sheets)
 - Characters: front angle, head to toe, white background
 - Locations: angle where everything is visible
 
@@ -89,3 +96,16 @@ From director's live production experience. These supplement the rules in `AGENT
 - Chain: FIRST FRAME → video prompt 1 → LAST FRAME → LAST FRAME becomes START FRAME → video prompt 2 → LAST FRAME
 - Creates seamless drone/continuous shot effect
 - Both start frame and end frame needed for each clip
+
+## Documentary Archival Style
+- Use newspapers, headlines, event-related graphics when needed
+- Don't overdo — use sparingly for key moments only
+- NEVER make papers move or float
+- Pictures inside graphics stay STATIC (like video stills)
+- Ken Burns effect (slow zoom/pan) on static images is fine
+
+## Subscribe/CTA Rules
+- NEVER show people talking, saying bye, or asking to subscribe
+- Use: logos, graphic animations, phone screens showing channel, comment sections scrolling, real devices
+- Visual graphics only for CTAs, not people speaking
+- Use @channellogo tag for channel logo in first frame when CTA appears
