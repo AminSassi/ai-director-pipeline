@@ -51,7 +51,7 @@ Professional character reference sheet, technical model turnaround style, clean 
 ### LOCATION REFERENCE SHEET TEMPLATE
 ```
 @ [LOCATION NAME]
-Create a professional location reference sheet. Clean neutral background, technical reference style. Arrange into a grid of six views: top row — wide establishing shot of [LOCATION 1], medium shot of [LOCATION 2], close detail of [LOCATION 3]. Bottom row — aerial view of [LOCATION 4], [LOCATION 5], [LOCATION 6]. Maintain consistent location identity across all panels — [LOCATION IDENTITY DESCRIPTION]. Lighting consistent across panels. Sharp details, photorealistic, Canon SL3, 17-85mm lens. No text overlays. Landscape 16:9 -no white background or white bars
+Professional location reference sheet, full-frame photographs, no borders, no margins. Arrange into a grid of six views filling entire image: top row — wide establishing shot of [LOCATION 1], medium shot of [LOCATION 2], close detail of [LOCATION 3]. Bottom row — aerial view of [LOCATION 4], [LOCATION 5], [LOCATION 6]. Each photo fills its panel completely, no white space, no grey background. [LOCATION IDENTITY DESCRIPTION]. Natural lighting, photorealistic, Canon SL3, 17-85mm lens. No text overlays. Landscape 16:9
 ```
 
 - [2026-06-25] INSIGHT: Video prompts use SHOT 1/2/3/4 format. Each shot = 1 camera angle + 1 action. No more than 4 shots per 10-second clip.
