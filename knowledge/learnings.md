@@ -187,6 +187,8 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-24] FORMAT: Video prompts — tags ONLY at beginning + in "Use @image1 as visual anchor" line. Do NOT add extra tag line before anchor line.
 
+- [2026-07-24] CRITICAL: Character descriptions in shots — When character is ALONE, say "Clanton alone walking" etc. When with UNKNOWN people, say "with other inmates" or "with other people". When with LOCKED characters, say "Clanton with James" or "with Briley brothers". Makes AI generator understand who appears in shot.
+
 ## MiMo Architecture (Laptop)
 - Config: .config/mimocode/mimocode.json → "plugin": ["./plugins/local-workspace.js"]
 - Plugin: .config/mimocode/plugins/local-workspace.js (ESM export default)
