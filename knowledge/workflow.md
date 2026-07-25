@@ -343,9 +343,8 @@ Pass 5 — Delete low-impact context
 ## Phase 1 — Pre-Production
 1. Full asset scan (every recurring asset, named AND anonymous)
 2. Build ALL boards upfront in one block
-3. Clip math
-4. Scene map
-5. Energy map
+3. Scene map
+4. Energy map
 
 ## Phase 2 — Generation
 1. START FRAME → Flow Nano Banana 2 ONLY
