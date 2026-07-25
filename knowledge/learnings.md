@@ -189,6 +189,8 @@ Create a professional location reference sheet. Clean neutral background, techni
 
 - [2026-07-24] CRITICAL: Character descriptions in shots — When character is ALONE, say "Clanton alone walking" etc. When with UNKNOWN people, say "with other inmates" or "with other people". When with LOCKED characters, say "Clanton with James" or "with Briley brothers". Makes AI generator understand who appears in shot.
 
+- [2026-07-24] CRITICAL: AVOID AI SLOP in video prompts — Never use generic descriptions. Each shot needs: specific visual details, lighting description, atmosphere/mood, texture (grain, halation), camera movement, emotional beat. Bad: "Wide shot FBI agents alone surrounding garage". Good: "Wide shot FBI tactical team surrounding garage at night, spotlights cutting through fog, tense atmosphere, harsh shadows on concrete walls, 35mm lens, deep focus, thriller mood, film grain".
+
 ## MiMo Architecture (Laptop)
 - Config: .config/mimocode/mimocode.json → "plugin": ["./plugins/local-workspace.js"]
 - Plugin: .config/mimocode/plugins/local-workspace.js (ESM export default)
