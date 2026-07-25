@@ -49,15 +49,15 @@ Additional modules loaded only when needed:
 ## Pipeline Workflow
 
 ```
-Raw Script → Expand (1600-1900w) → Insert CTAs → Verify Facts → Compress (1400w) → ElevenLabs (1400 words VO only) → Suno Music Prompt → [WAIT FOR .vst] → Chunks → Routing → Prompts
+Raw Script → Expand (1600-1900w) → Insert CTAs → Verify Facts → Compress (1400w) → ElevenLabs (1400 words VO only) → Suno Music Prompt → [WAIT FOR .vst] → Routing → Prompts
 ```
 
 ## Pipeline Rules — NEVER VIOLATE
 
-1. **Never chunk until timing file (.vst) exists.** Chunk boundaries come from narration timing, not estimation.
-2. **Never guess timing.** Do not invent 10-second chunks. Do not split by paragraph.
-3. **Timing is source of truth.** Once .vst is loaded, align narration with timestamps exactly.
-4. **Routing happens after chunking.** Routing analyzes synchronized chunks only.
+1. **Never chunk until timing file (.vst) exists.** VST is always pre-split into 10-second chunks by director. Use as-is. Never touch, reformat, or re-split.
+2. **Never guess timing.** Do not invent chunks. Do not split by paragraph.
+3. **Timing is source of truth.** VST chunks are final. Never modify.
+4. **Routing happens after VST received.** Routing analyzes the pre-split chunks only.
 5. **Prompt generation is final stage.** Forbidden until: script expanded, narration approved, timing loaded, chunks created, routing completed.
 6. **Hard stop if input missing.** Do not continue automatically. Do not fabricate data.
 7. **Human approval gates.** Explicit approval required before each phase.
@@ -108,8 +108,6 @@ Edit Phase 0.1   → Delete validity of 0.2–0.45
 Edit Phase 0.2   → Delete validity of 0.3–0.45
 Edit Phase 0.3   → Delete validity of 0.4–0.45
 Edit Phase 0.4   → Delete validity of 0.45
-Edit Phase 0.5   → Delete validity of 0.6–0.75
-Edit Phase 0.6   → Delete validity of 0.75
 ```
 
 Never silently continue using stale artifacts.

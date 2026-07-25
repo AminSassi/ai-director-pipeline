@@ -113,8 +113,6 @@ Edit Phase 0.1   → Delete validity of 0.2–0.45
 Edit Phase 0.2   → Delete validity of 0.3–0.45
 Edit Phase 0.3   → Delete validity of 0.4–0.45
 Edit Phase 0.4   → Delete validity of 0.45
-Edit Phase 0.5   → Delete validity of 0.6–0.75
-Edit Phase 0.6   → Delete validity of 0.75
 ```
 
 The agent must never silently continue using stale artifacts.
@@ -273,34 +271,19 @@ Pass 5 — Delete low-impact context
 
 ---
 
-### Phase 0.5 — Import Timing File
+### Phase 0.5 — Import VST
 
-**Input:** .vst file from user
-**Output:** phase-0.5-timing.md
+**Input:** .vst file from director (already split into 10-second chunks)
+**Output:** None — use VST as-is
 **Allowed:**
-- Load timing data
-- Parse timestamps
+- Read VST chunks
+- Reference chunk timestamps
 **Forbidden:**
+- Touch, reformat, or re-split the VST
+- Create a separate chunks file
 - Estimate durations
 - Guess timing
-- Modify script
-**Exit condition:** Timing file loaded and parsed
-
----
-
-### Phase 0.6 — Synchronized Chunking
-
-**Input:** phase-0.5-timing.md + phase-0.4-elevenlabs.md
-**Output:** phase-0.6-chunks.md
-**Allowed:**
-- Split narration using actual timing
-- Create synchronized chunks
-**Forbidden:**
-- Estimate durations
-- Split by paragraph
-- Split by sentence count
-- Rewrite chunk boundaries afterward
-**Exit condition:** Synchronized chunks created from actual timing
+**Exit condition:** VST received, chunks available as-is
 
 ---
 

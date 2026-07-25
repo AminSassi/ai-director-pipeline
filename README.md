@@ -45,7 +45,7 @@ ai-director-pipeline/
 ## Pipeline Overview
 
 ```
-Raw Script → Expand (1600-1900w) → Insert CTAs → Verify Facts → Compress (1400w) → ElevenLabs → Suno Prompt → [WAIT FOR .vst] → Chunks → Routing → Prompts
+Raw Script → Expand (1600-1900w) → Insert CTAs → Verify Facts → Compress (1400w) → ElevenLabs → Suno Prompt → [WAIT FOR .vst] → Routing → Prompts
 ```
 
 ### Phase 0 — Script Expansion
@@ -66,11 +66,8 @@ Format for ElevenLabs copy-paste. Ready for narration.
 ### Phase 0.45 — Suno Music Prompt
 Generate Suno music prompt based on episode tone. Max 200 words.
 
-### Phase 0.5 — Import Timing File
-Load .vst narration timing. Do not chunk before this.
-
-### Phase 0.6 — Synchronized Chunking
-Create chunks from actual timing. Never estimate durations.
+### Phase 0.5 — Import VST
+Director provides .vst file, already split into 10-second chunks. Use as-is. Never touch, reformat, or re-split.
 
 ### Phase 0.75 — Intelligent Scene Routing
 Classify chunks by visual intent. Assign generators.
