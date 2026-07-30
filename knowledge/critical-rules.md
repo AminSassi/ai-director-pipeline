@@ -4,6 +4,22 @@ Hard-learned rules from live production. NEVER VIOLATE. Single source of truth.
 
 ---
 
+## ⚠️ MANDATORY SESSION STARTUP PROTOCOL — EXECUTE BEFORE ANYTHING ELSE
+
+Before generating ANY prompt, you MUST do ALL of the following IN ORDER:
+
+1. Read `critical-rules.md` in full ← you are reading this now
+2. Read `additional-rules.md` in full
+3. Read `learnings.md` in full
+4. Read `session-postmortems.md` to know what mistakes were made before
+5. Open and read the `.vst` timing file provided by the director
+6. Confirm to director: "I have read all repo files. Ready to generate."
+
+**This is not optional. Not skippable. Not replaceable by memory or context summaries.**
+Every session starts with this protocol. Every single time.
+
+---
+
 ## Character Rules
 
 ### Rule #1 — Characters NEVER posed
