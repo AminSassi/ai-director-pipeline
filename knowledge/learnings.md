@@ -127,3 +127,4 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
   4. Tag goes FIRST in every line where asset appears
   5. Never put tag in middle of description
   6. Even if asset only appears in shot 4, still tag in prompt header- [2026-07-26] CRITICAL UI OVERRIDE: User prefers prompts pasted DIRECTLY IN CHAT, not in files. Format exactly like this: Script text in plain text. START FRAME prompt in its own code block. VIDEO PROMPT in its own separate code block. Do NOT put the script text in a code block.
+- [2026-07-26] CRITICAL HALLUCINATION PREVENTION: If a script or file is truncated due to a long conversation, NEVER try to guess, invent, or hallucinate the missing script text based on context. If you do not have the exact script text for the chunks you are currently working on, you MUST stop immediately and ask the user to provide the script again or read it from a saved file.
