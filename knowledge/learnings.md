@@ -126,4 +126,4 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
   3. Each shot line: "SHOT X/4 @TAG description..."
   4. Tag goes FIRST in every line where asset appears
   5. Never put tag in middle of description
-  6. Even if asset only appears in shot 4, still tag in prompt header
+  6. Even if asset only appears in shot 4, still tag in prompt header- [2026-07-26] CRITICAL UI OVERRIDE: User prefers prompts pasted DIRECTLY IN CHAT, not in files. Format exactly like this: Script text in plain text. START FRAME prompt in its own code block. VIDEO PROMPT in its own separate code block. Do NOT put the script text in a code block.
