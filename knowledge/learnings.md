@@ -133,3 +133,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-07-30] INSIGHT: PRE-GENERATION AUDIT CRONJOB. Before outputting any batch of prompts to the director, the AI MUST explicitly print a "Pre-Generation Audit Cronjob" block. The AI must draft the prompts in memory, review them against the Creativity & Beauty rules, CORRECT any clichés or bad angles, and document what it changed in the chat *before* printing the final prompts. A Post-Generation Audit summary must also be printed after the batch.
 
+- [2026-07-31] CRITICAL: NEVER use the generate_image tool. Director wants PROMPTS ONLY — always plain text prompts ready to copy-paste into Grok/Nano Banana. Never auto-generate anything. This is permanent.
+

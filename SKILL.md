@@ -229,6 +229,9 @@ NEVER use rain-soaked streets, silhouettes at windows, or generic detective aest
 
 **Kling is NO LONGER USED. Remove all Kling references.**
 
+**NEVER use the generate_image tool.** Director wants prompts only — plain text ready to copy-paste into Grok/Nano Banana. Never auto-generate anything. Ever.
+
+
 ---
 
 ## LOCKED ASSETS — REFERENCE SYSTEM
