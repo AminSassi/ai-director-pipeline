@@ -1,0 +1,10 @@
+{
+  "name": "ai-director-pipeline",
+  "version": "1.0.0",
+  "description": "AI Director Pipeline for INSOLVENT YouTube channel. Produces cinematic video prompts synced to VST timing chunks for financial documentary episodes.",
+  "author": {
+    "name": "AminSassi"
+  },
+  "repository": "https://github.com/AminSassi/ai-director-pipeline",
+  "license": "MIT"
+}
