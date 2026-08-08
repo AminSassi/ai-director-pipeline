@@ -435,21 +435,19 @@ Rules:
 - After saving to learnings.md or any knowledge file — push immediately
 - Director uses multiple PCs and needs synced repo at all times
 
-### Thumbnail Style — Documentary Collage Aesthetic
-1. Black and white photograph of main subject (person)
-2. Red color accent on clothing or design elements
-3. Bold typography — title in large text
-4. Subtitle/description text below title
-5. Collage elements in background (related imagery)
-6. Red geometric shapes/lines as design overlays
-7. Aged paper/document texture background
-8. Grid patterns, handwritten elements
-9. Circular design elements
-10. Gritty, investigative documentary feel
+### Thumbnail Style — Documentary Collage Aesthetic (MANDATORY RULES)
+Every thumbnail prompt MUST follow the investigative documentary collage formula:
+1. **Mandatory Focal Short Text (Story Keyword)**: Every prompt MUST specify a short, punchy 1–3 word focal keyword/text hook in quotes (e.g., text reading "UNSOLVED", "CANNOT DECODE", "600 YEARS", "UNTRANSLATABLE", "BROKE THE NSA") rendered in bold, heavy graphic typography, distressed stencil font, or high-contrast red/white block letters on a dark banner overlay. NEVER output a thumbnail prompt without an explicit focal text keyword.
+2. **Main Subject**: High-contrast black and white photograph/cutout of main subject (person, investigator, or central artifact) as the crisp primary focal point.
+3. **Vivid Red Accents**: Bold red geometric shapes, red banner strips behind text, red crosshairs, red framing boxes, red arrows, or red forensic classification stamps ("CLASSIFIED", "EVIDENCE", "UNRESOLVED").
+4. **Multi-Layered Investigative Background**: Aged yellowed paper/vellum textures, torn document clippings, cipher/glyph charts, map fragments, and handwritten annotations.
+5. **Graphic Elements**: Clean forensic grid patterns, measurement scales, circular diagram overlays, barcode/serial number accents.
+6. **Gritty Tone & Contrast**: Deep charcoal and sepia shadows, film grain texture, high contrast chiaroscuro lighting, documentary thriller aesthetic.
+7. **Format**: 4K resolution, `--ar 16:9`, with negative parameters to prevent blur and AI distortion.
 
 ### Torn Paper Style
 When user asks for torn paper style:
-Aged paper texture background, black and white photograph style, bold typewriter font, aged sepia and greyscale tones, film grain texture, high contrast shadows, investigative documentary thumbnail style, 4K, --ar 16:9, --no blur --no watermark --no artifacts --no distortion --no photorealism. Photo should look like printed article clipping with white border around image.
+Aged paper texture background, torn paper clipping borders with white edges, black and white photograph style, bold distressed typewriter font with prominent focal keyword in red/white banner, aged sepia and greyscale tones, forensic investigation markings, film grain texture, high contrast shadows, investigative documentary thumbnail style, 4K, --ar 16:9, --no blur --no watermark --no artifacts --no distortion --no 3d render.
 
 ### SRT / Chunking Rule
 - NEVER parse SRT to create chunks — AI is BAD at this
