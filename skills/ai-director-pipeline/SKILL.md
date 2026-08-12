@@ -101,6 +101,7 @@ Cinematic [shot type]. [Full scene description]. [Character details — clothing
 - Tag assets VISIBLE in this start frame image
 - **"Cinematic" must appear in every start frame**
 - **START FRAMES MUST BE FULLY DETAILED — describe everything:** the full environment, every visible element, exact character positioning, clothing wrinkles, lighting direction and color, foreground dirty frame element, background depth, film texture, color grade, emotional atmosphere. The more detail the better. Nano Banana is an image generator — it needs the full picture.
+- **AVOID CHARACTER DISTORTION:** Never make a character too small in the frame (e.g., severe telephoto from far away). AI image generators will distort faces if they occupy too little pixel space. Ensure characters occupy a reasonable portion of the frame so they render cleanly.
 - **VIDEO PROMPTS must be SHORT AND SIMPLE** — under 20 words per shot. Grok hallucinates when overloaded. One clear action, one camera move, one light/texture cue. That's it.
 - **NEVER write a lazy one-line start frame.** A bad start frame = bad video. The start frame IS the anchor for the entire 15-second clip.
 
@@ -530,6 +531,8 @@ Phase 2    → Generate all prompts (Start Frame + Grok Video per chunk)
 ```
 
 **Hard Stop Policy:** If any required input is missing, STOP. Do not guess. Do not fabricate. Ask the director.
+
+**General Rule:** Always commit and push changes to git after modifying any workflow or skill files.
 
 **Phase 0.4 Rule:** After creating ElevenLabs script, paste it DIRECTLY in chat. Never just save to file.
 
