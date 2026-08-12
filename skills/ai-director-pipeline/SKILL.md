@@ -584,7 +584,7 @@ Before writing EACH chunk:
 
 For financial/corporate collapse episodes:
 ```
-Cinematic documentary score, slow-build and pulse-driven with a 60-70 BPM sense of patient menace; opens on a single low digital tone into near-silence, then a precise synthetic pulse, deep bass drones, faint keyboard taps, ticking-clock tension, uneven string rises, explosive metallic percussion, rapid ostinato, then pulls back to sparse cello, distant server hum, and a suspended unresolved note, Sparse solo piano, glitchy interference, archival film-grain texture, analog warmth, wide and heavy mix with cold precision, rock, low, alternative rock, electronic, synthetic, tone, cello, dark ambient, industrial metal, faint, minimal, experimental rock, rapid, glitch, deep, industrial rock, slow, orchestral,[Instrumental]
+Cinematic documentary score, slow-build and pulse-driven with a 60-70 BPM sense of patient menace; opens on a single low digital tone, then a precise synthetic pulse, deep bass drones, faint keyboard taps, ticking-clock tension, uneven string rises, explosive metallic percussion, rapid ostinato, then pulls back to sparse cello, distant server hum, and a suspended unresolved note, Sparse solo piano, glitchy interference, archival film-grain texture, analog warmth, wide and heavy mix with cold precision, rock, low, alternative rock, electronic, synthetic, tone, cello, dark ambient, industrial metal, faint, minimal, experimental rock, rapid, glitch, deep, industrial rock, slow, orchestral,[Instrumental]
 ```
 
 Rules:
@@ -592,6 +592,7 @@ Rules:
 - Never exceed 200 words
 - Match energy arc: Hook (high) → Setup (medium) → Build (tension) → Peak (high) → Resolution (low)
 - Avoid: high-pitched tones, chaotic crashes, glitchy interference at opening
+- **NEVER use the words "silence", "near-silence", "silent", or "quiet" in any Suno prompt** — Suno treats these literally and outputs a track full of dead air gaps
 
 ---
 
