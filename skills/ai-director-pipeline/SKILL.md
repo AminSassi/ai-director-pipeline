@@ -95,12 +95,14 @@ The exact narration text from the .vst timing file for this chunk. Copy-paste fr
 **Block 2 — Start Frame prompt (in code block):**
 ```
 @TAG1 @TAG2
-Cinematic [shot type]. [Scene description]. [Lighting]. --ar 16:9
+Cinematic [shot type]. [Full scene description]. [Character details — clothing, posture, expression, exact positioning]. [Foreground element — dirty frame]. [Lighting — source, direction, color, intensity]. [Lens]. [Atmosphere — film grain, color grade, mood]. --ar 16:9
 ```
 - Tags go FIRST, before any description
 - Tag assets VISIBLE in this start frame image
-- "Cinematic" must appear in every start frame
-- Image prompts can be MORE detailed than video prompts
+- **"Cinematic" must appear in every start frame**
+- **START FRAMES MUST BE FULLY DETAILED — describe everything:** the full environment, every visible element, exact character positioning, clothing wrinkles, lighting direction and color, foreground dirty frame element, background depth, film texture, color grade, emotional atmosphere. The more detail the better. Nano Banana is an image generator — it needs the full picture.
+- **VIDEO PROMPTS must be SHORT AND SIMPLE** — under 20 words per shot. Grok hallucinates when overloaded. One clear action, one camera move, one light/texture cue. That's it.
+- **NEVER write a lazy one-line start frame.** A bad start frame = bad video. The start frame IS the anchor for the entire 15-second clip.
 
 **Block 3 — Video Prompt (in separate code block):**
 ```
