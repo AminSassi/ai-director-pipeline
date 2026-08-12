@@ -488,6 +488,12 @@ Before printing ANY batch of prompts, execute this audit in your head. Print a s
 - [ ] Character Placement: [Confirm each character is narratively present in their scene.]
 - [ ] Sync Check: [Confirm exact .vst narration text used for each chunk.]
 - [ ] .vst Source: [Confirm narration text was copied from .vst file, not from memory.]
+- [ ] Lens Choice: [Confirm correct lens selected per emotion — trapped=21mm, hunted=135mm, monumental=shallow DOF, neutral=35-50mm.]
+- [ ] Camera Elevation: [Confirm elevation matches power state — power=sub-eyeline, vulnerable=supra-eyeline.]
+- [ ] Color Temperature: [Confirm warm/cold/grey matches story phase — pre-collapse/active-collapse/aftermath.]
+- [ ] Emotional Physicality: [Confirm character actions are physical (body drops, grip, freeze) not abstract (looks worried, seems sad).]
+- [ ] Grok Simplicity: [Confirm every shot is under 20 words and follows WHO+CAMERA+LIGHT formula.]
+- [ ] Dirty Frame: [Confirm at least one foreground element grounding the scene in each chunk.]
 ```
 
 After the batch, print:
@@ -497,6 +503,7 @@ After the batch, print:
 - Beauty Verification: [Summary of visual quality]
 - Tag Validation: [Confirm 100% compliant]
 - Sync Check: [Confirm follows .vst]
+- Cinematography Bible: [Confirm lens, elevation, temperature, and physicality rules applied]
 ```
 
 **CRITICAL: The audit is not cosmetic. Do NOT check a box that was not genuinely verified.**
@@ -553,13 +560,19 @@ Before writing EACH chunk:
 1. Read the exact .vst narration text for this chunk number
 2. Understand the narrative moment (what is happening in the story RIGHT NOW)
 3. Identify which locked assets are narratively present
-4. Draft 4 shots mentally
-5. Run the AI Slop Blacklist check
-6. Check all 4 layers are present
-7. Check minimum 3 camera movements
-8. Check at least 1 creative angle
-9. Assign tags to header
-10. Write final output
+4. Choose lens for the emotion (21mm=trapped / 135mm=hunted / shallow DOF=monumental / 35-50mm=neutral)
+5. Choose camera elevation (sub-eyeline=power / supra-eyeline=vulnerable / dead-on=equal)
+6. Set color temperature (warm amber=pre-collapse / cold blue=active collapse / grey=aftermath)
+7. Draft 6 shots mentally — map each shot to the exact words being spoken at that moment
+8. For any character showing emotion — describe it as a physical action, not a feeling
+9. Run the AI Slop Blacklist check
+10. Check all 4 layers are present (Subject+Action, Camera+Motion, Lens+Light, Texture+Mood)
+11. Check minimum 4 different camera movements
+12. Check at least 1 creative angle (worm's eye, god's eye, dutch tilt, Z-axis, silhouette, etc.)
+13. Check every shot is under 20 words — WHO+CAMERA+LIGHT formula
+14. Confirm dirty frame is present (blurred foreground element)
+15. Assign tags to header
+16. Write final output
 
 ---
 
