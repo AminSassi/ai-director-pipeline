@@ -222,6 +222,189 @@ NEVER use rain-soaked streets, silhouettes at windows, or generic detective aest
 
 ---
 
+## CINEMATOGRAPHY & PRODUCTION BIBLE
+
+### THE GROK SIMPLICITY FORMULA — MANDATORY
+
+Every shot follows this 3-part structure. No more, no less.
+
+```
+[WHO + WHAT they do] — [CAMERA + how it moves] — [LIGHT + texture, 3 words]
+```
+
+✅ CORRECT: `Meriwether signs document, slow push-in, cold blue chiaroscuro`
+❌ WRONG: `A distinguished-looking man in a dark expensive suit slowly leans forward over his mahogany desk while writing on a legal document as the camera gradually pushes toward him with dramatic cold blue institutional lighting casting deep shadows across his face`
+
+**Rule:** Under 20 words per shot. Grok reads the first 15 words hardest. Beauty comes from what you *choose*, not how much you write. One perfect detail beats five average ones.
+
+> `"hands slowly flattening on cold marble"` beats `"a man sitting at his desk looking worried about the situation"`
+
+---
+
+### LENS STRATEGY — PICK FOR THE EMOTION
+
+**Wide-Angle Intimacy (21–27mm, placed close to face)**
+Warps geometry slightly. Exaggerates distance to background. Feels trapped, submissive, hyper-close.
+Use for: interrogation, pressure, confrontation, no way out.
+Grok shorthand: `21mm close, face fills frame, geometry distorts`
+
+**Standard Realism (35–50mm)**
+Neutral. Documentary. Present-tense. No emotional lean.
+Use for: establishing shots, neutral exchanges, procedural moments.
+Grok shorthand: `35mm, natural framing`
+
+**Long Lens Isolation (85–135mm+, shot from far away)**
+Compresses background. Stacks depth flat. Strips escape routes. Character feels hunted, monitored, crushed by scale.
+Use for: a character being observed, overwhelmed by forces larger than them.
+Grok shorthand: `135mm from distance, compressed depth, hunted scale`
+
+**Shallow Large Format (any lens + razor-thin DOF)**
+Eyes in razor-sharp focus. Background melts to painterly blur. Scale stays epic while isolating the face.
+Use for: key emotional reveals, peak moments — intimate but monumental.
+Grok shorthand: `shallow DOF, eyes sharp, background painterly blur`
+
+---
+
+### CAMERA ELEVATION — POWER & VULNERABILITY
+
+**Sub-Eyeline (2–3 inches below, subtle upward tilt)**
+Not a cartoon low angle — a small shift. Reads as authority, danger, control. Character still holds power.
+Use for: moments where power is still intact but about to transfer.
+Grok shorthand: `camera slightly below eyeline, subtle upward tilt`
+
+**Supra-Eyeline (slightly above, tilted down)**
+Shrinks the subject. Exposes the crown of the head. Reads as exposed, helpless, losing control.
+Use for: collapse moments, aftermath, loss of agency.
+Grok shorthand: `camera above eyeline, tilted down, subject shrinks in frame`
+
+**Dead-On Eyeline**
+Equality. Confrontation. Even power.
+Use for: two-person standoffs, equal footing scenes.
+Grok shorthand: `dead-on eyeline, confrontational framing`
+
+---
+
+### CAMERA MOVEMENT — EVERY MOVE MUST MEAN SOMETHING
+
+If you cannot say WHY the camera moves in that direction — do not move it.
+
+**Unmotivated Inward Creep**
+Subject still. Nothing external happening. Camera slowly pushes in anyway.
+Brain reads: internal shift. A lie forming. A realization arriving. A threat approaching.
+Use for: the exact beat where something changes inside a character.
+Grok shorthand: `slow push-in, subject still, no external trigger`
+
+**Observer Bias / Delayed Reaction**
+Camera reacts a beat late to the subject's motion — like a documentary crew catching up, not predicting.
+Removes polished-movie feel. Reads as volatile and real.
+Use for: INSOLVENT's documentary energy throughout.
+Grok shorthand: `handheld, delayed pan, documentary catch-up feel`
+
+**Static Lock**
+Camera locked. No movement whatsoever. Subject may exit frame. Camera stays on the empty space.
+Reads as: clinical. Institutional. The world does not care this person just left.
+Use for: Federal Reserve scenes, bureaucratic indifference, aftermath of a departure.
+Grok shorthand: `locked frame, static, subject exits, empty frame holds`
+
+---
+
+### COMPOSITION & FRAMING RULES
+
+**Dirty Frame — DEFAULT for every scene**
+Always a blurred foreground element between camera and subject: a shoulder, hair, a glass, an object edge.
+Kills the cheap studio look. Grounds the scene physically. Adds depth.
+Grok shorthand: `dirty frame, blurred foreground object, subject beyond`
+
+**Short-Sighting (Negative Space Anxiety)**
+Subject faces the NEAR edge of frame instead of the open space. Back of head exposed to void.
+Reads as: paranoia, being watched, backed into a corner.
+Use for: pre-collapse tension, moments a character suspects something is wrong.
+Grok shorthand: `subject faces near frame edge, negative space behind`
+
+**God's Eye Geometry (true 90° overhead)**
+Camera directly above. Subjects become pieces on a board. Viewer detaches from empathy.
+Reserved strictly for turning points: fate sealed, irreversible consequence, scale of collapse.
+Grok shorthand: `true overhead 90 degrees, subjects as figures on a board, architectural grid`
+
+**Checkered Z-Axis Staging**
+Subjects placed diagonally across depth: foreground-left, midground-right, background-center. Deep focus keeps all sharp.
+One continuous shot carries multiple reactions. Frame reads 3D.
+Grok shorthand: `diagonal depth staging, deep focus, all layers sharp`
+
+**Kill the Fill**
+No fill light on the shadow side. Let it fall to pure black.
+Half face hidden = concealment, moral ambiguity, something unsaid.
+Grok shorthand: `no fill light, shadow side pure black, chiaroscuro`
+
+**Over-the-Shoulder Power Ratio**
+Whoever's shoulder fills more of the foreground = dominant party, regardless of who speaks.
+Reversing which shoulder is closest to camera mid-scene = silent power transfer.
+Grok shorthand: `OTS, [NAME] back fills foreground, dominant framing`
+
+**Silhouette / Backlight Concealment**
+Subject lit only from behind. Face in shadow. Identity withheld.
+Use for: unknown figures, suspects, or a reveal beat when they step into light.
+Grok shorthand: `backlit silhouette, face in shadow, figure against bright source`
+
+---
+
+### COLOR TEMPERATURE CODING — INSOLVENT SCENE GUIDE
+
+Warm/amber = memory, safety, before the fall, intimacy
+Cold/blue = institutional, present-tense threat, emotional distance, active collapse
+Desaturated/grey = aftermath, absence, irreversible loss, empty rooms
+
+**INSOLVENT Temperature Map:**
+- Pre-collapse (setup, character establishment) → `warm amber, wide lenses, characters in control`
+- Active collapse (decisions, crisis, confrontation) → `cold blue-white, telephoto compression`
+- Post-collapse (empty spaces, ruin, silence) → `desaturated grey, static locked frame`
+
+**Motivated Practical Light**
+Light must come from something VISIBLE in the scene — a window, a lamp, a phone screen, a monitor glow.
+No invisible studio sources. The light source itself carries story.
+→ Monitor glow on face at night = isolation and secrecy. No dialogue needed.
+Grok shorthand: `monitor glow on face, practical light only, no studio fill`
+
+---
+
+### CHARACTER EMOTIONAL PHYSICALITY — HOW EMOTIONS LOOK ON SCREEN
+
+Never write "looks worried" or "seems sad." Show the physical action. Grok renders the body, not the feeling.
+
+**Grief / Defeat**
+Shoulders drop on an exhale. One hand presses flat to a surface. Head lowers 2 inches, slow. Eyes look at nothing — middle distance, unfocused.
+Grok shorthand: `shoulders drop on exhale, hand flat on desk, head slowly lowers`
+
+**Controlled Rage**
+Complete stillness while everything else around them moves. Jaw set. One deliberate grip — a pen, a desk edge, a folder. Breath visible, no sound.
+Grok shorthand: `body still, jaw set, one hand grips desk edge deliberately`
+
+**Shock / Realization**
+Motion freezes mid-action — hand stops mid-reach, pen stops mid-stroke. Eyes defocus to middle distance. 1–2 second micro-pause of absolute stillness.
+Grok shorthand: `hand stops mid-reach, eyes unfocus, frozen mid-motion`
+
+**Fear / Anxiety (contained — not frantic)**
+Body contracts inward — shoulders draw in, arms pull closer to torso. Movements become smaller. Hands stay below chest level. Takes up less space in frame.
+Grok shorthand: `body contracted inward, small deliberate movements, hands low`
+
+**Confidence / Power**
+Back to camera while others face forward. Slow deliberate turns, never rushed. Moves toward camera without acknowledgment. Takes up maximum frame space.
+Grok shorthand: `back to camera, slow deliberate turn, fills frame`
+
+**Guilt / Concealment**
+Avoids direct camera facing — prefers profile or back. Fills silence with small unnecessary tasks: adjusts tie, moves objects on a desk, straightens papers.
+Grok shorthand: `face in profile, adjusting tie, small unnecessary motion`
+
+---
+
+### 180° LINE DISCIPLINE
+
+Once you establish which side each subject sits on in a scene — never cross that invisible axis without a clear transition shot.
+Crossing it unintentionally = viewer disoriented for no reason.
+Crossing it intentionally (rare, powerful) = visual signal that everything has flipped. The world is different now. Use once per episode maximum.
+
+---
+
 ## GENERATOR RULES
 
 **Grok Imagine (ONLY video generator used):**
