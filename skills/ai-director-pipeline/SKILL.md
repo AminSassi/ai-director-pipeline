@@ -531,6 +531,8 @@ Phase 2    → Generate all prompts (Start Frame + Grok Video per chunk)
 
 **Phase 0.4 Rule:** After creating ElevenLabs script, paste it DIRECTLY in chat. Never just save to file.
 
+**Phase 0.4 Word Count Rule — MANDATORY:** NEVER state a word count without running an actual command to verify it first. Save the script to a temp file and run a word count command. Do NOT estimate, guess, or calculate manually. If the count is wrong — fix it and recount before pasting. Claiming a false word count is not acceptable.
+
 **Phase 0.4 CTA Rule — CRITICAL:** CTAs are VISUAL ONLY. NEVER write CTA labels, markers, brackets, or any CTA text inside the ElevenLabs script. The director copy-pastes the script directly into ElevenLabs — anything written will be read aloud as voiceover. CTAs have no narration. They are handled entirely in Phase 2 as visual-only chunks with no spoken words.
 
 **Phase 0.5 Rule:** NEVER touch, reformat, re-split, or re-parse the VST file. The director gives it pre-split into 15-second chunks. USE IT EXACTLY AS-IS.
