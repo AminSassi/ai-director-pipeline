@@ -107,6 +107,8 @@ Cinematic [shot type]. [Full scene description]. [Character details — clothing
 - **VIDEO PROMPTS must be SHORT AND SIMPLE** — under 20 words per shot. Grok hallucinates when overloaded. One clear action, one camera move, one light/texture cue. That's it.
 - **AI SLOP PREVENTION (CRITICAL):** Video models (Grok/Kling) turn complex physical interactions into melted AI slop. NEVER prompt hands manipulating complex objects (e.g., "hands violently yanking cables", "fingers typing specific keys"). Keep human motion simple (walking, turning, staring). 
 - **NO METAPHORICAL PHYSICS:** Do not prompt things "shattering," "melting," or "glitching into blackness." Keep physical actions literal and basic.
+- **UI MACROS MUST BE STATIC:** When prompting for extreme close-ups of digital UI (buttons, text, screens), ALWAYS use "Static locked frame" for the camera move. AI video models distort UI elements into slop if you try to pan or zoom into them.
+- **NO TEXT TRANSFORMATIONS:** Do not ask the AI to change text or UI colors mid-shot (e.g., "red Access Denied turns green"). It will melt the text. Keep UI states static or use simple binary actions like "cursor blinking".
 - **NO UNANCHORED ELEMENTS & ENVIRONMENTS:** Do not introduce new objects, people, or entirely new environments in the video prompt that were not explicitly established in the start frame. If the anchor image is a macro close-up, do NOT ask for a wide shot of a room in the video prompt. If you need a specific environment, tag it (like @mokroom) and establish it in the start frame.
 - **NEVER write a lazy one-line start frame.** A bad start frame = bad video. The start frame IS the anchor for the entire 15-second clip.
 
