@@ -105,6 +105,9 @@ Cinematic [shot type]. [Full scene description]. [Character details — clothing
 - **BACKGROUND HALLUCINATION PREVENTION:** AI generators love to duplicate objects (especially monitors in hacker scenes). You MUST explicitly describe the background behind the character to prevent this (e.g., "The wall behind him is plain drywall with a poster, absolutely no monitors behind him"). Explicitly state the absence of duplicated items.
 - **AVOID CHARACTER DISTORTION:** Never make a character too small in the frame (e.g., severe telephoto from far away). AI image generators will distort faces if they occupy too little pixel space. Ensure characters occupy a reasonable portion of the frame so they render cleanly.
 - **VIDEO PROMPTS must be SHORT AND SIMPLE** — under 20 words per shot. Grok hallucinates when overloaded. One clear action, one camera move, one light/texture cue. That's it.
+- **AI SLOP PREVENTION (CRITICAL):** Video models (Grok/Kling) turn complex physical interactions into melted AI slop. NEVER prompt hands manipulating complex objects (e.g., "hands violently yanking cables", "fingers typing specific keys"). Keep human motion simple (walking, turning, staring). 
+- **NO METAPHORICAL PHYSICS:** Do not prompt things "shattering," "melting," or "glitching into blackness." Keep physical actions literal and basic.
+- **NO UNANCHORED ELEMENTS:** Do not introduce new moving objects or people in the video prompt that were not explicitly established in the start frame (e.g., don't add flashlights sweeping if they aren't in the anchor image).
 - **NEVER write a lazy one-line start frame.** A bad start frame = bad video. The start frame IS the anchor for the entire 15-second clip.
 
 **Block 3 — Video Prompt (in separate code block):**
