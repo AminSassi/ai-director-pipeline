@@ -171,6 +171,9 @@ These techniques live in the edit (Premiere), not inside a single AI generation.
 
 ## SHOT RULES
 
+### Rule: LITERAL SYNC (THE MOST IMPORTANT RULE OF ALL TIME)
+The Voice Over MUST be perfectly synced with the video shots. EVERY WORD in the Voice Over should have a direct visual representation in the video so the viewer enjoys it and knows the edit was complex. Never rely on loose metaphor if a literal translation of the VO exists.
+
 ### Rule: Always 6 shots per chunk
 Every 15-second chunk gets exactly 6 shots. Never 5, never 4. 15 seconds = 6 shots, each covering ~2.5 seconds of narration.
 
