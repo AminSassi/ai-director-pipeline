@@ -171,8 +171,18 @@ These techniques live in the edit (Premiere), not inside a single AI generation.
 
 ## SHOT RULES
 
-### Rule: LITERAL SYNC (THE MOST IMPORTANT RULE OF ALL TIME)
-The Voice Over MUST be perfectly synced with the video shots. EVERY WORD in the Voice Over should have a direct visual representation in the video so the viewer enjoys it and knows the edit was complex. Never rely on loose metaphor if a literal translation of the VO exists.
+### Rule: SUBTEXT EXTRACTION (NO CAPTIONS)
+When the script says a character is doing something or feeling something, DO NOT write a literal visual caption of the line (e.g., if line is "felt trapped", do NOT write "a man looking trapped"). A director never illustrates the sentence — they find the physical detail or camera choice that carries the feeling.
+
+Before writing any prompt for a VST line, you must silently answer four questions first:
+1. What is literally stated in this line? (the surface text)
+2. What is actually happening to this character underneath it — the real emotional or narrative truth?
+3. What single physical action, object, or environmental detail would show that truth WITHOUT restating the words?
+4. Which camera/lens/blocking technique from the reference library amplifies that choice?
+
+Hard rule: If the image you're about to write directly restates the narration, that prompt is rejected. Find the physical tell instead — hands, environment, camera behavior — never the word itself. One directorial choice per shot. Don't stack details; pick the single strongest physical/visual choice and commit.
+
+**Silent Test:** If someone saw this image with no audio, would they feel the emotional truth of the moment, or would they just see a person doing the literal thing the line describes? If it's the second, it failed.
 
 ### Rule: Always 6 shots per chunk
 Every 15-second chunk gets exactly 6 shots. Never 5, never 4. 15 seconds = 6 shots, each covering ~2.5 seconds of narration.
@@ -534,6 +544,7 @@ Before printing ANY batch of prompts, execute this audit in your head. Print a s
 - [ ] Emotional Physicality: [Confirm character actions are physical (body drops, grip, freeze) not abstract (looks worried, seems sad).]
 - [ ] Grok Simplicity: [Confirm every shot is under 20 words and follows WHO+CAMERA+LIGHT formula.]
 - [ ] Dirty Frame: [Confirm at least one foreground element grounding the scene in each chunk.]
+- [ ] On-the-Nose Check: [For every shot, ask: does this image just restate what the narration says in visual form? If yes, flag and rewrite using subtext, not text.]
 ```
 
 After the batch, print:
