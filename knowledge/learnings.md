@@ -98,7 +98,7 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
   1. Are characters MID-ACTION (never posed)?
   2. Is there at least ONE creative angle?
   3. Are there at least 3 different camera movements across the 4 shots?
-  4. Is every word of narration visually represented?
+  4. Is every beat of narration covered by a shot, AND does each shot use a directorial/physical choice rather than restating the line?
   5. Are scenes ALIVE with action (not camera wandering)?
   6. Is there visual variety (no repeated angles/movements)?
   7. Does each shot have Subject & Action, Camera & Motion, Lens & Light, Texture & Mood?
@@ -118,7 +118,7 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-07-25] CRITICAL: ALWAYS TAG LOCKED ASSETS. In start frame prompt — tag if asset appears. In video prompt — tag at beginning of prompt AND at start of shot line. Example: "Use @image1 as visual anchor for start frame @AIVAR_REHE." and "SHOT 1/1 @AIVAR_REHE same character walking..." NEVER FORGET THIS.
 
-- [2026-07-25] CRITICAL: ALWAYS 4 SHOTS PER CHUNK. Every 10-second chunk gets 4 shots in the video prompt. Format: SHOT 1/4, SHOT 2/4, SHOT 3/4, SHOT 4/Each shot = 1 camera angle + 1 action. NEVER do less than 4 shots.
+- [2026-07-25] CRITICAL: SHOT COUNT RULE. Every 10-second chunk gets 4 shots in the video prompt (Format: SHOT 1/4, SHOT 2/4, SHOT 3/4, SHOT 4/4) UNLESS the chunk is under 13 words, in which case use critical-rules.md Rule #7's word-count scale instead. Each shot = 1 camera angle + 1 action.
 
 - [2026-07-25] CRITICAL: TAG FORMAT RULES:
   1. Start frame: "@TAG description of scene..."

@@ -1,394 +1,241 @@
----
-artifact: phase-1-preproduction.md
-status: approved
-version: 1.0
-source: phase-0.75-routing.md
-created_by: pipeline
-downstream_valid: true
-total_chunks: 58
-total_duration: 538.3s
----
-
-# Phase 1 — Pre-Production
-## 1MDB Episode — INSOLVENT
+# Phase 1 — Pre-Production: Mecklenburg Six
 
 ---
 
-## 1. Asset Scan — Locked Assets Verified
+## LOCKED ASSETS
 
-| Asset | Tag | Type | Status | First Appearance |
-|-------|-----|------|--------|------------------|
-| Jho Low | @JHOLOW | Character | ✓ Locked | Chunk 14 |
-| Najib Razak | @NAJIBRAZAK | Character | ✓ Locked | Chunk 17 |
-| Riza Aziz | @RIZAAZIZ | Character | ✓ Locked | Chunk 16 |
-| 1MDB Offices | @1MDBOFFICES | Location | ✓ Locked | Chunk 8 |
-| Harrow School | @HARROWSCHOOL | Location | ✓ Locked | Chunk 9 |
-| Goldman Sachs | @GOLDMANSACHS | Location | ✓ Locked | Chunk 29 |
-| Red Granite Pictures | @REDGRANITE | Location | ✓ Locked | Chunk 42 |
+### Characters (Sorted by Importance — Most Repeated First)
 
-**Additional Assets Needed:**
+| Tag | Character | Description | Chunks | Appearances |
+|-----|-----------|-------------|--------|-------------|
+| @BRILEY_JAMES | James Briley | African American man, late 20s, prison uniform, calm calculating expression, mastermind | 10,11,12,13,14,15,16,17,22,23,37,38,41,42,47,48 | 16 |
+| @BRILEY_LINWOOD | Linwood Briley | African American man, early 20s, prison uniform, younger brother, follows James | 10,11,12,13,14,15,16,17,22,23,37,38,41,42,47,48 | 16 |
+| @EVANS | Wilbert Lee Evans | African American man, prison uniform, principled stance, stopped massacre | 22,23,24,48,49,50,51 | 7 |
+| @TURNER | Willie Lloyd Turner | African American man, prison uniform, conflicted expression, stopped massacre | 22,23,24,48,49,50,51 | 7 |
+| @CLANTON | Earl Clanton | African American man, muscular, prison uniform, aggressive, overpowered guard | 18,19,28,35,36,47 | 6 |
 
-| Asset | Type | Chunks | Notes |
-|-------|------|--------|-------|
-| Wolf of Wall Street | Film | 1, 43, 44, 52 | Fair use clips |
-| Superyacht | Vehicle | 4, 39 | Stock/recreation |
-| Private Jet | Vehicle | 4 | Stock/recreation |
-| Kuala Lumpur Skyline | Location | 13, 18 | Establishing |
-| Nightclub VIP | Location | 36, 37 | Recreation |
-| Courtroom | Location | 6, 31, 45 | Recreation |
-| Prison | Location | 6, 55 | Recreation |
+### Locations (Sorted by Importance — Most Repeated First)
+
+| Tag | Location | Description | Chunks | Appearances |
+|-----|----------|-------------|--------|-------------|
+| @DEATHROW | Death Row Unit | Interior cell block, long corridor, control panel, metal bars, fluorescent lighting | 1,7,12,13,14,15,16,17,18 | 9 |
+| @MECKLENBURG | Mecklenburg Correctional Center | Maximum security prison, 1970s Virginia, concrete walls, guard towers, rural Boydton | 1,7,8,9,43,52 | 6 |
+| @GATEHOUSE | Prison Gatehouse | Security checkpoint, two gates, guard booth, radio equipment | 25,26,27 | 3 |
+| @WARRENTON | Warrenton, NC | Small town, laundromat, roadblocks, rural setting | 32,35,36 | 3 |
+| @PHILADELPHIA | North Philadelphia Garage | Run-down garage, urban setting, FBI surround | 42 | 1 |
+
+### Objects (Sorted by Importance — Most Repeated First)
+
+| Tag | Object | Description | Chunks | Appearances |
+|-----|--------|-------------|--------|-------------|
+| @FAKE_BOMB | Fake Bomb | Television set wrapped in blanket on gurney, fire extinguishers, fake smoke | 4,25,26,28 | 4 |
+| @PRISON_VAN | Prison Van | Standard corrections transport vehicle, white/gray | 28,29,31,32 | 4 |
+| @KNIVES | Homemade Knives | Scavenged metal scraps, crude shanks, hidden in cells | 13,20,21 | 3 |
+| @UNIFORMS | Guard Uniforms | Stolen corrections officer uniforms, badges, radio | 21,28 | 2 |
+| @CONTROL_PANEL | Control Panel | Electronic panel that opens all cell doors | 19,20 | 2 |
 
 ---
 
-## 2. Clip Math & VO Breakdown
+## CLIP MATH & VO BREAKDOWN
 
-### Shot Count by Word Count (per critical-rules.md)
-
-| Words | Shots | Duration |
-|-------|-------|----------|
-| 2–5 words | 2 shots | ~10s |
-| 6–12 words | 3 shots | ~10s |
-| 13–20 words | 4 shots | ~10s |
-| 20–30+ words | Split into 2 scenes, 4 shots each | ~20s |
+### Word Count to Shot Count (Critical Rule #4)
+- 2–5 words → 2 shots
+- 6–12 words → 3 shots
+- 13–20 words → 4 shots
+- 20–30+ words → SPLIT into 2 scenes, 4 shots each
 
 ### Per-Chunk Breakdown
 
-**CHUNK 1** — 33 words → Split into 2 scenes, 4 shots each
-- Scene 1A: "In 2013, a movie about greed, fraud, and Wall Street excess hit theaters worldwide." (14 words) → 4 shots
-- Scene 1B: "It starred Leonardo DiCaprio. It was nominated for five Oscars. It was called The Wolf of Wall Street." (19 words) → 4 shots
-- **Total: 8 shots**
+| Chunk | Words | Shots | Visual Type |
+|-------|-------|-------|-------------|
+| 1 | 28 | 4 | CINEMATIC |
+| 2 | 19 | 4 | CINEMATIC |
+| 3 | 27 | 4 | CINEMATIC |
+| 4 | 27 | 4 | CINEMATIC |
+| 5 | 26 | 4 | EXPLAINER |
+| 6 | 21 | 4 | CINEMATIC |
+| 7 | 23 | 4 | CINEMATIC |
+| 8 | 27 | 4 | ARCHIVAL |
+| 9 | 20 | 4 | ARCHIVAL |
+| 10 | 17 | 4 | CINEMATIC |
+| 11 | 26 | 4 | ARCHIVAL |
+| 12 | 19 | 4 | CINEMATIC |
+| 13 | 17 | 4 | CINEMATIC |
+| 14 | 26 | 4 | CINEMATIC |
+| 15 | 19 | 4 | CINEMATIC |
+| 16 | 21 | 4 | CINEMATIC |
+| 17 | 20 | 4 | CINEMATIC |
+| 18 | 27 | 4 | CINEMATIC |
+| 19 | 21 | 4 | ACTION |
+| 20 | 19 | 4 | ACTION |
+| 21 | 22 | 4 | ACTION |
+| 22 | 27 | 4 | CINEMATIC |
+| 23 | 24 | 4 | CINEMATIC |
+| 24 | 25 | 4 | EMOTIONAL |
+| 25 | 26 | 4 | ACTION |
+| 26 | 19 | 4 | CINEMATIC |
+| 27 | 23 | 4 | ACTION |
+| 28 | 23 | 4 | ACTION |
+| 29 | 26 | 4 | CINEMATIC |
+| 30 | 21 | 4 | CINEMATIC |
+| 31 | 28 | 4 | CINEMATIC |
+| 32 | 18 | 4 | EXPLAINER |
+| 33 | 19 | 4 | CINEMATIC |
+| 34 | 22 | 4 | CINEMATIC |
+| 35 | 21 | 4 | CINEMATIC |
+| 36 | 21 | 4 | CINEMATIC |
+| 37 | 20 | 4 | CINEMATIC |
+| 38 | 23 | 4 | EXPLAINER |
+| 39 | 22 | 4 | CINEMATIC |
+| 40 | 18 | 4 | CINEMATIC |
+| 41 | 18 | 4 | CINEMATIC |
+| 42 | 20 | 4 | CINEMATIC |
+| 43 | 19 | 4 | CINEMATIC |
+| 44 | 21 | 4 | ARCHIVAL |
+| 45 | 19 | 4 | CINEMATIC |
+| 46 | 22 | 4 | CINEMATIC |
+| 47 | 19 | 4 | CINEMATIC |
+| 48 | 24 | 4 | CINEMATIC |
+| 49 | 19 | 4 | EMOTIONAL |
+| 50 | 20 | 4 | CINEMATIC |
+| 51 | 19 | 4 | EMOTIONAL |
+| 52 | 20 | 4 | CINEMATIC |
+| 53 | 23 | 4 | CINEMATIC |
+| 54 | 21 | 4 | CINEMATIC |
+| 55 | 18 | 4 | CINEMATIC |
+| 56 | 4 | 2 | CINEMATIC |
 
-**CHUNK 2** — 31 words → Split into 2 scenes, 4 shots each
-- Scene 2A: "Here's what almost nobody knew." (5 words) → 2 shots
-- Scene 2B: "A huge chunk of the money used to make that movie was allegedly stolen. Not from a bank, from an entire country." (26 words) → Split: 4+4 shots
-- **Total: 10 shots**
-
-**CHUNK 3** — 24 words → 4 shots
-- "A young financier siphoned billions out of a government fund meant to build hospitals, schools, and"
-- **Total: 4 shots**
-
-**CHUNK 4** — 23 words → 4 shots
-- "infrastructure for millions, and used it to bankroll super yachts, a private jet, jewelry for supermodels,"
-- **Total: 4 shots**
-
-**CHUNK 5** — 31 words → Split into 2 scenes, 4 shots each
-- Scene 5A: "parties with A-list celebrities, and yes, a movie about financial fraud," (12 words) → 3 shots
-- Scene 5B: "paid for with the proceeds of financial fraud." (9 words) → 3 shots
-- **Total: 6 shots**
-
-**CHUNK 6** — 24 words → 4 shots
-- "The prime minister at the center of it all has been sentenced to prison twice. The man who orchestrated"
-- **Total: 4 shots**
-
-**CHUNK 7** — 31 words → Split into 2 scenes, 4 shots each
-- Scene 7A: "the scheme has been missing for years, and nobody, not the FBI," (12 words) → 3 shots
-- Scene 7B: "not Interpol, has been able to find him." (8 words) → 3 shots
-- **Total: 6 shots**
-
-**CHUNK 8** — 26 words → 4 shots
-- "This is the story of 1MDB, one of the largest financial heists in world history. And it starts with"
-- **Total: 4 shots**
-
-**CHUNK 9** — 25 words → 4 shots
-- "two teenagers at a private school in England. Before we go any"
-- **Total: 4 shots**
-
-**CHUNK 10** — 25 words → 4 shots
-- "further, this channel exists to dig up stories exactly like this one,"
-- **Total: 4 shots**
-
-**CHUNK 11** — 19 words → 4 shots
-- "the massive collapses nobody fully explains. If that's your kind"
-- **Total: 4 shots**
-
-**CHUNK 12** — 13 words → 4 shots
-- "of story, hit subscribe right now so you"
-- **Total: 4 shots**
-
-**CHUNK 13** — 24 words → 4 shots
-- "don't lose this channel. Okay, back to Malaysia. In the late 1990s,"
-- **Total: 4 shots**
-
-**CHUNK 14** — 22 words → 4 shots
-- "a Malaysian teenager named Joe Low was sent to Harrow, one of"
-- **Total: 4 shots**
-
-**CHUNK 15** — 24 words → 4 shots
-- "Britain's most elite boarding schools. There, he became close"
-- **Total: 4 shots**
-
-**CHUNK 16** — 19 words → 4 shots
-- "friends with Riza Aziz, stepson of a rising"
-- **Total: 4 shots**
-
-**CHUNK 17** — 21 words → 4 shots
-- "Malaysian politician named Najib Razak. That friendship would eventually"
-- **Total: 4 shots**
-
-**CHUNK 18** — 22 words → 4 shots
-- "help move billions out of a country. Fast forward to 2009."
-- **Total: 4 shots**
-
-**CHUNK 19** — 28 words → Split into 2 scenes, 4 shots each
-- Scene 19A: "Najib becomes prime minister. Almost immediately, he sets up one Malaysia development" (13 words) → 4 shots
-- Scene 19B: "burhad, 1MDB." (3 words) → 2 shots
-- **Total: 6 shots**
-
-**CHUNK 20** — 25 words → 4 shots
-- "On paper, attract foreign investment, fund infrastructure."
-- **Total: 4 shots**
-
-**CHUNK 21** — 23 words → 4 shots
-- "In reality, prosecutors would later say it became a personal piggy bank"
-- **Total: 4 shots**
-
-**CHUNK 22** — 20 words → 4 shots
-- "run with the help of Joe Low, who"
-- **Total: 4 shots**
-
-**CHUNK 23** — 23 words → 4 shots
-- "never held any official position inside the fund. In 2009, 1MDB entered"
-- **Total: 4 shots**
-
-**CHUNK 24** — 20 words → 4 shots
-- "a joint venture with a Saudi oil company. The fund put in"
-- **Total: 4 shots**
-
-**CHUNK 25** — 22 words → 4 shots
-- "$1 billion. Almost immediately, around 700 million was rerouted into"
-- **Total: 4 shots**
-
-**CHUNK 26** — 17 words → 4 shots
-- "a shell company called Goodstar Limited. Its function?"
-- **Total: 4 shots**
-
-**CHUNK 27** — 26 words → 4 shots
-- "Move stolen money where it couldn't be traced. Over the next few"
-- **Total: 4 shots**
-
-**CHUNK 28** — 23 words → 4 shots
-- "years, 1MDB kept raising money through massive bond"
-- **Total: 4 shots**
-
-**CHUNK 29** — 28 words → Split into 2 scenes, 4 shots each
-- Scene 29A: "sales arranged with Goldman Sachs. Goldman helped raise over" (9 words) → 3 shots
-- Scene 29B: "$6 billion." (2 words) → 2 shots
-- **Total: 5 shots**
-
-**CHUNK 30** — 31 words → Split into 2 scenes, 4 shots each
-- Scene 30A: "The fees were dramatically higher than typical." (7 words) → 3 shots
-- Scene 30B: "So unusually large, they became central evidence against" (8 words) → 3 shots
-- **Total: 6 shots**
-
-**CHUNK 31** — 18 words → 4 shots
-- "the bank. Billions flowed through 1MDB."
-- **Total: 4 shots**
-
-**CHUNK 32** — 19 words → 4 shots
-- "Billions flowed into shell"
-- **Total: 4 shots**
-
-**CHUNK 33** — 18 words → 4 shots
-- "companies, private accounts, and a global spending spree"
-- **Total: 4 shots**
-
-**CHUNK 34** — 25 words → 4 shots
-- "nobody in Malaysia knew was happening. Joe Low became a"
-- **Total: 4 shots**
-
-**CHUNK 35** — 23 words → 4 shots
-- "legend on the party circuit. Hundreds of thousands on"
-- **Total: 4 shots**
-
-**CHUNK 36** — 22 words → 4 shots
-- "champagne in a single night. He partied with Paris"
-- **Total: 4 shots**
-
-**CHUNK 37** — 26 words → 4 shots
-- "Hilton. He gifted a Picasso and a Basquiat worth"
-- **Total: 4 shots**
-
-**CHUNK 38** — 25 words → 4 shots
-- "millions. He chartered super yachts. He bought real estate"
-- **Total: 4 shots**
-
-**CHUNK 39** — 24 words → 4 shots
-- "in Beverly Hills, New York, and London. And in 2012, he"
-- **Total: 4 shots**
-
-**CHUNK 40** — 23 words → 4 shots
-- "helped finance a Martin Scorsese film. Riza Aziz started a"
-- **Total: 4 shots**
-
-**CHUNK 41** — 20 words → 4 shots
-- "Hollywood production company called Red Granite Pictures."
-- **Total: 4 shots**
-
-**CHUNK 42** — 14 words → 4 shots
-- "In 2013, that company produced The Wolf of"
-- **Total: 4 shots**
-
-**CHUNK 43** — 23 words → 4 shots
-- "Wall Street, starring Leonardo DiCaprio. Prosecutors later alleged a"
-- **Total: 4 shots**
-
-**CHUNK 44** — 17 words → 4 shots
-- "significant share of that film's budget can be"
-- **Total: 4 shots**
-
-**CHUNK 45** — 25 words → 4 shots
-- "traced back to money diverted from 1MDB. DiCaprio was never accused"
-- **Total: 4 shots**
-
-**CHUNK 46** — 20 words → 4 shots
-- "of knowingly taking part in the fraud. He cooperated with investigators,"
-- **Total: 4 shots**
-
-**CHUNK 47** — 25 words → 4 shots
-- "and both he and his foundation returned gifts,"
-- **Total: 4 shots**
-
-**CHUNK 48** — 23 words → 4 shots
-- "including a Marlon Brando Oscar statuette and pieces"
-- **Total: 4 shots**
-
-**CHUNK 49** — 14 words → 4 shots
-- "of art tied to 1MDB money."
-- **Total: 4 shots**
-
-**CHUNK 50** — 21 words → 4 shots
-- "The irony is hard to overstate. A movie warning about"
-- **Total: 4 shots**
-
-**CHUNK 51** — 26 words → 4 shots
-- "financial fraud was allegedly partly paid for with the actual proceeds of"
-- **Total: 4 shots**
-
-**CHUNK 52** — 23 words → 4 shots
-- "financial fraud. By the early 2000s, roughly $4.5 billion"
-- **Total: 4 shots**
-
-**CHUNK 53** — 23 words → 4 shots
-- "had allegedly been misappropriated from 1MDB. Investigators say around a"
-- **Total: 4 shots**
-
-**CHUNK 54** — 25 words → 4 shots
-- "billion flowed into Najib's personal bank accounts. For years, almost nobody"
-- **Total: 4 shots**
-
-**CHUNK 55** — 25 words → 4 shots
-- "knew. This is the point in the story where"
-- **Total: 4 shots**
-
-**CHUNK 56** — 30 words → Split into 2 scenes, 4 shots each
-- Scene 56A: "everything's about to blow wide open. And trust me, what happens next involves a" (15 words) → 4 shots
-- Scene 56B: "fearless journalist, a stolen election." (6 words) → 3 shots
-- **Total: 7 shots**
-
-**CHUNK 57** — 10 words → 3 shots
-- "fearless journalist, a stolen election."
-- **Total: 3 shots**
-
-**CHUNK 58** — 10 words → 3 shots
-- (continuation of teaser)
-- **Total: 3 shots**
+**Total Shots: ~222**
 
 ---
 
-### Shot Count Summary
+## SCENE MAP
 
-| Section | Chunks | Total Shots |
-|---------|--------|-------------|
-| HOOK | 1–5 | 32 shots |
-| SUBSCRIBE | 10–12 | 12 shots |
-| SETUP | 13–18 | 24 shots |
-| SCHEME | 19–28 | 40 shots |
-| MOVIE | 29–40 | 48 shots |
-| MID CTA | — | — |
-| UNRAVELING | 41–50 | 40 shots |
-| FALL | 51–55 | 20 shots |
-| WHERE STAND | 56–58 | 13 shots |
-| CLOSING CTA | — | — |
+### ACT I — THE BROTHERS WHO STUDIED THE SYSTEM [Chunks 7–17]
 
-**TOTAL ESTIMATED SHOTS: ~229 shots**
+| Chunk | Scene | Visual |
+|-------|-------|--------|
+| 7 | Prison establishing | Drone push toward Mecklenburg, night |
+| 8 | Prison interior | Archival B&W, 1970s Virginia prison |
+| 9 | Ribbon-cutting | Governor speech, archival style |
+| 10 | Briley arrival | Two brothers walking onto death row |
+| 11 | Murder spree | Archival newspaper headlines, Richmond 1979 |
+| 12 | Studying system | Brothers watching guards, observing |
+| 13 | Homemade knives | Close-up metal scraps, shanks being made |
+| 14 | Inmates afraid | Nervous inmates whispering |
+| 15 | Warning guards | Inmate pulling guard aside |
+| 16 | Lockdown | Cell doors slamming, guards patrolling |
+| 17 | Lockdown lifted | Guards opening cells, inmates emerging |
+
+### ACT II — THE NIGHT OF MAY 31st [Chunks 18–29]
+
+| Chunk | Scene | Visual |
+|-------|-------|--------|
+| 18 | Recreation time | Death row common area, inmates gathered |
+| 19 | Clanton strikes | Restroom, guard overpowered, control panel |
+| 20 | Cells open | All doors clicking open simultaneously |
+| 21 | Guards overwhelmed | Inmates with knives, guards tied up |
+| 22 | Evans/Turner intervene | Two inmates stepping between Brileys and guards |
+| 23 | Refused massacre | Close-up faces, determination |
+| 24 | Guard's gratitude | Guard's face, emotional relief |
+| 25 | Hostage radio | Lieutenant at radio, calling gatehouse |
+| 26 | Fake bomb | TV on gurney, blanket, fire extinguishers |
+| 27 | Gates open | Both gates swinging, guard breaking protocol |
+| 28 | Escape | Van loading, driving through gates |
+| 29 | Gone | Van disappearing into night |
+
+### ACT III — THE MANHUNT [Chunks 30–42]
+
+| Chunk | Scene | Visual |
+|-------|-------|--------|
+| 30 | CTA break | Verion branding, subscribe prompt |
+| 31 | CTA continued | Comment prompt, transition back |
+| 32 | Van abandoned | Warrenton NC, empty van on roadside |
+| 33 | Search begins | Helicopters, dogs, roadblocks |
+| 34 | Fear spreads | Rural homes, locked doors |
+| 35 | Clanton/Peterson caught | Laundromat, two men sitting |
+| 36 | "Damned if I know" | Reporter, interview style |
+| 37 | Four flee north | Pickup truck, highway |
+| 38 | Briley jitters | Vermont/Quebec communities, fear |
+| 39 | Tuggle caught | Vermont gift shop, roadblock |
+| 40 | Jones caught | Phone booth, calling mother |
+| 41 | Brileys hidden | Philadelphia garage, hiding |
+| 42 | FBI capture | Tactical team, surround, surrender |
+
+### ACT IV — THE RECKONING [Chunks 43–55]
+
+| Chunk | Scene | Visual |
+|-------|-------|--------|
+| 43 | All captured | Prison transport, back in custody |
+| 44 | Fallout | Governor, firings, news coverage |
+| 45 | Investigation | Investigators, facility review |
+| 46 | Executions | Courtroom, death row |
+| 47 | Timeline | Sequential executions |
+| 48 | Evans/Turner revealed | Two men, stayed behind |
+| 49 | Their fate | Execution dates |
+| 50 | Irony | 1978 killing, before Brileys |
+| 51 | Human moment | Close-up faces, chose not to be |
+| 52 | Legacy | Prison exterior, historical weight |
+| 53 | The rule | Guard, broken rule |
+| 54 | Reflection | Two men, restraint |
+| 55 | Final CTA | Subscribe, Verion branding |
 
 ---
 
-## 3. Scene Map — Visual Flow
-
-```
-TIME    SECTION         VISUAL MOOD           ENERGY
-─────────────────────────────────────────────────────
-0:00    HOOK            High drama            ████████░░ 80%
-0:50    SUBSCRIBE       Light break           ███░░░░░░░ 30%
-1:20    SETUP           Period establishing   █████░░░░░ 50%
-3:00    SCHEME          Building tension      ██████░░░░ 60%
-6:00    MOVIE           Ironic contrast       ███████░░░ 70%
-8:10    MID CTA         Anticipation          ████████░░ 80%
-8:50    UNRAVELING      Escalating            █████████░ 90%
-11:00   FALL            Climactic             ██████████ 100%
-13:00   WHERE STAND     Sustained tension     ████████░░ 80%
-14:10   CLOSING CTA     Resolution            █████░░░░░ 50%
-```
-
----
-
-## 4. Energy Map — Emotional Intensity
+## ENERGY MAP
 
 | Chunk | Energy Level | Notes |
 |-------|--------------|-------|
-| 1–5 | HIGH | Hook — dramatic reveal |
-| 6–7 | HIGH | Prison/fugitive reveal |
-| 8–9 | MEDIUM | Title/transition |
-| 10–12 | LOW | Subscribe CTA |
-| 13–18 | MEDIUM | Setup — period establishing |
-| 19–21 | MEDIUM-HIGH | 1MDB founding, piggy bank reveal |
-| 22–26 | HIGH | Fraud mechanism, shell company |
-| 27–30 | HIGH | Goldman Sachs, fees |
-| 31–34 | MEDIUM | Money flow montage |
-| 35–40 | MEDIUM-HIGH | Jho Low lifestyle |
-| 41–44 | MEDIUM | Movie connection |
-| 45–48 | MEDIUM | DiCaprio exoneration |
-| 49–50 | HIGH | Ironic emphasis |
-| 51–53 | HIGH | $4.5B reveal |
-| 54–55 | MEDIUM | Najib accounts |
-| 56–58 | HIGH | Teaser cliffhanger |
+| 1-6 | BUILDING | Hook — mystery, intrigue |
+| 7-9 | LOW | Historical context |
+| 10-13 | RISING | Briley brothers introduced |
+| 14-17 | TENSION | Inmates warn, lockdown |
+| 18-21 | HIGH | Escape begins |
+| 22-24 | PEAK | Evans/Turner stop massacre |
+| 25-28 | CLIMAX | Fake bomb, escape |
+| 29 | DROPOFF | Gone |
+| 30-31 | PAUSE | CTA break |
+| 32-35 | RISING | Manhunt begins |
+| 36-40 | HIGH | Captures happening |
+| 41-42 | CLIMAX | FBI capture |
+| 43-45 | SETTLING | Fallout |
+| 46-50 | SOMBER | Executions |
+| 51-52 | EMOTIONAL | Evans/Turner humanity |
+| 53-55 | RESOLUTION | Legacy, final CTA |
 
 ---
 
-## 5. Music Cue Points
+## MUSIC PROMPT
 
-| Time | Section | Music Intensity |
-|------|---------|-----------------|
-| 0:00 | HOOK OPEN | Full intensity — dramatic |
-| 0:50 | SUBSCRIBE | Pullback — lighter |
-| 1:20 | SETUP | Building — steady |
-| 3:00 | SCHEME | Tension rising |
-| 6:00 | MOVIE | Ironic — slightly lighter |
-| 8:10 | MID CTA | Anticipation — building |
-| 8:50 | UNRAVELING | Escalating — high |
-| 11:00 | FALL | Peak intensity |
-| 13:00 | WHERE STAND | Sustained tension |
-| 14:10 | CLOSING CTA | Pullback — resolution |
+```
+Cinematic documentary score, slow-build tension-driven hybrid at 72 BPM; near-silent opening with a single low drone and faint prison ambience, then precise ticking percussion, deep bass pulses, vinyl crackle, Uneven string stabs, suspenseful brass swells, explosive metallic hits, rapid ostinato, and a sparse piano pullback, Film grain texture, analog warmth, wide heavy mix with cold precision, dark ambient, deep, electronic, experimental, minimal, industrial, synthetic, orchestral, true crime, escape, manhunt, tension, mystery, thriller, pursuit, fugitive, low, rapid, cello, rock, glitch, alternative, tone, faint
+```
 
 ---
 
-## 6. Production Checklist
+## CRITICAL VISUAL ASSETS (Appear Multiple Times)
 
-- [ ] Generate character reference sheets (3)
-- [ ] Generate location reference sheets (4)
-- [ ] Lock all assets before scene prompts
-- [ ] Generate start frames for each chunk
-- [ ] Generate video prompts for each shot
-- [ ] Self-review against quality checklist
-- [ ] Present to director for approval
+### Recurring Visuals
+| Asset | Description | Chunks | Importance |
+|-------|-------------|--------|------------|
+| Prison exterior at night | Concrete walls, guard towers, red emergency lights, drone push | 1,7,43,52 | HIGH — Opens and closes story |
+| Death row cell block | Long corridor, metal bars, control panel, fluorescent lighting | 12,13,14,15,16,17,18,19,20,21 | CRITICAL — 10 chunks |
+| Prison gates | Two security gates, guard booth, van driving through | 25,26,27,28 | HIGH — Escape climax |
+| Map graphics | Routes from Boydton VA through NC, VT, PA | 5,32,38 | MEDIUM — Manhunt visualization |
+| Courtroom/archival | Judge, legal proceedings, historical photos | 44,45,46 | MEDIUM — Reckoning |
 
----
+### Style Notes
+- **1984 setting** — No modern technology, no cell phones, no internet
+- **Rural Virginia** — Warm tones, golden hour, southern landscape
+- **Prison interior** — Cold fluorescent, metal, concrete, harsh shadows
+- **Manhunt** — Autumn colors, Vermont/Quebec foliage, rural America
+- **Archival feel** — Grain, muted colors, 1980s aesthetic throughout
+- **Night scenes** — Low key lighting, practical sources, shadows
+- **Escape sequence** — Tense, handheld feel, urgency
 
-## Next Steps
-
-- Phase 2: Generation (start frame → video prompt → self-review → director approval)
-- Work in batches of 4 chunks
-- Wait for "done" before next batch
-
-Ready to proceed with Phase 2?
+### Color Palette
+- **Prison** — Cold grays, blues, harsh whites
+- **Virginia exterior** — Warm earth tones, golden hour
+- **Manhunt** — Autumn reds, oranges, browns
+- **Courtroom** — Muted, institutional
+- **Night** — Deep blues, shadows, practical lights

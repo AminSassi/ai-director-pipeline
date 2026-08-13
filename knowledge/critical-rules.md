@@ -168,4 +168,4 @@ SHOT 2/4 @TAG2 description...
 ### Rule #24 — Trust user corrections
 - When user corrects chunk timing or narration, accept it immediately
 - User knows the correct sync
-- Do not argue or re-pars
+- Do not argue or re-parse.

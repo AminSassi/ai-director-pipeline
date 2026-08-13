@@ -79,7 +79,7 @@ Raw Script → Expand (1600-1900w) → Insert CTAs → Verify Facts → Compress
 
 When the director asks for a prompt:
 1. Generate the initial prompt
-2. Self-review against `style/rules.md`, `camera/angles.md`, and `prompts/quality-checklist.md`
+2. Self-review against `knowledge/critical-rules.md`, `knowledge/learnings.md`, `style/rules.md`, `camera/angles.md`, and `prompts/quality-checklist.md`
 3. Refine and present the final version
 4. If director corrects something → write the correction to `knowledge/learnings.md`
 

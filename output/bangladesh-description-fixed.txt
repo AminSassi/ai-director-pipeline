@@ -1,0 +1,13 @@
+20 million from vanishing forever.
+
+On the night of February 4th, 2016, while most of Bangladesh was asleep, someone sent 35 messages. Just 35 lines of code. No guns. No masks. No getaway car.
+
+Within four hours, $81 million had vanished. From a country. From a bank. From existence.
+
+The hackers spent six months inside the system before making their move. They chose a Thursday night — the start of Bangladesh's weekend — when three different time zones would be closed for four days straight. 35 SWIFT transfer requests. $951 million requested. Five approved. $81 million gone.
+
+But one transfer didn't make it. $20 million was headed to a Sri Lankan account. The hackers had misspelled "Foundation." They wrote "Fundation." One letter. That single typo stopped $20 million from vanishing forever.
+
+The investigation traced the attack to Lazarus Group — a state-sponsored hacking collective believed to operate on behalf of North Korea. A nation-state used cyber warfare to rob a central bank. Not for a political statement. To fund itself.
+
+As of 2025, only $15 million of the $81 million has been recovered. $66 million remains missing. The world's money isn't stored in vaults anymore. It's stored in servers. And servers can be hacked.

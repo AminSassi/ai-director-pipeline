@@ -1,104 +1,212 @@
-# The Teenager Who Stole Planes He Couldn't Fly
-
-**Pipeline Version:** 1.0.0
-**Artifact:** phase-0.3-compressed.md
-**Status:** draft
-**Word Count:** ~1,400
-**CTAs:** 3
-**Source:** Raw script (Verion)
-
----
-
-[0:00–0:45] — HOOK
-
-He was seventeen years old. He had never taken a single flying lesson. He didn't even have a driver's license.
-
-And yet, for two years, this teenager stole cars, boats, and at least five airplanes — teaching himself to fly from stolen laptops and library books — while the FBI, Homeland Security, and police in two countries hunted him and failed, again and again.
-
-They called him "The Barefoot Bandit." By the time this story ends, he'll have crash-landed a plane on a tropical island, led police on a high-speed boat chase in the dark, and become one of the strangest folk heroes America has ever produced.
-
-This is the true story of Colton Harris-Moore. Stick around, because the ending involves gunfire on open water — and it is not what you'd expect.
-
-[Verion intro / channel bumper]
-
-[0:45–2:30] — WHERE IT ALL STARTED
-
-Colton Harris-Moore was born in March 1991, on Camano Island, Washington — a quiet, wooded slice of the Pacific Northwest surrounded by water on almost every side. His childhood was not easy. His father struggled with addiction and left when Colton was a toddler. His mother, Pamela, raised him alone in a run-down single-wide trailer buried in the trees. Money was tight. Stability was rare.
-
-By twelve, Colton had been diagnosed with depression and ADHD, and had his first run-in with police — for stolen property. He dropped out after ninth grade. Instead of a classroom, the forest became his real education. He learned to disappear into it, to survive in it, and to break into the empty vacation homes scattered across the island — often without shoes on, which is how the nickname started as a joke among local police.
-
-By his mid-teens, he had a string of burglary convictions. The courts tried the usual path: a juvenile sentence, a group home, supervision. It didn't hold him long.
-
-[2:30–4:30] — THE ESCAPE
-
-On April 22, 2008, while serving a three-year juvenile sentence for burglary, seventeen-year-old Colton Harris-Moore walked out of a group home in Renton, Washington — and simply didn't come back.
-
-He went back to the San Juan Islands and started hitting one house after another. He'd sneak into vacant vacation homes, sometimes staying for days, cooking meals, showering, sleeping in real beds, before moving on. He stole laptops, cash, credit cards, jewelry — and, notably, guns.
-
-Investigators noticed something odd. This wasn't a kid smashing windows. He was careful. Methodical. He studied houses before going in. And he left taunts — chalk outlines of bare feet on the floor, notes for the police chasing him. After driving off in a stolen vehicle, he scrawled "C-Ya!"
-
-By late 2008, island communities were holding emergency meetings. The local sheriff's office couldn't keep up. So the FBI and Homeland Security got involved. A teenager — barely out of high school — was now being hunted by federal law enforcement. And he was about to make it a lot harder for them.
-
-[4:30–7:00] — TEACHING HIMSELF TO FLY
-
-At some point during his time on the run, Colton got his hands on flight manuals and simulator software — some of it on stolen laptops — and started teaching himself to fly small aircraft. Not in a cockpit with an instructor. Alone.
-
-Then he did something almost nobody believed a teenage fugitive would attempt: he broke into small regional airports, climbed into single-engine planes, and took off.
-
-Over the following months, investigators tied him to at least five stolen aircraft. He flew them across Washington state at night — no radio contact, no flight plan, no training beyond what he'd absorbed on his own. Federal prosecutors noted every flight put lives at risk. His landings were rough, often leaving aircraft badly damaged.
-
-But here's the strange part: instead of turning the public against him, it did the opposite. As word spread that a barefoot teenage runaway was stealing planes, an online following exploded. A Facebook fan page racked up tens of thousands of followers. People sold "Free Colton" t-shirts. He became a folk hero — the kid from a broken home beating the system with nerve and a stolen laptop.
-
-Law enforcement did not share the enthusiasm. His spree spread across Washington, Oregon, Idaho, Indiana, Nebraska, and into Canada. He stole cars, boats, and was connected to well over a hundred break-ins. He was barely eighteen.
-
-[7:00–7:30] — MID-VIDEO CTA
-
-If a story like this keeps you hooked, that's exactly what Verion is built for — real cases, told the way they actually happened, with nothing exaggerated. If you're new here, hit subscribe so you don't miss the next one, and drop a comment telling me where you think he ends up — because what happens next is the part almost nobody expects.
-
-Alright. Let's get back into it.
-
-[7:30–9:30] — THE RUN ACROSS THE COUNTRY
-
-By the summer of 2010, the manhunt for Colton Harris-Moore was national. Police presence around Puget Sound had gotten so heavy that staying in Washington was no longer an option.
-
-Colton ran east. Using stolen vehicles, he crossed state lines, making it to Illinois and Indiana while evading a coordinated manhunt that included local police, state troopers, the FBI, and Homeland Security.
-
-Then, on July 4, 2010, a Cessna was reported stolen from an airport in Indiana. Colton was in the air again — this time headed for international waters.
-
-[9:30–11:30] — CRASH LANDING IN THE BAHAMAS
-
-The stolen Cessna came down on Great Abaco Island in the Bahamas — a rough landing that wrote off the plane, but one Colton walked away from.
-
-He was now a fugitive on foreign soil. The Royal Bahamas Police Force joined the hunt. Within days, he was linked to seven burglaries on the island. He stole a forty-three-foot powerboat and headed for Eleuthera.
-
-For a few days, he vanished again. Locals reported strange sightings — someone bathing in a remote inlet, boats sabotaged, break-ins with only food and cash taken. The Bahamas were smaller. There was nowhere left to run.
-
-[11:30–13:30] — THE FINAL CHASE
-
-In the early hours of July 11, 2010, witnesses on Eleuthera spotted the teenager they recognized instantly from months of news coverage — the Barefoot Bandit.
-
-They called the police.
-
-What followed was a high-speed boat chase in the dark, across open water, as Colton tried one last time to outrun the people chasing him. Bahamian police pursued him toward Harbour Island. Shots were fired — aimed at disabling his boat's engine, not at Colton himself.
-
-It worked. The boat lost power. Colton ran ashore, barefoot, sprinting through brush near a resort marina with a backpack and a handgun. Witnesses described him shouting that he thought he was about to be killed.
-
-He wasn't. Within minutes, he was in custody. Two years, over a hundred burglaries, five stolen planes, a manhunt spanning two countries — ended on a dark beach in the Bahamas, with a nineteen-year-old surrendering barefoot in the sand.
-
-[13:30–14:45] — WHAT HAPPENED AFTER
-
-Colton pleaded guilty in both Bahamian and American courts — including interstate transportation of a stolen aircraft, transportation of a stolen firearm, and piloting without a license.
-
-In December 2011, he was sentenced to over seven years in state court. A federal judge added six-and-a-half years. Total damage from his two-year spree: over three million dollars. The judge told him his "reckless conduct" endangered lives and called for a "new life flight plan."
-
-Colton was released in 2016. Reports say he's kept a low profile since, working in real estate in the Seattle area.
-
-No one was killed during his run. Some saw a dangerous, reckless criminal. Others saw a teenager, failed early by every system meant to protect him, who found the one thing he was good at and refused to stop. Both can be true at the same time. That's what makes this story worth telling.
-
-[14:45–15:00] — OUTRO / FINAL CTA
-
-If this is the kind of story you want more of — real people, real chases, real consequences, told straight — hit subscribe, turn on notifications, and tell me in the comments: folk hero, or just a very lucky criminal? I read everything.
-
-See you in the next one.
-
-[End card / Verion outro]
+THE NIGHT SIX DEATH ROW KILLERS VANISHED
+FROM AN "ESCAPEPROOF" PRISON
+Verion — Full Script (~15 minutes)
+[0:00 – 1:00] HOOK
+[Visual: Slow drone push toward a concrete
+prison block at night. Red emergency lights
+pulse. Low ambient drone builds under the
+voice.]
+HOST (V.O. — calm, low, deliberate):
+Six men. Condemned to die. Locked behind the
+most secure death row in the United States —
+a prison built specifically so this could never
+happen.
+And on one ordinary Thursday night in May
+1984, all six of them just… walked out.
+No tunnel. No riot. No gunfire. They didn't blow
+a hole in the wall — they talked their way
+through the front gate. They built a fake bomb
+out of a television set and a bedsheet, and they
+convinced armed guards to open the one door
+that was never supposed to open.
+For nineteen days afterward, multiple states
+searched for them. Roadblocks went up.
+Parents kept their kids inside. And a governor's
+career never fully recovered.
+This is the true story of the Mecklenburg Six —
+the largest death row escape in American
+history. Stay with me to the end, because the
+way this ends is almost stranger than how it
+began.
+[1:00 – 3:30] ACT I — THE
+BROTHERS WHO STUDIED THE SYSTEM
+[Visual: Archive-style black-and-white stills of
+a 1970s Virginia prison; text overlay "Boydton,
+Virginia — 1977"]
+HOST:
+Built in 1976 and formally dedicated the
+following spring, Mecklenburg Correctional
+Center was Virginia's new maximum-security
+facility in rural Boydton. It held the state's
+entire male death row. Officials called it
+escape-proof. At the ribbon-cutting, the governor
+called it an unbreakable link between crime and
+punishment.
+Seven years later, two brothers turned that
+promise into a punchline.
+James and Linwood Briley arrived on death
+row after a seven-month murder spree across
+Richmond in 1979 that left at least eleven
+people dead. Once inside Mecklenburg, the
+brothers didn't rage against the system. They
+studied it.
+They were patient. Likeable, even — to the right
+guards. Over months, they built relationships
+with staff. Using scavenged scraps of metal,
+they assembled homemade knives.
+Other inmates noticed. They were afraid — not of
+getting caught in an escape, but of being killed
+by the Brileys during one. So they warned the
+guards themselves.
+Prison officials listened. In April 1984, the
+warden placed the unit on lockdown. For weeks,
+the Brileys' plan sat frozen.
+But lockdown on death row raises uncomfortable
+questions. Under pressure from advocacy groups,
+the lockdown was lifted in late May.
+Within days, the Brileys made their move.
+[3:30 – 7:15] ACT II — THE
+NIGHT OF MAY 31st
+[Visual: Re-enactment-style silhouettes,
+night-vision-style color grade, tense score
+building]
+HOST:
+Evening of May 31st, 1984. Recreation time on
+death row. Guards watch inmates near the far
+end of the block — a distraction. While their
+attention is pulled one way, Earl Clanton slips
+into a staff restroom and waits.
+When a lone guard walks in, Clanton overpowers
+him. In seconds, he's at the control panel —
+every cell door clicks open at once.
+What happens next takes minutes. Using
+homemade knives, the inmates overwhelm the
+guards, tying them up and taking their uniforms.
+More than a dozen staff members are held inside.
+Here's a detail most retellings skip: in the
+chaos, the Brileys wanted to kill captured
+guards. Two other death row inmates — Wilbert
+Lee Evans and Willie Lloyd Turner, neither part
+of the escape plan — stepped in and stopped it.
+Both had sat in on planning meetings. But when
+the moment came, neither ran, and both refused
+to let it become a massacre. One guard later said
+he owed his life to them. We'll come back to that.
+Now dressed as guards, the inmates forced a
+hostage lieutenant onto the radio to call the
+outer gatehouse: there's a bomb on the unit.
+There was no real bomb. It was a television set,
+wrapped in a blanket, wheeled on a gurney —
+fire extinguishers sprayed to fake smoke. But it
+worked.
+Protocol forbade opening both security gates at
+once. Faced with what he believed was an
+explosive, the gate officer broke that rule.
+Both gates swung open. A prison van pulled up.
+Six men in stolen uniforms loaded their fake
+bomb inside — and drove out of the most secure
+prison in Virginia.
+By the time anyone realized what happened, the
+van and the six most dangerous inmates were
+gone.
+[Visual: Cut to black. Beat of silence. Then a
+red "BREAKING" news-ticker graphic style
+transition.]
+[7:15 – 7:45] MID-VIDEO CTA
+HOST:
+Before we get into the nineteen-day manhunt —
+because what happens to each of these six men
+is the most unbelievable part of this story — if
+you're new here, this is Verion. We tell real,
+deeply researched true crime cases every week,
+no filler. Hit subscribe so you don't miss where
+this goes, and drop a comment telling me which
+of the six you think got caught first. Back to
+Virginia.
+[7:45 – 11:15] ACT III — THE
+MANHUNT
+[Visual: Map graphic animating routes from
+Boydton, VA outward through North Carolina,
+Vermont, Pennsylvania]
+HOST:
+The van made it twenty-five miles before being
+abandoned just across the North Carolina border
+in Warrenton. The six scattered — Virginia
+descended into panic.
+Helicopters with infrared cameras swept the
+woods. Police dogs worked the tree lines.
+Roadblocks went up across two states. Residents
+were told to lock their doors.
+The first two didn't get far. Less than a day
+after escape, Earl Clanton and Derick Peterson
+were found in a Warrenton laundromat —
+unarmed, eating snacks, drinking wine. When a
+reporter asked how he got caught so fast, the
+answer was simple: "Damned if I know."
+The remaining four — Lem Tuggle, Willie Jones,
+and the Briley brothers — proved harder to find.
+They stole a pickup truck and drove north. For a
+week, communities in Vermont and Quebec lived
+under "the Briley jitters."
+On June 8th, the case cracked open twice. Lem
+Tuggle robbed a gift shop in rural Vermont and
+was picked up at a roadblock. Hours later, Willie
+Jones was captured after calling his mother
+back in Richmond.
+That left only the Brileys. For eleven more days,
+the most wanted brothers in America stayed
+hidden. FBI agents tracked them to a garage in
+North Philadelphia. On June 19th, twenty agents
+surrounded the building.
+They surrendered without firing a shot.
+Nineteen days after walking out of an "escapeproof" prison, all six were back in custody.
+[11:15 – 13:30] ACT IV — THE
+RECKONING
+[Visual: Slow zoom on courtroom-style
+archive photography; muted color grade]
+HOST:
+The fallout was brutal. Virginia's governor faced
+public outrage. His director of corrections
+resigned within six months. Five guards were
+fired. The warden and security staff were
+transferred. Investigators found design flaws —
+blind spots, protocol gaps — that made the
+escape possible.
+All six men were eventually executed. Not for the
+escape, but for the murders that put them on
+death row. Linwood Briley was first, months after
+capture. James followed. The rest — Clanton,
+Peterson, Jones, and Lem Tuggle in December
+1996 — were executed as appeals ran out.
+Then there's Wilbert Lee Evans and Willie Lloyd
+Turner — who helped plan the escape, chose to
+stay behind, and stopped a killing that night.
+Neither decision saved them. Evans was executed
+in 1990 for murdering a Virginia deputy sheriff.
+Turner followed in 1995 for a 1978 killing — years
+before the Brileys arrived at Mecklenburg.
+Their story is the most human part of this case —
+two men capable of violence who in one moment
+chose not to be.
+The 1984 Mecklenburg breakout remains the
+largest death row escape in U.S. history. It wasn't
+explosives or brute force — it was patience, trust
+exploited, and one moment where a guard broke
+a rule that was never supposed to be broken.
+[13:30 – 15:00] OUTRO + FINAL
+CTA
+[Visual: Slow pull-out from the prison exterior
+at dusk, score fading to a single sustained
+note]
+HOST:
+What strikes me most isn't the escape — plenty of
+prison breaks make headlines. It's how close it
+came to being worse, and how two men chose
+restraint in a moment built around violence.
+If this story pulled you in, that's what we do
+every week on Verion — real cases, fully
+researched, told the way they happened. Hit
+subscribe, tell me in the comments which part
+shocked you most, and I'll see you in the next
+one.
+[END]

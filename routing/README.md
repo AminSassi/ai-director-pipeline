@@ -23,12 +23,12 @@ It does NOT ask:
 |------|-------------|-----------|
 | CINEMATIC | Character moments, narrative, establishing shots | Default |
 | ACTION | Chase, explosion, fast physical motion | Seedance 2.0 |
-| EXPLAINER | Diagrams, charts, maps, data visualization | Gemini OmniFlash |
+| EXPLAINER | Diagrams, charts, maps, data visualization | Grok Imagine (Diagram Style) |
 | MONTAGE | Time passing, growth sequences | Default |
 | ARCHIVAL | Real footage, photographs, documents | Default |
 | EMOTIONAL | Close-ups, atmosphere, mood | Default |
 | TRANSITION | Scene connections, time jumps | Default |
-| TEXT FOCUS | Headlines, documents, on-screen text | Gemini OmniFlash |
+| TEXT FOCUS | Headlines, documents, on-screen text | Grok Imagine (Diagram Style) |
 | HYBRID | Multiple approaches needed | Split or Default |
 
 ---
@@ -39,7 +39,7 @@ It does NOT ask:
 ```
 Narration: "born in 1942 in Udupi"
 Keyword detected: date → EXPLAINER
-Result: Gemini OmniFlash ← WRONG
+Result: Grok Imagine (Diagram Style) ← WRONG
 ```
 
 This is a biography. It's cinematic storytelling.
@@ -60,9 +60,9 @@ Generator: Default ← CORRECT
 | Visual Type | Generator | When |
 |-------------|-----------|------|
 | ACTION | Seedance 2.0 | Only for high physical motion |
-| EXPLAINER | Gemini OmniFlash | Only when diagrams/animations needed |
-| TEXT FOCUS | Gemini OmniFlash | When text must appear on screen |
-| Everything else | Default (Grok/Kling) | Standard cinematic pipeline |
+| EXPLAINER | Grok Imagine (Diagram Style) | Only when diagrams/animations needed |
+| TEXT FOCUS | Grok Imagine (Diagram Style) | When text must appear on screen |
+| Everything else | Default (Grok Imagine) | Standard cinematic pipeline |
 
 ---
 
@@ -75,7 +75,7 @@ chunk: 07
 narration: "the company had been keeping two different sets of accounting records"
 duration: 10s
 visual_type: EXPLAINER
-generator: gemini
+generator: grok
 confidence: 94%
 reason:
   - "Core fraud mechanism — two parallel ledgers"
@@ -95,7 +95,7 @@ After classification, produce instant visibility:
 TOTAL: 92 chunks
 
 Seedance 2.0: 0 chunks (0%)
-Gemini OmniFlash: 12 chunks (13%)
+Grok Imagine (Diagram Style): 12 chunks (13%)
 Default Cinematic: 80 chunks (87%)
 
 HIGH PRIORITY:

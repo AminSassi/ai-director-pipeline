@@ -360,13 +360,13 @@ Every prompt goes through self-review before presenting.
 - Director controls the pace
 
 ## Platform Differences
-| Rule | Grok | Kling |
-|---|---|---|
-| Negatives | --no flags at end | Separate Negative Prompt field |
-| Duration | 10s always | 15s always |
-| Multi-shot | Automatic | Multi-Shot ON + Custom ON |
-| Aspect ratio | --ar 16:9 in prompt | Set in UI only |
-| Start frames | Not used | Nano Banana 2 only |
+| Rule | Grok Imagine |
+|---|---|
+| Negatives | --no flags at end |
+| Duration | 10s always |
+| Multi-shot | Automatic |
+| Aspect ratio | --ar 16:9 in prompt |
+| Start frames | Use visual anchor if needed |
 
 ---
 
