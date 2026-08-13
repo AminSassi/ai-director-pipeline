@@ -137,6 +137,33 @@ If script text for a chunk is unclear or missing from context, STOP IMMEDIATELY.
 
 ---
 
+## EDIT-LEVEL TECHNIQUES & MATCH CUTS
+These techniques live in the edit (Premiere), not inside a single AI generation. You control them by designing your start frames and shot endings to set up the match, then cutting on it in post.
+
+### Match Cut Subtypes (The Match Cut Family)
+- **Graphic/Shape Match:** The silhouette or composition lines up almost exactly across the cut (spinning coin → full moon). Start-frame design choice: mirror the shape/silhouette between clip A's last frame and clip B's first frame.
+- **Color Match Cut:** Cut carried by a dominant color repeating across both shots (red dress → red wall). Make the start frame of clip B echo the color palette of clip A's closing frame.
+- **Directional/Movement Match:** Direction of motion continues across the cut (left-to-right → left-to-right). Needs explicit screen-direction control written into both shots.
+- **Positional Match:** The same subject/object sits in the exact same spot on screen across two unrelated shots.
+- **Scale/Size Match:** Two objects of different real-world size are framed to appear the same size on screen (small clue → whole picture). Strong for "fingerprint cuts to building" beats.
+- **Eyeline/Gaze Match:** Character looks off-screen, next shot reveals what they're looking at, matching the gaze direction. The workhorse for investigator-POV beats.
+- **Compositional/Framing Match:** Two shots share identical camera height, headroom, and framing even though subject or location differs. Used to visually link two people as parallel/mirrored.
+- **Concept/Sound Match:** Link is idea or audio, not image. Easiest match cut; requires timing/audio decision in edit. (e.g. scream → train whistle).
+
+*Strong match cuts often stack these (e.g. Graphic + Scale, Color + Positional). Decide at the script/board stage which subtype you're aiming for.*
+
+### Other Edit-Level Transitions
+- **J-Cut / L-Cut:** Audio bleeds across the cut before/after picture changes. Pure audio editing in Premiere.
+- **Smash Cut:** Hard, jarring cut between tonally opposite scenes (calm → sudden chaos). Works well for true-crime hooks.
+- **Jump Cut:** Deliberate time discontinuity on the same subject/angle to create urgency. Just cut two clips of the same subject back-to-back.
+- **Invisible Cut:** Disguised by a fast pass of motion (whip pan, passing figure). End clip A with object filling frame, start clip B with same element clearing frame.
+- **Match Dissolve:** Slow cross-dissolve where images' shapes align mid-transition.
+- **Cross-Cutting (Parallel Editing):** Intercutting between two separate lines of action. Assembly decision.
+- **Whip Pan Transition:** Fast blurred pan at end of shot A matches fast blurred pan at start of shot B. Prompt a whip-pan camera move at tail of A and head of B, cut on blurred frames.
+- **Speed Ramp:** Shot shifts from normal speed to slow motion within itself. Post-production time-remap on a clean motion clip.
+
+---
+
 ## SHOT RULES
 
 ### Rule: Always 6 shots per chunk
