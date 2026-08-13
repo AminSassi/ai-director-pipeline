@@ -14,7 +14,19 @@ Before writing a prompt, silently answer:
 3. What single physical action, object, or environmental detail shows that truth without restating the words?
 4. What camera/lens technique amplifies it?
 
-*Silent Test:* If someone saw the image with no audio, would they feel the emotional truth, or just see a literal caption of the words?
+**Alternate Branch (Conceptual Lines):**
+If the line contains an abstract/institutional concept (data, hacking, surveillance, money, network) rather than a character emotion, skip the emotional subtext questions and instead ask: *What is the single concrete human transaction where this concept becomes physical?* Show that mundane, specific human handoff (e.g., a driver's license sliding across a counter, a barcode wristband printing).
+
+**BANNED IMAGERY (Concept-Illustration Clichés):**
+When a line mentions "data" or "hacking," a literal agent looks up the dictionary definition. This is forbidden. The following are banned unless a specific, unusual detail saves them:
+- Generic server rack shots
+- Glowing fiber optic cable close-ups
+- "Data flowing" light-trail effects
+- World maps with connecting dots or glowing lines
+- Matrix-style falling code or binary overlays
+- Generic laptop-with-green-text hacker shots
+
+*Silent Test:* If someone saw the image with no audio, would they feel the emotional truth of the moment, or would they just see a person doing the literal thing the line describes?
 
 ## 2. PREVENTING AI SLOP (CRITICAL)
 AI video models hallucinate wildly when overloaded with complex physics or unanchored elements.

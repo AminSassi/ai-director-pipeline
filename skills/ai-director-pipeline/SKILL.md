@@ -180,7 +180,19 @@ Before writing any prompt for a VST line, you must silently answer four question
 3. What single physical action, object, or environmental detail would show that truth WITHOUT restating the words?
 4. Which camera/lens/blocking technique from the reference library amplifies that choice?
 
-Hard rule: If the image you're about to write directly restates the narration, that prompt is rejected. Find the physical tell instead — hands, environment, camera behavior — never the word itself. One directorial choice per shot. Don't stack details; pick the single strongest physical/visual choice and commit.
+**Alternate Branch (Conceptual Lines):**
+If the line contains an abstract/institutional concept (data, hacking, surveillance, money, network) rather than a character emotion, skip the emotional subtext questions and instead ask: *What is the single concrete human transaction where this concept becomes physical?* Show that mundane, specific human handoff (e.g., a driver's license sliding across a counter, a barcode wristband printing).
+
+**BANNED IMAGERY (Concept-Illustration Clichés):**
+When a line mentions "data" or "hacking," a literal agent looks up the dictionary definition. This is forbidden. The following are banned unless a specific, unusual detail saves them:
+- Generic server rack shots
+- Glowing fiber optic cable close-ups
+- "Data flowing" light-trail effects
+- World maps with connecting dots or glowing lines
+- Matrix-style falling code or binary overlays
+- Generic laptop-with-green-text hacker shots
+
+Hard rule: If the image you're about to write directly restates the narration (or is a generic stock-image cliche of the concept), that prompt is rejected. Find the physical tell instead. One directorial choice per shot. Don't stack details; pick the single strongest physical/visual choice and commit.
 
 **Silent Test:** If someone saw this image with no audio, would they feel the emotional truth of the moment, or would they just see a person doing the literal thing the line describes? If it's the second, it failed.
 
