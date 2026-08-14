@@ -137,3 +137,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 
 - [2026-08-14] INSIGHT: To prevent vehicles (helicopters, planes, cars) from flying or moving backwards in AI video, explicitly specify the vehicle's forward direction AND the camera's forward direction (e.g., 'helicopter flying forward, camera pushing forward'). Avoid words like 'tracking' or 'swooping' which AI often interprets as reverse/dolly-back motion.
+
+- [2026-08-14] INSIGHT: Grok has strict content moderation filters for image-to-video. Avoid words that imply anxiety, crime, or physical restriction (e.g., 'nervously', 'locking away', 'creeping tension', 'dark room'). Sanitize prompts to be extremely neutral and 'brand safe' (e.g., 'dimly lit office', 'closing vault', 'adjusting suit').
