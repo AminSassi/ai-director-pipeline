@@ -135,3 +135,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-07-31] CRITICAL: NEVER use the generate_image tool. Director wants PROMPTS ONLY — always plain text prompts ready to copy-paste into Grok/Nano Banana. Never auto-generate anything. This is permanent.
 
+
+- [2026-08-14] INSIGHT: To prevent vehicles (helicopters, planes, cars) from flying or moving backwards in AI video, explicitly specify the vehicle's forward direction AND the camera's forward direction (e.g., 'helicopter flying forward, camera pushing forward'). Avoid words like 'tracking' or 'swooping' which AI often interprets as reverse/dolly-back motion.
