@@ -1,552 +1,285 @@
-# Synchronized Chunks — The Barefoot Bandit
+# Mecklenburg Six — Synchronized Chunks
 
-**Source:** phase-0.4-elevenlabs.md + phase-0.5-timing.md
-**Total Duration:** 8:47
-**Chunk Size:** 10 seconds (aligned to actual narration timing)
-**Total Chunks:** 53
-
----
-
-## CHUNK 01
-**Time:** 00:00:00 → 00:00:10
-**Duration:** 10s
-**Words:** 27
-
-He was seventeen years old. He had never taken a single flying lesson. He didn't even have a driver's license. And yet, for two years, this teenager stole cars, boats, and at
+Source: BULLETPROOF_vo_10s_chunks.srt
+Total chunks: 56
+Total duration: ~9:10
 
 ---
 
-## CHUNK 02
-**Time:** 00:00:10 → 00:00:20
-**Duration:** 10s
-**Words:** 26
-
-least five airplanes, teaching himself to fly from stolen laptops and library books, while the FBI, Homeland Security, and police in two countries hunted
+## CHUNK 1 [00:00 – 00:10]
+Six men, condemned to die, locked behind the most secure death row in the United States. A prison built specifically so this could never happen.
 
 ---
 
-## CHUNK 03
-**Time:** 00:00:20 → 00:00:30
-**Duration:** 10s
-**Words:** 24
-
-him and failed again and again. They called him the Barefoot Bandit. By the time this
+## CHUNK 2 [00:10 – 00:20]
+And on one ordinary Thursday night in May 1984, all six of them just walked out. No tunnel, no riot,
 
 ---
 
-## CHUNK 04
-**Time:** 00:00:30 → 00:00:40
-**Duration:** 10s
-**Words:** 27
-
-story ends, he'll have crash-landed a plane on a tropical island, led police on a high-speed boat chase in the dark, and become one of the
+## CHUNK 3 [00:20 – 00:30]
+No tunnel, no riot, no gunfire. They didn't blow a hole in the wall. They talked their way through the front gate. They built a fake bomb out of a television set and a
 
 ---
 
-## CHUNK 05
-**Time:** 00:00:40 → 00:00:50
-**Duration:** 10s
-**Words:** 27
-
-strangest folk heroes America has ever produced. This is the true story of Colton Harris Moore. Stick around, because the
+## CHUNK 4 [00:30 – 00:40]
+television set and a bed sheet, and they convinced armed guards to open the one door that was never, under any circumstance, supposed to open. For 19 days afterward,
 
 ---
 
-## CHUNK 06
-**Time:** 00:00:50 → 00:01:00
-**Duration:** 10s
-**Words:** 25
-
-ending involves gunfire on open water, and it is not what you'd expect. Colton Harris Moore was born in March 1991
+## CHUNK 5 [00:40 – 00:50]
+For 19 days afterward, multiple states searched for them. Roadblocks went up across Virginia and North Carolina. Parents kept their kids inside. And a governor's career never fully recovered.
 
 ---
 
-## CHUNK 07
-**Time:** 00:01:00 → 00:01:10
-**Duration:** 10s
-**Words:** 26
-
-on Kamaino Island, Washington, a quiet, wooded slice of the Pacific Northwest surrounded by water on almost every side. His childhood was not
+## CHUNK 6 [00:50 – 01:00]
+never fully recovered. This is the true story of the Mecklenburg Six, the largest death row escape in American history. Stay with me to
 
 ---
 
-## CHUNK 08
-**Time:** 00:01:10 → 00:01:20
-**Duration:** 10s
-**Words:** 27
-
-easy. His father struggled with addiction and left when Colton was a toddler. His mother, Pamela, raised him alone in a run-down, single-wide
+## CHUNK 7 [01:00 – 01:10]
+Stay with me to the end, because the way this ends is almost stranger than how it began. Built in 1976 and formally dedicated the following spring, Mecklenburg Correctional Center
 
 ---
 
-## CHUNK 09
-**Time:** 00:01:20 → 00:01:30
-**Duration:** 10s
-**Words:** 28
-
-trailer buried in the trees. Money was tight. Stability was rare. By 12, Colton had been diagnosed with depression and ADHD and had his first run-in
+## CHUNK 8 [01:10 – 01:20]
+spring, Mecklenburg Correctional Center was Virginia's new maximum security facility in rural Boyden. It was built to hold the worst of the worst, the state's entire male death row.
 
 ---
 
-## CHUNK 10
-**Time:** 00:01:30 → 00:01:40
-**Duration:** 10s
-**Words:** 27
-
-with police for stolen property. He dropped out after ninth grade. Instead of a classroom, the forest became his real education. He learned to disappear
+## CHUNK 9 [01:20 – 01:30]
+entire male death row. Officials called it escape proof. At the ribbon cutting, the governor himself called it an unbreakable link between crime and punishment.
 
 ---
 
-## CHUNK 11
-**Time:** 00:01:40 → 00:01:50
-**Duration:** 10s
-**Words:** 28
-
-into it, to survive in it, and to break into the empty vacation homes scattered across the island, often without shoes on, which is how the nickname started
+## CHUNK 10 [01:30 – 01:40]
+between crime and punishment. Seven years later, two brothers turned that promise into a punchline. James and Linwood Briley arrived on death row
 
 ---
 
-## CHUNK 12
-**Time:** 00:01:50 → 00:02:00
-**Duration:** 10s
-**Words:** 26
-
-as a joke among local police. By his mid-teens, he had a string of burglary convictions. The courts tried the usual path, a juvenile
+## CHUNK 11 [01:40 – 01:50]
+arrived on death row after a seven-month murder spree across Richmond in 1979 that left at least 11 people dead, crimes so shocking they'd made front page news.
 
 ---
 
-## CHUNK 13
-**Time:** 00:02:00 → 00:02:10
-**Duration:** 10s
-**Words:** 27
-
-sentence, a group home, supervision. It didn't hold him long. On April 22, 2008, while serving a three-year juvenile sentence for
+## CHUNK 12 [01:50 – 02:00]
+Once inside Mecklenburg, the brothers didn't rage against the system. They studied it. They were patient, likable even, to the right guards.
 
 ---
 
-## CHUNK 14
-**Time:** 00:02:10 → 00:02:20
-**Duration:** 10s
-**Words:** 26
-
-burglary, 17-year-old Colton Harris Moore walked out of a group home in Renton, Washington, and simply didn't come back. He went back to
+## CHUNK 13 [02:00 – 02:10]
+Over months, they built relationships with staff who let their guard down. Using scavenged scraps of metal, they assembled homemade knives.
 
 ---
 
-## CHUNK 15
-**Time:** 00:02:20 → 00:02:30
-**Duration:** 10s
-**Words:** 27
-
-the San Juan Islands and started hitting one house after another. He'd sneak into vacant vacation homes, sometimes staying for days, cooking meals,
+## CHUNK 14 [02:10 – 02:20]
+Some of the other men on death row noticed. They were afraid, not of getting caught in an escape, but of being killed by the Brileys during one. So a group of
 
 ---
 
-## CHUNK 16
-**Time:** 00:02:30 → 00:02:40
-**Duration:** 10s
-**Words:** 28
-
-showering, sleeping in real beds before moving on. He stole laptops, cash, credit cards, jewelry, and, notably, guns. Investigators noticed something odd.
+## CHUNK 15 [02:20 – 02:30]
+So a group of inmates did something unexpected. They warned the guards themselves. Prison officials listened. In April 1984, the warden placed the unit
 
 ---
 
-## CHUNK 17
-**Time:** 00:02:40 → 00:02:50
-**Duration:** 10s
-**Words:** 27
-
-This wasn't a kid smashing windows. He was careful, methodical. He studied houses before going in, and he left taunts, chalk outlines
+## CHUNK 16 [02:30 – 02:40]
+warden placed the unit on lockdown. For weeks, the Brileys' plans sat frozen. But lockdown on death row raises uncomfortable questions. Under pressure, the lockdown
 
 ---
 
-## CHUNK 18
-**Time:** 00:02:50 → 00:03:00
-**Duration:** 10s
-**Words:** 27
-
-of bare feet on the floor, notes for the police chasing him. After driving off in a stolen vehicle, he scrawled, See ya! By late 2008, island
+## CHUNK 17 [02:40 – 02:50]
+Under pressure, the lockdown was lifted in late May. Within days, the Brileys made their move. Evening of May 31st, 1984. Recreation time on death
 
 ---
 
-## CHUNK 19
-**Time:** 00:03:00 → 00:03:10
-**Duration:** 10s
-**Words:** 27
-
-communities were holding emergency meetings. The local sheriff's office couldn't keep up, so the FBI and Homeland Security got involved. A teenager, barely out
+## CHUNK 18 [02:50 – 03:00]
+Recreation time on death row. Guards watch a cluster of inmates near the far end of the block. A manufactured distraction. While their attention is pulled one way, Earl Clanton slips into a
 
 ---
 
-## CHUNK 20
-**Time:** 00:03:10 → 00:03:20
-**Duration:** 10s
-**Words:** 28
-
-of high school, was now being hunted by federal law enforcement, and he was about to make it a lot harder for them. At some point during
+## CHUNK 19 [03:00 – 03:10]
+Clanton slips into a staff restroom and waits. When a lone guard walks in, Clanton overpowers him. In seconds, he's at the control panel. Every cell door clicks
 
 ---
 
-## CHUNK 21
-**Time:** 00:03:20 → 00:03:30
-**Duration:** 10s
-**Words:** 27
-
-his time on the run, Colton got his hands on flight manuals and simulator software, some of it on stolen laptops, and started teaching
+## CHUNK 20 [03:10 – 03:20]
+Every cell door clicks open at once. What happens next takes minutes, not hours. Using homemade knives, the inmates overwhelm the guards, tying them up and
 
 ---
 
-## CHUNK 22
-**Time:** 00:03:30 → 00:03:40
-**Duration:** 10s
-**Words:** 26
-
-himself to fly small aircraft, not in a cockpit with an instructor, alone. Then he did something almost nobody believed a
+## CHUNK 21 [03:20 – 03:30]
+tying them up and taking their uniforms. More than a dozen staff members are held inside. Here's a detail most retellings skip. In the chaos, the Brileys wanted to kill
 
 ---
 
-## CHUNK 23
-**Time:** 00:03:40 → 00:03:50
-**Duration:** 10s
-**Words:** 27
-
-teenage fugitive would attempt. He broke into small regional airports, climbed into single-engine planes, and took off. Over the following months,
+## CHUNK 22 [03:30 – 03:40]
+Brileys wanted to kill captured guards outright. Two other death row inmates, Wilbert Lee Evans and Willie Lloyd Turner, neither part of the escape plan, stepped in and stopped it.
 
 ---
 
-## CHUNK 24
-**Time:** 00:03:50 → 00:04:00
-**Duration:** 10s
-**Words:** 27
-
-investigators tied him to at least five stolen aircraft. He flew them across Washington state at night, no radio contact, no flight plan, no training
+## CHUNK 23 [03:40 – 03:50]
+and stopped it. Both had sat in on planning meetings months earlier. But when the moment came, neither ran and both refused to let it become a massacre. One guard later said
 
 ---
 
-## CHUNK 25
-**Time:** 00:04:00 → 00:04:10
-**Duration:** 10s
-**Words:** 27
-
-beyond what he'd absorbed on his own. Federal prosecutors noted every flight put lives at risk. His landings were rough, often leaving aircraft badly
+## CHUNK 24 [03:50 – 04:00]
+One guard later said he owed his life to them. We'll come back to that. Because their story doesn't end the way you'd expect. Now dressed as guards, the inmates forced a hostage lieutenant onto the
 
 ---
 
-## CHUNK 26
-**Time:** 00:04:10 → 00:04:20
-**Duration:** 10s
-**Words:** 26
-
-damaged. But here's the strange part. Instead of turning the public against him, it did the opposite. As word spread that
+## CHUNK 25 [04:00 – 04:10]
+hostage lieutenant onto the radio to call the outer gatehouse. There's a bomb on the unit, and it has to be gotten out immediately. There was no real bomb. It was a television set, wrapped in a
 
 ---
 
-## CHUNK 27
-**Time:** 00:04:20 → 00:04:30
-**Duration:** 10s
-**Words:** 27
-
-a barefoot teenage runaway was stealing planes, an online following exploded. A Facebook fan page racked up tens of thousands of followers.
+## CHUNK 26 [04:10 – 04:20]
+set, wrapped in a blanket, wheeled on a gurney. Fire extinguishers sprayed to fake smoke. But it worked. Protocol forbade opening both security gates at once.
 
 ---
 
-## CHUNK 28
-**Time:** 00:04:30 → 00:04:40
-**Duration:** 10s
-**Words:** 27
-
-People sold free Colton t-shirts. He became a folk hero, the kid from a broken home beating the system with nerve and a stolen laptop.
+## CHUNK 27 [04:20 – 04:30]
+security gates at once. Faced with what he believed was an explosive, the gate officer broke that rule. Both gates swung open. A prison van pulled up. Six men in stolen
 
 ---
 
-## CHUNK 29
-**Time:** 00:04:40 → 00:04:50
-**Duration:** 10s
-**Words:** 28
-
-Law enforcement did not share the enthusiasm. His spree spread across Washington, Oregon, Idaho, Indiana, Nebraska, and into Canada. He stole cars, boats,
+## CHUNK 28 [04:30 – 04:40]
+Six men in stolen uniforms loaded their fake bomb inside and drove straight out of the most secure prison in Virginia. By the time anyone realized what happened, the van and the six
 
 ---
 
-## CHUNK 30
-**Time:** 00:04:50 → 00:05:00
-**Duration:** 10s
-**Words:** 27
-
-and was connected to well over a hundred break-ins. He was barely 18. If a story like this keeps you hooked,
+## CHUNK 29 [04:40 – 04:50]
+van and the six most dangerous inmates were gone. Before we get into the 19-day manhunt, because what happens to each of these six men is the most unbelievable part of this
 
 ---
 
-## CHUNK 31
-**Time:** 00:05:00 → 00:05:10
-**Duration:** 10s
-**Words:** 27
-
-that's exactly what Varian is built for. Real cases, told the way they actually happened, with nothing exaggerated. If you're new here,
+## CHUNK 30 [04:50 – 05:00]
+unbelievable part of this story. If you're new here, this is Varyon. We tell real, deeply researched true crime cases every week. No filler. Hit subscribe so you
 
 ---
 
-## CHUNK 32
-**Time:** 00:05:10 → 00:05:20
-**Duration:** 10s
-**Words:** 27
-
-hit subscribe so you don't miss the next one, and drop a comment telling me where you think he ends up, because what happens
+## CHUNK 31 [05:00 – 05:10]
+Hit subscribe so you don't miss where this goes. And drop a comment telling me which of the six you think got caught first. Back to Virginia. The van made it 25 miles before being abandoned just across the
 
 ---
 
-## CHUNK 33
-**Time:** 00:05:20 → 00:05:30
-**Duration:** 10s
-**Words:** 27
-
-next is the part almost nobody expects. Alright, let's get back into it. By the summer of 2010, the manhunt for
+## CHUNK 32 [05:10 – 05:20]
+abandoned just across the North Carolina border in Warrington. The six scattered. Virginia descended into genuine panic. This wasn't a quiet,
 
 ---
 
-## CHUNK 34
-**Time:** 00:05:30 → 00:05:40
-**Duration:** 10s
-**Words:** 26
-
-Colton Harris Moore was national. Police presence around Puget Sound had gotten so heavy that staying in Washington was no longer
+## CHUNK 33 [05:20 – 05:30]
+This wasn't a quiet, contained search. Helicopters with infrared cameras swept the woods. Police dogs worked the tree lines. Roadblocks went up across two states.
 
 ---
 
-## CHUNK 35
-**Time:** 00:05:40 → 00:05:50
-**Duration:** 10s
-**Words:** 27
-
-an option. Colton ran east. Using stolen vehicles, he crossed state lines, making it to Illinois and Indiana while evading a
+## CHUNK 34 [05:30 – 05:40]
+two states. Residents were told to lock their doors because a convicted killer could be hiding in the next barn or backyard. The first two didn't get far.
 
 ---
 
-## CHUNK 36
-**Time:** 00:05:50 → 00:06:00
-**Duration:** 10s
-**Words:** 28
-
-coordinated manhunt that included local police, state troopers, the FBI, and Homeland Security. Then, on July 4, 2010, a Cessna was
+## CHUNK 35 [05:40 – 05:50]
+get far. Less than a day after escape, Earl Clanton and Derek Peterson were found in a Warrington laundromat, unarmed, eating snacks, drinking wine.
 
 ---
 
-## CHUNK 37
-**Time:** 00:06:00 → 00:06:10
-**Duration:** 10s
-**Words:** 27
-
-reported stolen from an airport in Indiana. Colton was in the air again, this time headed for international waters. The stolen Cessna came
+## CHUNK 36 [05:50 – 06:00]
+When a reporter asked how he got caught so fast, the answer was simple. Damned if I know. The remaining four, Lem Tuggle, Willie Jones, and
 
 ---
 
-## CHUNK 38
-**Time:** 00:06:10 → 00:06:20
-**Duration:** 10s
-**Words:** 27
-
-down on Great Abaco Island in the Bahamas, a rough landing that rode off the plain, but one Colton walked away from. He was now a
+## CHUNK 37 [06:00 – 06:10]
+Tuggle, Willie Jones, and the Briley brothers proved much harder to find. They stole a pickup truck and drove north and the fear followed them the entire way.
 
 ---
 
-## CHUNK 39
-**Time:** 00:06:20 → 00:06:30
-**Duration:** 10s
-**Words:** 27
-
-fugitive on foreign soil. The Royal Bahamas Police Force joined the hunt. Within days, he was linked to seven burglaries on the island.
+## CHUNK 38 [06:10 – 06:20]
+them the entire way. For more than a week, communities in Vermont and Quebec lived under the Briley Jitters, afraid to answer the door after dark. On June 8th, the
 
 ---
 
-## CHUNK 40
-**Time:** 00:06:30 → 00:06:40
-**Duration:** 10s
-**Words:** 27
-
-He stole a 43-foot powerboat and headed for Eleuthera. For a few days, he vanished again. Locals reported strange sightings,
+## CHUNK 39 [06:20 – 06:30]
+On June 8th, the case cracked open twice. Lem Tuggle robbed a gift shop in rural Vermont and was picked up at a roadblock by a local constable. Hours later, Willie Jones
 
 ---
 
-## CHUNK 41
-**Time:** 00:06:40 → 00:06:50
-**Duration:** 10s
-**Words:** 27
-
-someone bathing in a remote inlet, boats sabotaged, break-ins with only food and cash taken. The Bahamas were smaller,
+## CHUNK 40 [06:30 – 06:40]
+Hours later, Willie Jones was captured after doing something almost nobody expected. He called his mother back in Richmond. That left only the Brileys.
 
 ---
 
-## CHUNK 42
-**Time:** 00:06:50 → 00:07:00
-**Duration:** 10s
-**Words:** 27
-
-there was nowhere left to run. In the early hours of July 11, 2010, witnesses on Eleuthera spotted the teenager they recognized
+## CHUNK 41 [06:40 – 06:50]
+For 11 more days, the most wanted brothers in America stayed hidden. FBI agents tracked them to a rundown garage in North Philadelphia, not
 
 ---
 
-## CHUNK 43
-**Time:** 00:07:00 → 00:07:10
-**Duration:** 10s
-**Words:** 27
-
-instantly from months of news coverage, the Barefoot Bandit. They called the police. What followed was a high-speed boat chase
+## CHUNK 42 [06:50 – 07:00]
+in North Philadelphia, not far from an uncle's home. On June 19th, 20 agents surrounded the building. They surrendered without firing a shot.
 
 ---
 
-## CHUNK 44
-**Time:** 00:07:10 → 00:07:20
-**Duration:** 10s
-**Words:** 27
-
-in the dark, across open water, as Colton tried one last time to outrun the people chasing him. Bahamian police pursued him
+## CHUNK 43 [07:00 – 07:10]
+19 days after walking out of an escape-proof prison, all six were back in custody. The fallout was brutal. Virginia's governor faced public
 
 ---
 
-## CHUNK 45
-**Time:** 00:07:20 → 00:07:30
-**Duration:** 10s
-**Words:** 27
-
-toward Harbor Island. Shots were fired, aimed at disabling his boat's engine, not at Colton himself. It worked. The boat lost power.
+## CHUNK 44 [07:10 – 07:20]
+Virginia's governor faced public outrage. His director of corrections resigned within six months. Five guards were fired. The warden and security staff were transferred.
 
 ---
 
-## CHUNK 46
-**Time:** 00:07:30 → 00:07:40
-**Duration:** 10s
-**Words:** 27
-
-Colton ran ashore, barefoot, sprinting through brush near a resort marina with a backpack and a handgun. Witnesses described him shouting
+## CHUNK 45 [07:20 – 07:30]
+staff were transferred. Investigators found real design flaws — blind spots, protocol gaps — that made the escape possible. All six men were
 
 ---
 
-## CHUNK 47
-**Time:** 00:07:40 → 00:07:50
-**Duration:** 10s
-**Words:** 27
-
-that he thought he was about to be killed. He wasn't. Within minutes, he was in custody. Two years, over a
+## CHUNK 46 [07:30 – 07:40]
+All six men were eventually executed. Not for the escape, but for the murders that put them on death row. Linwood Briley was first, months after capture.
 
 ---
 
-## CHUNK 48
-**Time:** 00:07:50 → 00:08:00
-**Duration:** 10s
-**Words:** 27
-
-hundred burglaries, five stolen planes, a manhunt spanning two countries ended on a dark beach in the Bahamas, with a 19-year-old surrendering
+## CHUNK 47 [07:40 – 07:50]
+James followed. The rest — Clanton, Peterson, Jones, and Lem Tuggle in December 1996 — were executed as
 
 ---
 
-## CHUNK 49
-**Time:** 00:08:00 → 00:08:10
-**Duration:** 10s
-**Words:** 27
-
-barefoot in the sand. Colton pleaded guilty in both Bahamian and American courts, including interstate transportation of a stolen aircraft,
+## CHUNK 48 [07:50 – 08:00]
+— were executed as appeals ran out. Then there's Wilbert Lee Evans and Willie Lloyd Turner, who helped plan the escape, chose to stay behind, and stopped a killing that night.
 
 ---
 
-## CHUNK 50
-**Time:** 00:08:10 → 00:08:20
-**Duration:** 10s
-**Words:** 27
-
-transportation of a stolen firearm, and piloting without a license. In December 2011, he was sentenced to over seven years in state
+## CHUNK 49 [08:00 – 08:10]
+a killing that night. Neither decision saved them. Evans was executed in 1990 for murdering a Virginia deputy sheriff. Turner followed in 1995
 
 ---
 
-## CHUNK 51
-**Time:** 00:08:20 → 00:08:30
-**Duration:** 10s
-**Words:** 27
-
-court. A federal judge added six and a half years. Total damage from his two-year spree? Over $3 million. The judge told him
+## CHUNK 50 [08:10 – 08:20]
+Turner followed in 1995 for a 1978 killing, years before the Brileys arrived at Mecklenburg. Neither death had anything to do with the escape.
 
 ---
 
-## CHUNK 52
-**Time:** 00:08:30 → 00:08:40
-**Duration:** 10s
-**Words:** 27
-
-his reckless conduct endangered lives and called for a new life flight plan. Colton was released in 2016. Reports say he's kept
+## CHUNK 51 [08:20 – 08:30]
+In a strange way, their story is the most human part of this case. Two men capable of real violence, who in one moment chose not to be.
 
 ---
 
-## CHUNK 53
-**Time:** 00:08:40 → 00:08:47
-**Duration:** 7s
-**Words:** 27
-
-a low profile since, working in real estate in the Seattle area. No one was killed during his run. Some saw a dangerous, reckless criminal. Others saw a teenager, failed early by every system meant to protect him, who found the one thing he was good at and refused to stop. Both can be true at the same time. That's what makes this story worth telling. If this is the kind of story you want more of, real people, real chases, real consequences, told straight, hit subscribe, turn on notifications, and tell me in the comments. Folk hero or just a very lucky criminal? I read everything. See you in the next one.
+## CHUNK 52 [08:30 – 08:40]
+to be. The 1984 Mecklenburg breakout remains the largest death row escape in U.S. history. It was patience, trust exploited, and one moment
 
 ---
 
-## CHUNK SUMMARY
-
-| Chunk | Time | Duration | Words |
-|-------|------|----------|-------|
-| 01 | 00:00:00 → 00:00:10 | 10s | 27 |
-| 02 | 00:00:10 → 00:00:20 | 10s | 26 |
-| 03 | 00:00:20 → 00:00:30 | 10s | 24 |
-| 04 | 00:00:30 → 00:00:40 | 10s | 27 |
-| 05 | 00:00:40 → 00:00:50 | 10s | 27 |
-| 06 | 00:00:50 → 00:01:00 | 10s | 25 |
-| 07 | 00:01:00 → 00:01:10 | 10s | 26 |
-| 08 | 00:01:10 → 00:01:20 | 10s | 27 |
-| 09 | 00:01:20 → 00:01:30 | 10s | 28 |
-| 10 | 00:01:30 → 00:01:40 | 10s | 27 |
-| 11 | 00:01:40 → 00:01:50 | 10s | 28 |
-| 12 | 00:01:50 → 00:02:00 | 10s | 26 |
-| 13 | 00:02:00 → 00:02:10 | 10s | 27 |
-| 14 | 00:02:10 → 00:02:20 | 10s | 26 |
-| 15 | 00:02:20 → 00:02:30 | 10s | 27 |
-| 16 | 00:02:30 → 00:02:40 | 10s | 28 |
-| 17 | 00:02:40 → 00:02:50 | 10s | 27 |
-| 18 | 00:02:50 → 00:03:00 | 10s | 27 |
-| 19 | 00:03:00 → 00:03:10 | 10s | 27 |
-| 20 | 00:03:10 → 00:03:20 | 10s | 28 |
-| 21 | 00:03:20 → 00:03:30 | 10s | 27 |
-| 22 | 00:03:30 → 00:03:40 | 10s | 26 |
-| 23 | 00:03:40 → 00:03:50 | 10s | 27 |
-| 24 | 00:03:50 → 00:04:00 | 10s | 27 |
-| 25 | 00:04:00 → 00:04:10 | 10s | 27 |
-| 26 | 00:04:10 → 00:04:20 | 10s | 26 |
-| 27 | 00:04:20 → 00:04:30 | 10s | 27 |
-| 28 | 00:04:30 → 00:04:40 | 10s | 27 |
-| 29 | 00:04:40 → 00:04:50 | 10s | 28 |
-| 30 | 00:04:50 → 00:05:00 | 10s | 27 |
-| 31 | 00:05:00 → 00:05:10 | 10s | 27 |
-| 32 | 00:05:10 → 00:05:20 | 10s | 27 |
-| 33 | 00:05:20 → 00:05:30 | 10s | 27 |
-| 34 | 00:05:30 → 00:05:40 | 10s | 26 |
-| 35 | 00:05:40 → 00:05:50 | 10s | 27 |
-| 36 | 00:05:50 → 00:06:00 | 10s | 28 |
-| 37 | 00:06:00 → 00:06:10 | 10s | 27 |
-| 38 | 00:06:10 → 00:06:20 | 10s | 27 |
-| 39 | 00:06:20 → 00:06:30 | 10s | 27 |
-| 40 | 00:06:30 → 00:06:40 | 10s | 27 |
-| 41 | 00:06:40 → 00:06:50 | 10s | 27 |
-| 42 | 00:06:50 → 00:07:00 | 10s | 27 |
-| 43 | 00:07:00 → 00:07:10 | 10s | 27 |
-| 44 | 00:07:10 → 00:07:20 | 10s | 27 |
-| 45 | 00:07:20 → 00:07:30 | 10s | 27 |
-| 46 | 00:07:30 → 00:07:40 | 10s | 27 |
-| 47 | 00:07:40 → 00:07:50 | 10s | 27 |
-| 48 | 00:07:50 → 00:08:00 | 10s | 27 |
-| 49 | 00:08:00 → 00:08:10 | 10s | 27 |
-| 50 | 00:08:10 → 00:08:20 | 10s | 27 |
-| 51 | 00:08:20 → 00:08:30 | 10s | 27 |
-| 52 | 00:08:30 → 00:08:40 | 10s | 27 |
-| 53 | 00:08:40 → 00:08:47 | 7s | 27 |
+## CHUNK 53 [08:40 – 08:50]
+exploited, and one moment where a guard broke a rule that was never supposed to be broken. What strikes me most isn't the escape. It's how close it came to being worse,
 
 ---
 
-## TOTALS
+## CHUNK 54 [08:50 – 09:00]
+came to being worse, and how two men chose restraint in a moment built around violence. If this story pulled you in, that's what we do every week on Varian.
 
-- **Total Chunks:** 53
-- **Total Duration:** 8:47
-- **Average Words/Chunk:** 27
-- **Total Words:** ~1,400
+---
+
+## CHUNK 55 [09:00 – 09:10]
+Real cases, fully researched, told the way they happened. Hit subscribe, tell me in the comments which part shocked you most, and I'll see you in the next one.
+
+---
+
+## CHUNK 56 [09:10 – 09:10]
+in the next one.

@@ -9,13 +9,13 @@ Visual type determines the generator. Not keywords. Not word count. Not content 
 | Visual Type | Generator | Why |
 |-------------|-----------|-----|
 | **ACTION** | Seedance 2.0 | Handles fast motion, complex physics, multiple moving subjects |
-| **EXPLAINER** | Gemini OmniFlash | Animation, diagrams, data visualization, infographic generation |
-| **CINEMATIC** | Default (Grok/Kling) | Standard narrative, character moments, establishing shots |
-| **MONTAGE** | Default (Grok/Kling) | Time compression works fine with standard generation |
-| **ARCHIVAL** | Default (Grok/Kling) | Real footage/photographs, minimal generation needed |
-| **EMOTIONAL** | Default (Grok/Kling) | Close-ups, atmosphere, mood — standard cinematic |
-| **TRANSITION** | Default (Grok/Kling) | Visual bridges, simple generation |
-| **TEXT FOCUS** | Gemini OmniFlash | Text overlay, document rendering, headline animation |
+| **EXPLAINER** | Grok Imagine (Diagram Style) | Animation, diagrams, data visualization, infographic generation |
+| **CINEMATIC** | Default (Grok Imagine) | Standard narrative, character moments, establishing shots |
+| **MONTAGE** | Default (Grok Imagine) | Time compression works fine with standard generation |
+| **ARCHIVAL** | Default (Grok Imagine) | Real footage/photographs, minimal generation needed |
+| **EMOTIONAL** | Default (Grok Imagine) | Close-ups, atmosphere, mood — standard cinematic |
+| **TRANSITION** | Default (Grok Imagine) | Visual bridges, simple generation |
+| **TEXT FOCUS** | Grok Imagine (Diagram Style) | Text overlay, document rendering, headline animation |
 | **HYBRID** | Split or Default | Either split chunk or use default with multiple approaches |
 
 ---
@@ -41,7 +41,7 @@ Visual type determines the generator. Not keywords. Not word count. Not content 
 
 ---
 
-### Gemini OmniFlash
+### Grok Imagine (Diagram Style)
 **Best for:** EXPLAINER and TEXT FOCUS scenes only
 
 **Use when:**
@@ -76,14 +76,7 @@ Visual type determines the generator. Not keywords. Not word count. Not content 
 - Scene transitions
 - Mood and atmosphere
 
-**Grok vs Kling decision:**
-
-| Factor | Grok Imagine | Kling VIDEO 3.0 |
-|--------|-------------|-----------------|
-| Duration | 10s always | 15s always |
-| Best for | Quick cuts, fast turnaround | Longer takes, continuous motion |
-| Negatives | --no flags at end | Separate Negative Prompt field |
-
+**Grok Imagine is the exclusive video generator for cinematic scenes.**
 ---
 
 ## Decision Tree
@@ -92,7 +85,7 @@ Visual type determines the generator. Not keywords. Not word count. Not content 
 What is the best visual to tell this part of the story?
 │
 ├── Diagram/chart/map/animation needed?
-│   └── YES → EXPLAINER or TEXT FOCUS → Gemini OmniFlash
+│   └── YES → EXPLAINER or TEXT FOCUS → Grok Imagine (Diagram Style)
 │
 ├── High physical action/chase/explosion?
 │   └── YES → ACTION → Seedance 2.0
@@ -118,6 +111,7 @@ When a chunk requires HYBRID treatment:
 ```
 Original: "Apple acquired Beats for $3 billion. Steve Jobs had built the foundation."
 Split:
-  - Segment A: "Apple acquired Beats for $3 billion" → EXPLAINER → Gemini
+  - Segment A: "Apple acquired Beats for $3 billion" → EXPLAINER → grok
   - Segment B: "Steve Jobs had built the foundation" → CINEMATIC → Default
 ```
+

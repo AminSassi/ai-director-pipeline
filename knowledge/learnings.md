@@ -98,7 +98,7 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
   1. Are characters MID-ACTION (never posed)?
   2. Is there at least ONE creative angle?
   3. Are there at least 3 different camera movements across the 4 shots?
-  4. Is every word of narration visually represented?
+  4. Is every beat of narration covered by a shot, AND does each shot use a directorial/physical choice rather than restating the line?
   5. Are scenes ALIVE with action (not camera wandering)?
   6. Is there visual variety (no repeated angles/movements)?
   7. Does each shot have Subject & Action, Camera & Motion, Lens & Light, Texture & Mood?
@@ -118,7 +118,7 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-07-25] CRITICAL: ALWAYS TAG LOCKED ASSETS. In start frame prompt — tag if asset appears. In video prompt — tag at beginning of prompt AND at start of shot line. Example: "Use @image1 as visual anchor for start frame @AIVAR_REHE." and "SHOT 1/1 @AIVAR_REHE same character walking..." NEVER FORGET THIS.
 
-- [2026-07-25] CRITICAL: ALWAYS 4 SHOTS PER CHUNK. Every 10-second chunk gets 4 shots in the video prompt. Format: SHOT 1/4, SHOT 2/4, SHOT 3/4, SHOT 4/Each shot = 1 camera angle + 1 action. NEVER do less than 4 shots.
+- [2026-07-25] CRITICAL: SHOT COUNT RULE. Every 10-second chunk gets 4 shots in the video prompt (Format: SHOT 1/4, SHOT 2/4, SHOT 3/4, SHOT 4/4) UNLESS the chunk is under 13 words, in which case use critical-rules.md Rule #7's word-count scale instead. Each shot = 1 camera angle + 1 action.
 
 - [2026-07-25] CRITICAL: TAG FORMAT RULES:
   1. Start frame: "@TAG description of scene..."
@@ -134,6 +134,11 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 - [2026-07-30] INSIGHT: PRE-GENERATION AUDIT CRONJOB. Before outputting any batch of prompts to the director, the AI MUST explicitly print a "Pre-Generation Audit Cronjob" block. The AI must draft the prompts in memory, review them against the Creativity & Beauty rules, CORRECT any clichés or bad angles, and document what it changed in the chat *before* printing the final prompts. A Post-Generation Audit summary must also be printed after the batch.
 
 - [2026-07-31] CRITICAL: NEVER use the generate_image tool. Director wants PROMPTS ONLY — always plain text prompts ready to copy-paste into Grok/Nano Banana. Never auto-generate anything. This is permanent.
+
+
+- [2026-08-14] INSIGHT: To prevent vehicles (helicopters, planes, cars) from flying or moving backwards in AI video, explicitly specify the vehicle's forward direction AND the camera's forward direction (e.g., 'helicopter flying forward, camera pushing forward'). Avoid words like 'tracking' or 'swooping' which AI often interprets as reverse/dolly-back motion.
+
+- [2026-08-14] INSIGHT: Grok has strict content moderation filters for image-to-video. Avoid words that imply anxiety, crime, or physical restriction (e.g., 'nervously', 'locking away', 'creeping tension', 'dark room'). Sanitize prompts to be extremely neutral and 'brand safe' (e.g., 'dimly lit office', 'closing vault', 'adjusting suit').
 
 - [2026-08-28] CRITICAL: CTA VISUAL RULE. When generating prompts for CTA sections of the script (subscribe, like, comment, notification bell), NEVER generate subscribe-themed visuals (channel logos, subscribe buttons, comment sections, bell animations, phone screens showing channel). Instead, generate a VAGUE ATMOSPHERIC SCENE related to the story — moody, cinematic, story-relevant. The director adds subscribe/CTA overlays manually in editing. This applies to ALL CTA chunks. Treat CTA narration the same as any other narration: what visual tells this part of the story best? This is permanent.
 

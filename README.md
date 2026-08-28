@@ -82,7 +82,7 @@ Start frame → Video prompt → Self-review → Director approval.
 
 Every prompt goes through:
 1. Generate initial version
-2. Self-review against `style/rules.md`, `camera/angles.md`, `prompts/quality-checklist.md`
+2. Self-review against `knowledge/critical-rules.md`, `knowledge/learnings.md`, `style/rules.md`, `camera/angles.md`, `prompts/quality-checklist.md`
 3. Refine and present final version
 4. Director correction → auto-capture to `knowledge/learnings.md`
 

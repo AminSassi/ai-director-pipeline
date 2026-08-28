@@ -2,6 +2,13 @@
 
 Use this checklist to review every prompt before presenting to the director.
 
+## Critical checks (from Post-Mortem #001 — do not skip)
+- [ ] Every @TAG used in any shot also appears in the Start Frame header and the 'Use @image1' line
+- [ ] No AI slop blacklist items present (see critical-rules.md Rule #14 and learnings.md AI SLOP PATTERNS)
+- [ ] At least one creative/unexpected angle per chunk
+- [ ] All 4 layers present in every shot: Subject & Action, Camera & Motion, Lens & Light, Texture & Mood
+- [ ] Minimum 3 different camera movements across the shots in this chunk
+
 ## For Grok Imagine (video)
 
 - [ ] Subject is clearly defined

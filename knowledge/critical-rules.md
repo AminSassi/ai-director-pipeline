@@ -89,6 +89,12 @@ Every session starts with this protocol. Every single time.
 - Only tag in the specific SHOT where they actually appear
 - Start frame tags = only assets visible in that image
 
+### Rule #13 — Do Not Redescribe Locked Assets
+- When generating a Start Frame prompt that includes a locked asset, NEVER re-describe the physical appearance of the asset (facial features, specific clothing) unless explicitly changing it.
+- Describing them wrong (e.g., missing a moustache, wrong suit color) forces the AI to alter the locked asset, destroying visual consistency across the video.
+- Rely on the `@TAG` and only describe their action, expression, lighting, and the environment.
+- Example: `@STANFORD standing in a dimly lit boardroom...` NOT `@STANFORD older man with no moustache in a dark suit standing...`
+
 ---
 
 ## Video Prompt Format
@@ -168,4 +174,4 @@ SHOT 2/4 @TAG2 description...
 ### Rule #24 — Trust user corrections
 - When user corrects chunk timing or narration, accept it immediately
 - User knows the correct sync
-- Do not argue or re-pars
+- Do not argue or re-parse.
