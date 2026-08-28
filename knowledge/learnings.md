@@ -135,3 +135,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-07-31] CRITICAL: NEVER use the generate_image tool. Director wants PROMPTS ONLY — always plain text prompts ready to copy-paste into Grok/Nano Banana. Never auto-generate anything. This is permanent.
 
+- [2026-08-28] CRITICAL: CTA VISUAL RULE. When generating prompts for CTA sections of the script (subscribe, like, comment, notification bell), NEVER generate subscribe-themed visuals (channel logos, subscribe buttons, comment sections, bell animations, phone screens showing channel). Instead, generate a VAGUE ATMOSPHERIC SCENE related to the story — moody, cinematic, story-relevant. The director adds subscribe/CTA overlays manually in editing. This applies to ALL CTA chunks. Treat CTA narration the same as any other narration: what visual tells this part of the story best? This is permanent.
+
