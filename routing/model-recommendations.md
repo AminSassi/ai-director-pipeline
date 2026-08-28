@@ -1,3 +1,4 @@
+# CRITICAL OVERRIDE (2026-08-28): NEVER USE INFOGRAPHICS, DIAGRAMS, OR GEMINI OMNIFLASH. ALL VISUALS MUST BE CINEMATIC/DOCUMENTARY GROK IMAGINE PROMPTS REGARDLESS OF ROUTING TYPE.
 # Generator Mapping
 
 Visual type determines the generator. Not keywords. Not word count. Not content detection.

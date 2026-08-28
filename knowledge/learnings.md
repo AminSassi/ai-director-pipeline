@@ -142,3 +142,6 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-08-28] CRITICAL: CTA VISUAL RULE. When generating prompts for CTA sections of the script (subscribe, like, comment, notification bell), NEVER generate subscribe-themed visuals (channel logos, subscribe buttons, comment sections, bell animations, phone screens showing channel). Instead, generate a VAGUE ATMOSPHERIC SCENE related to the story — moody, cinematic, story-relevant. The director adds subscribe/CTA overlays manually in editing. This applies to ALL CTA chunks. Treat CTA narration the same as any other narration: what visual tells this part of the story best? This is permanent.
 
+
+- [2026-08-28] CRITICAL: NO INFOGRAPHICS OR DIAGRAMS. Never generate flat vector infographics, animated diagrams, or chart visualizations. The director hates them. Even for EXPLAINER scenes (like fraud mechanisms, money flow, or balance sheets), use CINEMATIC VISUAL METAPHORS (e.g., macro shots of ledgers, physical documents being stamped, briefcases, red ink on paper, tense character moments in dark offices). All chunks default to standard Cinematic/Documentary style. Do not use Gemini OmniFlash for diagrams.
+
