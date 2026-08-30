@@ -147,3 +147,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-08-30] INSIGHT: YouTube workflow update — We no longer do 3 shorts. Only 1 long video is produced. If a short is created, it shares the exact same title, description, and tags as the long video, so no separate Shorts section or unique titles are generated.
 
+- [2026-08-30] CRITICAL: YOUTUBE TITLE RULE. Video titles must ALWAYS be short, straightforward, and packed with the most important story keywords (e.g., entity names, locations, core mystery/crime). Avoid long sentences or verbose phrasing. Keep it punchy, direct, and keyword-rich.
+

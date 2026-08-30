@@ -15,9 +15,9 @@ downstream_valid: true
 ## 📺 LONG VIDEO
 
 ### Title Options (for A/B Testing)
-1. **What the Radar Found Beneath the Pyramids of Giza**
-2. **The L-Shaped Anomaly: The Discovery Rewriting Egyptian History**
-3. **They Scanned Beneath Giza. They Found Something Impossible.**
+1. **The L-Shaped Anomaly Beneath the Pyramids**
+2. **What Radar Found Beneath Giza**
+3. **The Discovery Under Egypt's Pyramids**
 
 ---
 

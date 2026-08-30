@@ -399,6 +399,7 @@ Rules:
 ### YouTube Video Workflow
 - 1 long video per episode (no separate shorts needed)
 - Long video: 3 title options for A/B testing + description + tags
+- Title rule: Must be short, straightforward, and packed with core story keywords (e.g. names, places, core mystery). No long sentences or fluff.
 - If a short is uploaded, it shares the exact same title, description, and tags as the long video
 
 ### Timing Calculation
