@@ -15,9 +15,9 @@ downstream_valid: true
 ## 📺 LONG VIDEO
 
 ### Title Options (for A/B Testing)
-1. **The L-Shaped Anomaly Beneath the Pyramids**
-2. **What Radar Found Beneath Giza**
-3. **The Discovery Under Egypt's Pyramids**
+1. **The Pyramids of Giza — What the Radar Found Beneath the Sand**
+2. **The Giza Plateau — The L-Shaped Anomaly Hidden Beneath the Sand**
+3. **The Great Pyramids — The 4,500-Year-Old Subsurface Discovery**
 
 ---
 
