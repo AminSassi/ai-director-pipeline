@@ -15,11 +15,7 @@ downstream_valid: true
 ## 📺 LONG VIDEO
 
 ### Title
-**The Giza Plateau — The L-Shaped Anomaly Hidden Beneath the Sand**
-
-### Alternative Titles (A/B Testing)
-- The Pyramids of Giza — What the Radar Found Beneath the Sand
-- The Great Pyramids — The 4,500-Year-Old Subsurface Discovery
+**The Giza Plateau — The Hidden L-Shaped Anomaly**
 
 ---
 
