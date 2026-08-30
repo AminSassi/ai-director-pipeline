@@ -145,3 +145,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-08-28] CRITICAL: NO INFOGRAPHICS OR DIAGRAMS. Never generate flat vector infographics, animated diagrams, or chart visualizations. The director hates them. Even for EXPLAINER scenes (like fraud mechanisms, money flow, or balance sheets), use CINEMATIC VISUAL METAPHORS (e.g., macro shots of ledgers, physical documents being stamped, briefcases, red ink on paper, tense character moments in dark offices). All chunks default to standard Cinematic/Documentary style. Do not use Gemini OmniFlash for diagrams.
 
+- [2026-08-30] INSIGHT: YouTube workflow update — We no longer do 3 shorts. Only 1 long video is produced. If a short is created, it shares the exact same title, description, and tags as the long video, so no separate Shorts section or unique titles are generated.
+

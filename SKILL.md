@@ -397,9 +397,9 @@ Rules:
 - Start frame + expand = seamless continuation
 
 ### YouTube Video Workflow
-- 1 long video + 3 shorts per episode
+- 1 long video per episode (no separate shorts needed)
 - Long video: 3 title options for A/B testing + description + tags
-- Each short: own title; all shorts share same description and tags
+- If a short is uploaded, it shares the exact same title, description, and tags as the long video
 
 ### Timing Calculation
 - 27 words OR 145 characters (including spaces) = 10 seconds of video
