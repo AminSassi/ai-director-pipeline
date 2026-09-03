@@ -149,3 +149,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-08-30] CRITICAL: YOUTUBE TITLE RULE. Video titles must ALWAYS follow the two-part signature format: `[Main Subject / Entity] — [The Core Hook / Discovery / Crime / Event]`. Example: `First Brands Group — The James Brothers' $2B Auto Parts Fraud` or `The Pyramids of Giza — What the Radar Found Beneath the Sand`. Must be straightforward, keyword-dense, and structured with an em-dash (`—`).
 
+- [2026-09-03] CRITICAL BATCH SIZE RULE: Always generate and output EXACTLY 6 chunks per batch in chat (never 4). Standard batch progression: Chunks 1–6, Chunks 7–12, Chunks 13–18, Chunks 19–24, Chunks 25–30, Chunks 31–36, Chunks 37–42, Chunks 43–45. Pre-Generation Audit Cronjob must precede every 6-chunk batch.
+

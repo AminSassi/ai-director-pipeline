@@ -358,6 +358,8 @@ Every prompt goes through self-review before presenting.
 - Passes timing, then gives that chunk of script
 - MiMo generates for that specific segment
 - Director controls the pace
+- **BATCH SIZE RULE (PERMANENT):** Always generate and output EXACTLY 6 chunks per batch in chat (never 4). Standard batch progression: Chunks 1–6, Chunks 7–12, Chunks 13–18, Chunks 19–24, Chunks 25–30, Chunks 31–36, Chunks 37–42, Chunks 43–45.
+- Each batch must include the Pre-Generation Audit Cronjob before the prompts and Post-Generation Audit summary after.
 
 ## Platform Differences
 | Rule | Grok Imagine |
