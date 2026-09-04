@@ -199,7 +199,8 @@ Always single-frame shots. Split screens look like AI slop and break immersion. 
 If script says "night" or "evening", prompts MUST be set at NIGHT. Don't default to day. Lighting must match narration.
 
 ### Rule: Corrections = completely new ideas
-When redoing prompts, NEVER reuse old angles, compositions, or ideas. Fresh camera angles, fresh perspectives, fresh emotional beats every time.
+When redoing prompts during Phase 3 (Correction Phase), NEVER reuse old angles, compositions, or failed ideas. Fresh camera angles, fresh perspectives, fresh emotional beats every time.
+- **Shot count scaling for corrections:** If script/cut is short (1–5 seconds), generate **2 or 3 shots** only (e.g. `SHOT 1/2` to `2/2` or `1/3` to `3/3`). If long (up to 15 seconds max), generate the usual **6 shots** (or full 4–6 shot sequence).
 
 ### Rule: Emotional focus at key moments
 During significant narrative moments (collapse, betrayal, disaster), focus on the character's face — devastation, surprise, quiet defeat. Convey weight through expression and reaction.

@@ -350,6 +350,15 @@ Pass 5 — Delete low-impact context
 1. START FRAME → Flow Nano Banana 2 ONLY
 2. GROK VIDEO → Grok Imagine — always 10 seconds — ALWAYS USE THIS
 
+## Phase 3 — Correction Phase (Post-Production Slop Cleanup & Pick-ups)
+- **Activation:** Occurs after 100% of all initial chunks are generated and assembled. The director watches the full timeline in Premiere Pro, identifies and cuts out seconds of AI slop, artifacts, or weak generations, and requests replacement prompts for those specific trimmed segments.
+- **Segment Durations:** Cut segments can range from short micro pick-ups (1 to 2 seconds) up to full replacement chunks (15 seconds max).
+- **Director Input:** The director pastes the exact timestamp range and the narration text snippet for the cut segment.
+- **Shot Count Scaling for Corrections:**
+  - **Short script / micro cut (1–5 seconds):** Generate **2 or 3 shots** only (e.g. `SHOT 1/2`, `SHOT 2/2` or `SHOT 1/3` to `SHOT 3/3`). Keeps pacing tight and focused without over-complicating brief gaps.
+  - **Long script / full chunk (up to 15 seconds):** Generate the usual **6 shots** (or full 4–6 shot sequence) to deliver dynamic, high-density, slop-free visual storytelling.
+- **Rule:** When redoing prompts, NEVER reuse old angles, compositions, or failed ideas. Always create completely fresh perspectives and emotional beats.
+
 ## AI-Corrects-AI
 Every prompt goes through self-review before presenting.
 

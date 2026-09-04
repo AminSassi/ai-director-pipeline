@@ -151,3 +151,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-09-03] CRITICAL BATCH SIZE RULE: Always generate and output EXACTLY 6 chunks per batch in chat (never 4). Standard batch progression: Chunks 1–6, Chunks 7–12, Chunks 13–18, Chunks 19–24, Chunks 25–30, Chunks 31–36, Chunks 37–42, Chunks 43–45. Pre-Generation Audit Cronjob must precede every 6-chunk batch.
 
+- [2026-09-04] CRITICAL: PHASE 3 CORRECTION PHASE RULES. Activates after 100% of all initial chunks are generated and assembled. The director watches the full timeline in Premiere Pro, trims out seconds of AI slop or flawed generations, and requests replacement prompts. Director provides timestamps and cut script snippets. Cut duration ranges from 1-2s micro-pickups up to 15s max chunks. Scaling rule: If script/cut is short (1–5 seconds), generate ONLY 2 or 3 shots. If long (up to 15 seconds), generate the usual 6 shots. When redoing prompts, NEVER reuse old angles, compositions, or failed ideas; always generate completely fresh perspectives and emotional beats.
+
