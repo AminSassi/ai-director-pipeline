@@ -177,4 +177,6 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-09-10] INSIGHT: Pure Camera Motion for Continuous Video Prompts — In continuous video prompts (especially continuous FPV drone, transitions, or start-to-end frame interpolations), ONLY describe the camera movement, trajectory, speed, and shot mechanics (e.g., flying forward, diving downward, smooth banking, gliding forward, decelerating). NEVER describe the story events, text, actions, or narrative details in the video prompt. The start and end frames already establish all visual elements; restricting the video prompt strictly to pure camera movement allows the AI model to execute a clean, seamless, glitch-free trajectory without hallucination.
 
+- [2026-09-10] CRITICAL: 15-SECOND CHUNK SHOT COUNT RULE. When working with 15-second timing chunks, generate EXACTLY 6 shots per chunk (SHOT 1/6 through SHOT 6/6) instead of 4 shots. This provides optimal visual pacing and density across the 15-second duration. All 6 shots must have all 4 layers, under 35 words per shot, with tags at start of shot lines and in header.
+
 
