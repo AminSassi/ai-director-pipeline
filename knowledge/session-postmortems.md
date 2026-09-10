@@ -192,3 +192,49 @@ This protocol is not optional. It is not skippable. It applies to EVERY session,
 ---
 
 *Last updated: 2026-07-30 — LTCM Session Post-Mortem*
+
+---
+
+## POST-MORTEM #002 — MLADIĆ SESSION [2026-09-01]
+
+### Result: SUCCESS. 99% perfection, 1% AI slop. Director's best video to date.
+
+### Full reference saved to: `knowledge/golden-reference-mladic.md`
+
+---
+
+### WHAT WORKED — THE 9 SUCCESS FACTORS
+
+1. **6 shots per 15-second chunk** (~2.5s per shot) — rapid variety prevented AI drift
+2. **Strict chronological character tagging** — @Ratkoyoung (1992–2000) vs @Ratkoold (2001–2026), never mixed
+3. **Exact 3-block format per chunk** — Narration text → Start Frame prompt → 6-shot Video prompt
+4. **Camera movement variety** — minimum 3 distinct movements per chunk, never repeating consecutive shots
+5. **Real 4-layer build** — Subject & Action, Camera & Motion, Lens & Light, Texture & Mood in every shot
+6. **Moderation-safe rewrites** — institutional atmosphere instead of character in medical distress
+7. **Atmospheric CTA scenes** — zero UI overlays, all story-relevant cinematic visuals
+8. **6-batch processing with director approval gates** — prevented cascading errors
+9. **Genuine audit cronjobs** — real tag scanning and verification, not cosmetic checkboxes
+
+---
+
+### MID-SESSION CORRECTIONS (CAUGHT AND FIXED)
+
+1. **Jumped to Phase 2 without presenting locked asset reference sheets first.** Director caught it immediately. Fixed by presenting all reference sheet prompts and waiting for explicit approval.
+2. **Used 4 shots per chunk instead of 6.** Director caught it. Immediately corrected to 6 shots per 15s chunk. This became the single biggest quality improvement.
+3. **Chunk 30 moderation block** — Grok blocked medical distress on imported face. Redesigned to institutional/legal atmosphere with no character in vulnerable state.
+
+All three corrections were applied within the same session and did not impact final quality.
+
+---
+
+### KEY LEARNING FOR FUTURE SESSIONS
+
+The ~2.5-second-per-shot pacing is the golden ratio:
+- 10-second chunks → 4 shots
+- 15-second chunks → 6 shots
+
+Never go slower than this. Slower pacing = more time for AI to hallucinate within each shot = more slop.
+
+---
+
+*Last updated: 2026-09-01 — Mladić Session Post-Mortem (SUCCESS)*

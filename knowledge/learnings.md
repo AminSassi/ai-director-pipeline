@@ -149,7 +149,28 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-08-30] CRITICAL: YOUTUBE TITLE RULE. Video titles must ALWAYS follow the two-part signature format: `[Main Subject / Entity] — [The Core Hook / Discovery / Crime / Event]`. Example: `First Brands Group — The James Brothers' $2B Auto Parts Fraud` or `The Pyramids of Giza — What the Radar Found Beneath the Sand`. Must be straightforward, keyword-dense, and structured with an em-dash (`—`).
 
+- [2026-09-01] INSIGHT: For the Ratko Mladić episode, @MLADIC_TRIAL is removed and unified into @MLADIC_OLD for all fugitive, trial, and detention scenes.
+
+- [2026-09-01] CRITICAL: GOLDEN RATIO PACING — ~2.5 seconds per shot is the sweet spot. For 10-second chunks use 4 shots (SHOT 1/4 through SHOT 4/4). For 15-second chunks use 6 shots (SHOT 1/6 through SHOT 6/6). NEVER go slower. Slower pacing = more time for AI to hallucinate = more slop. This is permanent.
+
+- [2026-09-01] CRITICAL: MODERATION SAFETY — When a character is sick, dying, or in medical distress, NEVER depict their face or body in that vulnerable state when using imported reference images. Grok will block it. Instead show the ENVIRONMENT of their decline (the room, documents, window, corridor). Let the narration carry emotional weight; visuals provide atmospheric context.
+
+- [2026-09-01] CRITICAL: CAMERA MOVEMENT VARIETY — Minimum 3 distinct camera movements per chunk. NEVER repeat the same camera movement in consecutive shots. If Shot 1 is "slow push in," Shot 2 MUST be something different. Available palette: slow push in, slow dolly back, low-angle tilt up, slow pan left/right, slow crane rise, tracking shot, handheld drift/shake, macro rack focus, Dutch tilt hold, static hold (max 1 per chunk), 50mm shallow focus hold.
+
+- [2026-09-01] CRITICAL: PRESENT LOCKED ASSET REFERENCE SHEETS FIRST. After receiving the timing file, ALWAYS present ALL character and location reference sheet prompts to the director for Nano Banana generation BEFORE generating any chunk prompts. Wait for director to upload confirmation screenshots and say "done." NEVER skip to Phase 2 prompt generation without this step.
+
+- [2026-09-01] INSIGHT: When a character has multiple temporal versions (young vs old), define a clear chronological cut-off date. Tag discipline is strict: use the young version ONLY for scenes before the cut-off, old version ONLY for scenes after. Document the transition point in the locked assets register.
+
+- [2026-09-01] INSIGHT: Contrast cuts within a single chunk are powerful — e.g., cemetery in Bosnia → prison cell in Netherlands, empty courtroom → endless gravestone fields. Use sparingly (2–3 per episode) for maximum emotional impact.
+
+- [2026-09-01] SUCCESS: Full golden reference for this session saved in `knowledge/golden-reference-mladic.md`. This is the quality benchmark. Read it during every bootstrap.
+
+- [2026-09-02] INSIGHT: Script chunk length adaptation for fixes/re-runs: If the pasted script chunk is short, generate 2 shots only (SHOT 1/2, SHOT 2/2). If long, generate 6 shots (SHOT 1/6 through SHOT 6/6). Each script chunk gets exactly one Start Frame prompt and one Video Prompt.
+
 - [2026-09-03] CRITICAL BATCH SIZE RULE: Always generate and output EXACTLY 6 chunks per batch in chat (never 4). Standard batch progression: Chunks 1–6, Chunks 7–12, Chunks 13–18, Chunks 19–24, Chunks 25–30, Chunks 31–36, Chunks 37–42, Chunks 43–45. Pre-Generation Audit Cronjob must precede every 6-chunk batch.
 
 - [2026-09-04] CRITICAL: PHASE 3 CORRECTION PHASE RULES. Activates after 100% of all initial chunks are generated and assembled. The director watches the full timeline in Premiere Pro, trims out seconds of AI slop or flawed generations, and requests replacement prompts. Director provides timestamps and cut script snippets. Cut duration ranges from 1-2s micro-pickups up to 15s max chunks. Scaling rule: If script/cut is short (1–5 seconds), generate ONLY 2 or 3 shots. If long (up to 15 seconds), generate the usual 6 shots. When redoing prompts, NEVER reuse old angles, compositions, or failed ideas; always generate completely fresh perspectives and emotional beats.
+
+- [2026-09-09] INSIGHT: Never include courtrooms or courthouses in locked asset reference sheets. Courtrooms are generic institutional architecture and do not require locked reference sheets; describe them by environmental appearance instead. Only lock primary recurring character and core signature locations.
+
 

@@ -12,8 +12,9 @@ Before generating ANY prompt, you MUST do ALL of the following IN ORDER:
 2. Read `additional-rules.md` in full
 3. Read `learnings.md` in full
 4. Read `session-postmortems.md` to know what mistakes were made before
-5. Open and read the `.vst` timing file provided by the director
-6. Confirm to director: "I have read all repo files. Ready to generate."
+5. Read `golden-reference-mladic.md` — the gold standard production benchmark (99% perfection)
+6. Open and read the `.vst` timing file provided by the director
+7. Confirm to director: "I have read all repo files. Ready to generate."
 
 **This is not optional. Not skippable. Not replaceable by memory or context summaries.**
 Every session starts with this protocol. Every single time.

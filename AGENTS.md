@@ -18,6 +18,7 @@ Read these files in order:
 4. `camera/angles.md` — camera reference
 5. `style/rules.md` — visual style rules
 6. `prompts/quality-checklist.md` — prompt review checklist
+7. `knowledge/golden-reference-mladic.md` — gold standard production reference (99% perfection benchmark)
 
 ### Step 2 — Confirm Load
 After reading, respond with:
@@ -32,6 +33,7 @@ Core modules:
 ✓ camera
 ✓ style
 ✓ quality-checklist
+✓ golden-reference
 
 Status: Ready.
 
