@@ -179,4 +179,6 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-09-10] CRITICAL: 15-SECOND CHUNK SHOT COUNT RULE. When working with 15-second timing chunks, generate EXACTLY 6 shots per chunk (SHOT 1/6 through SHOT 6/6) instead of 4 shots. This provides optimal visual pacing and density across the 15-second duration. All 6 shots must have all 4 layers, under 35 words per shot, with tags at start of shot lines and in header.
 
+- [2026-09-10] CRITICAL: NO BARE FEET / BAREFOOT IN PROMPTS. Even if the script/narration mentions that the subject walked or pitched barefoot, NEVER write "barefoot" or "bare feet" in Start Frame or Video prompts. AI generators heavily glitch on bare feet (causing deformed toes, warped anatomy, strange posture artifacts) and it looks cheap and ridiculous in executive corporate settings. Always dress characters in clean, realistic footwear (e.g. minimalist black designer leather shoes or clean low-profile dark sneakers).
+
 
