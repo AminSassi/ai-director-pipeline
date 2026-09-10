@@ -175,4 +175,6 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-09-10] INSIGHT: Realistic Datacenter Infrastructure — In server room and datacenter scenes, NEVER place freestanding pedestals, isolated hardware units on the floor, or floating items. Servers must ALWAYS be mounted inside standard industrial enterprise rack cabinets on steel rails with clean cable management, perforated mesh doors, and clean aisle architecture. Keep the environment 100% grounded in authentic corporate IT infrastructure.
 
+- [2026-09-10] INSIGHT: Pure Camera Motion for Continuous Video Prompts — In continuous video prompts (especially continuous FPV drone, transitions, or start-to-end frame interpolations), ONLY describe the camera movement, trajectory, speed, and shot mechanics (e.g., flying forward, diving downward, smooth banking, gliding forward, decelerating). NEVER describe the story events, text, actions, or narrative details in the video prompt. The start and end frames already establish all visual elements; restricting the video prompt strictly to pure camera movement allows the AI model to execute a clean, seamless, glitch-free trajectory without hallucination.
+
 
