@@ -173,4 +173,6 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-09-09] INSIGHT: Never include courtrooms or courthouses in locked asset reference sheets. Courtrooms are generic institutional architecture and do not require locked reference sheets; describe them by environmental appearance instead. Only lock primary recurring character and core signature locations.
 
+- [2026-09-10] INSIGHT: Realistic Datacenter Infrastructure — In server room and datacenter scenes, NEVER place freestanding pedestals, isolated hardware units on the floor, or floating items. Servers must ALWAYS be mounted inside standard industrial enterprise rack cabinets on steel rails with clean cable management, perforated mesh doors, and clean aisle architecture. Keep the environment 100% grounded in authentic corporate IT infrastructure.
+
 
