@@ -9,16 +9,15 @@
 ### LOCKED CHARACTERS (Recurring with Reference Sheets)
 | Tag | Name / Role | Narrative Appearance |
 | :--- | :--- | :--- |
-| @ELON_MUSK | Elon Musk (CEO of SpaceX / Owner of Cursor Ecosystem) | Chunks 3, 4, 8, 9, 28, 31, 37 |
-| @OPERATOR_RUSSIAN | Russian Cyber Operative / Aur0ra Core Operator | Chunks 1, 3, 11, 17, 23, 26, 35, 36, 37 |
-| @EYAL_SELA | Eyal Sela (Gambit Security Lead Cyber Forensics Researcher) | Chunks 17, 24, 26, 27, 31, 32 |
+| @elonmusk | Elon Musk (CEO of SpaceX / Owner of Cursor Ecosystem) | Chunks 3, 4, 8, 9, 28, 31, 37 |
+| @russianOP | Russian Cyber Operative / Aur0ra Core Operator | Chunks 1, 3, 11, 17, 23, 26, 35, 36, 37 |
+| @sela | Eyal Sela (Gambit Security Lead Cyber Forensics Researcher) | Chunks 17, 24, 26, 27, 31, 32 |
 
 ### LOCKED LOCATIONS & HERO ASSETS (Recurring with Reference Sheets)
 | Tag | Location / Hero Object | Narrative Appearance |
 | :--- | :--- | :--- |
-| @STARBASE_HQ | SpaceX Starbase Rocket Facility & High Bay (Boca Chica, Texas) | Chunks 3, 8, 9, 36, 37 |
-| @GAMBIT_LAB | Gambit Security Cyber Threat Intelligence Lab (Tel Aviv) | Chunks 17, 24, 26, 27, 31, 32 |
-| @EXPOSED_SERVER_ROOM | Commercial Colocation Datacenter / Exposed Command Server | Chunks 25, 26, 27, 28, 34 |
+| @HQ | SpaceX Starbase Rocket Facility & High Bay (Boca Chica, Texas) | Chunks 3, 8, 9, 36, 37 |
+| @LAB | Gambit Security Cyber Threat Intelligence Lab (Tel Aviv) | Chunks 17, 24, 26, 27, 31, 32 |
 
 ### UNLOCKED ASSETS (Described physically, NO @TAG)
 - Christeyns Belgian chemical factory technicians in protective suits, stainless steel vats, chemical transport trucks
@@ -34,40 +33,34 @@
 
 ## 2. REFERENCE SHEETS (Turnaround Boards for Nano Banana 2)
 
-### @ELON_MUSK — Character Reference Sheet
+### @elonmusk — Character Reference Sheet
 `
 @ ELON_MUSK
 Professional character reference sheet, technical model turnaround style, clean neutral plain background, photorealistic. 54-year-old South African-American technology entrepreneur and CEO, tall athletic-stocky build, intense visionary demeanor, short styled brownish-grey hair, trimmed light stubble along jawline, focused analytical gaze, wearing a minimalist dark charcoal fitted crewneck t-shirt, tailored dark denim trousers, and clean dark leather designer sneakers. Two horizontal rows. Top row: four full-body standing views — front view, left profile view facing left, right profile view facing right, back view. Bottom row: three close-up portraits — front portrait, left profile portrait facing left, right profile portrait facing right. Relaxed A-pose, consistent scale, accurate anatomy, clear silhouette, even spacing, uniform framing, consistent head height and facial scale across all panels. Same direction intensity and softness lighting across all panels, natural controlled shadows. Canon SL3, 17-85mm lens, fine pores, DSLR photography look, no airbrush, no CGI retouch, no text overlays. Landscape 16:9 --no white background or white bars
 `
 
-### @OPERATOR_RUSSIAN — Character Reference Sheet
+### @russianOP — Character Reference Sheet
 `
 @ OPERATOR_RUSSIAN
 Professional character reference sheet, technical model turnaround style, clean neutral plain background, photorealistic. 34-year-old Eastern European male cyber operative, lean athletic build, sharp angular facial features, piercing pale grey-blue eyes, short messy dark ash-brown hair, subtle two-day stubble, calculating cold expression, wearing a practical dark graphite technical tactical fleece hoodie with sleeves slightly pushed up, dark cargo utility pants, and rugged dark low-top trainers. Two horizontal rows. Top row: four full-body standing views — front view, left profile view facing left, right profile view facing right, back view. Bottom row: three close-up portraits — front portrait, left profile portrait facing left, right profile portrait facing right. Relaxed A-pose, consistent scale, accurate anatomy, clear silhouette, even spacing, uniform framing, consistent head height and facial scale across all panels. Same direction intensity and softness lighting across all panels, natural controlled shadows. Canon SL3, 17-85mm lens, fine pores, DSLR photography look, no airbrush, no CGI retouch, no text overlays. Landscape 16:9 --no white background or white bars
 `
 
-### @EYAL_SELA — Character Reference Sheet
+### @sela — Character Reference Sheet
 `
 @ EYAL_SELA
 Professional character reference sheet, technical model turnaround style, clean neutral plain background, photorealistic. 39-year-old Israeli cybersecurity director and forensics researcher, medium athletic build, short textured dark brown hair fading at the sides, trimmed dark full beard, sharp observant dark eyes behind slim modern titanium spectacles, calm authoritative intellect, wearing a navy blue fine-knit crewneck sweater over a collared chambray shirt, charcoal chinos, and dark leather shoes. Two horizontal rows. Top row: four full-body standing views — front view, left profile view facing left, right profile view facing right, back view. Bottom row: three close-up portraits — front portrait, left profile portrait facing left, right profile portrait facing right. Relaxed A-pose, consistent scale, accurate anatomy, clear silhouette, even spacing, uniform framing, consistent head height and facial scale across all panels. Same direction intensity and softness lighting across all panels, natural controlled shadows. Canon SL3, 17-85mm lens, fine pores, DSLR photography look, no airbrush, no CGI retouch, no text overlays. Landscape 16:9 --no white background or white bars
 `
 
-### @STARBASE_HQ — Location Reference Sheet
+### @HQ — Location Reference Sheet
 `
 @ STARBASE_HQ
 Professional location reference sheet, full-frame photographs, no borders, no margins. Arrange into a grid of six views filling entire image: top row — wide establishing shot of massive SpaceX Starbase launch gantry tower with stainless steel rocket booster against Texas coastal sunset sky, medium shot of high-bay engineering hangar with rocket hull segments and overhead gantries, close architectural detail of glowing avionics telemetry diagnostic consoles. Bottom row — aerial wide shot of the Boca Chica coastal spaceport complex, medium shot of concrete launch mount with heavy propellant lines, close detail of polished metallic rocket engine heat shielding. Each photo fills its panel completely, no white space, no grey background. Natural coastal industrial lighting, photorealistic, Canon SL3, 17-85mm lens. No text overlays. Landscape 16:9
 `
 
-### @GAMBIT_LAB — Location Reference Sheet
+### @LAB — Location Reference Sheet
 `
 @ GAMBIT_LAB
 Professional location reference sheet, full-frame photographs, no borders, no margins. Arrange into a grid of six views filling entire image: top row — wide establishing shot of modern Tel Aviv cybersecurity threat intelligence operations room with floor-to-ceiling glass windows and ambient deep blue lighting, medium shot of forensic analyst workstation with dual ultrawide monitors displaying cyber telemetry, close shot of an illuminated light-table desk reviewing network packet logs. Bottom row — wide angle of glass-partitioned war room with network topology diagrams drawn on transparent acrylic boards, medium shot of server rack diagnostics console, close macro detail of illuminated mechanical keyboard and fiber-optic patch panels. Each photo fills its panel completely, no white space, no grey background. Modern high-tech cyber intelligence laboratory aesthetic. Controlled architectural interior lighting, photorealistic, Canon SL3, 17-85mm lens. No text overlays. Landscape 16:9
-`
-
-### @EXPOSED_SERVER_ROOM — Location Reference Sheet
-`
-@ EXPOSED_SERVER_ROOM
-Professional location reference sheet, full-frame photographs, no borders, no margins. Arrange into a grid of six views filling entire image: top row — wide shot of a chilly commercial server colocation datacenter aisle with tall matte black metal rack cabinets and perforated steel doors, medium shot of an unlatched server rack door hanging slightly open revealing blinking amber and blue status LEDs, close macro shot of an unshielded RJ45 Ethernet patch cable plugged into an enterprise network switch with activity lights flashing. Bottom row — high-angle perspective looking down the industrial perforated raised-floor cold aisle with overhead cable trays, medium shot of a hardware diagnostic terminal screen mounted on a rack rail, close detail of power distribution unit displays showing live electrical load. Each photo fills its panel completely, no white space, no grey background. Authentic corporate IT datacenter environment, clean rack rails, no freestanding objects. Cool LED server illumination, photorealistic, Canon SL3, 17-85mm lens. No text overlays. Landscape 16:9
 `
 
 ---
