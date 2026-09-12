@@ -106,19 +106,19 @@ extortion spree while believing it was a legal test, and how the entire operatio
 
 ### START FRAME (Nano Banana 2)
 `
-@Insolvent_logo Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Sleek circular INSOLVENT emblem with red declining line and city skyline embossed on a dark matte charcoal studio wall, dramatic soft side lighting, sharp elegant texture, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Moody investigative desk in dark room, illuminated by soft amber lamp, an analog reel-to-reel tape recorder spinning, forensic folders with red labels, dramatic shadows, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
 `
-Use @image1 as visual anchor for start frame @Insolvent_logo.
+Use @image1 as visual anchor for start frame.
 
-SHOT 1/6 @Insolvent_logo embossed in metallic white and crimson on a matte black high-end studio wall, soft cinematic spotlight sweeping across surface, clean modern texture, 50mm lens
+SHOT 1/6 Slow push-in on an analog reel-to-reel tape recorder spinning slowly on an investigator wooden desk, warm amber VU meters gently bouncing, vintage tape warmth, shallow focus
 SHOT 2/6 Close-up of hands in dark gloves plugging an unsecured yellow Ethernet cable into an open network port in an empty corridor, harsh overhead utility light, film grain
-SHOT 3/6 Macro shot of an analog reel-to-reel tape recorder spinning slowly on an investigator wooden desk, warm amber VU meters gently bouncing, vintage tape warmth, shallow focus
+SHOT 3/6 Macro shot of classified forensic dossier stamped with red ink on wooden table, warm lamp glow, 50mm lens, documentary mood
 SHOT 4/6 Wide cinematic establishing shot of a modern investigative newsroom at dusk, analysts in silhouette reviewing physical dossiers, floor-to-ceiling city window, moody twilight grade
 SHOT 5/6 Slow crane down along the rain-streaked glass facade of a major financial district building, city traffic blurred below, cool steel reflections, 35mm lens, cinematic suspense
-SHOT 6/6 Medium shot of a smartphone lying on a dark desk, screen illuminating to display a sleek documentary video player loading content, soft screen glow, shallow depth of field
+SHOT 6/6 Medium shot of a smartphone lying on a dark desk, screen illuminating to display an investigative documentary video feed loading, soft screen glow, shallow depth of field
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
@@ -130,18 +130,18 @@ Hit subscribe and tap the bell right now so you don't lose this channel. To unde
 
 ### START FRAME (Nano Banana 2)
 `
-@Insolvent_logo Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Extreme close-up of a modern bezel-less smartphone held in hand, displaying the INSOLVENT channel header with a crisp red subscribe button and bell icon, soft cafe background blur, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Close-up of a modern bezel-less smartphone held in hand in a softly lit cafe, displaying a sleek video platform channel page with red subscribe button and bell icon, soft bokeh, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
 `
-Use @image1 as visual anchor for start frame @Insolvent_logo.
+Use @image1 as visual anchor for start frame.
 
-SHOT 1/6 @Insolvent_logo displayed on a sleek smartphone screen held in hand, thumb tapping the crisp subscribe button as a subtle bell icon rings, warm coffee shop lighting, film grain
+SHOT 1/6 Macro shot of a sleek smartphone screen held in hand, thumb tapping a clean red subscribe button as a subtle notification bell rings, warm ambient lighting, film grain
 SHOT 2/6 Wide cinematic establishing shot of a sunlit modern Silicon Valley tech campus, expansive glass architecture, landscaped courtyard, young professionals walking, clean morning light, 35mm lens
 SHOT 3/6 Interior steadicam glide through a bustling open-plan software engineering office, wooden communal desks, natural daylight, dual monitors, energetic collaborative atmosphere
 SHOT 4/6 Medium shot of a female software engineer leaning forward, sipping iced coffee, watching lines of clean code generate autonomously across her screen, warm natural window light, 50mm lens
 SHOT 5/6 Over-the-shoulder close-up of hands typing plain English prompt into an editor input field, cursor blinking smoothly, shallow depth of field, soft office ambiance, film grain
 SHOT 6/6 Low-angle tracking shot past modern glass partition walls, collaborative design sketches on glass, bright tech company interior, shallow focus, cinematic grade
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
-`\n
+`
