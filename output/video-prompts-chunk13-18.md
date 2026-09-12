@@ -130,18 +130,18 @@ administrator account. Find any working passwords. Instead of triggering an acco
 
 ### START FRAME (Nano Banana 2)
 `	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Night view of an Argentine pharmaceutical logistics center security entrance, illuminated guard checkpoint booth, parked delivery vans under floodlights, damp asphalt, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Night view of a commercial healthcare logistics center entrance, illuminated gatehouse, parked white delivery transport vans under soft floodlights, damp asphalt, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
 `	ext
 Use @image1 as visual anchor for start frame @russianOP.
 
-SHOT 1/6 Wide establishing shot outside the gates of the Argentine pharmaceutical distribution facility at midnight, security guard booth lit by fluorescent lamp, wet pavement, 35mm lens, film grain
-SHOT 2/6 Medium tracking shot past rows of parked white refrigerated pharmaceutical vans, security floodlights casting long harsh shadows across empty asphalt lot, cold night mist, shoulder rig look
-SHOT 3/6 Interior low-angle shot looking up at an enterprise network rack cabinet inside the plant electrical room, green VPN tunnel indicator lights rapidly flashing into activity, industrial texture
-SHOT 4/6 @russianOP sitting in dark apartment, looking at laptop screen with an amused smirk, vapor rising from hot ceramic teacup beside keyboard, soft amber side lighting, 50mm lens
-SHOT 5/6 Macro rack-focus on fingers resting on laptop trackpad, terminal screen reflection showing cheerful emoji characters in chat response, subtle screen glow across knuckles, shallow depth of field
-SHOT 6/6 Cinematic slow crane rise over the darkened pharmaceutical warehouse complex, distant Buenos Aires city lights glowing on horizon, chilling sense of invisible intrusion, film grain
+SHOT 1/6 Wide establishing shot outside the entrance gates of a South American commercial healthcare logistics facility at night, illuminated gatehouse, wet asphalt, 35mm lens, film grain
+SHOT 2/6 Medium tracking shot past rows of parked white refrigerated transport vans, clean perimeter floodlights casting soft shadows across lot, misty evening air, shoulder rig look
+SHOT 3/6 Interior low-angle shot looking up at an enterprise network rack cabinet inside a clean server room, green connectivity indicator lights strobing steadily, industrial texture
+SHOT 4/6 @russianOP sitting in a dimly lit office, looking at laptop screen with calm focused expression, vapor rising from ceramic teacup, soft amber side lighting, 50mm lens
+SHOT 5/6 Macro rack-focus on fingers resting on laptop trackpad, terminal screen reflection showing cheerful chat characters in interface, subtle screen glow across knuckles, shallow depth of field
+SHOT 6/6 Cinematic slow crane rise over the quiet commercial logistics complex, distant Buenos Aires city lights glowing on horizon, peaceful evening atmosphere, film grain
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
-`\n
+`
