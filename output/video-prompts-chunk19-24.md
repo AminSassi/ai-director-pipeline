@@ -34,19 +34,19 @@ Investigators mapped the six -stage attack chain. Step one, initial access. Atta
 
 ### START FRAME (Nano Banana 2)
 `	ext
-@LAB Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view inside the Gambit Security war room in Tel Aviv, analysts standing before illuminated transparent glass boards with system schematics, ambient deep blue interior light, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+@LAB Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view inside the Gambit Security operations center in Tel Aviv, analysts standing before illuminated transparent glass boards with system schematics, ambient deep blue interior light, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
 `	ext
 Use @image1 as visual anchor for start frame @LAB @sela.
 
-SHOT 1/6 @LAB wide establishing shot of Gambit Security war room in Tel Aviv, analysts in background observing real-time global cyber data feeds on curved wall displays, 35mm lens
-SHOT 2/6 @sela standing beside an illuminated transparent glass board, drawing a structured multi-stage attack timeline with black dry-erase marker, focused analytical expression, rim lighting, film grain
-SHOT 3/6 Close-up tracking shot of an office desk in a bright commercial office, an employee clicking on an email shipping alert, coffee mug and family photo on desk, documentary realism
+SHOT 1/6 @LAB wide establishing shot of Gambit Security operations center in Tel Aviv, analysts in background observing real-time global network telemetry on curved wall displays, 35mm lens
+SHOT 2/6 @sela standing beside an illuminated transparent glass board, drawing a structured multi-stage workflow diagram with black dry-erase marker, focused analytical expression, rim lighting, film grain
+SHOT 3/6 Close-up tracking shot of an office desk in a bright commercial office, an employee clicking on a delivery tracking notification, coffee mug and desk plant, documentary realism
 SHOT 4/6 Interior medium shot of the corporate cubicle area, quiet daytime productivity, employees conversing in background, natural daylight streaming through tall windows, 35mm lens
 SHOT 5/6 Low-angle dolly shot down a subterranean building utility corridor, overhead steel cable trays holding colorful bundles of fiber-optic communication lines, clean industrial lighting
-SHOT 6/6 @sela turning toward his team in the war room, gesturing toward the timeline diagram while explaining the reconnaissance findings, natural authority, shallow focus, 50mm lens
+SHOT 6/6 @sela turning toward his team in the operations center, gesturing toward the workflow diagram while explaining the diagnostic analysis, natural authority, shallow focus, 50mm lens
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
