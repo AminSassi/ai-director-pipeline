@@ -105,20 +105,20 @@ SHOT 6/6 Low-angle Dutch tilt shot looking up at towering corporate steel-and-gl
 extortion spree while believing it was a legal test, and how the entire operation unraveled because of one careless mistake. Before we go further, this channel breaks down the wildest stories in tech, finance, and cyber warfare, told the way they actually happen.
 
 ### START FRAME (Nano Banana 2)
-`
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Moody investigative desk in dark room, illuminated by soft amber lamp, an analog reel-to-reel tape recorder spinning, forensic folders with red labels, dramatic shadows, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+`	ext
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Moody exterior view of a brutalist telecommunications building at dusk, rain-slicked pavement reflecting cold streetlights, overhead power lines stretching into misty fog, cinematic thriller atmosphere, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
-`
+`	ext
 Use @image1 as visual anchor for start frame.
 
-SHOT 1/6 Slow push-in on an analog reel-to-reel tape recorder spinning slowly on an investigator wooden desk, warm amber VU meters gently bouncing, vintage tape warmth, shallow focus
-SHOT 2/6 Close-up of hands in dark gloves plugging an unsecured yellow Ethernet cable into an open network port in an empty corridor, harsh overhead utility light, film grain
-SHOT 3/6 Macro shot of classified forensic dossier stamped with red ink on wooden table, warm lamp glow, 50mm lens, documentary mood
-SHOT 4/6 Wide cinematic establishing shot of a modern investigative newsroom at dusk, analysts in silhouette reviewing physical dossiers, floor-to-ceiling city window, moody twilight grade
-SHOT 5/6 Slow crane down along the rain-streaked glass facade of a major financial district building, city traffic blurred below, cool steel reflections, 35mm lens, cinematic suspense
-SHOT 6/6 Medium shot of a smartphone lying on a dark desk, screen illuminating to display an investigative documentary video feed loading, soft screen glow, shallow depth of field
+SHOT 1/6 Slow tracking shot along rain-slicked asphalt outside a brutalist telecommunications facility at dusk, overhead utility cables cutting through mist, 35mm lens, moody atmospheric grade, film grain
+SHOT 2/6 Medium shot of a shadowy figure in dark coat walking briskly past illuminated glass storefronts, pulling hood up against sudden drizzle, handheld camera drift, subtle neon reflections
+SHOT 3/6 Low-angle tilt up a monolithic concrete and dark-glass corporate building, security spotlights casting harsh shadows into low-hanging clouds, deep focus, cinematic suspense
+SHOT 4/6 Smooth dolly forward down an empty subterranean utility corridor, industrial pipes running along raw concrete ceiling, cold fluorescent tubes buzzing, thriller mood
+SHOT 5/6 Macro shot of a server rack latch hanging slightly open, subtle amber diode blinking inside dark metal cabinet, shallow depth of field, analog texture
+SHOT 6/6 Wide cinematic pan across a sprawling metropolitan skyline at twilight, countless office windows glowing against deep blue dusk, distant highway traffic blur, soft grade
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
@@ -129,19 +129,19 @@ SHOT 6/6 Medium shot of a smartphone lying on a dark desk, screen illuminating t
 Hit subscribe and tap the bell right now so you don't lose this channel. To understand this breach, you first have to understand Cursor. In software development, Cursor is an AI-powered code editor engineered to eliminate programming friction. A developer types in plain English, like, write
 
 ### START FRAME (Nano Banana 2)
-`
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Close-up of a modern bezel-less smartphone held in hand in a softly lit cafe, displaying a sleek video platform channel page with red subscribe button and bell icon, soft bokeh, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+`	ext
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Low-angle wide view of an ultramodern Silicon Valley glass office complex at morning sunrise, golden sunlight reflecting off curved curtain walls, manicured courtyards, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
-`
+`	ext
 Use @image1 as visual anchor for start frame.
 
-SHOT 1/6 Macro shot of a sleek smartphone screen held in hand, thumb tapping a clean red subscribe button as a subtle notification bell rings, warm ambient lighting, film grain
-SHOT 2/6 Wide cinematic establishing shot of a sunlit modern Silicon Valley tech campus, expansive glass architecture, landscaped courtyard, young professionals walking, clean morning light, 35mm lens
-SHOT 3/6 Interior steadicam glide through a bustling open-plan software engineering office, wooden communal desks, natural daylight, dual monitors, energetic collaborative atmosphere
-SHOT 4/6 Medium shot of a female software engineer leaning forward, sipping iced coffee, watching lines of clean code generate autonomously across her screen, warm natural window light, 50mm lens
-SHOT 5/6 Over-the-shoulder close-up of hands typing plain English prompt into an editor input field, cursor blinking smoothly, shallow depth of field, soft office ambiance, film grain
-SHOT 6/6 Low-angle tracking shot past modern glass partition walls, collaborative design sketches on glass, bright tech company interior, shallow focus, cinematic grade
+SHOT 1/6 Wide cinematic crane descent outside an ultramodern curved glass tech campus, morning sunlight glancing off architectural panels, clean geometric lines, 35mm lens, corporate scale, film grain
+SHOT 2/6 Interior steadicam tracking shot through an expansive open-plan engineering floor, polished concrete, acoustic wood slats, morning light flooding communal desks, documentary realism
+SHOT 3/6 Medium shot of a focused software engineer sitting at an ergonomic desk, sipping water from a tumbler, gaze fixed intently on dual high-resolution displays, natural window light
+SHOT 4/6 Over-the-shoulder medium shot showing lines of clean source code generating smoothly across a dark terminal window, soft keyboard tapping rhythm, shallow focus, 50mm lens
+SHOT 5/6 Macro rack-focus on hands lightly hovering above an illuminated mechanical keyboard, smooth key travel, warm ambient daylight, intimate engineering focus, film grain
+SHOT 6/6 Low-angle tracking shot past architectural glass partition walls, colorful workflow diagrams sketched in white marker, energetic tech workspace atmosphere, cinematic color grade
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
 `
