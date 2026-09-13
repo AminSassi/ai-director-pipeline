@@ -186,22 +186,16 @@ the rules. Extort Western corporations for millions, but never touch your own ba
 
 ---
 
-## CHUNK 37 [09:00 – 09:15]
-funding. They took a commercial tool designed to build rockets and software, logged in, and weaponized it simply by asking the right questions. And that leaves a chilling question. If a criminal ransomware gang can automate corporate intrusions with a commercial coding
+## CHUNK 37 [09:03 – 09:18]
+rockets and software, logged in, and weaponized it simply by asking the right questions. And that leaves a chilling question. If a criminal ransomware gang can automate corporate intrusions with a commercial coding assistant, what happens when a hostile foreign
 
 ---
 
-## CHUNK 38 [09:15 – 09:30]
-assistant, what happens when a hostile foreign government deploys a sovereign - grade AI engineered specifically for cyber warfare? We engineered these machines to trust us, and cyber criminals have shown the world that to turn that intelligence into a weapon, all you have to do is
+## CHUNK 38 [09:18 – 09:33]
+government deploys a sovereign - grade AI engineered specifically for cyber warfare? We engineered these machines to trust us, and cyber criminals have shown the world that to turn that intelligence into a weapon, all you have to do is tell a convincing lie. If this deep dive kept you hooked until
 
 ---
 
-## CHUNK 39 [09:30 – 09:45]
-tell a convincing lie. If this deep dive kept you hooked until the very end, hit that like button and subscribe so you don't miss our next investigation into technology and global power. And tell me in the comments, if an AI can be fooled with simple lies, can any enterprise network
+## CHUNK 39 [09:33 – 09:48]
+the very end, hit that like button and subscribe so you don't miss our next investigation into technology and global power. And tell me in the comments, if an AI can be fooled with simple lies, can any enterprise network ever truly be safe? Thanks for watching and see you in the next one.
 
----
-
-## CHUNK 40 [09:45 – 10:00]
-ever truly be safe? Thanks for watching and see you in the next one.
-
----

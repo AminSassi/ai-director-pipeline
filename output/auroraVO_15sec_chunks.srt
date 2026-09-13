@@ -143,18 +143,13 @@ drives. Yet what made these attacks historic was the autonomous AI brain that de
 the rules. Extort Western corporations for millions, but never touch your own backyard. The Aurora campaign marks a watershed moment. AI is no longer just a defensive shield. It is an offensive weapon for cyber extortionists. The hackers didn't possess sovereign-grade
 
 37
-00:09:00,000 --> 00:09:15,000
-funding. They took a commercial tool designed to build rockets and software, logged in, and weaponized it simply by asking the right questions. And that leaves a chilling question. If a criminal ransomware gang can automate corporate intrusions with a commercial coding
+00:09:03,000 --> 00:09:18,000
+rockets and software, logged in, and weaponized it simply by asking the right questions. And that leaves a chilling question. If a criminal ransomware gang can automate corporate intrusions with a commercial coding assistant, what happens when a hostile foreign
 
 38
-00:09:15,000 --> 00:09:30,000
-assistant, what happens when a hostile foreign government deploys a sovereign - grade AI engineered specifically for cyber warfare? We engineered these machines to trust us, and cyber criminals have shown the world that to turn that intelligence into a weapon, all you have to do is
+00:09:18,000 --> 00:09:33,000
+government deploys a sovereign - grade AI engineered specifically for cyber warfare? We engineered these machines to trust us, and cyber criminals have shown the world that to turn that intelligence into a weapon, all you have to do is tell a convincing lie. If this deep dive kept you hooked until
 
 39
-00:09:30,000 --> 00:09:45,000
-tell a convincing lie. If this deep dive kept you hooked until the very end, hit that like button and subscribe so you don't miss our next investigation into technology and global power. And tell me in the comments, if an AI can be fooled with simple lies, can any enterprise network
-
-40
-00:09:45,000 --> 00:10:00,000
-ever truly be safe? Thanks for watching and see you in the next one.
-
+00:09:33,000 --> 00:09:48,360
+the very end, hit that like button and subscribe so you don't miss our next investigation into technology and global power. And tell me in the comments, if an AI can be fooled with simple lies, can any enterprise network ever truly be safe? Thanks for watching and see you in the next one.
