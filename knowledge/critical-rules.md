@@ -12,7 +12,7 @@ Before generating ANY prompt, you MUST do ALL of the following IN ORDER:
 2. Read `additional-rules.md` in full
 3. Read `learnings.md` in full
 4. Read `session-postmortems.md` to know what mistakes were made before
-5. Read `golden-reference-mladic.md` — the gold standard production benchmark (99% perfection)
+5. Read `golden-reference-mladic.md` and `golden-reference-aurora.md` — the gold standard production benchmarks
 6. Open and read the `.vst` timing file provided by the director
 7. Confirm to director: "I have read all repo files. Ready to generate."
 
@@ -149,7 +149,21 @@ SHOT 2/4 @TAG2 description...
 - NEVER use floating items, floating text, floating logos, weird glowing effects
 - Papers should be stacked, held, on desks — never floating in air
 - Money should be in counting machines, stacks on tables, or in hands — never floating
-- CTAs use graphics, phone screens, logos — never people speaking/waving
+- CTAs NEVER use subscribe buttons, phone screens, or channel logos. Use vague atmospheric scenes from the story (Director adds overlays in editing).
+
+---
+
+## Visual Style & Setting Rules
+
+### Rule #25 — Anti-Sci-Fi & Grounded Documentary Realism
+- Absolutely NO "space movie" aesthetics, neon blue LED ambient lighting, holographic displays, or hyperrealistic super-modern cyberpunk aesthetic in *Insolvent* videos.
+- Avoid glowing telemetry, curved sci-fi wall displays, and futuristic tech sets — these produce artificial AI slop.
+- All tech, cyber, and corporate scenes must remain 100% grounded in authentic Frontline / BBC documentary realism: natural daylight, standard office desks, regular computer displays, whiteboards with dry-erase markers, paper binders with highlighters, realistic colocation utility closets, physical machinery, and real human environments.
+
+### Rule #26 — Hacker & Tech Episodes Visual Diversity
+- Never trap an entire video or sequence in server rooms, computer setups, datacenters, or corporate cubicles. That produces visual monotony and audience fatigue.
+- For every chunk and shot, deeply translate the narration into diverse, real-world physical transactions and human consequences: industrial shipping, supply chains, maritime chemical tankers, automated manufacturing plants, municipal land deed vaults, legal archives, physical security gates, satellite ground tracking stations, street-level human moments, and newsrooms.
+- Be innovative with scene concepts and creative camera angles beyond keyboards and monitors.
 
 ---
 
