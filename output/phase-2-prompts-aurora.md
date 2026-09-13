@@ -936,9 +936,11 @@ SHOT 6/6 Cinematic slow crane rise over a quiet suburban commercial park at dawn
 
 ---
 
-## CHUNK 37 [09:00 – 09:15]
+---
 
-funding. They took a commercial tool designed to build rockets and software, logged in, and weaponized it simply by asking the right questions. And that leaves a chilling question. If a criminal ransomware gang can automate corporate intrusions with a commercial coding
+## CHUNK 37 [09:03 – 09:18]
+
+rockets and software, logged in, and weaponized it simply by asking the right questions. And that leaves a chilling question. If a criminal ransomware gang can automate corporate intrusions with a commercial coding assistant, what happens when a hostile foreign
 
 ### START FRAME (Nano Banana 2)
 `	ext
@@ -960,11 +962,9 @@ SHOT 6/6 Cinematic slow crane rise outside the corporate glass building, dark cl
 
 ---
 
----
+## CHUNK 38 [09:18 – 09:33]
 
-## CHUNK 38 [09:15 – 09:30]
-
-assistant, what happens when a hostile foreign government deploys a sovereign - grade AI engineered specifically for cyber warfare? We engineered these machines to trust us, and cyber criminals have shown the world that to turn that intelligence into a weapon, all you have to do is
+government deploys a sovereign - grade AI engineered specifically for cyber warfare? We engineered these machines to trust us, and cyber criminals have shown the world that to turn that intelligence into a weapon, all you have to do is tell a convincing lie. If this deep dive kept you hooked until
 
 ### START FRAME (Nano Banana 2)
 `	ext
@@ -986,11 +986,9 @@ SHOT 6/6 Cinematic slow pan across the government complex at nightfall, yellow i
 
 ---
 
----
+## CHUNK 39 [09:33 – 09:48]
 
-## CHUNK 39 [09:30 – 09:45]
-
-tell a convincing lie. If this deep dive kept you hooked until the very end, hit that like button and subscribe so you don't miss our next investigation into technology and global power. And tell me in the comments, if an AI can be fooled with simple lies, can any enterprise network
+the very end, hit that like button and subscribe so you don't miss our next investigation into technology and global power. And tell me in the comments, if an AI can be fooled with simple lies, can any enterprise network ever truly be safe? Thanks for watching and see you in the next one.
 
 ### START FRAME (Nano Banana 2)
 `	ext
@@ -1005,33 +1003,8 @@ SHOT 1/6 Wide cinematic slow tracking shot through an empty corporate executive 
 SHOT 2/6 Interior medium shot of an empty trading floor after hours, rows of dark computer screens, solitary cleaning staff pushing a maintenance cart in distance, documentary realism
 SHOT 3/6 Close-up of raindrops trickling down a tinted plate glass window, blurred city streetlights shimmering in background, moody atmospheric color grade, shallow depth of field, 50mm lens
 SHOT 4/6 Low-angle tracking shot down a quiet corporate corridor, polished terrazzo floor reflecting emergency exit signs, silent closed office doors, tense psychological thriller mood
-SHOT 5/6 Macro rack-focus on an executive brass door handle and digital keycard lock, cold metallic texture, subtle green status LED blinking softly, analog warmth
-SHOT 6/6 Cinematic slow crane descent outside the glass corporate tower, evening traffic flowing in blurred streams along the boulevard below, corporate vulnerability scale, soft grain
---ar 16:9 --no blur --no watermark --no artifacts --no distortion
-`
-
----
-
----
-
-## CHUNK 40 [09:45 – 10:00]
-
-ever truly be safe? Thanks for watching and see you in the next one.
-
-### START FRAME (Nano Banana 2)
-`	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide atmospheric view of a vast metropolitan skyline at deep twilight, thousands of illuminated skyscraper windows glowing like stars against cobalt blue sky, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
-`
-
-### VIDEO PROMPT (Grok Imagine)
-`	ext
-Use @image1 as visual anchor for start frame.
-
-SHOT 1/6 Wide establishing shot of the vast metropolitan skyline at deep twilight, thousands of illuminated office windows glowing like stars against cobalt blue sky, 35mm lens, documentary scale
-SHOT 2/6 Slow dolly forward toward a single illuminated corner office window high up in a dark skyscraper, framing the solitary light amidst darkness, cinematic suspense, film grain
-SHOT 3/6 Interior medium shot of the empty corner office, desk lamp casting a warm pool of light across a clean wooden desk, silent cityscape framed through window, 50mm lens
-SHOT 4/6 Macro shot of a small network hardware chassis on a shelf in the corner, single amber indicator light slowly pulsing in the quiet room, shallow depth of field, documentary texture
-SHOT 5/6 Extreme close-up of the amber light as it turns to soft green, reflecting in the polished dark wood desk surface, quiet atmospheric conclusion, shallow focus
+SHOT 5/6 Macro shot of a small network hardware chassis on an office shelf, single amber indicator light slowly pulsing in the quiet room, shallow depth of field, documentary texture
 SHOT 6/6 Cinematic slow pull-back through the window into the cold night air, the city skyline slowly fading into twilight shadows and stillness, deep documentary grade, soft film grain
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
-`\n
+`
+
