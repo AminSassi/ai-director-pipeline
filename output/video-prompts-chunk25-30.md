@@ -106,7 +106,7 @@ the same affiliate, confirming intrusions against more than 20 organizations acr
 
 ### START FRAME (Nano Banana 2)
 `	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view of an industrial logistics park outside Ghent Belgium on a foggy overcast morning, heavy commercial delivery trucks on wet asphalt, brick refinery buildings, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view of a heavy Belgian commercial tanker truck on a wet grey highway outside Ghent, overcast morning sky, industrial silos in background, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)

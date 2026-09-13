@@ -17,9 +17,9 @@ successfully. When it located encrypted password databases, it cheerfully report
 `	ext
 Use @image1 as visual anchor for start frame @russianOP.
 
-SHOT 1/6 Interior slow tracking shot down a quiet executive corporate hallway at night, floor-to-ceiling glass walls overlooking distant glittering city skyline, ambient blue lighting, film grain
-SHOT 2/6 Medium shot of an empty modern conference room, automated shades slowly adjusting, digital presentation screens casting cool reflections across polished table, 35mm lens, documentary mood
-SHOT 3/6 @russianOP sitting in a dimly lit study, leaning back in dark office chair with calm observant posture, warm amber desk lamp, steam rising from ceramic cup, film grain
+SHOT 1/6 @russianOP sitting in a dimly lit study at night, calm observant posture looking at illuminated laptop screen, warm amber desk lamp, soft steam rising, 50mm lens, film grain
+SHOT 2/6 Close-up over @russianOP shoulder of laptop screen displaying decrypted password database entries scrolling, green text reflection on dark table, shallow focus
+SHOT 3/6 Interior slow tracking shot down a quiet executive corporate hallway at night, floor-to-ceiling glass walls overlooking distant glittering city skyline, ambient blue lighting
 SHOT 4/6 Macro rack-focus on an illuminated laptop keyboard, fingers lightly resting on keys, subtle screen glow highlighting hand details, shallow depth of field, 50mm lens
 SHOT 5/6 Low-angle tracking shot along a clean office print station, automated commercial printer dispensing diagnostic test pages into an empty tray, soft fluorescent lighting
 SHOT 6/6 Cinematic slow push-in toward panoramic office windows at twilight, storm clouds gathering over distant commercial skyscrapers, moody atmospheric color grade, soft film grain

@@ -276,7 +276,7 @@ operation that emerged around April 2026. Operating under the ransomware -as-a-s
 
 ### START FRAME (Nano Banana 2)
 `	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Interior of a clandestine clandestine meeting in a dim basement parking garage, an open leather briefcase on a car hood containing stacks of Euro banknotes and a hardware crypto wallet, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view of a subterranean concrete parking garage, cold fluorescent lights humming overhead, two shadowy figures in dark overcoats standing beside an idling dark sedan near an open briefcase on the hood, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
@@ -352,7 +352,7 @@ An Italian mechanical component manufacturer. Bayou Title, Louisiana's largest r
 
 ### START FRAME (Nano Banana 2)
 `	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Historic French Quarter brick building in New Orleans Louisiana, Spanish moss hanging from live oaks, wrought-iron balcony railings, wet cobblestone street at dusk, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Close-up view of a high-precision Italian CNC milling lathe carving a brass mechanical valve, metallic shavings and coolant fluid on steel bed, sharp industrial lighting, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
@@ -487,9 +487,9 @@ successfully. When it located encrypted password databases, it cheerfully report
 `	ext
 Use @image1 as visual anchor for start frame @russianOP.
 
-SHOT 1/6 Interior slow tracking shot down a quiet executive corporate hallway at night, floor-to-ceiling glass walls overlooking distant glittering city skyline, ambient blue lighting, film grain
-SHOT 2/6 Medium shot of an empty modern conference room, automated shades slowly adjusting, digital presentation screens casting cool reflections across polished table, 35mm lens, documentary mood
-SHOT 3/6 @russianOP sitting in a dimly lit study, leaning back in dark office chair with calm observant posture, warm amber desk lamp, steam rising from ceramic cup, film grain
+SHOT 1/6 @russianOP sitting in a dimly lit study at night, calm observant posture looking at illuminated laptop screen, warm amber desk lamp, soft steam rising, 50mm lens, film grain
+SHOT 2/6 Close-up over @russianOP shoulder of laptop screen displaying decrypted password database entries scrolling, green text reflection on dark table, shallow focus
+SHOT 3/6 Interior slow tracking shot down a quiet executive corporate hallway at night, floor-to-ceiling glass walls overlooking distant glittering city skyline, ambient blue lighting
 SHOT 4/6 Macro rack-focus on an illuminated laptop keyboard, fingers lightly resting on keys, subtle screen glow highlighting hand details, shallow depth of field, 50mm lens
 SHOT 5/6 Low-angle tracking shot along a clean office print station, automated commercial printer dispensing diagnostic test pages into an empty tray, soft fluorescent lighting
 SHOT 6/6 Cinematic slow push-in toward panoramic office windows at twilight, storm clouds gathering over distant commercial skyscrapers, moody atmospheric color grade, soft film grain
@@ -738,7 +738,7 @@ the same affiliate, confirming intrusions against more than 20 organizations acr
 
 ### START FRAME (Nano Banana 2)
 `	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view of an industrial logistics park outside Ghent Belgium on a foggy overcast morning, heavy commercial delivery trucks on wet asphalt, brick refinery buildings, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view of a heavy Belgian commercial tanker truck on a wet grey highway outside Ghent, overcast morning sky, industrial silos in background, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
@@ -821,8 +821,8 @@ Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Clo
 `	ext
 Use @image1 as visual anchor for start frame.
 
-SHOT 1/6 Close-up of Curtis Simpson continuing his interview, subtle head turn as he emphasizes the endless cat-and-mouse dynamic, soft rim lighting, natural skin tones, 50mm lens, documentary realism
-SHOT 2/6 Macro rack-focus across a handcrafted wooden chess board resting on an office coffee table, carved dark wood knight and pawns catching warm afternoon sunlight, shallow focus
+SHOT 1/6 Close-up slow tracking shot across a handcrafted wooden chess board on an office coffee table, carved dark walnut knight and pawns casting long shadows, warm afternoon sunlight, 35mm lens
+SHOT 2/6 Macro rack-focus from the wooden chess pieces to Curtis Simpson seated in the background for a documentary interview, subtle head turn, 50mm lens, documentary realism
 SHOT 3/6 Medium tracking shot in a bright corporate software engineering office, a female security analyst writing safety guideline bullet points on a large magnetic whiteboard with red dry-erase marker
 SHOT 4/6 Over-the-shoulder shot of a developer reviewing code filters in an IDE editor, natural daylight flooding through large office windows, quiet concentration, 35mm lens, film grain
 SHOT 5/6 Slow tilt up an imposing corporate glass curtain wall at dusk, interior office lights switching off floor by floor, evening rain mist settling over the city, moody thriller atmosphere

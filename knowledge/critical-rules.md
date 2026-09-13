@@ -165,6 +165,13 @@ SHOT 2/4 @TAG2 description...
 - For every chunk and shot, deeply translate the narration into diverse, real-world physical transactions and human consequences: industrial shipping, supply chains, maritime chemical tankers, automated manufacturing plants, municipal land deed vaults, legal archives, physical security gates, satellite ground tracking stations, street-level human moments, and newsrooms.
 - Be innovative with scene concepts and creative camera angles beyond keyboards and monitors.
 
+### Rule #27 — Start Frame & SHOT 1 100% Visual Alignment
+- In Grok Imagine image-to-video (`@image1` anchor), the Start Frame generated in Nano Banana **IS literally Shot 1, Frame 0**.
+- **SHOT 1 in the video prompt MUST 100% align with the Start Frame** in subject, environment, lighting, angle, character, and initial framing.
+- SHOT 1 simply animates the Start Frame into motion (adding camera tracking, dolly, pan, or subject action).
+- **STRICTLY FORBIDDEN:** Describing one location/subject in the Start Frame (e.g. an exterior building or a chess board) and then describing a completely different location/subject in SHOT 1 (e.g. an Italian CNC machine or a talking head). Mismatches force the AI video generator to hallucinate grotesque morphs and AI slop during seconds 0–2.
+- Any cut or transition to a new location, character, or camera angle must only occur starting at **SHOT 2**.
+
 ---
 
 ## Workflow Rules

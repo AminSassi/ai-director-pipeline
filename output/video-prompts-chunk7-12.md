@@ -106,7 +106,7 @@ operation that emerged around April 2026. Operating under the ransomware -as-a-s
 
 ### START FRAME (Nano Banana 2)
 `	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Interior of a clandestine clandestine meeting in a dim basement parking garage, an open leather briefcase on a car hood containing stacks of Euro banknotes and a hardware crypto wallet, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view of a subterranean concrete parking garage, cold fluorescent lights humming overhead, two shadowy figures in dark overcoats standing beside an idling dark sedan near an open briefcase on the hood, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)

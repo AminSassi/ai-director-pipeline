@@ -34,7 +34,7 @@ An Italian mechanical component manufacturer. Bayou Title, Louisiana's largest r
 
 ### START FRAME (Nano Banana 2)
 `	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Historic French Quarter brick building in New Orleans Louisiana, Spanish moss hanging from live oaks, wrought-iron balcony railings, wet cobblestone street at dusk, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Close-up view of a high-precision Italian CNC milling lathe carving a brass mechanical valve, metallic shavings and coolant fluid on steel bed, sharp industrial lighting, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)

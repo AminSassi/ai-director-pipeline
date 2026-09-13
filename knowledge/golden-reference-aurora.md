@@ -42,6 +42,12 @@ This document serves as the permanent golden reference and quality benchmark for
 - When narration mentions 'subscribe', 'hit the like button', 'leave a comment', or 'notification bell', **NEVER** generate phone screens showing YouTube, channel logos, or subscribe buttons.
 - Always generate a **moody, atmospheric, story-relevant scene** (e.g. rain on executive boardroom windows, quiet empty trading floors, dramatic metropolitan skyline). The Director adds UI overlays in Premiere Pro.
 
+### Pillar V — Start Frame & SHOT 1 100% Visual Alignment
+- In Grok Imagine image-to-video (`@image1` anchor), the Start Frame generated in Nano Banana **IS literally Shot 1, Frame 0**.
+- **SHOT 1 in the video prompt MUST 100% match the Start Frame** in subject, environment, lighting, angle, character, and framing.
+- SHOT 1 simply breathes camera and subject motion into that exact established frame.
+- **NEVER** describe Scene A in the Start Frame and Scene B in SHOT 1. Discrepancies force the generator to perform an unnatural morph or glitch in seconds 0–2. All new scene transitions, cuts, or angle changes must occur starting at **SHOT 2**.
+
 ---
 
 ## 2. EXEMPLARY SHOWCASE PROMPTS FROM PRODUCTION

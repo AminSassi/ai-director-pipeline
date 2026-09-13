@@ -41,8 +41,8 @@ Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Clo
 `	ext
 Use @image1 as visual anchor for start frame.
 
-SHOT 1/6 Close-up of Curtis Simpson continuing his interview, subtle head turn as he emphasizes the endless cat-and-mouse dynamic, soft rim lighting, natural skin tones, 50mm lens, documentary realism
-SHOT 2/6 Macro rack-focus across a handcrafted wooden chess board resting on an office coffee table, carved dark wood knight and pawns catching warm afternoon sunlight, shallow focus
+SHOT 1/6 Close-up slow tracking shot across a handcrafted wooden chess board on an office coffee table, carved dark walnut knight and pawns casting long shadows, warm afternoon sunlight, 35mm lens
+SHOT 2/6 Macro rack-focus from the wooden chess pieces to Curtis Simpson seated in the background for a documentary interview, subtle head turn, 50mm lens, documentary realism
 SHOT 3/6 Medium tracking shot in a bright corporate software engineering office, a female security analyst writing safety guideline bullet points on a large magnetic whiteboard with red dry-erase marker
 SHOT 4/6 Over-the-shoulder shot of a developer reviewing code filters in an IDE editor, natural daylight flooding through large office windows, quiet concentration, 35mm lens, film grain
 SHOT 5/6 Slow tilt up an imposing corporate glass curtain wall at dusk, interior office lights switching off floor by floor, evening rain mist settling over the city, moody thriller atmosphere
