@@ -1,4 +1,4 @@
-# Phase 2 — Video Prompts: Batch 5 (Chunks 25–30)
+# Phase 2 — Video Prompts: Batch 5 (Chunks 25–30) — Grounded Documentary Redo
 ## AUR0RA: The Russian Hackers Who Turned Elon Musk's AI Against the World
 ### Format: 15-Second Chunks (6 Shots Per Chunk) | Grok Imagine + Nano Banana 2
 
@@ -10,19 +10,19 @@ Security's Eyal Sela observed, tools like Cursor make cyber attackers 30 to 50 p
 
 ### START FRAME (Nano Banana 2)
 `	ext
-@LAB Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view inside Gambit Security laboratory in Tel Aviv at golden hour, warm sunset light streaming through floor-to-ceiling panoramic windows, sleek modern workstations, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+@sela Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Documentary interview setup inside a bright modern office, 39-year-old Israeli cybersecurity researcher sitting in a simple black office chair against a neutral off-white wall, spectacles glinting in soft natural window daylight, calm authoritative expression, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
 `	ext
-Use @image1 as visual anchor for start frame @LAB @sela.
+Use @image1 as visual anchor for start frame @sela.
 
-SHOT 1/6 @LAB wide establishing shot of Gambit Security laboratory in Tel Aviv at golden hour, warm sunset light streaming through floor-to-ceiling panoramic windows, 35mm lens, film grain
-SHOT 2/6 @sela seated in a contemporary interview chair against an architectural glass wall, gesturing with calm authority while explaining automation efficiency, soft key lighting, 50mm lens
-SHOT 3/6 Medium tracking shot across an analyst workstation, dual ultrawide displays showing comparative timeline metrics, cool cyan graphics glowing in soft room ambiance, documentary realism
-SHOT 4/6 Close-up of an analog desk clock ticking beside a paper calendar, warm desk lamp light casting long shadows across mahogany wood, shallow depth of field, nostalgic texture
-SHOT 5/6 Low-angle tracking shot along a subterranean data corridor, rows of illuminated server cabinets with fiber lines pulsing steadily, clean corporate infrastructure, cool blue grade
-SHOT 6/6 Cinematic slow crane rise above Tel Aviv coastal highway at dusk, streams of vehicle headlights blurring into light trails, symbolizing high-speed automation, film grain
+SHOT 1/6 @sela sitting in a simple black chair for a documentary interview in a naturally lit office, neutral off-white wall background, calm authoritative demeanor, warm daylight, 50mm lens, film grain
+SHOT 2/6 Close-up of @sela speaking earnestly toward an off-camera interviewer, natural subtle facial expressions, soft window light glinting on spectacles, shallow depth of field, documentary realism
+SHOT 3/6 Medium tracking shot across a brightly lit modern tech office, software researchers at standard sit-stand desks with dual monitors, open daylight windows, natural workplace atmosphere
+SHOT 4/6 Macro shot of a clean white dry-erase board, black marker writing showing thirty to fifty percent efficiency increase, felt eraser on tray, warm office lighting, 35mm lens
+SHOT 5/6 Low-angle tracking shot along a sunlit corridor, employees walking past with ceramic coffee mugs, glass office doors reflecting bright daylight, grounded realism, subtle camera drift
+SHOT 6/6 Cinematic slow pan across a bustling Tel Aviv city avenue at midday, traffic flowing steadily under Mediterranean sun, realistic urban pacing, soft natural color grade
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
@@ -34,19 +34,19 @@ untouchable. Then, they made a catastrophic blunder. Despite executing a cutting
 
 ### START FRAME (Nano Banana 2)
 `	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Chilly commercial server colocation aisle at night, rows of tall black metal rack cabinets, cool perforated steel floor, an unlatched cabinet door hanging slightly ajar revealing blinking amber LEDs, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Grounded view inside a dusty basement utility corridor, raw grey concrete walls, an ordinary black metal server rack cabinet against the wall, mesh door unlatched and hanging slightly open, white fluorescent lighting, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
 `	ext
-Use @image1 as visual anchor for start frame @LAB @sela.
+Use @image1 as visual anchor for start frame @sela.
 
-SHOT 1/6 Wide tracking shot down a chilly commercial colocation facility aisle, rows of tall matte black rack cabinets, cool perforated steel flooring, industrial lighting, 35mm lens, film grain
-SHOT 2/6 Slow dolly forward toward an unlatched server cabinet door hanging slightly ajar, amber status indicators blinking within the dark metal interior, suspenseful thriller mood
-SHOT 3/6 Macro rack-focus on an unshielded yellow network cable plugged into an open diagnostic port, faint green data diode flickering intermittently, shallow depth of field, 50mm lens
-SHOT 4/6 @LAB interior medium tracking shot inside Gambit Security research suite, two analysts suddenly leaning forward toward a central monitor with wide alert eyes, documentary realism
-SHOT 5/6 @sela walking quickly into the frame behind the analysts, placing both hands on desk edge, staring intently at the open directory on screen, dramatic side lighting
-SHOT 6/6 Close-up of @sela face reflected faintly in the monitor glass, focused intellectual realization, cool screen glow highlighting spectacles, shallow focus, thriller atmosphere
+SHOT 1/6 Wide tracking shot down a dusty basement utility corridor, concrete walls and exposed electrical conduit, standard metal server rack cabinet against wall, plain white fluorescent light, film grain
+SHOT 2/6 Slow dolly forward toward the server rack, showing the metal mesh door unlatched and resting slightly open, dull green status diodes blinking, grounded investigative tension
+SHOT 3/6 Close-up of a researcher laptop on a wooden desk displaying a standard unauthenticated web browser directory list of raw log files, warm desk lamp, shallow focus, 50mm lens
+SHOT 4/6 Medium tracking shot in a sunlit open-plan office, a young cyber analyst calling out and waving his hand toward colleagues, surprised reaction, documentary realism
+SHOT 5/6 @sela walking quickly over to the analyst desk, leaning down with one hand on chair back, squinting through spectacles at the open browser screen, natural daylight, film grain
+SHOT 6/6 Extreme close-up of @sela eyes behind spectacles, focused analytical realization as he reads the unpassworded directory contents on screen, shallow depth of field, dramatic pause
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
@@ -58,19 +58,19 @@ archive. 28 complete chat sessions between Russian operators and Cursor's AI age
 
 ### START FRAME (Nano Banana 2)
 `	ext
-@LAB Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Close-up of a forensic analyst desk inside Gambit Security laboratory at 3 AM, dim ambient blue light, open black three-ring forensic binder with highlighted document pages, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Close-up view of an ordinary wooden office meeting room table cluttered with stacks of printed white A4 documents, open manila folders, and cardboard coffee cups under warm ceiling lighting, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
 `	ext
-Use @image1 as visual anchor for start frame @LAB.
+Use @image1 as visual anchor for start frame @sela.
 
-SHOT 1/6 Wide establishing shot inside @LAB at 3 AM, dim ambient blue lighting, single desk illuminated by warm gooseneck lamp, quiet nocturnal forensic investigation, 35mm lens, film grain
-SHOT 2/6 Medium shot of an analyst in dark sleeves opening a thick black three-ring forensic binder, hundreds of printed paper log sheets neatly filed inside, documentary texture
-SHOT 3/6 Macro rack-focus across printed transcript pages, hand holding yellow highlighter drawing a clean line over timestamped command strings, warm tungsten illumination, 50mm lens
-SHOT 4/6 Close-up tracking shot across rows of printed text logs, paper margins filled with handwritten forensic annotations in blue ink, intimate investigative detail, shallow depth of field
-SHOT 5/6 Medium tracking shot past empty cardboard coffee cups on the desk edge, analyst leaning back and rubbing tired eyes, authentic late-night research exhaustion, film grain
-SHOT 6/6 Cinematic slow dolly back through glass office partitions, framing the lone illuminated research desk surrounded by the quiet dark laboratory, documentary suspense grade
+SHOT 1/6 Wide shot of an ordinary office meeting room table cluttered with stacks of printed white A4 documents, cardboard coffee cups, and open manila folders, overhead fluorescent light, film grain
+SHOT 2/6 Medium shot of an analyst in a grey wool sweater holding a yellow highlighter, marking lines of printed Russian text commands on a paper log sheet, documentary texture
+SHOT 3/6 Macro rack-focus across printed chat transcripts on paper, crisp black ink showing timestamps and conversational smiley emojis, warm side daylight, shallow focus, 50mm lens
+SHOT 4/6 @sela sitting at the wooden conference table, slowly turning pages in a thick cardboard dossier, looking intently across the table at his research partner, natural office lighting
+SHOT 5/6 Close-up tracking shot across three open manila folders labeled with corporate victim names in black marker, paper paperclips and sticky notes attached, archival realism
+SHOT 6/6 Cinematic slow dolly back through the meeting room doorway, framing the team reviewing printed evidence in their bright mundane office, authentic documentary stillness
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
@@ -82,19 +82,19 @@ the AI. Spanning April 8th to May 21st, 2026, Russian extortionists and Elon Mus
 
 ### START FRAME (Nano Banana 2)
 `	ext
-@HQ Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Exterior establishing view of SpaceX Starbase launch complex in Boca Chica Texas at dusk, massive launch gantry tower next to dark coastal water, purple twilight sky, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+@HQ Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide establishing exterior view of SpaceX Starbase launch facility in South Texas at sunset, industrial concrete roads, dust blowing in coastal breeze, massive launch gantry, natural sky, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
 `	ext
 Use @image1 as visual anchor for start frame @HQ @elonmusk.
 
-SHOT 1/6 @HQ wide establishing shot of SpaceX Starbase coastal complex at dusk, massive launch gantry tower silhouetted against purple evening sky, ocean waves lapping beach, 35mm lens
-SHOT 2/6 @elonmusk walking along the concrete launch mount perimeter, looking upward toward the rocket structure, coastal wind rustling dark t-shirt, cinematic documentary grade, film grain
-SHOT 3/6 Dramatic contrast cut: wide aerial shot of Singapore Marina Bay skyline at twilight, futuristic skyscrapers reflecting across dark water, glowing architectural towers, deep blue grade
-SHOT 4/6 Interior tracking shot through CloudSec cybersecurity operations center in Singapore, sleek modern trading-floor layout, analysts monitoring global threat displays on curved video walls
-SHOT 5/6 Medium shot of an Asian cyber intelligence specialist typing on an ergonomic keyboard, reflection of world telemetry map glowing in glass partition, 50mm lens, film grain
-SHOT 6/6 Cinematic slow crane rise above Singapore financial district towers, city traffic weaving through palm-lined boulevards, seamless transition between aerospace scale and global cyber finance
+SHOT 1/6 @HQ wide establishing shot of SpaceX Starbase launch facility in South Texas at sunset, industrial concrete roads, dust blowing in coastal breeze, massive launch gantry, 35mm lens
+SHOT 2/6 @elonmusk walking along the perimeter fence in dusty black t-shirt and jeans, looking up at rocket booster, realistic outdoor lighting, documentary grain
+SHOT 3/6 Close-up of a desktop desk calendar, red ballpoint pen circling the date range April 8th to May 21st, soft natural window light, shallow depth of field, 50mm lens
+SHOT 4/6 Wide tracking shot of a sunlit tropical street in downtown Singapore, lush green palms lining pedestrian crosswalks, modern glass commercial buildings, realistic daylight, film grain
+SHOT 5/6 Interior medium shot of CloudSec tech office in Singapore, analysts in casual collared shirts working at ordinary computer desks, natural daylight flooding room, authentic documentary feel
+SHOT 6/6 Low-angle pan across the Singapore skyline at late afternoon, tropical clouds drifting overhead, grounded international business scale, soft natural grade
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
@@ -106,19 +106,19 @@ the same affiliate, confirming intrusions against more than 20 organizations acr
 
 ### START FRAME (Nano Banana 2)
 `	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view of a modern European motorway in Belgium at dawn, commercial logistics transport trucks traveling across damp asphalt under an overcast grey sky, refinery towers on horizon, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Wide view of an industrial logistics park outside Ghent Belgium on a foggy overcast morning, heavy commercial delivery trucks on wet asphalt, brick refinery buildings, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
 `	ext
 Use @image1 as visual anchor for start frame.
 
-SHOT 1/6 Wide tracking shot of a heavy Belgian commercial logistics transport truck driving across a wet European motorway at dawn, headlights cutting through low mist, 35mm lens, film grain
-SHOT 2/6 Medium shot through rain-spattered windshield, wipers sweeping across glass, industrial refinery towers visible on horizon, authentic documentary realism, cool grey lighting
-SHOT 3/6 Low-angle dolly shot outside the German industrial logistics park in morning fog, heavy automated steel perimeter gates rolling open, yellow warning beacon spinning smoothly
-SHOT 4/6 Dramatic aerial tracking shot over the North Sea, an offshore Helideck platform standing firm amidst rolling grey ocean swells, cold maritime salt spray, deep focus
-SHOT 5/6 Medium tracking shot inside an Argentine commercial distribution warehouse, workers loading pallets of insulated crates onto white transport vans, soft industrial lighting
-SHOT 6/6 Cinematic slow pan across the parked fleet of logistics vans in the damp lot, morning sunrise breaking through low cloud cover, grounded realism, soft film grain
+SHOT 1/6 Wide tracking shot of a heavy Belgian commercial tanker truck driving on a wet grey highway outside Ghent, overcast morning light, industrial silos in background, 35mm lens
+SHOT 2/6 Medium shot inside the truck cab, middle-aged driver watching the rainy road ahead, windshield wipers rhythmic sweep, natural documentary realism, soft grey daylight
+SHOT 3/6 Low-angle tracking shot in an industrial yard in Germany, forklift driver moving stacked steel garage door panels across wet asphalt, yellow safety vest, film grain
+SHOT 4/6 Dramatic aerial tracking shot over rough North Sea waters, cold green swells crashing against the steel legs of an offshore platform, realistic salt spray, deep focus
+SHOT 5/6 Medium tracking shot outside an Argentine pharmaceutical warehouse in Buenos Aires, workers in dark jackets loading white delivery vans, damp overcast morning light
+SHOT 6/6 Cinematic slow pan across the loading dock, exhaust steam rising from van tailpipes into cool morning air, grounded industrial documentary realism
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
@@ -130,18 +130,18 @@ an Italian manufacturer Bayou Title in Louisiana, and a major U.S. enterprise. G
 
 ### START FRAME (Nano Banana 2)
 `	ext
-Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Close-up view of an Italian industrial machine tool cutting polished metal in a factory, cooling fluid spraying across metallic shavings, bright precision lighting, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
+Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Close-up view inside an Italian precision machine workshop, older machinist in dusty canvas apron inspecting a brass valve, oil stains on steel workbench, warm natural shop light, photorealistic, Canon SL3, 17-85mm lens. Landscape 16:9 --no blur --no watermark --no artifacts --no distortion
 `
 
 ### VIDEO PROMPT (Grok Imagine)
 `	ext
 Use @image1 as visual anchor for start frame.
 
-SHOT 1/6 Close-up tracking shot of an Italian precision lathe machine, robotic drill carving brass hydraulic valves, cooling fluid spraying across metallic shavings, sharp industrial lighting, 35mm lens
-SHOT 2/6 Wide establishing shot of historic Bayou Title insurance office in Louisiana, Spanish moss swaying from live oaks, wet wrought-iron balcony railings, moody Southern dusk, film grain
-SHOT 3/6 Interior slow dolly forward down a quiet deed archive room, rows of brass filing drawers holding leather land conveyance ledgers, warm amber library lamps, archival texture
-SHOT 4/6 Low-angle tilt up a towering corporate glass skyscraper in central Manhattan, evening golden hour sunlight blazing off mirrored curtain walls, deep urban perspective
-SHOT 5/6 Interior medium tracking shot through a bustling international newsroom, investigative journalists on telephone headsets, papers stacked on desks, documentary realism, 50mm lens
-SHOT 6/6 Cinematic slow push-in toward a glowing news wire terminal screen, breaking investigative headline banner beginning to type out, tense atmospheric suspense, film grain
+SHOT 1/6 Close-up tracking shot in a small Italian precision machine workshop, older machinist in dusty apron inspecting a machined brass valve, oil stains on workbench, 35mm lens
+SHOT 2/6 Wide establishing shot of historic Bayou Title insurance building in New Orleans, wet brick pavement, dark green shutters, live oak trees, humid overcast afternoon light
+SHOT 3/6 Interior slow dolly shot down a narrow records hallway, a female clerk in business casual reaching to pull a heavy vinyl deed binder from a metal shelf, documentary realism
+SHOT 4/6 Wide tracking shot of busy Manhattan crosswalk at 5 PM, crowds of corporate workers crossing under traffic lights, yellow cabs passing, authentic street-level bustle, film grain
+SHOT 5/6 Interior tracking shot through an ordinary Reuters newsroom in London, journalists at cluttered desks with ringing landline phones, printed newspapers and coffee mugs, 50mm lens
+SHOT 6/6 Close-up of an investigative reporter on landline phone, taking hurried shorthand notes on a yellow legal pad with a blue ballpoint pen, shallow focus, newsroom atmosphere
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
 `\n
