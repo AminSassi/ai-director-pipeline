@@ -163,14 +163,39 @@ SHOT 2/4 @TAG2 description...
 ### Rule #26 — Hacker & Tech Episodes Visual Diversity
 - Never trap an entire video or sequence in server rooms, computer setups, datacenters, or corporate cubicles. That produces visual monotony and audience fatigue.
 - For every chunk and shot, deeply translate the narration into diverse, real-world physical transactions and human consequences: industrial shipping, supply chains, maritime chemical tankers, automated manufacturing plants, municipal land deed vaults, legal archives, physical security gates, satellite ground tracking stations, street-level human moments, and newsrooms.
-- Be innovative with scene concepts and creative camera angles beyond keyboards and monitors.
-
 ### Rule #27 — Start Frame & SHOT 1 100% Visual Alignment
 - In Grok Imagine image-to-video (`@image1` anchor), the Start Frame generated in Nano Banana **IS literally Shot 1, Frame 0**.
 - **SHOT 1 in the video prompt MUST 100% align with the Start Frame** in subject, environment, lighting, angle, character, and initial framing.
 - SHOT 1 simply animates the Start Frame into motion (adding camera tracking, dolly, pan, or subject action).
 - **STRICTLY FORBIDDEN:** Describing one location/subject in the Start Frame (e.g. an exterior building or a chess board) and then describing a completely different location/subject in SHOT 1 (e.g. an Italian CNC machine or a talking head). Mismatches force the AI video generator to hallucinate grotesque morphs and AI slop during seconds 0–2.
 - Any cut or transition to a new location, character, or camera angle must only occur starting at **SHOT 2**.
+
+### Rule #28 — Mandatory Physical Camera Geometry (Screen & Subject Rule)
+- NEVER describe a person's face from the front while simultaneously describing what is displayed on their laptop/monitor screen facing the camera.
+- In physical reality, when looking at someone sitting at a laptop, the camera is facing the BACK of the laptop lid. Describing screen contents in a frontal shot forces the AI to invent an absurd second screen glued to the back of the laptop lid facing outward!
+- **Rule for Screens:** If screen UI must be seen and read, use **Over-The-Shoulder (OTS)** framing (camera behind subject looking over shoulder toward screen).
+- **Rule for Faces:** If shooting the subject's face (medium shot, profile, close-up), describe ONLY the ambient monitor light reflecting on skin/eyes. The detailed screen UI belongs in a dedicated OTS shot or macro insert.
+
+### Rule #29 — Never Tag Human Characters With Mascot Tags
+- NEVER put a mascot tag (e.g. `@cyberleek`) at the beginning of a prompt describing a real human being (investigator, hacker, journalist, lawyer, trader).
+- AI image generators interpret the lead tag as the SUBJECT of the sentence, literally replacing the human with a cartoon mascot (e.g., turning a private investigator into an anthropomorphic leek in a coat).
+- Mascot tags are strictly for the mascot graphic itself, profile icons, or 3D channel bumpers. Real humans must always be described as real humans with realistic skin textures and clothing.
+
+### Rule #30 — Anti-Slop Action & Tension (Fincher / Mr. Robot Rule)
+- NEVER generate chaotic, cartoonish AI action: flailing arms, yanking cords, knocking over stacks of boxes, people running in panic, or screaming faces. These produce grotesque AI physics glitches, distorted extra fingers, and plastic expressions.
+- Build tension through **absolute stillness, quiet dread, deliberate purposeful action** (capping a marker, highlighting a bank statement, reviewing a paper dossier, cold realization, frozen stillness), deep shadows, and architectural scale.
+- Characters must be caught in purposeful, realistic micro-actions, never posed and never cartoonishly panicked.
+
+### Rule #31 — Grok Image-to-Video Filter Protection
+- In Grok image-to-video (`@image1`), automated safety filters aggressively scan imported images and text prompts for potential NSFW or deepfake violations.
+- NEVER use gendered nouns (`female`, `woman`, `girl` attached to imported human faces) — this is xAI's #1 deepfake filter trigger.
+- NEVER use ambiguous words with sexual/NSFW heuristics (`vigorous`, `erotic`) or strange biological tokens (`enamel`).
+- Use clean, professional documentary phrasing: `colleague`, `investigator`, `analyst`, `focused discussion`, `drawing a clean line`.
+
+### Rule #32 — Active Realism vs. Inert Wandering Camera
+- The camera must NEVER wander aimlessly around an empty room, desk, or blinking gadget.
+- Every shot must either show a REAL human being actively doing something important to the plot, or manifest cinematic real-world scale (industrial harbors, courthouses, newsrooms, high-rise skylines).
+- Every chunk must include at least ONE mandatory creative angle from the palette: Dutch-tilt, ground-level tracking, worm's-eye view, bird's-eye view, macro rack focus, or crane rise/fall.
 
 ---
 

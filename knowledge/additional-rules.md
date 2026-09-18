@@ -104,8 +104,37 @@ Every shot MUST include these 4 layers:
 - Pictures inside graphics stay STATIC (like video stills)
 - Ken Burns effect (slow zoom/pan) on static images is fine
 
-## Subscribe/CTA Rules
-- NEVER show people talking, saying bye, or asking to subscribe
-- Use: logos, graphic animations, phone screens showing channel, comment sections scrolling, real devices
-- Visual graphics only for CTAs, not people speaking
-- Use @channellogo tag for channel logo in first frame when CTA appears
+## Subscribe/CTA Rules (Strict Zero-UI Policy)
+- NEVER show people talking, waving goodbye, or asking to subscribe.
+- NEVER generate channel logos, subscribe buttons, like icons, notification bells, or phone screens with YouTube UI.
+- All CTA chunks MUST feature **vague, moody, atmospheric story-world scenes** (e.g., rain on executive office glass at midnight, wet avenue reflections, solitary figure walking away on an empty street, dramatic city skyline).
+- The Director adds all YouTube UI and brand overlays manually in Premiere Pro editing.
+
+---
+
+## Mandatory Camera Angle Quality & Pre-Flight Mandate
+
+Before printing ANY prompt batch, every single shot MUST be evaluated against these hard requirements:
+
+1. **Explicit Creative Angle in Every Chunk:**
+   Every 15-second chunk MUST contain at least one of these dynamic, cinematic angles:
+   - **Dutch-tilt** (low-angle or ground-level, creating immediate instability or dramatic tension)
+   - **Worm's-eye view** (looking up from floor level or beneath glass tables)
+   - **Bird's-eye view** (perpendicular downward view on cluttered analytical desks or city crosswalks)
+   - **Ground-level tracking** (skimming inches above wet asphalt, floorboards, or sidewalks)
+   - **Macro rack focus** (tangible physical items: dry-erase markers on whiteboards, highlighters squeaking on paper, rubber stamps, brass keys, cables)
+   - **Architectural crane rise / descent** (monumental scale of modern skyscrapers or metropolitan skylines)
+   - **Over-The-Shoulder (OTS)** (mandatory whenever computer displays, laptops, or files are being reviewed)
+
+2. **Physical Camera Geometry (The Laptop Screen Rule):**
+   - Frontal/profile human shots $\rightarrow$ describe ONLY monitor light bounce on skin/eyes. Never describe screen UI facing camera.
+   - Screen UI shots $\rightarrow$ MUST be Over-The-Shoulder (OTS) or a dedicated macro insert.
+
+3. **Anti-Slop Action & Tension (Fincher Stillness vs. Cartoon Panic):**
+   - No flailing, screaming, running, or knocking over boxes.
+   - Tension comes from absolute stillness, deep shadows, cold realization, and deliberate purposeful micro-actions.
+
+4. **Safety Filter Proofing:**
+   - No gendered words attached to imported photos (`female`, `woman`, `girl`).
+   - No ambiguous words with sexual/NSFW heuristics (`vigorous`, `erotic`) or unusual biological tokens (`enamel`).
+   - Use clean, professional documentary phrasing (`colleague`, `investigator`, `analyst`, `focused discussion`).

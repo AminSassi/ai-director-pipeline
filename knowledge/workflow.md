@@ -359,8 +359,16 @@ Pass 5 — Delete low-impact context
   - **Long script / full chunk (up to 15 seconds):** Generate the usual **6 shots** (or full 4–6 shot sequence) to deliver dynamic, high-density, slop-free visual storytelling.
 - **Rule:** When redoing prompts, NEVER reuse old angles, compositions, or failed ideas. Always create completely fresh perspectives and emotional beats.
 
-## AI-Corrects-AI
-Every prompt goes through self-review before presenting.
+## AI-Corrects-AI & Mandatory Pre-Flight Audit
+Every prompt batch MUST pass the internal audit before presenting to the Director:
+1. **Script Faithfulness:** Every word of the VO is translated into tangible physical action or real-world environment.
+2. **Action Over Stagnation:** People actively doing plot-critical actions (drawing, pointing, writing, reviewing, walking with purpose). NEVER camera wandering around an empty desk or blinking LED.
+3. **Mandatory Creative Angles:** At least one distinct dynamic angle per chunk: Dutch-tilt, ground-level tracking, worm's-eye, bird's-eye, macro rack focus, or architectural crane.
+4. **Physical Camera Geometry:** Never describe a front-facing face AND a screen facing the camera simultaneously. Use Over-The-Shoulder (OTS) for screens.
+5. **Zero Mascot Tags on Humans:** Never prefix human characters with `@mascot` tags.
+6. **Anti-Slop Tension (Fincher Stillness):** Tension through absolute stillness, deep shadows, and cold realization. Zero flailing, running, or cartoon panic.
+7. **Filter Safety:** 100% clean of Grok image-to-video triggers (no `female`, `vigorous`, `enamel`).
+8. **Strict CTA Visual Discipline:** Zero logos, zero subscribe buttons, zero phone screens. Atmospheric story scenes only.
 
 ## Director's Timeline Workflow
 - Director watches Premiere Pro timeline in real time

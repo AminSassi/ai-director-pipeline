@@ -187,3 +187,23 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 - [2026-09-13] CRITICAL: ANTI-SCI-FI & GROUNDED DOCUMENTARY REALISM RULE. Absolutely NO space movie, neon blue LED, holographic, or hyperrealistic cyberpunk aesthetic in Insolvent episodes. Avoid glowing telemetry, curved sci-fi wall displays, and dark futuristic tech sets - these produce artificial AI slop. All tech, cyber, and corporate scenes must remain 100% grounded in authentic Frontline / BBC documentary realism: natural daylight, standard office desks, regular computer displays, whiteboards with dry-erase markers, paper binders with highlighters, realistic colocation utility closets, physical machinery, and real human environments.
 
 - [2026-09-13] CRITICAL: START FRAME & SHOT 1 100% VISUAL ALIGNMENT RULE. The Start Frame generated in Nano Banana IS literally Shot 1, Frame 0 of the video clip. Therefore, SHOT 1 in the video prompt MUST be the direct, seamless continuation and animation of the exact scene, subject, lighting, angle, and assets established in the Start Frame. Never describe Scene A in the Start Frame and then describe a different Scene B in SHOT 1. When the AI video model (Grok Imagine) is given an anchor image (@image1) that contradicts SHOT 1, it is forced to perform an unnatural morph or severe hallucination in the first 1–2 seconds. SHOT 1 breathes motion into the Start Frame; any transition to new camera angles, locations, or actions only begins at SHOT 2.
+
+- [2026-09-18] CRITICAL: PHYSICAL CAMERA GEOMETRY (THE LAPTOP SCREEN PARADOX). When describing someone sitting at a laptop or desktop computer, NEVER place the camera in front facing their face while simultaneously describing what is on the computer screen facing the camera. In physical reality, looking at someone's face puts the back of the laptop lid toward the camera lens. Trying to describe screen UI in a frontal shot forces the AI image generator to glue an absurd glowing second screen to the back of the laptop lid!
+  * RULE: If screen UI / web portal / terminal must be visible and legible, ALWAYS use **Over-The-Shoulder (OTS)** framing (camera behind subject looking past shoulder toward screen).
+  * RULE: In frontal or profile shots, describe ONLY the ambient monitor glow reflecting on their facial features and skin. The screen UI belongs in a dedicated OTS shot or macro insert.
+
+- [2026-09-18] CRITICAL: MASCOT TAG DISCIPLINE (NEVER TAG HUMANS WITH MASCOTS). NEVER place a mascot tag (e.g. `@cyberleek`) at the beginning of a prompt describing a human actor (investigators, hackers, journalists, lawyers, traders). Image generators treat the lead tag as the SUBJECT of the sentence, literally replacing the human with an anthropomorphic cartoon mascot (e.g., turning a private investigator into an anthropomorphic leek in a coat). Mascot tags are strictly for the standalone mascot avatar/branding, never human roles.
+
+- [2026-09-18] CRITICAL: ANTI-SLOP TENSION & CAMERA ANGLES (THE FINCHER STILLNESS RULE). AI slop comes from chaotic, try-hard, cartoon action prompts (e.g. "panicked operator yanking cables, knocking over hard drive cases, flailing arms"). This breaks AI physics, creates distorted hands, flying debris, and plastic panic expressions. True cinematic tension comes from **deliberate stillness, quiet dread, stark composition, deep shadows, and purposeful micro-actions** (capping a dry-erase marker, highlighting a document, reviewing a paper KYC dossier, cold realization, staring at dead black screens). Furthermore, every chunk MUST employ creative camera angles from the mandatory palette:
+  1. Low-Angle Dutch-tilt (tilted upward from desk or floor height)
+  2. Ground-level tracking (skimming wet asphalt or floorboards)
+  3. Worm's-eye view (looking up through glass tables or floor)
+  4. Bird's-eye view (perpendicular downward view on cluttered desks)
+  5. Macro rack focus (tangible physical items: marker nibs, highlighters, stamps, keys, cables)
+  6. Architectural crane rise/descent (monumental corporate/city scale)
+  7. Over-The-Shoulder (OTS) for all screen and document interactions
+
+- [2026-09-18] CRITICAL: GROK IMAGE-TO-VIDEO SAFETY FILTER PROTECTION. When animating an imported image (`@image1`) in Grok Imagine, xAI's safety filters aggressively scan for potential deepfakes or NSFW content.
+  * NEVER use gendered nouns (`female`, `woman`, `girl`) attached to imported human faces — this triggers the automated deepfake shield.
+  * NEVER use ambiguous words with sexual/NSFW heuristics (`vigorous`, `erotic`) or strange biological tokens (`enamel`).
+  * ALWAYS use clean, professional, objective documentary phrasing: `colleague`, `investigator`, `analyst`, `focused discussion`, `clean line`.

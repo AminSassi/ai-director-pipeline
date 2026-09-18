@@ -1,187 +1,143 @@
-# WEWORK: The  Billion Lie — Synchronized 15-Second Chunks
-
-Source: weworkVO_15sec_chunks.srt
-Total chunks: 36
-Total duration: ~08:52 (531.7 seconds)
-
----
-
-## CHUNK 1 [00:00 – 00:15]
+1
+00:00:00,000 --> 00:00:15,000
 Imagine starting a company renting office space. Boring. Simple. Unsexy. Commercial leasing that existed for generations. Now imagine that company, valued by Wall Street, at $47 billion. More than Boeing. More than Ford.
 
----
-
-## CHUNK 2 [00:15 – 00:30]
+2
+00:00:15,000 --> 00:00:30,000
 More than century-old manufacturing giants. Imagine its founder walks barefoot through Manhattan, flies in a $60 million private jet, orders 12 cases of Don Julio 1942 tequila on every trip, and flies 8
 
----
-
-## CHUNK 3 [00:30 – 00:45]
+3
+00:00:30,000 --> 00:00:45,000
 ,000 employees to London for a private concert by the weekend. This is WeWork. An Israeli naval veteran who arrived in New York with nothing convinced the world office rentals were a spiritual awakening and flipped an empire
 
----
-
-## CHUNK 4 [00:45 – 01:00]
+4
+00:00:45,000 --> 00:01:00,000
 upside down. How $40 billion evaporated in six weeks and how it companies aren't built on cosmic dreams and tequila. They're built on real numbers. Before we go further, this channel exists to break down the wildest
 
----
-
-## CHUNK 5 [01:00 – 01:15]
+5
+00:01:00,000 --> 00:01:15,000
 financial collapses in history, told the way they actually happened. If that's your kind of story, hit subscribe and tap the bell right now so you don't lose this channel. Alright, let's go back to the beginning. Adam Neumann arrives in New York. 22, 6 foot 5,
 
----
-
-## CHUNK 6 [01:15 – 01:30]
+6
+00:01:15,000 --> 00:01:30,000
 fresh out of 5 years in the Israeli Navy. No money, no connections, no plan. Just an American dream the size of the sky. His first ventures failed, from collapsible heels to baby clothes with rubber knee pads. But in 2008, after the crash, Neumann and
 
----
-
-## CHUNK 7 [01:30 – 01:45]
+7
+00:01:30,000 --> 00:01:45,000
 architect Miguel McKelvey noticed empty office floors everywhere, while freelancers were desperate for desks. In 2010, they founded WeWork in Soho, sign long-term commercial leases at Wholesale, Renovate, and sublease desks on flexible
 
----
-
-## CHUNK 8 [01:45 – 02:00]
+8
+00:01:45,000 --> 00:02:00,000
 month-to-month contracts. Firms like Regis had done it for decades, but Neumann sold it as a revolution. He wasn't selling offices, he was selling community and elevating the world's consciousness. Investors bought it completely. Neumann pitched barefoot, talking
 
----
-
-## CHUNK 9 [02:00 – 02:15]
+9
+00:02:00,000 --> 00:02:15,000
 about spirituality and meditation, making venture capitalists feel part of something bigger than money. By 2014, WeWork operated in 23 cities. By 2016, 100. Growth was insane. But beneath neon signs
 
----
-
-## CHUNK 10 [02:15 – 02:30]
+10
+00:02:15,000 --> 00:02:30,000
 and free beer lay a fatal problem. The company was incinerating cash. Between March 2018 and March 2019, WeWork lost $219,000 an hour. Every hour, every day. Yet Neumann wasn't worried.
 
----
-
-## CHUNK 11 [02:30 – 02:45]
+11
+00:02:30,000 --> 00:02:45,000
 He found someone with bottomless pockets, Masayoshi Son, the billionaire running SoftBank. In 2017, SoftBank made its first massive bet, $4.4 billion. Masayoshi Son, who turned $20 million into $50 billion on Alibaba, had
 
----
-
-## CHUNK 12 [02:45 – 03:00]
+12
+00:02:45,000 --> 00:03:00,000
 raised the $100 billion Vision Fund and believed WeWork was the next global monopoly. Their first meeting lasted under 30 minutes. Son told Neumann, In a fight between crazy people, the crazier one wins. You are crazy, but you make me look
 
----
-
-## CHUNK 13 [03:00 – 03:15]
+13
+00:03:00,000 --> 00:03:15,000
 sane. You need to think much bigger. In January 2019, SoftBank pumped another $2 billion in, rocketing WeWork's valuation to $47 billion. This valuation was an optical illusion. It wasn't based on profits or cash flows,
 
----
-
-## CHUNK 14 [03:15 – 03:30]
+14
+00:03:15,000 --> 00:03:30,000
 but on SoftBank's investment alone. Like a wealthy friend buying a soccer ball for $1,000, then telling the world it's worth $1,000. Everyone believes it because the friend is rich. But the ball is still just a ball. WeWork was an office subleasing company.
 
----
-
-## CHUNK 15 [03:30 – 03:45]
+15
+00:03:30,000 --> 00:03:45,000
 But Son's money made it look like a diamond. Armed with billions, Neumann began living a life that defied belief. If a story like this—billions in venture capital, pure corporate delusion, and unchecked egos—is the kind of deep dive you enjoy, make sure you're
 
----
-
-## CHUNK 16 [03:45 – 04:00]
+16
+00:03:45,000 --> 00:04:00,000
 subscribed with notifications on, because we cover cases like this every week. And let me know in the comments, if an investor handed you $4 billion with zero oversight, what's the first thing you would have bought? Drop your answer below. Now, let's take a look at what Adam
 
----
-
-## CHUNK 17 [04:00 – 04:15]
+17
+00:04:00,000 --> 00:04:15,000
 Neumann actually did with the money. First, the private jet. Neumann bought a Gulfstream G-650ER for $60 million with company funds, turning it into a flying party. On one transatlantic flight, marijuana smoke forced crew members into cockpit oxygen
 
----
-
-## CHUNK 18 [04:15 – 04:30]
+18
+00:04:15,000 --> 00:04:30,000
 masks. On another to Mexico City, passengers spat tequila and vomited across the cabin, leaving zero tip. Second, the drink rider. 12 cases of Don Julio 1942 tequila, 48 bottles of kosher wine,
 
----
-
-## CHUNK 19 [04:30 – 04:45]
+19
+00:04:30,000 --> 00:04:45,000
 216 beers, and 2 bottles of 30-year Highland Park scotch at $1,000 each. The bill exceeded an entry-level worker's annual salary. Third, summer camp. Originally on an upstate New York farm with yoga, axe-throwing, drum
 
----
-
-## CHUNK 20 [04:45 – 05:00]
+20
+00:04:45,000 --> 00:05:00,000
 circles, and drugs, flying in the weekend by helicopter. In 2018, they moved to London, flying 8 ,000 employees worldwide. Staff received two bottles of rosé upon arrival, with lakeside meditation, lord, and speeches from Deepak Chopra.
 
----
-
-## CHUNK 21 [05:00 – 05:15]
+21
+00:05:00,000 --> 00:05:15,000
 Former employees described an unhinged frat party, with people drunk on the grass and sounds of sex from neighboring tents. Fourth, the luxury office. A boxing bag, gong, bar, sauna, cold plunge, and ceiling smoke eater for marijuana.
 
----
-
-## CHUNK 22 [05:15 – 05:30]
+22
+00:05:15,000 --> 00:05:30,000
 Neumann rode an electric skateboard down hallways and fired employees giving off negative energy. This wasn't a company. It was a corporate cult run by a man who believed he was destined to live forever, eliminate world hunger, and become the world's first trillionaire.
 
----
-
-## CHUNK 23 [05:30 – 05:45]
+23
+00:05:30,000 --> 00:05:45,000
 In August 2019, WeWork filed its Form S -1 with the SEC to prepare for an IPO. It was marketed as Neumann's Coronation. Instead, when Wall Street opened the books, disaster struck. The filing opened dedicating itself to the energy
 
----
-
-## CHUNK 24 [05:45 – 06:00]
+24
+00:05:45,000 --> 00:06:00,000
 of we, but revealed a nightmare. In 2018, WeWork lost $1.9 billion on revenues of $1.8 billion. For every dollar brought in, it burned two. Worse, the filing exposed a fatal flaw.
 
----
-
-## CHUNK 25 [06:00 – 06:15]
+25
+00:06:00,000 --> 00:06:15,000
 WeWork signed $47 billion in long-term lease liabilities, while revenue came from casual members who could cancel on 30 days' notice. If the economy stumbled, WeWork would be crushed. The filing also revealed shocking self-dealing.
 
----
-
-## CHUNK 26 [06:15 – 06:30]
+26
+00:06:15,000 --> 00:06:30,000
 Neumann owned buildings privately, leased them to WeWork, and collected millions in rent. He even trademarked We and sold it back to WeWork for nearly $6 million in stock. Investors panicked. In six weeks, WeWork's valuation crashed from $47
 
----
-
-## CHUNK 27 [06:30 – 06:45]
+27
+00:06:30,000 --> 00:06:45,000
 billion to $10 billion. The IPO was cancelled. In mid-September, the board ousted Neumann as CEO, but he didn't leave empty-handed. SoftBank handed him a $1.7 billion exit package, including $245 million in cash and $185
 
----
-
-## CHUNK 28 [06:45 – 07:00]
+28
+00:06:45,000 --> 00:07:00,000
 million in consulting fees. The man who destroyed $40 billion in valuation and once burned office furniture at a party was handed a fortune for failure. In October 2019, SoftBank bailed out WeWork with an emergency $9.5
 
----
-
-## CHUNK 29 [07:00 – 07:15]
+29
+00:07:00,000 --> 00:07:15,000
 billion package. Masayoshi San later admitted his faith in Neumann was a error. WeWork tried to survive under new management. In 2021, it merged with a SPAC at a $9 billion valuation, but the structural wounds
 
----
-
-## CHUNK 30 [07:15 – 07:30]
+30
+00:07:15,000 --> 00:07:30,000
 were fatal. When remote work surged, WeWork's lease commitments became an inescapable trap. By 2023, the stock was down 98% and the company was worth under $45 million, while debt exceeded $18 billion. On November 6, 2023,
 
----
-
-## CHUNK 31 [07:30 – 07:45]
+31
+00:07:30,000 --> 00:07:45,000
 WeWork filed for Chapter 11 bankruptcy. The filing listed $15 billion in assets against $18.6 billion in liabilities. Thousands of employees lost their jobs, seeing stock options wiped out. Hundreds of landlords were
 
----
-
-## CHUNK 32 [07:45 – 08:00]
+32
+00:07:45,000 --> 00:08:00,000
 left holding billions in unpaid rent. The dream was dead. So what happened to Adam Neumann? He was never charged with a crime. As of 2026, his net worth is estimated at $2.8 billion. He lives in luxury across Manhattan and the
 
----
-
-## CHUNK 33 [08:00 – 08:15]
+33
+00:08:00,000 --> 00:08:15,000
 Hamptons. And in Proof Venture Capital Never Learns, Neumann launched Flow, raising $350 million from Andreessen Horowitz before launching. The WeWork saga is the definitive story of mass delusion in modern capitalism. How charisma, alcohol, and
 
----
-
-## CHUNK 34 [08:15 – 08:30]
+34
+00:08:15,000 --> 00:08:30,000
 empty promises convinced the smartest investors to hand over billions. Masayoshi San poured $16 billion into WeWork and lost most of it, alongside his reputation. Neumann walked away with a fortune. Because in modern startup finance, it doesn't matter
 
----
-
-## CHUNK 35 [08:30 – 08:45]
+35
+00:08:30,000 --> 00:08:45,000
 how much you lose. What matters is how much you take with you when you fall. If this deep dive kept you hooked until the very end, hit like and subscribe so you don't miss the next corporate breakdown. And tell me in the comments, was Adam Neumann a visionary founder who got unlucky or
 
----
-
-## CHUNK 36 [08:45 – 08:51]
+36
+00:08:45,000 --> 00:08:51,670
 the greatest corporate con artist of the 21st century? Thanks for watching and see you in the next one.
-
----
