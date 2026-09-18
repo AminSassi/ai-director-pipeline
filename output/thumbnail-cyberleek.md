@@ -5,11 +5,14 @@
 
 ---
 
-## High-CTR Title Options (A/B Testing)
-- **Title 1 (Recommended):** `The $25M GTA 6 Extortion — How One Hacker Shook Rockstar Games`
-- **Title 2:** `CyberLeek — The Ghost Who Leaked the Biggest Game in History`
-- **Title 3:** `Rockstar Games Under Siege — The Untenable GTA 6 Extortion`
-- **Title 4:** `The GTA 6 Leak — How Stolen Source Code Led to a $25M Scam`
+## High-CTR Title Options (Both "GTA 6" AND "CyberLeek" in Every Option)
+*Format Rule: `[Main Subject / Entity] — [The Core Hook / Discovery / Crime / Event]`*
+
+- **Title 1 (Recommended):** `GTA 6 & CyberLeek — The $25M Scam That Shook Rockstar Games`
+- **Title 2:** `CyberLeek: The GTA 6 Heist — How One Hacker Stole Gaming History`
+- **Title 3:** `GTA 6 Leak: CyberLeek — The Untenable $25 Million Extortion`
+- **Title 4:** `CyberLeek vs GTA 6 — The Ghost Who Blackmailed Rockstar Games`
+- **Title 5:** `GTA 6: The CyberLeek Investigation — Inside Rockstar's Biggest Breach`
 
 ---
 
@@ -28,7 +31,7 @@ YouTube thumbnail, investigative documentary collage aesthetic, ultra-high CTR. 
 ---
 
 ## OPTION 2 — The Source Code (High-Stakes Technical Hook)
-*Concept: High-contrast `@cyberleek` cutout in tactical armor beside the giant brushed chrome GTA 6 "VI" emblem, backed by `@vicecity` Ocean Drive neon and subtle code textures.*
+*Concept: High-contrast `@cyberleek` cutout in tactical armor beside the giant brushed chrome GTA 6 "VI" emblem, backed by `@vicecity` Ocean Drive neon and dark document paper texture.*
 
 ```text
 @vicecity @cyberleek
@@ -42,7 +45,7 @@ YouTube thumbnail, modern investigative true-crime documentary aesthetic. Foregr
 ---
 
 ## OPTION 3 — The Corporate Crisis (The Extortion Hook)
-*Concept: Polished chrome GTA 6 "VI" insignia flanked by `@cyberleek` against the `@vicecity` skyline, focused on the corporate showdown facing Rockstar Games.*
+*Concept: Polished chrome GTA 6 "VI" insignia flanked by `@cyberleek` against the `@vicecity` skyline across the bay, focusing on the corporate showdown facing Rockstar Games.*
 
 ```text
 @vicecity @cyberleek
@@ -62,7 +65,7 @@ In September 2022, Rockstar Games suffered the most devastating security breach 
 
 From an audacious $25 million ransom demand to an engineered cryptocurrency pump-and-dump scheme weaponizing unreleased game assets, this breach turned corporate extortion into a high-stakes public spectacle.
 
-This VERION investigative documentary uncovers the anatomy of the GTA 6 leak: how a rogue operator pierced Rockstar’s multi-layered enterprise defenses, how unreleased assets were monetized on the open market, and the forensic blockchain paper trail that unmasked the operation.
+This VERION investigative documentary uncovers the anatomy of the GTA 6 leak: how a rogue operator pierced Rockstar’s multi-layered enterprise defenses, how CyberLeek monetized unreleased assets on the open market, and the forensic blockchain paper trail that unmasked the operation.
 
 Subscribe to VERION for deep-dive investigative documentaries on cyber warfare, high-finance fraud, and modern digital crimes.
 
@@ -75,7 +78,7 @@ TIMESTAMPS:
 07:45 - Rockstar Games in Crisis
 09:20 - The Fall of the Ghost
 
-#GTA6 #RockstarGames #ViceCity #CyberLeek #VERION #Documentary #GamingHistory #TrueCrime
+#GTA6 #CyberLeek #RockstarGames #ViceCity #VERION #Documentary #GamingHistory #TrueCrime
 ```
 
 ---
@@ -83,5 +86,5 @@ TIMESTAMPS:
 ## YouTube Search Tags
 
 ```text
-GTA 6, GTA 6 leak, GTA 6 source code, CyberLeek, Vice City, Vice City GTA 6, Grand Theft Auto VI, Rockstar Games, Rockstar Games leak, GTA 6 hacker, GTA VI, GTA 6 $25M, VERION, VERION documentary, crypto scam, Monero ransom, KuCoin KYC, cyber security documentary, true crime tech, video game leak, gaming history, Arion Kurtaj, Lapsus$, GTA 6 dev build
+GTA 6, CyberLeek, GTA 6 CyberLeek, GTA 6 leak, GTA 6 source code, Vice City, Vice City GTA 6, Grand Theft Auto VI, Rockstar Games, Rockstar Games leak, GTA 6 hacker, GTA VI, GTA 6 $25M, VERION, VERION documentary, crypto scam, Monero ransom, KuCoin KYC, cyber security documentary, true crime tech, video game leak, gaming history, Arion Kurtaj, Lapsus$, GTA 6 dev build
 ```
