@@ -1,60 +1,87 @@
-# YouTube Thumbnail Suite — CYBERLEEK: The Ghost Who Hacked GTA 6
+# YouTube Production Suite — CYBERLEEK: The Ghost Who Hacked GTA 6
 ## Channel: VERION
 ## Target Generator: Nano Banana 2 (Aspect Ratio: 16:9)
 
 ---
 
-## High-CTR Title Options (A/B Testing)
+## High-CTR Title Options (Containing Both "CyberLeek" & "GTA 6")
 *Format Rule: `[Main Subject / Entity] — [The Core Hook / Discovery / Crime / Event]`*
 
-- **Title A (The Big Event):** `GTA 6 Hack — The $25M Extortion That Shook Rockstar Games`
-- **Title B (The Identity Hook):** `CYBERLEEK — The Ghost Who Leaked the Biggest Game in History`
-- **Title C (The Forensic Investigation):** `Rockstar Games Breach — How One Hacker Stole GTA 6 and Vanished`
+- **Title 1 (Recommended):** `CyberLeek: The GTA 6 Hack — The $25M Heist That Shook Rockstar Games`
+- **Title 2:** `GTA 6 Hack: CyberLeek — The Ghost Who Leaked Gaming History`
+- **Title 3:** `CyberLeek vs Rockstar Games — The Untenable $25M GTA 6 Extortion`
+- **Title 4:** `GTA 6 & CyberLeek — How One Hacker Stole the Master Build and Vanished`
 
 ---
 
-## OPTION 1 — The Mascot & The Stolen Master Drive (High-CTR Hook)
-**Concept:** Direct visual collision between the hacker's cyber persona avatar (`@cyberleek`) and the sealed corporate developer drive containing the GTA 6 build.
+## OPTION 1 — The Mascot & The GTA 6 Insignia (Primary High-CTR Hook)
+**Concept:** Direct visual collision between the `@cyberleek` hacker mascot and the metallic GTA 6 "VI" emblem stamped onto the breached developer drive.
 
 ```text
 @cyberleek
-YouTube thumbnail, investigative documentary collage aesthetic, minimalist high-impact composition. Center-left: striking cutout of @cyberleek (the tactical scallion mascot with black pixel sunglasses in blue tactical cyberpunk armor) with bright crisp rim lighting and a thin vibrant red accent border. Center-right: an industrial metal server hard drive stamped with a stark red ink label reading "CONFIDENTIAL - DEV BUILD". Background: dark aged archival paper texture, faint monochrome hex code logs, subtle technical wireframe grid lines, and a faint red circular surveillance crosshair reticle. Stamped red ink text in top right: "EVIDENCE #01". Clean large typography in top left corner: "GTA 6 HACKED" in massive bold white uppercase sans-serif text, and "$25M RUG PULL" below it in bold white uppercase text inside a solid vibrant red rectangular highlight box. Deep shadows, maximum negative space, gritty true-crime feel, 4K, high contrast, sharp focus. --ar 16:9 --no clutter, blur, watermark, artifacts, distortion, messy text, cartoonish clutter
+YouTube thumbnail, investigative documentary collage aesthetic, minimalist high-impact composition. Center-left: striking cutout of @cyberleek (the tactical scallion mascot with black pixel sunglasses in blue tactical cyberpunk armor) looking directly forward with crisp rim lighting and a thin vibrant red accent border. Center-right: the iconic bold GTA 6 "VI" emblem logo embossed in metallic purple-pink neon on the face of a heavy server hard drive, stamped with a stark diagonal red ink label reading "CONFIDENTIAL - PROPERTY OF ROCKSTAR GAMES". Background: dark aged archival paper texture, faint monochrome hex code logs, subtle technical wireframe grid lines, and a red circular surveillance crosshair reticle. Stamped red ink text in top right: "BREACHED". Clean large typography in top left corner: "CYBERLEEK" in massive bold white uppercase sans-serif text, and "GTA 6 HACKED" below it in bold white uppercase text inside a solid vibrant red rectangular highlight box. Deep shadows, maximum negative space, gritty true-crime feel, 4K, high contrast, sharp focus. --ar 16:9 --no clutter, blur, watermark, artifacts, distortion, messy text, cartoonish clutter
 ```
 
 ### Text Overlay Hierarchy
-- **Line 1 (Top):** `GTA 6 HACKED` *(Bold White Sans-Serif, high negative space)*
-- **Line 2 (Bottom):** `$25M RUG PULL` *(Bold White inside solid vibrant red #E50914 rectangular highlight box)*
+- **Line 1 (Top):** `CYBERLEEK` *(Bold White Sans-Serif)*
+- **Line 2 (Bottom):** `GTA 6 HACKED` *(Bold White inside solid red `#E50914` rectangular highlight box)*
 
 ---
 
-## OPTION 2 — The Ghost vs Rockstar (Dueling Titans Split Composition)
-**Concept:** Stark documentary dichotomy between the anonymous rogue operator profile tracking blockchain transactions on one side, and the `@rockstar` corporate studio illuminated under emergency red crisis floodlights on the other.
+## OPTION 2 — The Clash: CyberLeek vs Rockstar Studios (Dueling Titans)
+**Concept:** Stark documentary dichotomy between `@cyberleek` with the GTA 6 "VI" insignia against the `@rockstar` corporate studio under emergency lockdown.
 
 ```text
-@rockstar
-YouTube thumbnail, split documentary poster aesthetic, high-impact investigative composition. Left side: high-contrast monochrome silhouette profile of an anonymous operator in a dark utilitarian jacket, face illuminated only by the cold ambient glow of a monitor, crisp rim light, with faint red blockchain transaction ledger lines and KuCoin subpoena text in the background. Right side: high-contrast architectural photograph of @rockstar corporate headquarters building at dusk, illuminated with dramatic crimson red security floodlights, steel security fencing, and CCTV cameras. A vertical jagged torn-paper edge separates the two sides. Clean large typography in top center: "THE GHOST" in massive bold white uppercase sans-serif text, and "EXTORTION" below it in bold white uppercase text inside a solid vibrant red rectangular highlight box. Dark aged charcoal paper texture background with faint grid overlays, deep vignette, 4K, high contrast, sharp focus. --ar 16:9 --no clutter, blur, watermark, artifacts, distortion, messy text, floating hands
+@cyberleek @rockstar
+YouTube thumbnail, split documentary poster aesthetic, high-impact investigative composition. Left side: high-contrast cutout of @cyberleek (the tactical scallion mascot with black pixel sunglasses in blue tactical armor) standing beside glowing digital terminal logs and KuCoin transaction hashes, sharp lighting. Center-top: the unmistakable official GTA 6 "VI" stylized Roman numeral logo gleaming in sharp metallic chrome with a faint red warning flare. Right side: dramatic high-contrast architectural photograph of @rockstar corporate headquarters building at night bathed in ominous crimson red emergency floodlights with steel security barriers. A vertical jagged torn-paper edge separates the compositions. Clean massive typography in top left: "CYBERLEEK" in bold white uppercase sans-serif, and "GTA 6 EXTORTION" below it in bold white uppercase inside a solid vibrant red rectangular highlight box. Dark aged charcoal paper background, deep vignette, 4K, high contrast. --ar 16:9 --no clutter, blur, watermark, artifacts, distortion, messy text
 ```
 
 ### Text Overlay Hierarchy
-- **Line 1 (Top):** `THE GHOST` *(Bold White Sans-Serif)*
-- **Line 2 (Bottom):** `EXTORTION` *(Bold White inside solid vibrant red #E50914 rectangular highlight box)*
+- **Line 1 (Top):** `CYBERLEEK` *(Bold White Sans-Serif)*
+- **Line 2 (Bottom):** `GTA 6 EXTORTION` *(Bold White inside solid red `#E50914` rectangular highlight box)*
 
 ---
 
-## OPTION 3 — The Forensic Evidence Dossier (Classified Leak & Paper Trail)
-**Concept:** A gritty true-crime evidence board featuring the leaked development debug screen, the $25M Monero ransom note, and the KuCoin KYC subpoena that unmasked the operation.
+## OPTION 3 — The Classified Leak Dossier (Forensic Evidence Board)
+**Concept:** A gritty true-crime evidence corkboard featuring the `@cyberleek` suspect avatar pinned beside the leaked GTA 6 "VI" build evidence, the $25M ransom note, and the KuCoin subpoena.
 
 ```text
-YouTube thumbnail, forensic evidence dossier aesthetic, gritty investigative crime collage. Dark aged corkboard and charcoal evidence table filling the frame. Center: a black and white development debug screen photo pinned with a bright red pushpin, stamped with a bold red ink stamp reading "BREACHED". Connected by taut red forensic investigation string to a pinned KuCoin KYC subpoena document with black redacted lines and an IP address circled in red grease pencil. To the right: a printed cryptographic ransom demand with "$25,000,000" circled in thick red marker. Large bold typography across top: "STOLEN CODE" in clean bold white uppercase sans-serif text, and "HOW HE GOT CAUGHT" below it in bold white text inside a solid vibrant red rectangular highlight box. Aged yellowed document edges, paper clips, subtle film grain, harsh spotlight on the evidence items, deep dark vignette shadows. 4K, sharp focus. --ar 16:9 --no clutter, blur, watermark, artifacts, distortion, messy text, cartoonish 3D
+@cyberleek
+YouTube thumbnail, forensic evidence dossier aesthetic, gritty investigative crime collage. Dark aged corkboard and charcoal evidence table filling the frame. Left: a printed suspect dossier photo of @cyberleek (the tactical scallion mascot with black pixel sunglasses in blue tactical armor) pinned with a red pushpin. Center: a leaked developmental debug screenshot featuring the official stylized GTA 6 "VI" logo stamped with a bold diagonal red ink stamp reading "EVIDENCE #01 - STOLEN". Taut red forensic investigation string connects the @cyberleek dossier photo to a pinned KuCoin KYC subpoena document with black redacted lines and a printed $25,000,000 ransom note. Clean large typography across top: "GTA 6 LEAK" in bold white uppercase sans-serif text, and "THE CYBERLEEK HEIST" below it in bold white uppercase text inside a solid vibrant red rectangular highlight box. Aged yellowed document textures, paper clips, subtle film grain, harsh spotlight on the evidence items, deep dark vignette shadows. 4K, sharp focus. --ar 16:9 --no clutter, blur, watermark, artifacts, distortion, messy text
 ```
 
 ### Text Overlay Hierarchy
-- **Line 1 (Top):** `STOLEN CODE` *(Bold White Sans-Serif)*
-- **Line 2 (Bottom):** `HOW HE GOT CAUGHT` *(Bold White inside solid vibrant red #E50914 rectangular highlight box)*
+- **Line 1 (Top):** `GTA 6 LEAK` *(Bold White Sans-Serif)*
+- **Line 2 (Bottom):** `THE CYBERLEEK HEIST` *(Bold White inside solid red `#E50914` rectangular highlight box)*
 
 ---
 
-## VERION Design & Typography Standards
-1. **Typography Rule:** Maximum 2 to 4 words total. Never crowd the thumbnail. Line 1 in crisp white; Line 2 wrapped in a high-contrast red bar for maximum CTR at small mobile scale.
-2. **Color Balance:** 80% deep charcoal / textured black, 15% bright white / subject illumination, 5% intense crimson red accent (`#E50914`).
-3. **Negative Space:** Keep the bottom-right corner completely empty to avoid collision with YouTube's video duration badge (00:00).
+## YouTube Description (VERION Investigative Series)
+
+```text
+In September 2022, Rockstar Games suffered the most devastating security breach in entertainment history: the early development build of Grand Theft Auto VI (GTA 6) was stolen and published online. But behind the 90 leaked video clips and stolen source code lay an even stranger, darker cyber heist: the shadowy operator known as CyberLeek.
+
+From an audacious $25 million ransom demand to an engineered cryptocurrency pump-and-dump scheme weaponizing unreleased game assets, CyberLeek turned corporate extortion into a high-stakes public spectacle. 
+
+This VERION investigative documentary uncovers the anatomy of the GTA 6 hack: how a rogue operator pierced Rockstar’s multi-layered enterprise defenses, how the CyberLeek token was used to monetize stolen intellectual property, and the forensic blockchain paper trail that unmasked the operation.
+
+Subscribe to VERION for deep-dive investigative documentaries on cyber warfare, high-finance fraud, and modern digital crimes.
+
+---
+TIMESTAMPS:
+00:00 - The GTA 6 Breach: Ground Zero
+01:30 - Enter CyberLeek: Weaponizing the Leak
+03:15 - The $25,000,000 Ultimatum
+05:10 - The KuCoin & Monero Paper Trail
+07:45 - Rockstar Games in Crisis
+09:20 - The Fall of the Ghost
+
+#GTA6 #CyberLeek #RockstarGames #VERION #Documentary #GamingNews #CyberSecurity
+```
+
+---
+
+## YouTube Search Tags
+```text
+CyberLeek, GTA 6, GTA 6 Hack, CyberLeek GTA 6, Grand Theft Auto VI, Rockstar Games, Rockstar Games Hack, GTA 6 Leaks, GTA 6 Hacker, GTA VI, CyberLeek documentary, VERION, VERION documentary, GTA 6 source code, GTA 6 extortion, GTA 6 $25M, crypto scam, Monero ransom, KuCoin KYC, cyber security documentary, true crime tech, video game hack, gaming history, Arion Kurtaj, Lapsus$, GTA 6 dev build, Vice City leak
+```
