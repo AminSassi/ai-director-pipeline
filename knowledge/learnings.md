@@ -207,3 +207,10 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
   * NEVER use gendered nouns (`female`, `woman`, `girl`) attached to imported human faces — this triggers the automated deepfake shield.
   * NEVER use ambiguous words with sexual/NSFW heuristics (`vigorous`, `erotic`) or strange biological tokens (`enamel`).
   * ALWAYS use clean, professional, objective documentary phrasing: `colleague`, `investigator`, `analyst`, `focused discussion`, `clean line`.
+
+- [2026-09-20] CRITICAL: MULTI-BEAT NARRATIVE COVERAGE (ZERO SINGLE-LOCATION TRAPPING). When a chunk's narration references multiple distinct story events, locations, or concepts (e.g., 'ghost cities, a suspicious divorce, and a getaway to Canada'), NEVER collapse the entire 4-shot or 6-shot video prompt into just one of those locations (e.g. spending all 6 shots in an airport terminal). The AI Director must map each distinct clause/concept sequentially across the shots in that chunk:
+  * Clause 1 / Event A $\rightarrow$ SHOT 1–2 (e.g., unfinished ghost towers @tower)
+  * Clause 2 / Event B $\rightarrow$ SHOT 3–4 (e.g., signing suspicious divorce papers @hui and @yumei)
+  * Clause 3 / Event C $\rightarrow$ SHOT 5–6 (e.g., airport getaway terminal @yumei)
+  Every distinct word and concept in the script must be visually represented across the multi-shot breakdown. Trapping an entire video prompt in a single location when the script describes multiple events violates word-for-word sequential mapping and destroys visual storytelling density.
+

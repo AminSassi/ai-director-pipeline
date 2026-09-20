@@ -197,6 +197,14 @@ SHOT 2/4 @TAG2 description...
 - Every shot must either show a REAL human being actively doing something important to the plot, or manifest cinematic real-world scale (industrial harbors, courthouses, newsrooms, high-rise skylines).
 - Every chunk must include at least ONE mandatory creative angle from the palette: Dutch-tilt, ground-level tracking, worm's-eye view, bird's-eye view, macro rack focus, or crane rise/fall.
 
+### Rule #33 — Multi-Beat Narrative Mapping (Zero Single-Location Trapping)
+- When a chunk's narration references multiple distinct events, locations, or story concepts (e.g., "ghost cities, a suspicious divorce, and a getaway to Canada"), NEVER trap all 4 or 6 shots inside only one of those locations (e.g. spending the entire clip in an airport).
+- The video prompt is a dynamic multi-shot sequence: every distinct clause or event in the voiceover MUST be visually manifested sequentially across the shot breakdown:
+  - Clause 1 / Event A $\rightarrow$ SHOT 1–2 (e.g. ghost cities / `@tower`)
+  - Clause 2 / Event B $\rightarrow$ SHOT 3–4 (e.g. suspicious divorce meeting / `@hui` & `@yumei`)
+  - Clause 3 / Event C $\rightarrow$ SHOT 5–6 (e.g. airport departure to Canada / `@yumei`)
+- Every word and story beat spoken in that chunk must be visually represented. Single-location trapping violates word-for-word sequential mapping and destroys visual storytelling density.
+
 ---
 
 ## Workflow Rules

@@ -178,6 +178,13 @@ Not "standing" but "one foot crossing the threshold, one still outside."
 Never use the same camera move, same body position, same location twice in a batch of 4–6 chunks.
 NEVER do same first frame, same plan, same angle, same idea across chunks. Repetition kills creativity and wastes credits.
 
+### Rule: Multi-Beat Narrative Mapping (Zero Single-Location Trapping)
+When narration references multiple distinct events, locations, or concepts in one chunk (e.g. "ghost cities, a suspicious divorce, and a getaway to Canada"), NEVER trap all shots in only one location (e.g. spending all 6 shots in an airport). Map each distinct clause sequentially across the shots in that chunk:
+- Event A $\rightarrow$ SHOT 1–2 (e.g., ghost cities / @tower)
+- Event B $\rightarrow$ SHOT 3–4 (e.g., suspicious divorce / @hui and @yumei)
+- Event C $\rightarrow$ SHOT 5–6 (e.g., airport getaway / @yumei)
+Every word and concept spoken in that chunk must be visually represented.
+
 ### Rule: Creative angles required
 Every chunk must contain at least ONE creative/unexpected angle:
 - Worm's eye (looking up)
@@ -290,6 +297,7 @@ Before printing ANY batch of prompts, execute this audit in your head. Print a s
 - [ ] Camera Variety: [Confirm minimum 3 different movements per chunk.]
 - [ ] Character Placement: [Confirm each character is narratively present in their scene.]
 - [ ] Sync Check: [Confirm exact .vst narration text used for each chunk.]
+- [ ] Multi-Beat Mapping: [Confirm shots cover all distinct clauses/events in VO instead of single-location trapping.]
 - [ ] .vst Source: [Confirm narration text was copied from .vst file, not from memory.]
 ```
 
