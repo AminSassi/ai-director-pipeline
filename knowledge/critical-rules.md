@@ -205,6 +205,18 @@ SHOT 2/4 @TAG2 description...
   - Clause 3 / Event C $\rightarrow$ SHOT 5–6 (e.g. airport departure to Canada / `@yumei`)
 - Every word and story beat spoken in that chunk must be visually represented. Single-location trapping violates word-for-word sequential mapping and destroys visual storytelling density.
 
+### Rule #34 — Dynamic Story Variety & Anti-Repetition (Zero Formulaic Slop)
+- **Zero Formulaic Repetition:** Never use cookie-cutter shot formulas, predictable openings, or recycled visual setups across chunks or across different stories. If an investigator was typing at a desk in Episode A, Episode B must explore physical archives, field observation, evidence lockers, or industrial sites.
+- **Continuous Creative Invention:** Every single chunk must introduce fresh staging, original visual metaphors, and novel camera viewpoints:
+  - Alternate opening framing between chunks: never open consecutive chunks with the same camera setup (e.g. contrast wide architectural worm's-eye views with tactile macro inserts, Dutch-angle boardroom tensions, or ground-level tracking).
+  - Vary visual scale constantly: weave seamlessly between massive environmental world-building (ports, towers, highways, courthouses) and tight, visceral human micro-actions.
+  - Tailor the visual world uniquely to the story's domain (e.g. crumbling concrete rebar and idle yellow cranes for real estate collapse; container terminals and customs manifests for maritime trade; fluorescent bureaucratic vaults for financial fraud).
+- **Relentless Anti-Slop Enforcement:**
+  - AI slop is created by chaotic physics, vague descriptions, and excessive frantic motion.
+  - NEVER prompt flailing limbs, running crowds, panic hysteria, melting or transforming objects, or glowing sci-fi holograms.
+  - Ground all human actions in authentic, quiet, purposeful documentary reality: methodical signatures, sliding documents, turning brass keys, cold stoic expressions, and deliberate stillness.
+
+
 ---
 
 ## Workflow Rules

@@ -174,9 +174,15 @@ Not "standing" but "one foot crossing the threshold, one still outside."
 - Describe with appearance details: "tall man in pinstripe suit, silver hair, 60s"
 - NEVER use @TAG for characters without reference sheets
 
-### Rule: No repeated angles across a batch
-Never use the same camera move, same body position, same location twice in a batch of 4–6 chunks.
-NEVER do same first frame, same plan, same angle, same idea across chunks. Repetition kills creativity and wastes credits.
+### Rule: Dynamic Story Variety & Anti-Repetition Across Stories & Batches
+- **Zero Formulaic Repetition:** Never use cookie-cutter shot formulas, predictable openings, or recycled visual setups across chunks or across different stories. Repetition kills viewer engagement and wastes generation credits.
+- **Continuous Creative Invention:** Every single story and chunk must explore fresh creative staging, new visual metaphors, and novel camera viewpoints:
+  - Never use the same camera move, body position, or location twice in a batch of 4–6 chunks.
+  - Never repeat the same opening shot type in consecutive chunks.
+  - Vary visual scale constantly between monumental environmental wide shots and tactile macro inserts.
+  - Tailor the visual world uniquely to the story's domain (e.g. real estate collapse vs. maritime smuggling vs. banking fraud).
+- **Relentless Anti-Slop Enforcement:** Keep physics simple, realistic, and deliberate. Banish chaotic AI action (flailing arms, running mobs, yanking cables, screaming panic) which melts into AI slop. Build cinematic tension through quiet dread, stark shadows, and deliberate micro-actions.
+
 
 ### Rule: Multi-Beat Narrative Mapping (Zero Single-Location Trapping)
 When narration references multiple distinct events, locations, or concepts in one chunk (e.g. "ghost cities, a suspicious divorce, and a getaway to Canada"), NEVER trap all shots in only one location (e.g. spending all 6 shots in an airport). Map each distinct clause sequentially across the shots in that chunk:
@@ -298,6 +304,8 @@ Before printing ANY batch of prompts, execute this audit in your head. Print a s
 - [ ] Character Placement: [Confirm each character is narratively present in their scene.]
 - [ ] Sync Check: [Confirm exact .vst narration text used for each chunk.]
 - [ ] Multi-Beat Mapping: [Confirm shots cover all distinct clauses/events in VO instead of single-location trapping.]
+- [ ] Story Variety & Novelty: [Confirm fresh angles, new metaphors, zero recycled setups from previous chunks/episodes.]
+- [ ] Grounded Anti-Slop: [Confirm calm, deliberate physical actions, zero chaotic physics/running mobs/melting.]
 - [ ] .vst Source: [Confirm narration text was copied from .vst file, not from memory.]
 ```
 

@@ -214,3 +214,9 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
   * Clause 3 / Event C $\rightarrow$ SHOT 5–6 (e.g., airport getaway terminal @yumei)
   Every distinct word and concept in the script must be visually represented across the multi-shot breakdown. Trapping an entire video prompt in a single location when the script describes multiple events violates word-for-word sequential mapping and destroys visual storytelling density.
 
+- [2026-09-20] CRITICAL: DYNAMIC STORY VARIETY, FRESH IDEAS & ANTI-SLOP MANDATE.
+  * **Zero Shot Recyling Across Stories & Chunks:** Never default to familiar, safe tropes (e.g. repeatedly opening with a generic character walking in a hallway, or repeating the same OTS desk setup). Every episode and every chunk demands unique visual ideas, customized world-building specific to that industry/story, and unexpected camera perspectives.
+  * **Constant Rhythm & Scale Shifts:** Contrast wide architectural environments with clinical tactile inserts (e.g., mechanical stamps, rebar rust, safe tumblers, passport stamps) and subtle, tension-filled human moments.
+  * **Zero AI Slop:** Keep physics simple, deliberate, and grounded. Never ask for chaotic movements (flailing, fleeing crowds, shouting) which cause grotesque AI morphing. Build suspense through quiet dread, stark lighting contrast, deep shadows, and hyper-realistic documentary textures.
+
+

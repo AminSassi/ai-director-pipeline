@@ -9,8 +9,11 @@ Use this checklist to review every prompt before presenting to the director.
 - [ ] All 4 layers present in every shot: Subject & Action, Camera & Motion, Lens & Light, Texture & Mood
 - [ ] Minimum 3 different camera movements across the shots in this chunk
 - [ ] Multi-Beat Narrative Mapping (Rule #33): If the script mentions multiple distinct events/places/concepts, are ALL of them visually covered across the shot breakdown rather than trapping the entire video prompt in a single location?
+- [ ] Dynamic Story Variety & Anti-Repetition (Rule #34): Zero recycled shot formulas. Does this chunk bring fresh visual ideas, novel angles, and world-specific details instead of repeating previous chunk setups?
+- [ ] Zero AI Slop Verification: No chaotic physics, no running mobs, no melting objects, no floating UI/sci-fi effects. All physical actions are grounded, deliberate, and realistic.
 
 ## For Grok Imagine (video)
+
 
 - [ ] Subject is clearly defined
 - [ ] Action/movement is specified
