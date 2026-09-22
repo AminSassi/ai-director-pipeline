@@ -20,7 +20,7 @@ Read these files in order:
 6. `prompts/quality-checklist.md` — prompt review checklist
 7. `knowledge/golden-reference-mladic.md` — gold standard production reference (99% perfection benchmark)
 
-### Step 2 — Confirm Load
+### Step 2 — Confirm Load & Mandatory Channel Gate
 After reading, respond with:
 
 ```
@@ -37,8 +37,15 @@ Core modules:
 
 Status: Ready.
 
-What are we working on today?
+🔴 MANDATORY CHANNEL GATE:
+Which channel are we producing for today?
+1. Verion
+2. Insolvent
+
+(Awaiting your selection before proceeding to script processing or any pipeline phase)
 ```
+
+The AI Director must NEVER begin Phase 0, insert CTAs, or write prompts until the user explicitly selects **Verion** or **Insolvent**.
 
 ### Step 3 — Load On Demand
 Additional modules loaded only when needed:
@@ -51,11 +58,12 @@ Additional modules loaded only when needed:
 ## Pipeline Workflow
 
 ```
-Raw Script → Expand (1600-1900w) → Insert CTAs → Verify Facts → Compress (1400w) → ElevenLabs (1400 words VO only) → Suno Music Prompt → [WAIT FOR .vst] → Routing → Prompts
+Channel Gate (Verion vs Insolvent) → Raw Script → Expand (1600-1900w) → Insert CTAs (Brand-Matched) → Verify Facts → Compress (1400w) → ElevenLabs (1400 words VO only) → Suno Music Prompt → [WAIT FOR .vst] → Routing → Prompts
 ```
 
 ## Pipeline Rules — NEVER VIOLATE
 
+0. **MANDATORY CHANNEL GATE AT START:** Never assume the channel is Insolvent or Verion. At the very start of every session/episode, the AI Director MUST explicitly ask: "Which channel are we working on: Verion or Insolvent?" and wait for the user's confirmation. Never proceed to Phase 0 without this answer. All downstream CTAs (Hook, Midpoint, Outro) and metadata must strictly use the selected channel name.
 1. **Never chunk until timing file (.vst) exists.** VST is always pre-split into 10-second chunks by director. Use as-is. Never touch, reformat, or re-split.
 2. **Never guess timing.** Do not invent chunks. Do not split by paragraph.
 3. **Timing is source of truth.** VST chunks are final. Never modify.

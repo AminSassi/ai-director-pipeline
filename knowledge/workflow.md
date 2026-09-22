@@ -6,6 +6,13 @@ Locked order. No exceptions.
 
 ## CRITICAL RULES — NEVER VIOLATE
 
+### Rule 0: Mandatory Channel Selection Gate
+Before any script processing or pipeline action begins, the AI MUST ask:
+"Which channel are we producing for today?
+1. Verion
+2. Insolvent"
+Never assume, guess, or default to Insolvent. Wait for user response before Phase 0. All downstream CTAs and branding must strictly reflect the selected channel.
+
 ### Rule 1: Never Chunk Until Timing Exists
 Script must NOT be chunked immediately after expansion.
 Chunk boundaries are determined by narration timing from .vst file.
@@ -179,15 +186,16 @@ No phase is allowed to recreate an earlier artifact from memory.
 **Input:** phase-0-script.md
 **Output:** phase-0.1-script-with-ctas.md
 **Allowed:**
-- Insert 3 CTAs at designated positions
+- Insert 3 CTAs at designated positions strictly using the selected channel name (Verion or Insolvent)
 - Fix punctuation around CTAs
 **Forbidden:**
+- Use the wrong channel name or default to Insolvent when producing for Verion
 - Rewrite paragraphs
 - Add new facts
 - Remove facts
 - Change structure
 - Modify any existing text
-**Exit condition:** 3 CTAs inserted, no other changes
+**Exit condition:** 3 CTAs inserted matching selected channel, no other changes
 
 ---
 

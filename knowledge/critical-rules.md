@@ -15,6 +15,7 @@ Before generating ANY prompt, you MUST do ALL of the following IN ORDER:
 5. Read `golden-reference-mladic.md` and `golden-reference-aurora.md` — the gold standard production benchmarks
 6. Open and read the `.vst` timing file provided by the director
 7. Confirm to director: "I have read all repo files. Ready to generate."
+8. **MANDATORY CHANNEL GATE:** Explicitly ask the director: "Which channel are we producing for today? 1. Verion | 2. Insolvent" — never proceed to Phase 0 or insert any CTAs until answered.
 
 **This is not optional. Not skippable. Not replaceable by memory or context summaries.**
 Every session starts with this protocol. Every single time.
@@ -242,3 +243,10 @@ SHOT 2/4 @TAG2 description...
 - When user corrects chunk timing or narration, accept it immediately
 - User knows the correct sync
 - Do not argue or re-parse.
+
+### Rule #35 — Mandatory Channel Selection Gate (Verion vs Insolvent)
+- The director operates two distinct documentary channels: **Verion** and **Insolvent**.
+- NEVER assume, guess, or default to Insolvent.
+- At the very beginning of the pipeline (before Phase 0 script expansion, before Phase 0.1 CTA insertion, and before generating prompts), the AI Director MUST ask: "Which channel are we producing for today? 1. Verion | 2. Insolvent".
+- All 3 organic CTAs (Hook, Midpoint, Outro) inserted in Phase 0.1 and all channel identity sentences ("This is Verion..." vs "This is Insolvent...") MUST strictly match the selected channel name.
+- Downstream metadata (titles, descriptions, tags) must also reflect the selected channel.
