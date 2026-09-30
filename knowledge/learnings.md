@@ -250,3 +250,8 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
   2. The Machine/Secret Code Hook: 'Hidden inside eleven million vehicles was a secret line of code designed to fool the world.'
   3. The Immediate Consequence/Letter Hook: 'A five-page letter lands on the executive desks of Volkswagen. Inside is a single accusation...'
   Dry dates belong in the historical body of Act 1 or the timeline setup, NEVER in the first two sentences of the hook.
+
+- [2026-09-30] CRITICAL: NARRATIVE CONTEXT & CHRONOLOGICAL ASSET STATE (THE SPOILER & RIGGING RULE). Every locked asset, vehicle, character, and prop exists in a specific chronological state tied strictly to that exact moment in the script. Never attach investigative gear, forensic probes, damage, or legal consequences to an asset before that event actually occurs in the story.
+  * Innocent Consumer vs. Investigative Rig: In opening hooks and civilian consumer scenes, vehicles (@JETTA) must appear 100% pristine, civilian, and factory-stock with zero cables or attachments. Never add research probes, PEMS measurement equipment, or diagnostic boxes until the university researchers in the story actively install and test them. Attaching research gear to a civilian car in the hook ruins narrative immersion, spoils the plot, and confuses the viewer.
+  * Characters & Props: Characters must only wear attire matching their chronological status in that beat (e.g., tailored suit for corporate CEO, casual travel wear for airport departure, no premature prison jumpsuits or handcuffs before arrest).
+  * Before generating any Start Frame, explicitly ask: 'Who operates this asset in this exact second of the story, and what is its chronological physical state?'

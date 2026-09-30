@@ -12,6 +12,7 @@ Use this checklist to review every prompt before presenting to the director.
 - [ ] Dynamic Story Variety & Anti-Repetition (Rule #34): Zero recycled shot formulas. Does this chunk bring fresh visual ideas, novel angles, and world-specific details instead of repeating previous chunk setups?
 - [ ] Zero AI Slop Verification: No chaotic physics, no running mobs, no melting objects, no floating UI/sci-fi effects. All physical actions are grounded, deliberate, and realistic.
 - [ ] Hook Retention & Anti-Date Check: Does the script hook avoid opening with a calendar date/timestamp? Does it open with immediate high-tension drama, irony, or psychological stakes?
+- [ ] Chronological Asset State & Anti-Spoiler Check: Are all vehicles, characters, and props in their exact chronological state for this beat? (e.g., pristine civilian car in hook vs. PEMS test rig during research scenes; no premature modifications, damage, or legal markers).
 
 ## For Grok Imagine (video)
 

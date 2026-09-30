@@ -250,3 +250,8 @@ SHOT 2/4 @TAG2 description...
 - At the very beginning of the pipeline (before Phase 0 script expansion, before Phase 0.1 CTA insertion, and before generating prompts), the AI Director MUST ask: "Which channel are we producing for today? 1. Verion | 2. Insolvent".
 - All 3 organic CTAs (Hook, Midpoint, Outro) inserted in Phase 0.1 and all channel identity sentences ("This is Verion..." vs "This is Insolvent...") MUST strictly match the selected channel name.
 - Downstream metadata (titles, descriptions, tags) must also reflect the selected channel.
+### Rule #36 — Chronological Prop & Asset State (Anti-Spoiler & Narrative Integrity)
+- Every locked asset, vehicle, character, and prop exists in a strict chronological state tied directly to that exact moment in the story.
+- NEVER attach future modifications, investigative rigs, diagnostic tools, crash damage, or legal markers (e.g. handcuffs, prison jumpsuits) to an asset before that specific event occurs in the narrative timeline.
+- **Innocent Consumer vs. Investigative Rig:** In opening hooks and civilian consumer scenes, vehicles (@JETTA) must appear 100% pristine, civilian, and factory-stock with zero cables, probes, or sensor attachments. Never add research probes or PEMS measurement rigs until the university researchers in the story actively install them during road-test scenes. Premature gear ruins dramatic tension, spoils the plot, and confuses the audience.
+- **Perspective Check:** Before writing any Start Frame, explicitly check: 'Who operates this asset in this exact second of the story, and what is its chronological physical state?'
