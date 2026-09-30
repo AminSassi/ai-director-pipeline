@@ -171,8 +171,10 @@ No phase is allowed to recreate an earlier artifact from memory.
 **Allowed:**
 - Expand sentences for narration flow
 - Add natural transitions
+- Craft high-tension opening hook (psychological question, consumer betrayal, immediate consequence)
 - Preserve all facts and dates
 **Forbidden:**
+- Open hook with a calendar date, year, or dry timestamp (Anti-Date Hook Rule)
 - Delete factual events
 - Change the story structure
 - Add CTAs

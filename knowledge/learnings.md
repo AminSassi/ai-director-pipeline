@@ -233,5 +233,20 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-09-27] CRITICAL: BANKNOTE & CURRENCY GENERATION FILTER BYPASS. AI image generators (Grok / Nano Banana) have hard-coded automated anti-counterfeiting moderation shields that immediately block generation ('Échec: Cette génération pourrait enfreindre nos règles') when detecting terms like 'Bank of England twenty-pound note', 'banknote', or currency turnaround prompts. NEVER attempt to generate modern/historical legal tender reference sheets via text prompts. Instead, download an authentic high-resolution scan of the banknote directly from official or historical public archives (e.g. Bank of England Series D Michael Faraday £20 note, obverse & reverse). Import that authentic scan into Grok/editing as the visual anchor. This guarantees 100% historical accuracy and completely bypasses generator moderation.
 
+- [2026-09-27] INSIGHT: YOUTUBE THUMBNAIL STYLE — OPTION 1 IS THE PERMANENT BENCHMARK. The director strongly prefers Option 1 above all other layouts ("i love option 1 always"). Standard signature architecture for Option 1:
+  1. Clean, minimalist, high-impact composition with maximum negative space for mobile feed dominance.
+  2. Left side: striking high-contrast black-and-white cutout portrait of the main character (bright face, crisp edges, razor-sharp rim lighting, subtle thin red accent contour line along shoulder) — OR the single tactile physical artifact/document if no character exists.
+  3. Right side: deep slate-charcoal or solid matte black negative space.
+  4. Typography: massive clean bold uppercase typography (Line 1 in bold white sans-serif, Line 2 directly below inside a solid saturated red rectangular highlight box).
+  5. Faint background shadows: subtle textured environmental/case overlay (never cluttering the negative space).
+  6. Zero AI slop, zero sci-fi neon/glowing junk, tack-sharp focal details, authentic documentary contrast.
 
 
+
+
+
+- [2026-09-30] CRITICAL: HOOK RETENTION & ANTI-DATE OPENING RULE. Never open a documentary hook with a dry calendar date or timestamp (e.g., 'September eighteenth, twenty fifteen', 'In October 2008'). Starting with a date is boring, destroys early YouTube retention, and sounds like an encyclopedia rather than a high-stakes financial/crime thriller. The AI Director must automatically scan and detect any hook opening with a date and immediately rewrite it into a high-retention cinematic open before presenting it to the director. Permitted opening formulas:
+  1. The Psychological/Consumer Betrayal Hook: 'What if the car you bought to protect the environment was secretly poisoning the air every time you drove it?'
+  2. The Machine/Secret Code Hook: 'Hidden inside eleven million vehicles was a secret line of code designed to fool the world.'
+  3. The Immediate Consequence/Letter Hook: 'A five-page letter lands on the executive desks of Volkswagen. Inside is a single accusation...'
+  Dry dates belong in the historical body of Act 1 or the timeline setup, NEVER in the first two sentences of the hook.
