@@ -67,6 +67,27 @@ If a draft prompt feels like an action movie — STOP, delete it, and rewrite it
 
 ---
 
+## 🚨 THE ANTI-BOREDOM MANDATE — STRICT BAN ON INERT OBJECTS & DOCUMENT SLIDESHOWS (RULE #37)
+
+**AUDIENCE RETENTION IS WON THROUGH HUMAN DRAMA, NOT STILL-LIFE PHOTOGRAPHY.**
+
+Never turn a scene into a boring corporate still-life. The AI video camera must **NEVER wander aimlessly around stationary objects, empty desks, paper documents, binders, folders, brass lamps, or ticking clocks.**
+
+❌ **STRICTLY BANNED BORING SLOP (ZERO TOLERANCE):**
+- Camera slowly panning across legal files, case dockets, binders, or paper stacks on an empty desk.
+- Macro rack focus from a desk lamp / coffee mug / clock / keyboard to a piece of paper or stamp.
+- Tracking shots past empty leather boardroom chairs, empty cubicles, or empty court benches.
+- Entire chunks spent wandering through lifeless rooms with zero active human conflict.
+- Treating physical documents/evidence as the *main subject* of a video sequence (documents are props, never the protagonist).
+
+✅ **MANDATORY: HUMAN CONFLICT, VISCERAL ACTION & MONUMENTAL CINEMATICS:**
+- **Show Living People in High-Stakes Action:** When VO discusses fraud, legal battles, corporate collapses, or investigations, show **THE LIVING PARTICIPANTS CAUGHT IN THE STORM**. Characters wiping sweat from their brows, pacing behind glass walls, intense whispered arguments, packing boxes under armed security, cold stares across boardroom tables, slamming a phone down, walking out into rain.
+- **Power Dynamics & Body Language:** Senior executives leaning intimidatingly over subordinate engineers; defense lawyers in rapid motion down courthouse hallways; researchers troubleshooting engines in grease-stained garages; traders reacting with visible shock to plummeting charts.
+- **Monumental Physical World Scale:** If humans are absent, only show **epic, cinematic, real-world physical scale**: massive cargo ships cutting through harbor mist, automated robotic manufacturing sparks, desert vehicle graveyards stretching to the horizon, towering corporate monoliths in midnight rain—**NEVER an empty desk with a folder.**
+
+
+---
+
 ## AI SLOP BLACKLIST — NEVER USE THESE IDEAS
 
 These specific images cause AI hallucination, look cheap, or are banned by the director:

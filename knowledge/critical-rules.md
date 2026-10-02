@@ -255,3 +255,18 @@ SHOT 2/4 @TAG2 description...
 - NEVER attach future modifications, investigative rigs, diagnostic tools, crash damage, or legal markers (e.g. handcuffs, prison jumpsuits) to an asset before that specific event occurs in the narrative timeline.
 - **Innocent Consumer vs. Investigative Rig:** In opening hooks and civilian consumer scenes, vehicles (@JETTA) must appear 100% pristine, civilian, and factory-stock with zero cables, probes, or sensor attachments. Never add research probes or PEMS measurement rigs until the university researchers in the story actively install them during road-test scenes. Premature gear ruins dramatic tension, spoils the plot, and confuses the audience.
 - **Perspective Check:** Before writing any Start Frame, explicitly check: 'Who operates this asset in this exact second of the story, and what is its chronological physical state?'
+
+### Rule #37 — Anti-Boredom & Active Human Conflict Mandate (Strict Ban on Object-Wandering, Empty Furniture & Document Slideshows)
+- **The Core Law:** AI documentary prompts must NEVER devolve into boring still-life photography. Audiences click away when cameras wander aimlessly around stationary objects, empty desks, paperwork, and office furniture.
+- **Strictly Banned B-Roll Tropes (Zero Tolerance):**
+  - Camera slowly pushing in or panning across stationary documents, paper stacks, legal binders, case dockets, contracts, or court files on an empty table.
+  - Macro rack focus from inanimate items (brass lamps, coffee cups, pens, microphones, clocks, keyboards) to a stamped paper or folder.
+  - Tracking shots past empty leather boardroom chairs, vacant court benches, deserted hallways, or empty office cubicles.
+  - Spending an entire chunk examining inanimate props or room architecture with zero active human subjects.
+- **The Human Stakes Rule (Rule #2 Reinforcement):**
+  - If the narration mentions an investigation, lawsuit, fraud, conspiracy, boardroom betrayal, or financial collapse, **ALWAYS PUT HUMAN BEINGS ON SCREEN IN RAW PSYCHOLOGICAL TENSION**.
+  - Show the living participants caught in the crisis: sweating executives pacing behind soundproof glass, furious department heads leaning aggressively over blueprints, nervous junior engineers fidgeting with glasses under intense scrutiny, defense lawyers in brisk purposeful stride down marble courthouse corridors, investigators actively arguing over whiteboard timelines, or disgraced titans isolated in private exile.
+- **Active Prop Integration:** Documents, laptops, and technical gear are ALLOWED ONLY when a living character is actively interacting with them (angrily slamming a file down, rapidly highlighting lines of code, clicking open a leather briefcase, turning pages with tense fingers, or unscrewing a fountain pen in defiance). Never film documents sitting alone on a desk.
+- **Monumental World Scale (The Only Non-Human Exception):**
+  - If a scene genuinely requires an absence of human subjects (e.g. aftermath, corporate scale, industrial reach), it MUST depict **epic, massive, cinematic physical scale**—e.g. tens of thousands of bought-back vehicles rusting in the Mojave desert, automated robotic assembly lines showering sparks, ocean container terminals under torrential rain, or monolithic corporate towers at midnight. NEVER an empty desk in an empty room.
+
