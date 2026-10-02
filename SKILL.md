@@ -81,9 +81,11 @@ Never turn a scene into a boring corporate still-life. The AI video camera must 
 - Treating physical documents/evidence as the *main subject* of a video sequence (documents are props, never the protagonist).
 
 ✅ **MANDATORY: HUMAN CONFLICT, VISCERAL ACTION & MONUMENTAL CINEMATICS:**
-- **Show Living People in High-Stakes Action:** When VO discusses fraud, legal battles, corporate collapses, or investigations, show **THE LIVING PARTICIPANTS CAUGHT IN THE STORM**. Characters wiping sweat from their brows, pacing behind glass walls, intense whispered arguments, packing boxes under armed security, cold stares across boardroom tables, slamming a phone down, walking out into rain.
-- **Power Dynamics & Body Language:** Senior executives leaning intimidatingly over subordinate engineers; defense lawyers in rapid motion down courthouse hallways; researchers troubleshooting engines in grease-stained garages; traders reacting with visible shock to plummeting charts.
-- **Monumental Physical World Scale:** If humans are absent, only show **epic, cinematic, real-world physical scale**: massive cargo ships cutting through harbor mist, automated robotic manufacturing sparks, desert vehicle graveyards stretching to the horizon, towering corporate monoliths in midnight rain—**NEVER an empty desk with a folder.**
+- **Organic Human Tension:** Derive all character actions, psychological tension, and interpersonal conflict directly and uniquely from the specific figures and narrative stakes in the voiceover.
+- **Status & Purposeful Movement:** Characters must be caught mid-action in purposeful movement, natural body language, and authentic psychological reactions dictated by their role in that exact narrative beat. Zero generic or recycled formulas.
+- **Active Prop Handling:** Objects, documents, and technology exist strictly as props handled, reviewed, or reacted to by living characters—never as standalone still-life subjects.
+- **Monumental Physical World Scale:** When characters are absent, visually manifest the story through vast, epic, real-world physical environments and authentic macro-infrastructure—never empty rooms or stationary furniture.
+
 
 
 ---

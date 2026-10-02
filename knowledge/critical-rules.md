@@ -260,13 +260,14 @@ SHOT 2/4 @TAG2 description...
 - **The Core Law:** AI documentary prompts must NEVER devolve into boring still-life photography. Audiences click away when cameras wander aimlessly around stationary objects, empty desks, paperwork, and office furniture.
 - **Strictly Banned B-Roll Tropes (Zero Tolerance):**
   - Camera slowly pushing in or panning across stationary documents, paper stacks, legal binders, case dockets, contracts, or court files on an empty table.
-  - Macro rack focus from inanimate items (brass lamps, coffee cups, pens, microphones, clocks, keyboards) to a stamped paper or folder.
-  - Tracking shots past empty leather boardroom chairs, vacant court benches, deserted hallways, or empty office cubicles.
-  - Spending an entire chunk examining inanimate props or room architecture with zero active human subjects.
-- **The Human Stakes Rule (Rule #2 Reinforcement):**
-  - If the narration mentions an investigation, lawsuit, fraud, conspiracy, boardroom betrayal, or financial collapse, **ALWAYS PUT HUMAN BEINGS ON SCREEN IN RAW PSYCHOLOGICAL TENSION**.
-  - Show the living participants caught in the crisis: sweating executives pacing behind soundproof glass, furious department heads leaning aggressively over blueprints, nervous junior engineers fidgeting with glasses under intense scrutiny, defense lawyers in brisk purposeful stride down marble courthouse corridors, investigators actively arguing over whiteboard timelines, or disgraced titans isolated in private exile.
-- **Active Prop Integration:** Documents, laptops, and technical gear are ALLOWED ONLY when a living character is actively interacting with them (angrily slamming a file down, rapidly highlighting lines of code, clicking open a leather briefcase, turning pages with tense fingers, or unscrewing a fountain pen in defiance). Never film documents sitting alone on a desk.
+  - Macro rack focus from inanimate items (lamps, mugs, pens, clocks, keyboards) to a stamped paper or folder.
+  - Tracking shots past empty chairs, vacant benches, deserted hallways, or empty office cubicles.
+  - Spending an entire chunk examining inanimate props or empty room architecture with zero active human subjects.
+- **The Human Stakes Principle (Rule #2 Reinforcement):**
+  - Derive human actions, psychological tension, and interpersonal conflict directly and organically from the *specific characters and events in the narration*. Never invent generic or cookie-cutter filler.
+  - Focus on authentic character motivation, status dynamics, emotional reactions, and purposeful physical movement dictated by the exact story beat.
+- **Active Prop Integration:** Physical objects, documents, and technology are ALLOWED ONLY when a living character is actively interacting with, reacting to, or manipulating them in service of the narrative. Never film inanimate objects resting in isolation.
 - **Monumental World Scale (The Only Non-Human Exception):**
-  - If a scene genuinely requires an absence of human subjects (e.g. aftermath, corporate scale, industrial reach), it MUST depict **epic, massive, cinematic physical scale**—e.g. tens of thousands of bought-back vehicles rusting in the Mojave desert, automated robotic assembly lines showering sparks, ocean container terminals under torrential rain, or monolithic corporate towers at midnight. NEVER an empty desk in an empty room.
+  - If a narrative beat genuinely requires the absence of human subjects (e.g. macroscopic industrial impact, supply-chain scale, environmental aftermath), it MUST depict **vast, authentic real-world physical infrastructure and cinematic scale**—never an empty desk, empty room, or inanimate still life.
+
 
