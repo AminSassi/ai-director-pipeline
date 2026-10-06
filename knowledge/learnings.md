@@ -264,3 +264,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
   * The Only Non-Human Exception: If humans are absent, visuals MUST depict monumental real-world physical scale (vast industrial infrastructure, massive supply-chain yards, environmental aftermath)—NEVER an empty desk in an empty room.
 
 
+
+- [2026-10-06] INSIGHT: REAL PEOPLE = REAL NAMES FIRST. Before writing any character reference sheet prompt for a real person, give the director their real-world names (plus what to search) so he can pull real photos online and lock likeness from them. Only write invented-description reference sheets for people who are unnamed publicly. Real surnames still never go into Grok prompt text - tags only.
