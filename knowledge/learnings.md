@@ -266,3 +266,5 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 
 - [2026-10-06] INSIGHT: REAL PEOPLE = REAL NAMES FIRST. Before writing any character reference sheet prompt for a real person, give the director their real-world names (plus what to search) so he can pull real photos online and lock likeness from them. Only write invented-description reference sheets for people who are unnamed publicly. Real surnames still never go into Grok prompt text - tags only.
+
+- [2026-10-06] INSIGHT: High-end investigative motion-graphics & technical graphic plates (3D blueprints, tactical radar sweeps, telemetry profiles, forensic dossiers) are strongly preferred by the director. Weave this style seamlessly throughout episodes, keeping physics grounded, eliminating all AI slop, and strictly avoiding sci-fi glow.
