@@ -269,12 +269,17 @@ SHOT 2/4 @TAG2 description...
 - **Active Prop Integration:** Physical objects, documents, and technology are ALLOWED ONLY when a living character is actively interacting with, reacting to, or manipulating them in service of the narrative. Never film inanimate objects resting in isolation.
 - **Monumental World Scale (The Only Non-Human Exception):**
   - If a narrative beat genuinely requires the absence of human subjects (e.g. macroscopic industrial impact, supply-chain scale, environmental aftermath), it MUST depict **vast, authentic real-world physical infrastructure and cinematic scale**—never an empty desk, empty room, or inanimate still life.
-### Rule #38 — Permanent Ban on 3D Blueprints & Pseudo "Motion Graphics" in Video Prompts
-- Video generation models (Grok Imagine, Kling, Runway) are diffusion video engines, NOT After Effects or Cinema 4D.
-- NEVER prompt video models to generate or animate 3D blueprints, CAD wireframes, isometric cutaways, circuit diagrams, or animated radar sweeps.
-- When prompted for graphics/blueprints, AI models hallucinate bubbling geometry, melting lines, and distorted plastic artifacts ("AI slop").
-- All motion graphics, charts, and diagrams must be handled in post-production editing or as static reference graphics—NEVER animated via video prompts.
-- If technical or monitoring context is needed, shoot an authentic physical monitor over a human operator's shoulder (OTS), or a physical paper blueprint on an illuminated desk.
+### Rule #38 — The High-End Motion Graphics & Technical Explainer Protocol (Zero-Slop Standard)
+- Motion graphics explainers are REQUIRED whenever a complex mechanism, system, route, or timeline is explained to the audience.
+- To eliminate AI slop, melting geometry, and warping artifacts, all motion graphics prompts must strictly follow the **Three Slop-Free Aesthetics**:
+  1. **The Tactile Forensic Light-Table (for Aviation/Machinery/Tech):** Ground the graphic as a physical cyanotype blueprint or dark slate inspection board lying flat on a drafting lightbox. Prompts use: `crisp white vector linework, millimeter gridlines, 35mm macro lens, top-down orthographic view`. Video motion: smooth macro camera dolly push across the static physical plate. Lines stay 100% sharp with zero geometry melting.
+  2. **The Vox Mixed-Media Paper Collage (for Maps/Routes/Timelines):** Matte color fields (charcoal slate `#0D0E11` or warm parchment), halftone textures, archival photo cutouts with clean white paper borders, layered paper-cut vector silhouettes, solid glowing route vectors. Motion: flat 2D ease-out slide, single vector line tracing smoothly across the map, subtle stop-motion paper drift.
+  3. **The Orthographic 2D Vector Infographic (for Systems/Data):** Strictly flat orthographic perspective (zero angled 3D distortion), clean geometric lines, single-axis fluid reveals.
+- **The Non-Negotiable Rules for Motion Graphics:**
+  - **ZERO In-Clip Text or Numbers:** Always append `--no text, words, numbers, labels`. All specific titles, dates, altitudes, and numbers are layered in Premiere/CapCut.
+  - **Single Intent per Shot:** Only ONE element animates per shot (e.g. camera moves across blueprint, OR route line traces). Never combine camera rotations, zooms, and multiple shape morphs.
+  - **Ban 3D CAD/Wireframe Keywords:** Never use `3D CAD wireframe` or `isometric 3D cutaway`. Use `orthographic 2D vector infographic`, `cyanotype architectural blueprint on drafting table`, or `flat paper-cutout collage`.
+  - **Start-Frame Master Lock:** Always generate and lock the pristine static graphic plate first in Nano Banana / Midjourney with `--raw`. The video prompt only adds gentle camera drift or vector tracing.
 
 ### Rule #39 — Permanent Ban on Multi-Character Physical Contact & Wrestling
 - AI video generators have no understanding of skeletal topology when human bodies touch or collide.

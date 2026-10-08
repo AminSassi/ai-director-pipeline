@@ -267,11 +267,31 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-10-06] INSIGHT: REAL PEOPLE = REAL NAMES FIRST. Before writing any character reference sheet prompt for a real person, give the director their real-world names (plus what to search) so he can pull real photos online and lock likeness from them. Only write invented-description reference sheets for people who are unnamed publicly. Real surnames still never go into Grok prompt text - tags only.
 
-- [2026-10-06] CRITICAL CORRECTION ON "MOTION GRAPHICS" & TECHNICAL SCHEMATICS: AI VIDEO GENERATORS (GROK / KLING / RUNWAY) CANNOT ANIMATE 2D/3D MOTION GRAPHICS OR CAD BLUEPRINTS.
-  * A previous note mistakenly suggested animating 3D blueprints, tactical radar sweeps, and isometric cutaways in video prompts. Live production on FZ1073 proved this is a catastrophic failure mode.
-  * When video diffusion models attempt to animate CAD wireframes, isometric cutaways, circuit schematics, or vector radar sweeps, they hallucinate melting lines, jittering geometry, illegible glyphs, and muddy plastic 3D artifacts. It screams "cheap amateur AI slop".
-  * HARD BAN: NEVER prompt an AI video generator to render or animate 3D blueprints, isometric aircraft cutaways, circuit schematics, or abstract motion graphics. Motion design is strictly an editor overlay in post-production.
-  * If technical context is required in a video prompt, shoot a REAL PHYSICAL computer monitor over an analyst's shoulder (OTS), or a physical paper schematic lying on a wooden desk under halogen light. Never an abstract animated graphic plate.
+- [2026-10-08] CRITICAL: THE HIGH-END MOTION GRAPHICS & EXPLAINER PLAYBOOK (ZERO-SLOP STANDARD).
+  * The director clarified: Motion graphics explainers are THE single most valuable storytelling device in documentaries to explain mechanisms, routes, and systems to viewers. They are REQUIRED across episodes.
+  * The failure on FZ1073 was NOT the concept of motion graphics, but the crude prompting technique (prompting "3D CAD wireframes" and "isometric cutaways" directly in video models, which causes melting lines and geometry distortion).
+  * Web research & industry standards (Vox, Johnny Harris, Runway/Kling best practices) reveal the exact formula to achieve razor-sharp, premium motion graphics with ZERO AI slop:
+
+  1. THE THREE PROVEN SLOP-FREE MOTION GRAPHIC AESTHETICS:
+     A. THE TACTILE FORENSIC LIGHT-TABLE (Best for Aviation, Machinery & Engineering):
+        - Never prompt abstract 3D CGI floating in empty void. Ground the graphic as a physical architectural cyanotype blueprint or dark slate inspection plate on a backlit wooden drafting lightbox.
+        - Linework: Crisp white and amber vector lines, millimeter gridlines, clean technical schematics, 35mm macro lens, shallow depth of field.
+        - Video Motion: A smooth top-down macro camera dolly push across the physical paper plate. Because the model treats it as a camera moving across a physical document, the linework stays 100% stable, sharp, and razor-crisp with zero melting!
+     B. THE VOX MIXED-MEDIA PAPER COLLAGE (Best for Maps, Flight Paths, Timelines & Geopolitics):
+        - Flat matte color backdrops (matte slate-charcoal `#0D0E11`, warm newsprint, or deep navy), subtle halftone dot print texture.
+        - Elements: Archival photo cutouts with clean white paper borders, layered paper-cut vector silhouettes of continents/airplanes, solid glowing route vectors.
+        - Video Motion: Flat 2D motion-graphics animation: clean ease-out slide, route line drawing smoothly across the flat map, subtle stop-motion paper drift. 2D flat paper never warps or melts like 3D meshes!
+     C. THE ORTHOGRAPHIC 2D VECTOR INFOGRAPHIC (Best for Data & Process Flows):
+        - Strictly orthographic top-down or straight-on flat perspective (zero angled 3D perspective distortion).
+        - Clean geometric lines, high-contrast duo-tone palette, fluid single-axis reveals.
+
+  2. THE 5 GOLDEN COMMANDMENTS FOR SLOP-FREE MOTION GRAPHICS:
+     - Commandment 1: ZERO In-Clip Text or Numbers. Always include `--no text, words, numbers, labels` in prompts. AI video models hallucinate distorted alien glyphs. True editorial typography (altitudes, flight numbers, dates) is added as clean graphic text in Premiere/CapCut/After Effects.
+     - Commandment 2: One Subject Motion per Shot. Only ONE element animates per shot (e.g. camera moves across blueprint, OR single route vector draws from A to B). Never combine multi-axis spins, zooms, and simultaneous shape morphs.
+     - Commandment 3: Ban "3D CAD / Wireframe" Keywords. Replace with: `orthographic 2D vector infographic`, `cyanotype architectural blueprint on drafting table`, `flat paper-cutout collage`, `high-contrast graphic plate`.
+     - Commandment 4: Start Frame as Absolute Master Anchor. Generate the static graphic plate first in Nano Banana Pro / Midjourney with `--raw` and high contrast. The video model's only job is to add gentle camera drift and vector tracing.
+     - Commandment 5: Positive Stability Prompting. Use keywords: `stable geometry, smooth gradual movement, fluid motion, sharp vector lines, high-contrast, clean edges`. Negative: `melting, warping, jitter, flickering, chaotic motion, 3d wireframe, blurry`.
+
 
 - [2026-10-08] CRITICAL POST-MORTEM: THE FZ1073 DISASTER & PERMANENT HARD BANS ON AI SLOP TRIGGERS.
   Director's verdict after rendering and watching FZ1073: "this is the worst ai video ive ever made video prompts are full of ai slop so i want you to read and learn from it and never do such thing again."
