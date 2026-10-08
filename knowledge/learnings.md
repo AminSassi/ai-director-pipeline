@@ -267,4 +267,36 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 - [2026-10-06] INSIGHT: REAL PEOPLE = REAL NAMES FIRST. Before writing any character reference sheet prompt for a real person, give the director their real-world names (plus what to search) so he can pull real photos online and lock likeness from them. Only write invented-description reference sheets for people who are unnamed publicly. Real surnames still never go into Grok prompt text - tags only.
 
-- [2026-10-06] INSIGHT: High-end investigative motion-graphics & technical graphic plates (3D blueprints, tactical radar sweeps, telemetry profiles, forensic dossiers) are strongly preferred by the director. Weave this style seamlessly throughout episodes, keeping physics grounded, eliminating all AI slop, and strictly avoiding sci-fi glow.
+- [2026-10-06] CRITICAL CORRECTION ON "MOTION GRAPHICS" & TECHNICAL SCHEMATICS: AI VIDEO GENERATORS (GROK / KLING / RUNWAY) CANNOT ANIMATE 2D/3D MOTION GRAPHICS OR CAD BLUEPRINTS.
+  * A previous note mistakenly suggested animating 3D blueprints, tactical radar sweeps, and isometric cutaways in video prompts. Live production on FZ1073 proved this is a catastrophic failure mode.
+  * When video diffusion models attempt to animate CAD wireframes, isometric cutaways, circuit schematics, or vector radar sweeps, they hallucinate melting lines, jittering geometry, illegible glyphs, and muddy plastic 3D artifacts. It screams "cheap amateur AI slop".
+  * HARD BAN: NEVER prompt an AI video generator to render or animate 3D blueprints, isometric aircraft cutaways, circuit schematics, or abstract motion graphics. Motion design is strictly an editor overlay in post-production.
+  * If technical context is required in a video prompt, shoot a REAL PHYSICAL computer monitor over an analyst's shoulder (OTS), or a physical paper schematic lying on a wooden desk under halogen light. Never an abstract animated graphic plate.
+
+- [2026-10-08] CRITICAL POST-MORTEM: THE FZ1073 DISASTER & PERMANENT HARD BANS ON AI SLOP TRIGGERS.
+  Director's verdict after rendering and watching FZ1073: "this is the worst ai video ive ever made video prompts are full of ai slop so i want you to read and learn from it and never do such thing again."
+  Live production proved that AI video models (Grok Imagine, Kling, Runway) break down completely when prompted with specific fatal triggers. The following FOUR categories are permanently banned across all pipelines:
+
+  1. PERMANENT BAN: MULTI-CHARACTER PHYSICAL CONTACT & COMBAT (BODY HORROR TRIGGER)
+     * Never prompt wrestling, grappling, tackling, door-breaching collisions, hands fighting on controls, or multiple people physically interacting in close quarters.
+     * Diffusion models cannot track separate skeletal topologies during contact. They blend bodies together: generating 3 arms, merged torsos, distorted heads, and melting limbs.
+     * The Documentary Fix: Direct the tension BEFORE and AFTER physical contact. Show pre-strike tension (eyes locking, knuckles whitening on seat armrests, boots taking deliberate forward strides, door handles vibrating). Show the aftermath (empty seats, zip ties on the floor, heavy shadows, character breathing against a bulkhead). Never the collision itself.
+
+  2. PERMANENT BAN: FINE TOOL MANIPULATION & FINGER MICRO-ACTIONS (MELTING HANDS TRIGGER)
+     * Never prompt fingers measuring with calipers, hands using magnifying loupes, fountain pens writing text, rubber stamps pressing on documents, or fingers typing on keyboards.
+     * Video AI cannot maintain finger geometry while interacting with rigid micro-tools. Tools bend like rubber, calipers melt into flesh, and fingers duplicate or warp into blobs.
+     * The Documentary Fix: Frame the shot on the character's face, their focused gaze, wide or medium angles of the workspace, or static physical artifacts without fingers in motion.
+
+  3. PERMANENT BAN: FAKE 3D CUTAWAYS, BLUEPRINTS & ANIMATED SCHEMATICS
+     * As stated above, zero 3D isometric cutaways, zero animated door circuit diagrams, zero radar vector sweeps in video prompts.
+     * The Documentary Fix: 100% tangible physical reality (Fincher / Frontline documentary realism). Real cockpits, real airfields, real office rooms, real 35mm camera motion.
+
+  4. MANDATORY: START FRAME TO SHOT 1 IDENTICAL ANCHORING
+     * In Grok Imagine (`@image1` anchor), Shot 1 Frame 0 literally IS the Start Frame.
+     * SHOT 1 MUST describe the exact same physical space, subjects, lighting, and camera angle established in the Start Frame, only adding gentle cinematic camera drift.
+     * Never introduce a new character, cut to a new angle, or change the room in Shot 1. Any scene or angle change must happen from Shot 2 onward.
+
+  5. PACE BY STILLNESS AND WEIGHT, NOT FRANTIC CAMERA OR BODY JITTERS
+     * High-end cinematic drama comes from composition, lighting contrast, deep shadows, and slow, deliberate cinematic camera movement (slow tracking, slow dolly push, gentle crane).
+     * Frantic movement and chaotic instructions create AI noise and morphing artifacts. Keep camera trajectories clean, continuous, and single-direction.
+

@@ -269,5 +269,28 @@ SHOT 2/4 @TAG2 description...
 - **Active Prop Integration:** Physical objects, documents, and technology are ALLOWED ONLY when a living character is actively interacting with, reacting to, or manipulating them in service of the narrative. Never film inanimate objects resting in isolation.
 - **Monumental World Scale (The Only Non-Human Exception):**
   - If a narrative beat genuinely requires the absence of human subjects (e.g. macroscopic industrial impact, supply-chain scale, environmental aftermath), it MUST depict **vast, authentic real-world physical infrastructure and cinematic scale**—never an empty desk, empty room, or inanimate still life.
+### Rule #38 — Permanent Ban on 3D Blueprints & Pseudo "Motion Graphics" in Video Prompts
+- Video generation models (Grok Imagine, Kling, Runway) are diffusion video engines, NOT After Effects or Cinema 4D.
+- NEVER prompt video models to generate or animate 3D blueprints, CAD wireframes, isometric cutaways, circuit diagrams, or animated radar sweeps.
+- When prompted for graphics/blueprints, AI models hallucinate bubbling geometry, melting lines, and distorted plastic artifacts ("AI slop").
+- All motion graphics, charts, and diagrams must be handled in post-production editing or as static reference graphics—NEVER animated via video prompts.
+- If technical or monitoring context is needed, shoot an authentic physical monitor over a human operator's shoulder (OTS), or a physical paper blueprint on an illuminated desk.
 
+### Rule #39 — Permanent Ban on Multi-Character Physical Contact & Wrestling
+- AI video generators have no understanding of skeletal topology when human bodies touch or collide.
+- NEVER prompt wrestling, grappling, tackling, fistfights, door-breaching collisions, or characters fighting over physical controls.
+- Physical contact causes instant body horror: extra limbs, heads merging, melting torsos, and grotesque rubber anatomy.
+- Convey physical conflict through **pre-impact tension and post-impact aftermath**:
+  - Pre-impact: tense faces, hands gripping armrests, boots striding fast across carpet, door handles violently rattling from outside.
+  - Post-impact: aftermath in shadows, heavy breathing, flex-cuffs on the floor, an overturned cart, solitary figures standing guard.
 
+### Rule #40 — Permanent Ban on Fine Tool Manipulation & Micro-Hand Mechanics
+- AI video models break down and melt hands when tasked with fine mechanical manipulation.
+- NEVER prompt fingers measuring with calipers, hands using magnifying loupes, fountain pens writing cursive, rubber stamps stamping ink, or fingers typing on keyboards.
+- This causes warped 6-fingered hands, bending metal tools, and melting plastic props.
+- Keep focus on facial expressions, medium and wide shots, or environmental actions that do not require micro-finger precision.
+
+### Rule #41 — Absolute Anchor Alignment (Start Frame = Shot 1 Frame 0)
+- In Grok Imagine image-to-video (`@image1` anchor), Shot 1 literally begins on the Start Frame.
+- Shot 1 MUST match the Start Frame's environment, subject, framing, and lighting with 100% fidelity, introducing only subtle camera drift or natural character breath/action.
+- NEVER cut to a different location, introduce a new character, or change camera perspective in Shot 1. Any cut or angle transition must occur at Shot 2 or later.

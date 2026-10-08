@@ -238,3 +238,36 @@ Never go slower than this. Slower pacing = more time for AI to hallucinate withi
 ---
 
 *Last updated: 2026-09-01 — Mladić Session Post-Mortem (SUCCESS)*
+
+---
+
+## POST-MORTEM #003 — flydubai Flight FZ1073 Session [2026-10-08]
+
+### Result: CRITICAL FAILURE. Director rendered, uploaded, and watched the video: "this is the worst ai video ive ever made video prompts are full of ai slop so i want you to read and learn from it and never do such thing again."
+
+---
+
+### ROOT CAUSE AUTOPSY — WHY THE VIDEO DEVOLVED INTO AI SLOP
+
+1. **ERROR 1: PROMPTING PSEUDO "MOTION GRAPHICS" & 3D BLUEPRINTS IN VIDEO GENERATORS**
+   * **What happened:** The pipeline attempted to animate CAD blueprints, isometric aircraft cutaways, electronic door lock schematics, and vector flight paths directly in Grok Imagine video prompts (e.g. Chunks 6, 7, 10, 12).
+   * **The catastrophe:** Video diffusion models cannot do After Effects vector motion graphics. When forced to animate technical schematics, the model generated bubbling, warped geometry, flickering lines, and plastic melting CGI artifacts.
+   * **The permanent rule:** NEVER ask AI video models to render 3D blueprints, CAD diagrams, isometric cutaways, or animated schematics. Motion graphics belong 100% in post-production editing.
+
+2. **ERROR 2: MULTI-CHARACTER PHYSICAL COMBAT & TACKLING**
+   * **What happened:** Prompts repeatedly described passengers tackling the co-pilot, wrestling in the cockpit aisle, breaching the armored door, and grappling over the flight controls.
+   * **The catastrophe:** Diffusion models have no skeletal topology awareness when human bodies collide. Grok merged limbs, created extra arms/legs, and melted heads and torsos together into grotesque body horror.
+   * **The permanent rule:** NEVER prompt physical contact, wrestling, grappling, or combat. Direct the tension strictly through **pre-impact buildup** (intense eye contact, hands gripping armrests, boots taking strides, rattling door handles) and **post-impact aftermath** (solitary figures standing guard, empty seats, zip ties on the floor, breathing in shadows).
+
+3. **ERROR 3: MICRO-HAND INTERACTIONS & FINE TOOL MECHANICS**
+   * **What happened:** Prompts frequently described delicate hand actions: gloved fingers using calipers to measure knives, holding magnifying loupes, fountain pens writing text, rubber stamps pressing on documents, fingers typing on keyboards.
+   * **The catastrophe:** AI video models melt fingers into tools. Calipers became rubber noodles, hands gained 6+ deformed fingers, and stamps warped into gray blobs.
+   * **The permanent rule:** NEVER prompt fine tool manipulation or micro-finger actions. Frame shots on the character's face, wide/medium room compositions, or static physical props without fingers moving.
+
+4. **ERROR 4: FAILURE TO MAINTAIN STILLNESS AND GROUNDED 35MM CINEMATOGRAPHY**
+   * **What happened:** The prompts tried to cram too many rapid physical events, micro-actions, and scene shifts into each prompt instead of trusting David Fincher-style deliberate cinematic tension.
+   * **The permanent rule:** Pacing is maintained through rapid cuts between simple, grounded, elegant documentary shots (~2.5s per shot), NOT by making characters perform frantic complex actions within a single shot. Keep camera moves simple, smooth, single-direction, and photorealistic.
+
+---
+
+*Last updated: 2026-10-08 — FZ1073 Session Post-Mortem (CRITICAL FAILURE AUDIT)*
