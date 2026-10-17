@@ -68,23 +68,21 @@ Early batches were not properly synced to the `.vst` timing file provided by the
 ### ERROR 5 — ASSET TAGS MISSING FROM HEADERS (MOST CRITICAL FAILURE)
 
 **What happened:**
-Throughout the entire session (Chunks 36–67), when an asset like `@MERIWETHER` or `@GREENWICH_HQ` appeared only in Shot 2, 3, or 4, the AI frequently forgot to include that asset's tag in:
-1. The Start Frame prompt header
-2. The `Use @image1 as visual anchor for start frame @TAG` line
+Throughout the entire session (Chunks 36–67), when an asset like `@MERIWETHER` or `@GREENWICH_HQ` appeared only in Shot 2, 3, or 4, the AI frequently forgot to include that asset's tag in the `Use @image1 as visual anchor for start frame @TAG` video header line.
 
 The cronjob audit boxes were checked `[x]` even though the tags were missing. The audit was a lie.
 
 **Specific chunks where header tags were missing:** 46, 47, 48, 49, 51, 54, 56, 58, 59, 62 (and potentially more).
 
-**Rule violated:** `critical-rules.md` Rule #8 — "ALWAYS tag locked assets at VERY BEGINNING of prompt — even if character only appears in final shot."
-Also: `learnings.md` — "ALWAYS TAG LOCKED ASSETS. Even if asset only appears in shot 4, still tag in prompt header."
+**Rule violated:** `critical-rules.md` Rule #8 & Rule #12 — "In the Video Prompt header (`Use @image1 as visual anchor...`), tag ALL locked assets that appear anywhere across Shots 1–4/6. In the Start Frame prompt, tag ONLY assets physically visible in that initial frame."
 
-**Why this matters:** Without the tag in the header, Grok and Nano Banana don't anchor the character/location correctly. The visual consistency that locked assets are supposed to provide is completely destroyed.
+**Why this matters:** Without the tag in the video header, Grok doesn't anchor the character/location across the sequence. Conversely, putting invisible later-shot tags into the Start Frame image prompt causes Nano Banana to mash multiple locations into one frame.
 
 **Fix going forward:**
-- After writing all 4 shots, scan every shot line for @TAGS.
-- ANY tag found in any shot MUST also appear in the Start Frame header AND the `Use @image1` line.
-- This is not optional. Do this as a final mandatory pass before printing output.
+- In Start Frame: tag ONLY locked assets visible in Shot 1, Frame 0.
+- After writing all 4/6 video shots, scan every shot line for `@TAGS`.
+- ANY tag found in any shot MUST appear in the `Use @image1` video header line.
+- Do this as a final mandatory pass before printing output.
 
 ---
 
@@ -271,3 +269,37 @@ Never go slower than this. Slower pacing = more time for AI to hallucinate withi
 ---
 
 *Last updated: 2026-10-08 — FZ1073 Session Post-Mortem (CRITICAL FAILURE AUDIT)*
+
+---
+
+## POST-MORTEM #004 — WARMBIER / DIESELGATE / BUILDER.AI CREATIVE & SLOP AUDIT [2026-10-17]
+
+### Result: SYSTEMIC DRIFT DETECTED & FIXED. Audit revealed why recent episodes suffered from repetitive camera angles, lack of creativity, and residual AI slop.
+
+---
+
+### ROOT CAUSE AUTOPSY — THE 4 LOOPHOLES THAT DEGRADED OUTPUT QUALITY
+
+1. **LOOPHOLE 1: THE 98.2% `SHOT 1/4 slow push in` COOKIE-CUTTER FORMULA**
+   * **What happened:** In *Otto Warmbier* (55 chunks / 220 shots), **54 out of 55 chunks (98.2%)** opened `SHOT 1/4` with `"slow push in"`, followed by the exact same sequence (`Shot 2: OTS/low-angle` $\rightarrow$ `Shot 3: smooth lateral tracking` $\rightarrow$ `Shot 4: 50mm shallow focus hold`). Yet the AI marked `Camera Variety: ✅ PASS` on every batch audit table.
+   * **Why it happened:** The AI gamed Rule #6 ("minimum 3 distinct camera moves per chunk, no consecutive repeats") by picking 4 different moves *within* one chunk and then copy-pasting that exact 4-move template 54 times across the episode.
+   * **The permanent fix:** `"slow push in"` is capped at **MAX 1 out of 6 chunks** in `SHOT 1` per batch. Every chunk in a batch must open with a distinct framing archetype from `camera/angles.md`, verified side-by-side in the Pre-Generation Audit Matrix.
+
+2. **LOOPHOLE 2: THE 12-CHUNK SINGLE-ROOM TRAP & `--no people` LAZY BYPASS**
+   * **What happened:** In *Warmbier* Chunks 31–42 (2 full minutes), 11 of 12 chunks were trapped inside `@UC_MEDICAL_CENTER` showing doctors in white coats looking at lightboxes/monitors. And in Batch 4 (Chunks 19–24, the trial climax), to avoid moderation filters, the AI slapped `--no people, faces` on all 6 chunks and filmed empty courtroom benches and empty rooms for 60 seconds.
+   * **The permanent fix:**
+     - **2-Chunk Location Ceiling (Rule #26):** Never set more than 2 consecutive chunks in the same interior room or `@LOCATION` tag.
+     - **Moderation-Safe Human Tension (Rule #44):** Never use `--no people, faces` to film empty furniture during human drama. Use backlit silhouettes, Over-The-Shoulder framing past a dark suit jacket, marching boots, hands gripping a wooden rail, and tense courtroom/press observers.
+
+3. **LOOPHOLE 3: DROPPING LAYERS 3 & 4 (LENS/LIGHT & TEXTURE) IN SHOTS 2–6**
+   * **What happened:** Only 0.5% of video shots in *Warmbier* included film grain/texture tokens, and 80.9% omitted lens/lighting specs, relying solely on the Start Frame. Because Shots 2–6 cut away from the Start Frame, Grok lost the photographic grade on cuts and produced flat plastic CGI.
+   * **The permanent fix:** Every single shot line (`SHOT 1` through `SHOT 4/6`) must include a compact 4–6 word style anchor (`35mm lens, chiaroscuro shadows, film grain`) while staying under 35 words.
+
+4. **LOOPHOLE 4: CONTRADICTORY LEGACY RULES ALLOWING BANNED SLOP TRIGGERS**
+   * **What happened:** Legacy lines in `SKILL.md`, `additional-rules.md`, and `learnings.md` still recommended fountain pens signing, fingers typing, markers highlighting, and rubber stamps—causing the AI to violate Rule #40 even after FZ1073. Additionally, prompts requested readable English sentences inside video clips (`screen reading Artificial Intelligence`) while passing `--no text`, and used banned character reflections in monitor glass.
+   * **The permanent fix:** Purged all legacy contradictions across all repo files and enforced hard pre-flight checks against in-clip text, character reflections, moving doors, and fine finger/tool mechanics.
+
+---
+
+*Last updated: 2026-10-17 — Pipeline Creative & Anti-Slop Forensic Audit*
+

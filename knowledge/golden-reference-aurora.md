@@ -134,9 +134,9 @@ Professional cinematic photograph, 35mm anamorphic lens, film grain texture. Int
 Use @image1 as visual anchor for start frame.
 
 SHOT 1/6 Wide tracking shot through a Southern parish courthouse deed vault, tall rows of mechanical rolling steel shelving filled with heavy leather deed books, warm fluorescent lighting, 35mm lens
-SHOT 2/6 Medium shot of an elderly archivist turning the hand-wheel of a mobile shelving track, heavy steel units sliding open smoothly to reveal archival folders, documentary realism
-SHOT 3/6 Close-up of hands wearing white archival cotton gloves opening a massive parish survey atlas from the 1980s, brittle yellowed map pages detailing pipeline rights-of-way, 50mm lens
-SHOT 4/6 Macro rack focus across a handwritten land deed parchment, embossed parish notary seal visible in low relief, warm desk lamp light casting shallow depth of field
+SHOT 2/6 Medium shot of an elderly archivist standing beside open mobile shelving track, heavy steel units revealing stacked archival folders, documentary realism, film grain
+SHOT 3/6 Over-the-shoulder close-up looking past archivist toward an open 1980s parish survey atlas on wooden table, brittle yellowed map pages detailing pipeline rights-of-way, 50mm lens
+SHOT 4/6 Macro rack focus across a land deed parchment with embossed parish notary seal in low relief to archivist's focused eyes in background, warm desk lamp light
 SHOT 5/6 Exterior low-angle tracking shot outside the Louisiana courthouse, live oak trees draped in Spanish moss framing red brick architecture, warm humid afternoon haze
 SHOT 6/6 Cinematic slow crane rise over the winding Sabine River, industrial LNG tanker berths visible in distance through riverbank cypress trees, documentary texture, film grain
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion
@@ -156,10 +156,10 @@ SHOT 6/6 Cinematic slow crane rise over the winding Sabine River, industrial LNG
 `	ext
 Use @image1 as visual anchor for start frame @LAB.
 
-SHOT 1/6 @LAB Interior wide establishing shot of the Gambit Security operations room, analyst sitting at solid oak desk reviewing diagnostic incident report, warm ambient office lighting, 35mm lens
-SHOT 2/6 @LAB Medium tracking shot past colleagues collaborating around a mobile dry-erase whiteboard covered in handwritten network architecture diagrams, documentary realism
-SHOT 3/6 @LAB Close-up of an open ring-binder filled with printed technical threat bulletins, analyst highlighting an IP address string with yellow fluorescent marker, 50mm lens
-SHOT 4/6 Macro rack focus on a desktop computer display, clean terminal interface scrolling diagnostic system logs, reflection of office window blinds on monitor glass
+SHOT 1/6 @LAB Interior wide tracking shot through foreground glass partition of the Gambit Security operations room, analyst seated at solid oak desk reviewing incident report, warm office light, 35mm lens
+SHOT 2/6 @LAB Medium lateral tracking shot past colleagues conferring solemnly beside a dry-erase whiteboard covered in network architecture diagrams, documentary realism, film grain
+SHOT 3/6 @LAB Over-the-shoulder close-up looking past analyst toward an open ring-binder with yellow-highlighted technical threat bulletins, 50mm shallow focus, warm tungsten glow
+SHOT 4/6 Over-the-shoulder macro rack focus from analyst silhouette to desktop computer display showing clean terminal diagnostic logs, muted office reflection, film grain
 SHOT 5/6 Low-angle tracking shot past a clean enterprise server rack enclosed in matte black steel cabinet with perforated door, quiet green indicator LEDs, realistic IT infrastructure
 SHOT 6/6 Cinematic slow crane rise outside the commercial brick office building at dusk, interior warm lights glowing through ground-floor windows, investigative documentary grade, film grain
 --ar 16:9 --no blur --no watermark --no artifacts --no distortion

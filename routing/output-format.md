@@ -1,173 +1,42 @@
-# Structured Output Format
+# Structured Routing Output Format (Phase 0.75)
 
-Every chunk produces machine-readable metadata. Not pretty text. Structured data.
+Phase 0.75 produces the **Creative Director's Pre-Visualization & Routing Map**. It prevents Phase 2 from improvising repetitive camera angles or trapping the episode in a single room.
 
 ---
 
-## Per-Chunk Metadata Schema
+## Per-Chunk Routing Schema
 
-```yaml
-chunk: <number>
-narration: "<exact narration text>"
-duration: <seconds>s
-word_count: <number>
-visual_type: <CINEMATIC|ACTION|EXPLAINER|MONTAGE|ARCHIVAL|EMOTIONAL|TRANSITION|TEXT_FOCUS|HYBRID>
-generator: <seedance|gemini|default>
-confidence: <0-100>%
-reason:
-  - <reason 1>
-  - <reason 2>
-  - <reason 3>
-camera_complexity: <LOW|MEDIUM|HIGH>
-visual_style: <cinematic|documentary|animation|archival|mixed>
-requires_split: <true|false>
-split_segments: <null|list of segments>
-tags: <locked character/location tags>
-priority: <NORMAL|HIGH>
-notes: <any additional context>
+Each chunk in `output/phase-0.75-routing.md` must specify:
+- `chunk`: Chunk number and timestamp
+- `visual_type`: `CINEMATIC_DRAMA` | `INVESTIGATIVE_PROCEDURAL` | `SCALE_INFRASTRUCTURE` | `EXPLAINER_LIGHT_TABLE` | `EXPLAINER_VOX_COLLAGE` | `CONTRAST_MONTAGE` | `CTA_ATMOSPHERIC`
+- `shot_1_archetype`: One of the 12 Framing Archetypes from `camera/angles.md` (guaranteeing no consecutive repeats and max 1 `slow push in` per 6-chunk batch)
+- `location_and_tags`: Primary setting and locked `@TAGS` (enforcing the **2-Chunk Location Ceiling**—never >2 consecutive chunks in the same room)
+- `subtext_direction`: Non-literal physical action, human transaction, or visual metaphor to execute in Phase 2
+
+---
+
+## Routing Table Template
+
+```markdown
+# PHASE 0.75: INTELLIGENT SCENE ROUTING & CAMERA BLUEPRINT
+**Channel:** [Verion | Insolvent]
+**Total Chunks:** [N] | **Pacing:** [10s (4 shots) | 15s (6 shots)]
+
+| Chunk | Timestamp | Visual Type | `SHOT 1` Framing Archetype (`camera/angles.md`) | Location & Locked `@TAGS` | Subtext & Non-Literal Visual Direction |
+| :---: | :---: | :--- | :--- | :--- | :--- |
+| **01** | 00:00–00:10 | `SCALE_INFRASTRUCTURE` | #4 Low-Slung Surface Skimming | Exterior `@PYONGYANG_HOSPITAL` | Security floodlight sweeping wet asphalt outside locked compound gates at dawn |
+| **02** | 00:10–00:20 | `INVESTIGATIVE_PROCEDURAL` | #5 OTS Evidence Reveal (Pan) | `@UC_MEDICAL_CENTER` `@DR_KANTER` | OTS past Dr. Kanter studying dark cortical voids on backlit brain MRI films |
+| **03** | 00:20–00:30 | `CONTRAST_MONTAGE` | #8 Depth-Plane Rack Focus | `@UC_MEDICAL_CENTER` $\rightarrow$ `@PYONGYANG_HOSPITAL` | Rack focus from April 2016 scan date to silhouette of guard in North Korean ward |
+| **04** | 00:30–00:40 | `EXPLAINER_LIGHT_TABLE` | #12 Tactile Light-Table Glide | Forensic Lightbox | Top-down macro dolly across cyanotype toxicological & neural pathway plate |
+| **05** | 00:40–00:50 | `CINEMATIC_DRAMA` | #6 Backlit Chiaroscuro Silhouette | Detention Wing Corridor | Slow dolly out from solitary backlit figure behind heavy barred partition |
+| **06** | 00:50–01:00 | `CTA_ATMOSPHERIC` | #2 Architectural Worm's-Eye | Taedong River / Pyongyang | Worm's-eye crane rise past brutalist concrete monument in twilight rain (Zero UI) |
 ```
 
 ---
 
-## Example: Character Moment
+## Pre-Phase 2 Routing Audit Check
 
-```yaml
-chunk: 01
-narration: "In the mid-1970s, a young pharmacist named Bavaguthu Raghuram Shetty arrived in Abu Dhabi from a small town in southern India, reportedly with only a few dollars to his name."
-duration: 10s
-word_count: 31
-visual_type: CINEMATIC
-generator: default
-confidence: 95%
-reason:
-  - "Character origin story — narrative, not explanatory"
-  - "No diagrams or data visualization needed"
-  - "Establishing shot of arrival in new city"
-camera_complexity: LOW
-visual_style: documentary
-requires_split: false
-split_segments: null
-tags: []
-priority: NORMAL
-notes: "1970s Abu Dhabi setting, grainy film look"
-```
-
----
-
-## Example: Data Visualization
-
-```yaml
-chunk: 44
-narration: "And that its public financial statements had misled investors by understating the company's debt by as much as four billion dollars."
-duration: 10s
-word_count: 20
-visual_type: EXPLAINER
-generator: gemini
-confidence: 92%
-reason:
-  - "Core fraud visualization — $4B gap between reported and actual debt"
-  - "Requires animated comparison: public filings vs internal records"
-  - "Best shown as data visualization, not cinematic footage"
-camera_complexity: MEDIUM
-visual_style: animation
-requires_split: false
-split_segments: null
-tags: []
-priority: HIGH
-notes: "Two ledger books side by side, showing gap"
-```
-
----
-
-## Example: Action Scene
-
-```yaml
-chunk: 50
-narration: "On April 9th, 2020, following an application by NMC's largest creditor, Abu Dhabi Commercial Bank, which was owed roughly nine hundred sixty-three million dollars, a UK High Court judge placed NMC Health into administration."
-duration: 10s
-word_count: 42
-visual_type: CINEMATIC
-generator: default
-confidence: 88%
-reason:
-  - "Institutional action — judge making ruling"
-  - "Courtroom drama, not physical action"
-  - "No chase, explosion, or fast movement"
-camera_complexity: MEDIUM
-visual_style: documentary
-requires_split: false
-split_segments: null
-tags: []
-priority: HIGH
-notes: "Courtroom setting, judge speaking, dramatic weight"
-```
-
----
-
-## Routing Summary Format
-
-After all chunks are classified, produce a summary:
-
-```yaml
-# ROUTING SUMMARY
-
-total_chunks: 92
-total_duration: ~15 minutes
-total_words: 1400
-
-generators:
-  seedance:
-    chunks: 0
-    percentage: 0%
-  gemini:
-    chunks: 12
-    percentage: 13%
-  default:
-    chunks: 80
-    percentage: 87%
-
-visual_types:
-  CINEMATIC: 61
-  ACTION: 0
-  EXPLAINER: 12
-  MONTAGE: 5
-  ARCHIVAL: 2
-  EMOTIONAL: 4
-  TRANSITION: 3
-  TEXT_FOCUS: 3
-  HYBRID: 2
-
-high_priority_chunks:
-  - chunk: 07
-    reason: "Core fraud reveal"
-  - chunk: 44
-    reason: "$4B gap visualization"
-  - chunk: 50
-    reason: "Administration moment"
-
-chunk_map:
-  - { chunk: 01, generator: default, visual_type: CINEMATIC }
-  - { chunk: 02, generator: default, visual_type: CINEMATIC }
-  - { chunk: 03, generator: default, visual_type: CINEMATIC }
-  - { chunk: 04, generator: default, visual_type: CINEMATIC }
-  - { chunk: 05, generator: default, visual_type: CINEMATIC }
-  - { chunk: 06, generator: default, visual_type: CINEMATIC }
-  - { chunk: 07, generator: gemini, visual_type: EXPLAINER }
-  - { chunk: 08, generator: default, visual_type: CINEMATIC }
-  - { chunk: 09, generator: default, visual_type: CINEMATIC }
-  - { chunk: 10, generator: default, visual_type: CINEMATIC }
-  # ... etc
-```
-
----
-
-## Pipeline Integration
-
-Every downstream agent reads this metadata:
-
-1. **Prompt Generator** reads `generator` and `visual_type` to determine which tool to use
-2. **Camera Planner** reads `camera_complexity` and `visual_style` for angle decisions
-3. **Quality Checker** reads `confidence` and `reason` to validate routing
-4. **Director Dashboard** reads `chunk_map` for instant visibility
-
-The metadata IS the routing decision. Pretty text is documentation only.
+Before advancing from Phase 0.75 to Phase 1/2, verify:
+1. **Zero 3-Chunk Room Traps:** Does any `@LOCATION` appear as the primary setting in 3+ consecutive rows? If yes, re-route the middle chunk to `EXPLAINER_LIGHT_TABLE`, `EXPLAINER_VOX_COLLAGE`, `SCALE_INFRASTRUCTURE`, or `CONTRAST_MONTAGE`.
+2. **Opening Camera Diversity:** Across every group of 6 rows, does each row use a different `SHOT 1` Framing Archetype, with `"slow push in"` appearing at most once?
+3. **Explainer Integration:** Are complex technical/financial mechanisms routed to `EXPLAINER_LIGHT_TABLE` or `EXPLAINER_VOX_COLLAGE` (Rule #38)?

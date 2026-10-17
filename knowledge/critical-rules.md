@@ -8,14 +8,15 @@ Hard-learned rules from live production. NEVER VIOLATE. Single source of truth.
 
 Before generating ANY prompt, you MUST do ALL of the following IN ORDER:
 
-1. Read `critical-rules.md` in full ← you are reading this now
-2. Read `additional-rules.md` in full
-3. Read `learnings.md` in full
-4. Read `session-postmortems.md` to know what mistakes were made before
-5. Read `golden-reference-mladic.md` and `golden-reference-aurora.md` — the gold standard production benchmarks
-6. Open and read the `.vst` timing file provided by the director
-7. Confirm to director: "I have read all repo files. Ready to generate."
-8. **MANDATORY CHANNEL GATE:** Explicitly ask the director: "Which channel are we producing for today? 1. Verion | 2. Insolvent" — never proceed to Phase 0 or insert any CTAs until answered.
+1. Read `knowledge/critical-rules.md` in full ← you are reading this now
+2. Read `knowledge/additional-rules.md` in full
+3. Read `knowledge/learnings.md` in full
+4. Read `knowledge/session-postmortems.md` to know what mistakes were made before
+5. Read `camera/angles.md` and `style/rules.md` — master cinematography & visual style playbooks
+6. Read `knowledge/golden-reference-mladic.md` and `knowledge/golden-reference-aurora.md` — the gold standard production benchmarks
+7. Open and read the `.vst` / `.srt` pre-chunked timing file provided by the director (when in Phase 0.5+)
+8. Confirm to director: "I have read all repo files. Ready to generate."
+9. **MANDATORY CHANNEL GATE:** Explicitly ask the director: "Which channel are we producing for today? 1. Verion | 2. Insolvent" — never proceed to Phase 0 or insert any CTAs until answered.
 
 **This is not optional. Not skippable. Not replaceable by memory or context summaries.**
 Every session starts with this protocol. Every single time.
@@ -24,278 +25,212 @@ Every session starts with this protocol. Every single time.
 
 ## Character Rules
 
-### Rule #1 — Characters NEVER posed
-- Characters are NEVER posed. Always caught mid-action.
-- Not "standing" but "one foot crossing the threshold, one still outside"
-- Test: could you freeze this frame and have implied motion? Yes = correct.
+### Rule #1 — Characters NEVER Posed (Gross-Motor Implied Motion)
+- Characters are NEVER posed statically looking at the camera. Always caught mid-action in natural, grounded gross-motor movement.
+- Examples: walking mid-stride down a colonnade, turning away from a panoramic window, leaning forward across a conference table, closing a heavy binder, stepping across a threshold.
+- **Test:** Could you freeze this frame and see implied motion and psychological weight? Yes = correct.
+- **Note (See Rule #40):** Keep motion to clean gross-motor body language. NEVER prompt fine finger/tool mechanics (no writing text with fountain pens, no pressing rubber stamps, no rapid keyboard typing, no calipers).
 
-### Rule #2 — Show person, not objects
-- When VO names a living person → show THEM, not their objects
-- From behind, side, silhouette, through glass — but THEM, alive, in motion
-- Objects-only = only for ABSENCE scenes (person is gone)
+### Rule #2 — Show Living People, Not Inert Objects
+- When VO names or implies a living person → show THEM in their environment, not isolated inanimate objects.
+- From behind, side profile, silhouette, through glass partitions, or Over-The-Shoulder (OTS) — but THEM, alive, in purposeful motion.
+- Objects-only shots are strictly reserved for explicit ABSENCE beats or monumental macro-infrastructure (see Rule #37).
 
-### Rule #3 — Character descriptions in shots
-- When character is ALONE → say "Clanton alone walking" etc.
-- When with UNKNOWN people (not from tags) → say "with other inmates" or "with other people"
-- When with LOCKED characters from tags → say "Clanton with James" or "with Briley brothers"
-- Makes AI generator understand who appears in shot
+### Rule #3 — Character Descriptions in Shots
+- When character is ALONE → say `"@TAG [Name/Role] alone walking..."`
+- When with UNKNOWN people (not from tags) → say `"with other executives"` or `"with clinical colleagues"`
+- When with LOCKED characters from tags → say `"@TAG1 with @TAG2"`
+- Makes the AI generator clearly understand how many subjects appear in the frame.
 
-### Rule #4 — Non-locked characters
-- Describe with appearance details: "African American man, short hair, prison uniform"
-- Don't use @TAG for characters without reference sheets
-
----
-
-## Camera Rules
-
-### Rule #5 — Creative angles required
-- Every scene must have at least ONE creative angle (worm's eye, dutch tilt, through-glass, macro, bird's eye, ground-level tracking, first-person POV, reverse angle, orbital arc)
-- Never two push-ins in a row. Never three static holds.
-- Reference `camera/angles.md` before every prompt generation
-
-### Rule #6 — Visual variety
-- Never repeat camera movements, body movements, scenes, or locations
-- Always introduce new angles and movements to catch viewer attention
-- Minimum 3 different camera movements across 4 shots
-
-### Rule #7 — Shot count by word count
-- 2–5 words → 2 shots ONLY
-- 6–12 words → 3 shots
-- 13–20 words → 4 shots
-- 20–30+ words → SPLIT into 2 scenes, 4 shots each
+### Rule #4 — Non-Locked Characters
+- Describe with specific appearance details and attire: `"senior forensic auditor in charcoal suit, silver hair, 60s"`
+- NEVER use `@TAG` for characters or generic locations without locked reference sheets.
 
 ---
 
-## Prompt Rules
+## Camera & Cinematography Rules
 
-### Rule #8 — Locked asset tags at beginning
-- ALWAYS tag locked assets at VERY BEGINNING of prompt — even if character only appears in final shot
-- NEVER put tags in middle of prompt
-- Tag placement: @TAG1 @TAG2 at start, then description
-- Example: "@BRILEY_JAMES African American man walking..." NOT "African American man @BRILEY_JAMES walking..."
+### Rule #5 — Mandatory Creative Framing Archetypes (Zero Generic Coverage)
+- Every chunk must incorporate at least ONE distinct creative framing archetype from `camera/angles.md`:
+  - **Foreground Occlusion (Frame-within-Frame):** shooting past a doorframe, Venetian blinds, glass partition, or shelving gap
+  - **Architectural Worm's-Eye:** floor-level looking sharply up (`24mm lens`)
+  - **God's-Eye Perpendicular (90° Bird's-Eye):** straight-down overhead view
+  - **Low-Slung Surface Skimming:** skimming inches above wet asphalt, marble, or factory floors
+  - **Backlit Chiaroscuro Silhouette:** stark high-contrast figure against window/threshold light
+  - **Depth-Plane Macro Rack Focus:** shifting focus from foreground tactile evidence to background human reaction
+  - **Low-Angle Dutch Tilt (15°):** canted horizon for psychological instability
+  - **Over-The-Shoulder (OTS) Reveal:** looking past shoulder at screens, lightboxes, or dossiers
+  - **Monumental Crane Rise / Pull-Back:** vertical scale reveal
 
-### Rule #9 — Locked asset prompts start with "@ [NAME]"
-- Format: "@ Mecklenburg Prison Exterior\n[actual prompt]"
-- Allows searching by name in Google Flow and other tools
+### Rule #6 — Intra-Chunk & Inter-Chunk Camera Variety (The Anti-Monotony Law)
+- **Within a chunk:** Minimum **3 different camera movements** across the shots. Never repeat the same camera movement in consecutive shots. Never use three static holds.
+- **Across a 6-chunk batch (CRITICAL — NO COOKIE-CUTTER FORMULAS):**
+  - **`SHOT 1` "Slow Push-In" Cap:** You may use `"slow push in"` in `SHOT 1` **at most ONCE per 6-chunk batch (max 1/6 chunks)**. The other 5 chunks MUST open `SHOT 1` with different camera movements (e.g., lateral tracking, crane rise, dolly out/pull-back, overhead drift, low-angle tilt up, OTS rack focus).
+  - **Zero Consecutive Opening Shot Sizes:** Never start two consecutive chunks with the same shot size (e.g., do not start Chunk 1 and Chunk 2 both with `Cinematic medium shot`).
+  - **Zero Recycled Shot Sequences:** Never copy-paste the same 4-shot or 6-shot movement template (`Shot 1 push in -> Shot 2 OTS -> Shot 3 lateral track -> Shot 4 50mm hold`) across multiple chunks.
 
-### Rule #10 — Locked characters outside prison
-- When using locked characters in non-prison scenes, describe new outfit + reference facial features
-- Format: "@TAG same facial features as locked reference, now wearing [new outfit]"
-
-### Rule #11 — Locations as tags
-- Only use @TAG for LOCKED locations (@MECKLENBURG, @DEATHROW, @GATEHOUSE)
-- Don't use @TAG for generic locations (Vermont, Warrenton, community)
-
-### Rule #12 — Tag where asset appears
-- If character/location is NOT visible in start frame, do NOT tag them in start frame
-- Only tag in the specific SHOT where they actually appear
-- Start frame tags = only assets visible in that image
-
-### Rule #13 — Do Not Redescribe Locked Assets
-- When generating a Start Frame prompt that includes a locked asset, NEVER re-describe the physical appearance of the asset (facial features, specific clothing) unless explicitly changing it.
-- Describing them wrong (e.g., missing a moustache, wrong suit color) forces the AI to alter the locked asset, destroying visual consistency across the video.
-- Rely on the `@TAG` and only describe their action, expression, lighting, and the environment.
-- Example: `@STANFORD standing in a dimly lit boardroom...` NOT `@STANFORD older man with no moustache in a dark suit standing...`
+### Rule #7 — Golden Ratio Shot Count (~2.5 Seconds Per Shot)
+- **10-second chunks:** Generate **EXACTLY 4 shots** (`SHOT 1/4` through `SHOT 4/4`).
+- **15-second chunks:** Generate **EXACTLY 6 shots** (`SHOT 1/6` through `SHOT 6/6`).
+- **Short Pickup / Correction Cuts (Phase 3):**
+  - 1–5 second micro-cuts → **2 or 3 shots** (`SHOT 1/2`–`2/2` or `SHOT 1/3`–`3/3`).
+  - Full chunk replacements (10s / 15s) → full **4 or 6 shots**.
+- Never go slower than ~2.5 seconds per shot in standard chunks; slower pacing gives the AI time to hallucinate and drift into slop.
 
 ---
 
-## Video Prompt Format
+## Locked Asset & Tagging Rules (Harmonized)
 
-### Rule #13 — Tags only at beginning
-- Tags ONLY at beginning + in "Use @image1 as visual anchor" line
-- Do NOT add extra tag line before anchor line
-- Format:
-```
-Use @image1 as visual anchor for start frame @TAG1 @TAG2.
+### Rule #8 — Tag Placement Syntax
+- Tags ALWAYS go at the **VERY BEGINNING** of a line—never in the middle or end of a sentence.
+  - ✅ Correct: `SHOT 3/4 @MERIWETHER John Meriwether turns slowly from the window...`
+  - ❌ Wrong: `SHOT 3/4 A man @MERIWETHER turns slowly...`
 
-SHOT 1/4 @TAG1 description...
-SHOT 2/4 @TAG2 description...
-```
+### Rule #9 — Reference Sheet Prompt Header Format
+- Reference sheet prompts in Phase 1 start with `@ [NAME]` on the first line (e.g., `@ [DR_KANTER]`), allowing quick search in Google Flow / Nano Banana.
 
-### Rule #14 — Avoid AI slop
-- Never use generic descriptions
-- Each shot needs: specific visual details, lighting, atmosphere/mood, texture (grain, halation), camera movement, emotional beat
-- Bad: "Wide shot FBI agents alone surrounding garage"
-- Good: "Wide shot FBI tactical team surrounding garage at night, spotlights cutting through fog, tense atmosphere, harsh shadows on concrete walls, 35mm lens, deep focus, thriller mood, film grain"
+### Rule #10 — Locked Characters in New Attire / Eras
+- When a locked character appears outside their reference sheet outfit, specify: `@TAG same facial features as locked reference, now wearing [new outfit description]`.
+- When a character spans decades (e.g., young vs. elderly), use strict chronological tags (`@Ratkoyoung` vs `@Ratkoold`) with an explicit cutoff date.
 
-### Rule #15 — No split images
-- Always single-frame shots
-- Split screens look like AI slop and break immersion
-- Never write "split screen" in any shot description
+### Rule #11 — Only Lock Recurring Signature Assets
+- Only use `@TAG` for locked assets defined in the episode's Phase 1 Locked Asset Register.
+- Never lock generic institutional rooms (like a one-off courtroom) or generic cities/streets; describe them richly by architecture and lighting.
 
-### Rule #16 — Match script time of day
-- If script says "night" or "evening", prompts MUST be set at NIGHT
-- Don't default to day. Lighting must match narration.
+### Rule #12 — Harmonized Tagging Discipline: Start Frame vs. Video Prompt
+1. **In the Start Frame (Image) Prompt:** Tag **ONLY** the locked assets physically visible in that initial frame (`Shot 1, Frame 0`). Do NOT tag characters or locations that only appear later in Shots 2–6 (tagging invisible assets in the image prompt forces Nano Banana to mash multiple locations/people into one frame).
+2. **In the Video Prompt Header (`Use @image1 as visual anchor for start frame @TAG1 @TAG2.`):** Tag **ALL** locked assets that appear anywhere across any of the shots (`SHOT 1` through `SHOT 4/6`) in that chunk.
+3. **In Individual Shot Lines (`SHOT X/Y @TAG ...`):** Place the `@TAG` at the start of every specific shot line where that asset is visible.
 
-### Rule #17 — Corrections = completely new ideas
-- When redoing prompts, never reuse old angles, compositions, or ideas
-- Fresh camera angles, fresh perspectives, fresh emotional beats every time
+### Rule #13 — Do Not Re-Describe Locked Character Faces in Scene Prompts
+- Once a character is locked via `@TAG`, do NOT re-describe their facial anatomy (moustache, eye color, hair cut) in Start Frame or Video Prompts—doing so causes the generator to override the reference sheet. Describe only their **action, posture, expression, framing, and lighting**.
 
 ---
 
-## Generator Rules
+## Prompt Construction & Anti-Slop Rules
 
-### Rule #18 — Kling negative prompts
-- Kling: negative prompt goes in SEPARATE field in UI
-- NEVER --no flags inside Kling prompt body → causes "Something went wrong"
-- --no flags are Grok syntax only
+### Rule #14 — Mandatory 4-Layer Build in Start Frames AND Every Video Shot
+Every Start Frame AND every individual Video Shot (`SHOT 1` through `SHOT 4/6`) must contain all 4 layers:
+1. **Subject & Action** (who/what in grounded gross-motor motion)
+2. **Camera & Motion** (specific angle + movement from `camera/angles.md`)
+3. **Lens & Light** (`24mm`/`35mm`/`50mm` lens, chiaroscuro shadows, sodium vapor, cold clinical teal, tungsten practicals)
+4. **Texture & Mood** (`film grain`, `anamorphic halation`, `Fincher documentary tension`, `high-contrast grade`)
+- **CRITICAL FOR SHOTS 2–6:** Because Shots 2–6 cut away from the Start Frame, you MUST include compact Lens/Light and Texture/Mood tokens (4–6 words, e.g., `35mm lens, harsh side shadows, film grain`) inside **every shot line** so Grok never loses the photographic grade and drifts into flat plastic CGI after a cut.
 
-### Rule #19 — Grok prompt format
-- Under 35 words for best results (complex prompts cause hallucination)
-- `--no` flags at end of prompt for negatives
-- `--ar 16:9` for aspect ratio
-- Always include "cinematic" or "film" in every prompt
+### Rule #15 — No Split Screens
+- Always single-frame shots. Never write `"split screen"` or `"dual panel"` in any prompt. Append `split screen` to `--no` flags.
 
-### Rule #20 — No floating elements
-- NEVER use floating items, floating text, floating logos, weird glowing effects
-- Papers should be stacked, held, on desks — never floating in air
-- Money should be in counting machines, stacks on tables, or in hands — never floating
-- CTAs NEVER use subscribe buttons, phone screens, or channel logos. Use vague atmospheric scenes from the story (Director adds overlays in editing).
+### Rule #16 — Match Script Time of Day & Chronology
+- Lighting and weather must strictly match the time of day, season, and geographical setting stated in the narration.
+
+### Rule #17 — Phase 3 Corrections = 100% Fresh Ideas
+- When redoing prompts in Phase 3, never reuse failed camera angles, compositions, or staging. Invent a completely fresh visual approach.
+
+### Rule #18 & #19 — Generator Syntax (Grok Imagine & Nano Banana 2)
+- **Start Frames:** Generated in **Nano Banana 2 (Flow)**. Always include `"Cinematic"` and `--ar 16:9`.
+- **Video Prompts:** Generated in **Grok Imagine**.
+  - Keep every individual `SHOT` line **under 35 words** (18–28 words is the sweet spot: compact enough to prevent hallucination, rich enough to hold all 4 layers).
+  - Always end the video prompt with `--ar 16:9 --no text, words, numbers, labels, watermarks, blur, split screen`.
+  - **ZERO In-Clip Text Prompting:** Never ask the video or image model to render readable English sentences, headlines, or labels (e.g., never prompt `"screen reading Artificial Intelligence"` or `"paper reading United States District Court"`), as AI models render garbled alien glyphs. All readable text overlays are added in Premiere Pro.
+
+### Rule #20 — Zero Floating Elements & Zero UI CTAs
+- Never prompt papers, money, or objects floating in mid-air.
+- **Strict Zero-UI CTA Rule:** In CTA chunks (Hook CTA, Midpoint CTA, Outro CTA), **NEVER** prompt subscribe buttons, notification bells, channel logos, comment sections, or phone screens showing YouTube. Always generate **moody, atmospheric, story-world scenes** (monumental architecture, rain-streaked glass, desolate highways, silent evidence rooms). The director adds brand overlays in Premiere Pro.
 
 ---
 
-## Visual Style & Setting Rules
+## Workflow & Pipeline Integrity Rules
+
+### Rule #21 — Read Full Script Context Before Generating
+- Understand the narrative arc of the entire act before writing chunk prompts so characters and locations stay 100% faithful to the story.
+
+### Rule #22 — Batch Size Discipline (Always 6 Chunks Per Batch)
+- Always generate and output **EXACTLY 6 chunks per batch** in chat (Chunks 1–6, 7–12, 13–18, etc.), preceded by the Pre-Generation Audit Matrix and followed by the Post-Generation Audit Summary. Wait for the director's approval (`"done"`) before generating the next batch.
+
+### Rule #23 & #24 — Timing File (.vst / Pre-Chunked .srt) Is Sacred Ground Truth
+- Never chunk a script yourself. Wait for the director's pre-chunked timing file.
+- Copy-paste the exact narration text for each chunk verbatim. Never paraphrase, trim, or guess from memory.
+
+---
+
+## Visual Style, Realism & Anti-Slop Mandates
 
 ### Rule #25 — Anti-Sci-Fi & Grounded Documentary Realism
-- Absolutely NO "space movie" aesthetics, neon blue LED ambient lighting, holographic displays, or hyperrealistic super-modern cyberpunk aesthetic in *Insolvent* videos.
-- Avoid glowing telemetry, curved sci-fi wall displays, and futuristic tech sets — these produce artificial AI slop.
-- All tech, cyber, and corporate scenes must remain 100% grounded in authentic Frontline / BBC documentary realism: natural daylight, standard office desks, regular computer displays, whiteboards with dry-erase markers, paper binders with highlighters, realistic colocation utility closets, physical machinery, and real human environments.
+- Zero cyberpunk, neon blue LED glow, floating holograms, curved sci-fi consoles, or "space movie" aesthetics.
+- 100% **Frontline / BBC / Fincher documentary realism**: natural daylight, standard dual-monitor office desks, whiteboards, physical paper dockets, matte steel enterprise server racks with perforated doors, and real industrial machinery.
 
-### Rule #26 — Hacker & Tech Episodes Visual Diversity
-- Never trap an entire video or sequence in server rooms, computer setups, datacenters, or corporate cubicles. That produces visual monotony and audience fatigue.
-- For every chunk and shot, deeply translate the narration into diverse, real-world physical transactions and human consequences: industrial shipping, supply chains, maritime chemical tankers, automated manufacturing plants, municipal land deed vaults, legal archives, physical security gates, satellite ground tracking stations, street-level human moments, and newsrooms.
-### Rule #27 — Start Frame & SHOT 1 100% Visual Alignment
-- In Grok Imagine image-to-video (`@image1` anchor), the Start Frame generated in Nano Banana **IS literally Shot 1, Frame 0**.
-- **SHOT 1 in the video prompt MUST 100% align with the Start Frame** in subject, environment, lighting, angle, character, and initial framing.
-- SHOT 1 simply animates the Start Frame into motion (adding camera tracking, dolly, pan, or subject action).
-- **STRICTLY FORBIDDEN:** Describing one location/subject in the Start Frame (e.g. an exterior building or a chess board) and then describing a completely different location/subject in SHOT 1 (e.g. an Italian CNC machine or a talking head). Mismatches force the AI video generator to hallucinate grotesque morphs and AI slop during seconds 0–2.
-- Any cut or transition to a new location, character, or camera angle must only occur starting at **SHOT 2**.
+### Rule #26 — World-Scale Visual Diversity & The 2-Chunk Location Ceiling
+- **Hard Ceiling:** Never set more than **2 consecutive chunks** in the same interior room or locked location tag (e.g., never trap 10 chunks inside `@UC_MEDICAL_CENTER` or a single office).
+- When narration discusses theories, investigations, or systemic impact, leave the office/lab and visually manifest the **real-world physical domain**: shipping terminals, chemical tankers, factory assembly lines, prison corridors, border bridges, courthouse archives, or tactile forensic light-table plates.
 
-### Rule #28 — Mandatory Physical Camera Geometry (Screen & Subject Rule)
-- NEVER describe a person's face from the front while simultaneously describing what is displayed on their laptop/monitor screen facing the camera.
-- In physical reality, when looking at someone sitting at a laptop, the camera is facing the BACK of the laptop lid. Describing screen contents in a frontal shot forces the AI to invent an absurd second screen glued to the back of the laptop lid facing outward!
-- **Rule for Screens:** If screen UI must be seen and read, use **Over-The-Shoulder (OTS)** framing (camera behind subject looking over shoulder toward screen).
-- **Rule for Faces:** If shooting the subject's face (medium shot, profile, close-up), describe ONLY the ambient monitor light reflecting on skin/eyes. The detailed screen UI belongs in a dedicated OTS shot or macro insert.
+### Rule #27 & #41 — Absolute Anchor Alignment (Start Frame = Shot 1, Frame 0)
+- In Grok Imagine (`@image1`), the Start Frame **IS literally Shot 1, Frame 0**.
+- `SHOT 1` must match the Start Frame's exact location, subject, lighting, and initial camera framing 100%, animating it with a purposeful camera movement (not always a push-in—use lateral tracking, crane rise, dolly out, tilt, or OTS pan!).
+- **No Unanchored Scale Morphs:** Never use a satellite view of Planet Earth as a Start Frame and ask Shots 1–4 to dive all the way into a street-level building gate in one clip. Any transition to a new location, scale, or angle must happen via a clean cut starting at `SHOT 2`.
+
+### Rule #28 — Mandatory Physical Camera Geometry (The Laptop / Screen Rule)
+- **NEVER** frame a person from the front facing the camera while simultaneously describing what is displayed on their laptop/monitor screen (in physical reality, the camera is looking at the back of the laptop lid, forcing the AI to hallucinate a second screen on the back of the monitor).
+- **For Screens/Lightboxes:** Always use **Over-The-Shoulder (OTS)** framing.
+- **For Frontal/Profile Faces:** Describe ONLY the colored ambient monitor glow reflecting on their skin and eyes.
 
 ### Rule #29 — Never Tag Human Characters With Mascot Tags
-- NEVER put a mascot tag (e.g. `@cyberleek`) at the beginning of a prompt describing a real human being (investigator, hacker, journalist, lawyer, trader).
-- AI image generators interpret the lead tag as the SUBJECT of the sentence, literally replacing the human with a cartoon mascot (e.g., turning a private investigator into an anthropomorphic leek in a coat).
-- Mascot tags are strictly for the mascot graphic itself, profile icons, or 3D channel bumpers. Real humans must always be described as real humans with realistic skin textures and clothing.
+- Never place a mascot tag (`@cyberleek`) on a prompt describing a human being.
 
-### Rule #30 — Anti-Slop Action & Tension (Fincher / Mr. Robot Rule)
-- NEVER generate chaotic, cartoonish AI action: flailing arms, yanking cords, knocking over stacks of boxes, people running in panic, or screaming faces. These produce grotesque AI physics glitches, distorted extra fingers, and plastic expressions.
-- Build tension through **absolute stillness, quiet dread, deliberate purposeful action** (capping a marker, highlighting a bank statement, reviewing a paper dossier, cold realization, frozen stillness), deep shadows, and architectural scale.
-- Characters must be caught in purposeful, realistic micro-actions, never posed and never cartoonishly panicked.
+### Rule #30 — Fincher Stillness vs. Cartoon Panic
+- Never prompt frantic, chaotic AI action (flailing arms, running mobs, screaming faces, knocking over boxes).
+- Build suspense through **stark composition, chiaroscuro lighting contrast, deep shadows, and deliberate, unhurried human movement**.
 
-### Rule #31 — Grok Image-to-Video Filter Protection
-- In Grok image-to-video (`@image1`), automated safety filters aggressively scan imported images and text prompts for potential NSFW or deepfake violations.
-- NEVER use gendered nouns (`female`, `woman`, `girl` attached to imported human faces) — this is xAI's #1 deepfake filter trigger.
-- NEVER use ambiguous words with sexual/NSFW heuristics (`vigorous`, `erotic`) or strange biological tokens (`enamel`).
-- Use clean, professional documentary phrasing: `colleague`, `investigator`, `analyst`, `focused discussion`, `drawing a clean line`.
+### Rule #31 & #44 — Moderation Filter Protection & Ban on Empty-Room `--no people` Lazy Bypasses
+- **Trigger Prevention:** In Grok image-to-video (`@image1`), avoid gendered nouns attached to imported faces (`female`, `woman`, `girl`), sexual/NSFW heuristics (`vigorous`, `erotic`), biological tokens (`enamel`), medical vulnerability on imported faces (`hospital bed`, `feeding tube`, `corpse`), or famous real-world surnames in prompt text (use `@TAG` or anonymous role titles like `senior diplomat`, `elderly defendant`, `chief neurologist`).
+- **CRITICAL (Rule #44 — Ban on Empty-Room `--no people` Lazy Bypasses):**
+  - When a chunk covers a sensitive event (a coerced confession, a trial, an arrest, or a medical crisis) where a locked real-person face tag might trigger moderation, **NEVER strip all humans out of the batch with `--no people, faces` and film empty chairs/desks for 60 seconds!**
+  - Instead, keep **high-tension human presence** using moderation-safe framing:
+    1. **Anonymous Silhouettes & Backlit Figures:** Frame the subject from behind in stark silhouette against stage floodlights or courtroom windows.
+    2. **Over-The-Shoulder (OTS) & Partial Framing:** Shoot past the back of a dark blazer or military shoulder toward a microphone array or judicial bench.
+    3. **Purposeful Gross-Motor Detail:** Frame booted feet marching in unison down a concrete corridor, or clasped hands resting on a wooden defense rail.
+    4. **Active Observers:** Show international journalists, translators in glass booths, diplomats, or court stenographers reacting in tense stillness.
 
-### Rule #32 — Active Realism vs. Inert Wandering Camera
-- The camera must NEVER wander aimlessly around an empty room, desk, or blinking gadget.
-- Every shot must either show a REAL human being actively doing something important to the plot, or manifest cinematic real-world scale (industrial harbors, courthouses, newsrooms, high-rise skylines).
-- Every chunk must include at least ONE mandatory creative angle from the palette: Dutch-tilt, ground-level tracking, worm's-eye view, bird's-eye view, macro rack focus, or crane rise/fall.
+### Rule #32 & #37 — The Anti-Boredom Mandate (Zero Inert Objects & Document Slideshows)
+- **STRICT ZERO-TOLERANCE BAN:** The camera must **NEVER wander aimlessly around stationary objects, empty desks, paper documents, binders, folders, brass lamps, coffee mugs, empty courtroom pews, or ticking clocks.**
+- Every single chunk must feature either:
+  1. **Living Human Beings in High-Stakes Psychological Tension & Purposeful Action**, OR
+  2. **Monumental Real-World Physical Scale** (vast industrial ports, automated factories, border bridges, storm-swept oil rigs), OR
+  3. **High-End Tactile Forensic Light-Table / Vox Mixed-Media Plates** (Rule #38).
+- Physical documents and folders exist **ONLY as props held or reviewed by a living person in the frame**—never as a standalone still-life subject on an empty table.
 
 ### Rule #33 — Multi-Beat Narrative Mapping (Zero Single-Location Trapping)
-- When a chunk's narration references multiple distinct events, locations, or story concepts (e.g., "ghost cities, a suspicious divorce, and a getaway to Canada"), NEVER trap all 4 or 6 shots inside only one of those locations (e.g. spending the entire clip in an airport).
-- The video prompt is a dynamic multi-shot sequence: every distinct clause or event in the voiceover MUST be visually manifested sequentially across the shot breakdown:
-  - Clause 1 / Event A $\rightarrow$ SHOT 1–2 (e.g. ghost cities / `@tower`)
-  - Clause 2 / Event B $\rightarrow$ SHOT 3–4 (e.g. suspicious divorce meeting / `@hui` & `@yumei`)
-  - Clause 3 / Event C $\rightarrow$ SHOT 5–6 (e.g. airport departure to Canada / `@yumei`)
-- Every word and story beat spoken in that chunk must be visually represented. Single-location trapping violates word-for-word sequential mapping and destroys visual storytelling density.
+- When a chunk's narration references multiple distinct events, places, or clauses (e.g., *"ghost cities, a suspicious divorce, and a getaway to Canada"*), map each clause sequentially across the shots:
+  - Clause 1 (Event A) $\rightarrow$ `SHOT 1–2`
+  - Clause 2 (Event B) $\rightarrow$ `SHOT 3–4`
+  - Clause 3 (Event C) $\rightarrow$ `SHOT 5–6`
+- Never trap a multi-event narration inside a single static room.
 
-### Rule #34 — Dynamic Story Variety & Anti-Repetition (Zero Formulaic Slop)
-- **Zero Formulaic Repetition:** Never use cookie-cutter shot formulas, predictable openings, or recycled visual setups across chunks or across different stories. If an investigator was typing at a desk in Episode A, Episode B must explore physical archives, field observation, evidence lockers, or industrial sites.
-- **Continuous Creative Invention:** Every single chunk must introduce fresh staging, original visual metaphors, and novel camera viewpoints:
-  - Alternate opening framing between chunks: never open consecutive chunks with the same camera setup (e.g. contrast wide architectural worm's-eye views with tactile macro inserts, Dutch-angle boardroom tensions, or ground-level tracking).
-  - Vary visual scale constantly: weave seamlessly between massive environmental world-building (ports, towers, highways, courthouses) and tight, visceral human micro-actions.
-  - Tailor the visual world uniquely to the story's domain (e.g. crumbling concrete rebar and idle yellow cranes for real estate collapse; container terminals and customs manifests for maritime trade; fluorescent bureaucratic vaults for financial fraud).
-- **Relentless Anti-Slop Enforcement:**
-  - AI slop is created by chaotic physics, vague descriptions, and excessive frantic motion.
-  - NEVER prompt flailing limbs, running crowds, panic hysteria, melting or transforming objects, or glowing sci-fi holograms.
-  - Ground all human actions in authentic, quiet, purposeful documentary reality: methodical signatures, sliding documents, turning brass keys, cold stoic expressions, and deliberate stillness.
+### Rule #34 & #42 — Subtext Extraction & Dynamic Story Variety (The Golden Directorial Rule)
+- **Never Write Literal Captions:** Do not lazily illustrate the surface words of the script. Before writing any prompt, extract the **subtext**:
+  1. What is literally stated?
+  2. What is the emotional, institutional, or psychological truth underneath?
+  3. What specific physical human transaction, contrast, or architectural detail shows that truth without restating the words?
+  4. Which of the 12 Camera Archetypes (`camera/angles.md`) amplifies that power dynamic?
+- **Banned Clichés:** Never use generic server racks with glowing blue lights, matrix binary code, world maps with glowing dots, burning dollar bills, flying papers, or generic guy-at-laptop-typing shots.
 
+### Rule #35 — Mandatory Channel Selection Gate (Verion vs. Insolvent)
+- Never assume the channel. Always ask at session start: `"Which channel are we producing for today? 1. Verion | 2. Insolvent"` and wait for confirmation before Phase 0.
 
----
+### Rule #36 — Chronological Prop & Asset State (Anti-Spoiler Rule)
+- Every vehicle, character, and prop must match its exact chronological state at that second of the timeline (e.g., pristine factory-stock `@VW_JETTA` in consumer hooks vs. rigged with PEMS exhaust sensors only when researchers install them in Act 2; no prison attire before arrest).
 
-## Workflow Rules
+### Rule #38 — High-End Slop-Free Motion Graphics & Explainer Protocol
+- When explaining a complex mechanism, flight path, financial shell network, or timeline, use one of the **Three Slop-Free Explainer Aesthetics** (never crude 3D CAD wireframes floating in space):
+  1. **Tactile Forensic Light-Table:** Physical cyanotype blueprint or dark slate schematic plate lying flat on a backlit wooden drafting lightbox (`crisp white vector linework, millimeter gridlines, 35mm macro lens, top-down orthographic view, smooth macro dolly glide`).
+  2. **Vox Mixed-Media Paper Collage:** Flat matte charcoal (`#0D0E11`) or parchment backdrop, halftone texture, archival photo cutouts with white paper borders, flat paper-cut silhouettes, single solid route line tracing smoothly across a flat 2D map.
+  3. **Orthographic 2D Vector Infographic:** Strictly flat top-down/straight-on 2D geometry, single-axis reveal, zero 3D perspective warping.
+- **Motion Graphics Commandments:** Zero in-clip text/numbers (`--no text, words, numbers, labels`), only ONE simple motion per shot (camera glide OR single line trace), and never use `3D CAD wireframe` or `isometric 3D cutaway`.
 
-### Rule #21 — Read full script before generating
-- Don't just look at the chunk
-- Read the surrounding context to understand what's happening
-- Stay in storyline
-- Many mistakes come from not understanding the full scene
-
-### Rule #22 — Work in batches
-- Work in batches of 4-6 chunks
-- After each batch, wait for "done" before next batch
-- User approves before continuing
-
-### Rule #23 — User provides chunks
-- Agent is BAD at chunking from SRT
-- NEVER parse SRT to create chunks
-- User will always provide a pre-chunked file
-- If user gives you SRT, ask for the chunked file instead
-
-### Rule #24 — Trust user corrections
-- When user corrects chunk timing or narration, accept it immediately
-- User knows the correct sync
-- Do not argue or re-parse.
-
-### Rule #35 — Mandatory Channel Selection Gate (Verion vs Insolvent)
-- The director operates two distinct documentary channels: **Verion** and **Insolvent**.
-- NEVER assume, guess, or default to Insolvent.
-- At the very beginning of the pipeline (before Phase 0 script expansion, before Phase 0.1 CTA insertion, and before generating prompts), the AI Director MUST ask: "Which channel are we producing for today? 1. Verion | 2. Insolvent".
-- All 3 organic CTAs (Hook, Midpoint, Outro) inserted in Phase 0.1 and all channel identity sentences ("This is Verion..." vs "This is Insolvent...") MUST strictly match the selected channel name.
-- Downstream metadata (titles, descriptions, tags) must also reflect the selected channel.
-### Rule #36 — Chronological Prop & Asset State (Anti-Spoiler & Narrative Integrity)
-- Every locked asset, vehicle, character, and prop exists in a strict chronological state tied directly to that exact moment in the story.
-- NEVER attach future modifications, investigative rigs, diagnostic tools, crash damage, or legal markers (e.g. handcuffs, prison jumpsuits) to an asset before that specific event occurs in the narrative timeline.
-- **Innocent Consumer vs. Investigative Rig:** In opening hooks and civilian consumer scenes, vehicles (@JETTA) must appear 100% pristine, civilian, and factory-stock with zero cables, probes, or sensor attachments. Never add research probes or PEMS measurement rigs until the university researchers in the story actively install them during road-test scenes. Premature gear ruins dramatic tension, spoils the plot, and confuses the audience.
-- **Perspective Check:** Before writing any Start Frame, explicitly check: 'Who operates this asset in this exact second of the story, and what is its chronological physical state?'
-
-### Rule #37 — Anti-Boredom & Active Human Conflict Mandate (Strict Ban on Object-Wandering, Empty Furniture & Document Slideshows)
-- **The Core Law:** AI documentary prompts must NEVER devolve into boring still-life photography. Audiences click away when cameras wander aimlessly around stationary objects, empty desks, paperwork, and office furniture.
-- **Strictly Banned B-Roll Tropes (Zero Tolerance):**
-  - Camera slowly pushing in or panning across stationary documents, paper stacks, legal binders, case dockets, contracts, or court files on an empty table.
-  - Macro rack focus from inanimate items (lamps, mugs, pens, clocks, keyboards) to a stamped paper or folder.
-  - Tracking shots past empty chairs, vacant benches, deserted hallways, or empty office cubicles.
-  - Spending an entire chunk examining inanimate props or empty room architecture with zero active human subjects.
-- **The Human Stakes Principle (Rule #2 Reinforcement):**
-  - Derive human actions, psychological tension, and interpersonal conflict directly and organically from the *specific characters and events in the narration*. Never invent generic or cookie-cutter filler.
-  - Focus on authentic character motivation, status dynamics, emotional reactions, and purposeful physical movement dictated by the exact story beat.
-- **Active Prop Integration:** Physical objects, documents, and technology are ALLOWED ONLY when a living character is actively interacting with, reacting to, or manipulating them in service of the narrative. Never film inanimate objects resting in isolation.
-- **Monumental World Scale (The Only Non-Human Exception):**
-  - If a narrative beat genuinely requires the absence of human subjects (e.g. macroscopic industrial impact, supply-chain scale, environmental aftermath), it MUST depict **vast, authentic real-world physical infrastructure and cinematic scale**—never an empty desk, empty room, or inanimate still life.
-### Rule #38 — The High-End Motion Graphics & Technical Explainer Protocol (Zero-Slop Standard)
-- Motion graphics explainers are REQUIRED whenever a complex mechanism, system, route, or timeline is explained to the audience.
-- To eliminate AI slop, melting geometry, and warping artifacts, all motion graphics prompts must strictly follow the **Three Slop-Free Aesthetics**:
-  1. **The Tactile Forensic Light-Table (for Aviation/Machinery/Tech):** Ground the graphic as a physical cyanotype blueprint or dark slate inspection board lying flat on a drafting lightbox. Prompts use: `crisp white vector linework, millimeter gridlines, 35mm macro lens, top-down orthographic view`. Video motion: smooth macro camera dolly push across the static physical plate. Lines stay 100% sharp with zero geometry melting.
-  2. **The Vox Mixed-Media Paper Collage (for Maps/Routes/Timelines):** Matte color fields (charcoal slate `#0D0E11` or warm parchment), halftone textures, archival photo cutouts with clean white paper borders, layered paper-cut vector silhouettes, solid glowing route vectors. Motion: flat 2D ease-out slide, single vector line tracing smoothly across the map, subtle stop-motion paper drift.
-  3. **The Orthographic 2D Vector Infographic (for Systems/Data):** Strictly flat orthographic perspective (zero angled 3D distortion), clean geometric lines, single-axis fluid reveals.
-- **The Non-Negotiable Rules for Motion Graphics:**
-  - **ZERO In-Clip Text or Numbers:** Always append `--no text, words, numbers, labels`. All specific titles, dates, altitudes, and numbers are layered in Premiere/CapCut.
-  - **Single Intent per Shot:** Only ONE element animates per shot (e.g. camera moves across blueprint, OR route line traces). Never combine camera rotations, zooms, and multiple shape morphs.
-  - **Ban 3D CAD/Wireframe Keywords:** Never use `3D CAD wireframe` or `isometric 3D cutaway`. Use `orthographic 2D vector infographic`, `cyanotype architectural blueprint on drafting table`, or `flat paper-cutout collage`.
-  - **Start-Frame Master Lock:** Always generate and lock the pristine static graphic plate first in Nano Banana / Midjourney with `--raw`. The video prompt only adds gentle camera drift or vector tracing.
-
-### Rule #39 — Permanent Ban on Multi-Character Physical Contact & Wrestling
-- AI video generators have no understanding of skeletal topology when human bodies touch or collide.
-- NEVER prompt wrestling, grappling, tackling, fistfights, door-breaching collisions, or characters fighting over physical controls.
-- Physical contact causes instant body horror: extra limbs, heads merging, melting torsos, and grotesque rubber anatomy.
-- Convey physical conflict through **pre-impact tension and post-impact aftermath**:
-  - Pre-impact: tense faces, hands gripping armrests, boots striding fast across carpet, door handles violently rattling from outside.
-  - Post-impact: aftermath in shadows, heavy breathing, flex-cuffs on the floor, an overturned cart, solitary figures standing guard.
+### Rule #39 — Permanent Ban on Multi-Character Physical Contact & Combat
+- Never prompt wrestling, grappling, tackling, fistfights, or bodies colliding (causes merged limbs and body horror).
+- Direct physical conflict strictly through **Pre-Impact Tension** (eyes locking, knuckles gripping an armrest, boots striding fast, shadow under a door) and **Post-Impact Aftermath** (overturned chair, zip-ties on floor, solitary guard in hallway).
 
 ### Rule #40 — Permanent Ban on Fine Tool Manipulation & Micro-Hand Mechanics
-- AI video models break down and melt hands when tasked with fine mechanical manipulation.
-- NEVER prompt fingers measuring with calipers, hands using magnifying loupes, fountain pens writing cursive, rubber stamps stamping ink, or fingers typing on keyboards.
-- This causes warped 6-fingered hands, bending metal tools, and melting plastic props.
-- Keep focus on facial expressions, medium and wide shots, or environmental actions that do not require micro-finger precision.
-
-### Rule #41 — Absolute Anchor Alignment (Start Frame = Shot 1 Frame 0)
-- In Grok Imagine image-to-video (`@image1` anchor), Shot 1 literally begins on the Start Frame.
-- Shot 1 MUST match the Start Frame's environment, subject, framing, and lighting with 100% fidelity, introducing only subtle camera drift or natural character breath/action.
-- NEVER cut to a different location, introduce a new character, or change camera perspective in Shot 1. Any cut or angle transition must occur at Shot 2 or later.
+- **STRICT ZERO-TOLERANCE BAN:** Never prompt fingers measuring with calipers, hands holding magnifying loupes, fountain pens writing cursive text, markers drawing lines, highlighters streaking across paper, rubber stamps pressing ink, or fingers typing on keyboards.
+- Video diffusion models melt fingers into tools and spawn grotesque 6-fingered hands.
+- **The Documentary Fix:** Frame documents/charts **already written or highlighted** resting on the desk while the character leans over them, folds them, holds a closed dossier while walking, or looks up in realization. Frame computer scenes OTS looking at the screen while the subject's hands rest stationary on the desk edge.

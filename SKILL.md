@@ -42,28 +42,24 @@ Then wait. Do NOT process scripts, insert CTAs, or generate prompts until the di
 
 This is the most important rule. Read it twice.
 
-**FINANCIAL DOCUMENTARY = TENSION THROUGH STILLNESS AND ELEGANCE.**
+**DOCUMENTARY PRESTIGE = TENSION THROUGH STILLNESS, FOREGROUND DEPTH & PURPOSEFUL GROSS-MOTOR ACTION.**
 
 ✅ CORRECT visual tone:
-- A man slowly lowering his head into his hands
-- A fountain pen deliberately signing a contract
-- A vault door grinding shut
-- A single drop of condensation on a glass
-- Frost creeping across a cold window
-- A marble desk with a single glowing screen
-- A corridor with deep shadows and symmetrical architecture
-- Characters in deliberate, purposeful motion: turning a page, adjusting a tie, gripping a desk
+- A man slowly lowering his head into his hands in a shadow-draped office
+- An executive closing a heavy leather dossier and turning toward a rain-streaked window
+- A massive bank vault door resting shut under cold fluorescent light
+- A single drop of condensation trickling down a glass tumbler
+- Frost creeping across an isolated concrete window frame
+- Over-the-shoulder view looking past an analyst toward a single glowing terminal display
+- A corridor framed through a dark foreground doorway with deep chiaroscuro shadows
+- Characters in deliberate, purposeful gross-motor motion: walking mid-stride, leaning across a conference table, stepping across a threshold
 
 ❌ FORBIDDEN visual tone (NEVER use these):
-- People running, shouting, screaming, fighting
+- People running, shouting, screaming, fighting, or grappling (Rule #39)
+- Fine finger/tool mechanics: pens writing cursive, markers drawing, rubber stamps pressing, fingers typing on keyboards, hands holding calipers/loupes (Rule #40)
 - Crowds panicking or rushing
-- Fast chaotic motion
-- Frantic energy
-- Aggressive gestures beyond a deliberate lean forward
-- "Stampedes" of any kind
-- Anything that resembles an action movie
-
-If a draft prompt feels like an action movie — STOP, delete it, and rewrite it as a film noir thriller.
+- Fast chaotic motion or frantic energy
+- Anything that resembles an action movie or a sci-fi cyberpunk film (Rule #25)
 
 ---
 
@@ -77,38 +73,41 @@ Never turn a scene into a boring corporate still-life. The AI video camera must 
 - Camera slowly panning across legal files, case dockets, binders, or paper stacks on an empty desk.
 - Macro rack focus from a desk lamp / coffee mug / clock / keyboard to a piece of paper or stamp.
 - Tracking shots past empty leather boardroom chairs, empty cubicles, or empty court benches.
-- Entire chunks spent wandering through lifeless rooms with zero active human conflict.
+- Entire chunks spent wandering through lifeless rooms with zero active human conflict (including lazy `--no people, faces` bypasses on sensitive chunks—see Rule #44).
 - Treating physical documents/evidence as the *main subject* of a video sequence (documents are props, never the protagonist).
 
 ✅ **MANDATORY: HUMAN CONFLICT, VISCERAL ACTION & MONUMENTAL CINEMATICS:**
-- **Organic Human Tension:** Derive all character actions, psychological tension, and interpersonal conflict directly and uniquely from the specific figures and narrative stakes in the voiceover.
-- **Status & Purposeful Movement:** Characters must be caught mid-action in purposeful movement, natural body language, and authentic psychological reactions dictated by their role in that exact narrative beat. Zero generic or recycled formulas.
-- **Active Prop Handling:** Objects, documents, and technology exist strictly as props handled, reviewed, or reacted to by living characters—never as standalone still-life subjects.
-- **Monumental Physical World Scale:** When characters are absent, visually manifest the story through vast, epic, real-world physical environments and authentic macro-infrastructure—never empty rooms or stationary furniture.
-
-
+- **Subtext Extraction (The Golden Rule — Rule #42):** Never write literal captions of the voiceover. Ask: *What is the emotional/institutional truth underneath, and what concrete physical human transaction or architectural scale shows it?*
+- **Status & Purposeful Gross-Motor Movement:** Characters must be caught mid-action in purposeful gross-motor movement and authentic psychological reactions dictated by their role in that exact beat.
+- **Active Prop Integration:** Objects, documents, and technology exist strictly as already-printed props reviewed or held by living characters—never as standalone still-life subjects, and never with fine finger writing/typing mechanics.
+- **Monumental Physical World Scale & Slop-Free Explainers:** When characters are absent, visually manifest the story through vast real-world physical infrastructure (harbors, factories, bridges, skylines) or **Rule #38 Slop-Free Explainers** (Tactile Forensic Light-Table or Vox Mixed-Media Paper Collage)—never empty rooms or stationary furniture.
 
 ---
 
-## AI SLOP BLACKLIST — NEVER USE THESE IDEAS
+## AI SLOP BLACKLIST — 20 PERMANENT BANS
 
-These specific images cause AI hallucination, look cheap, or are banned by the director:
+These specific images cause AI hallucination, look cheap, or are permanently banned by the director:
 
-1. Papers flying through air — papers stay on desks, in hands, in stacks
-2. Papers exploding outward — never
-3. Calendar pages flying off — calendars are static or hand-turned only
-4. Money flying through fingers — money in counting machines, stacks, hands only
-5. Money flowing across a screen — never
-6. Person waving goodbye — use graphics/logo for endings
-7. Person talking to camera asking to subscribe — CTAs use graphics only
-8. Reflection of a character in a screen/window — causes AI cloning glitch. NEVER.
-9. Stamp being pressed — AI spawns oversized stamp from nowhere. Use signing/writing instead.
-10. Burning dollar bills — cliché AI slop
-11. Spiderwebs connecting skyscrapers — too abstract/surreal
-12. Characters posed (standing still, staring) — characters must always be in deliberate motion
-13. Locked-off tripod shots with no motion — cameras must breathe
-14. Doors opening/closing — AI makes them multiply or behave weirdly. Avoid entirely or use extreme close-up of handle only.
-15. Brand names (iPhone, Google, Facebook) — describe without naming
+1. **Papers flying through air** — papers stay flat on desks or inside folders held by people
+2. **Papers exploding outward** — never
+3. **Calendar pages flying off** — banned
+4. **Money flying through fingers** — money stays in counting machines or vault stacks
+5. **Money flowing across a screen** — never
+6. **Person waving goodbye** — banned
+7. **Person talking to camera asking to subscribe** — banned (CTAs use atmospheric story scenes only)
+8. **Reflection of a character in a screen/window/mirror** — causes AI cloning glitch. NEVER.
+9. **Stamp being pressed / Fountain pen writing / Highlighter streaking** — causes oversized stamps and 6-fingered melting hands (Rule #40). Keep documents already printed/signed.
+10. **Fingers typing on keyboards / Fine tool manipulation (calipers, loupes)** — melts fingers into tools (Rule #40). Frame OTS or medium/wide without finger micro-mechanics.
+11. **Multi-character physical contact, wrestling, or tackling** — merges limbs into body horror (Rule #39). Use pre-impact tension and post-impact aftermath.
+12. **3D CAD wireframes / Isometric 3D cutaways in video prompts** — melts geometry (Rule #38). Use Tactile Forensic Light-Table or flat 2D Vox Paper Collage instead.
+13. **Readable English sentences/text inside video clips** — produces alien gibberish glyphs. Always use `--no text, words, numbers, labels`.
+14. **Doors opening or closing mid-shot** — AI makes doors multiply or warp. Keep doorways already open or closed.
+15. **Frontal face + readable laptop screen in the same shot** — forces AI to glue a screen onto the back of the laptop lid (Rule #28). Always use Over-The-Shoulder (OTS) for screens.
+16. **Unanchored orbital-to-street morphs** — never fly from outer space/satellite Earth down into a street-level building gate in a single clip.
+17. **Empty-room `--no people, faces` slideshows on human drama chunks** — use backlit silhouettes, OTS framing past a jacket, marching boots, or courtroom observers instead (Rule #44).
+18. **Burning dollar bills or spiderwebs connecting skyscrapers** — cliché AI slop.
+19. **Characters posed statically or locked-off surveillance cameras** — characters and cameras must always have deliberate cinematic intent.
+20. **Talking heads looking into the lens** — never frame a narrator or character looking directly into the camera speaking.
 
 ---
 
@@ -117,120 +116,72 @@ These specific images cause AI hallucination, look cheap, or are banned by the d
 Every chunk output must contain exactly these 3 blocks, in this order:
 
 **Block 1 — Script text (plain text, NOT in code block):**
-The exact narration text from the .vst timing file for this chunk. Copy-paste from .vst. Never paraphrase. Always include script text before each chunk so director can verify sync.
+The exact narration text from the `.vst` / `.srt` timing file for this chunk. Copy-paste verbatim. Never paraphrase.
 
 **Block 2 — Start Frame prompt (in code block):**
 ```
-@TAG1 @TAG2
-Cinematic [shot type]. [Scene description]. [Lighting]. --ar 16:9
+@VISIBLE_TAG1 @VISIBLE_TAG2
+Cinematic [framing archetype from camera/angles.md]. [Scene & gross-motor action description]. [Lighting & color palette]. [Lens]mm lens, [depth of field], [film grain texture]. --ar 16:9
 ```
 - Tags go FIRST, before any description
-- Tag assets VISIBLE in this start frame image
-- "Cinematic" must appear in every start frame
-- Image prompts can be MORE detailed than video prompts
+- **CRITICAL (Rule #12):** Tag **ONLY** locked assets physically VISIBLE in this initial frame (`Shot 1, Frame 0`). Do NOT tag assets that only appear in Shots 2–6.
+- `"Cinematic"` must appear in every Start Frame.
 
 **Block 3 — Video Prompt (in separate code block):**
 ```
-Use @image1 as visual anchor for start frame @TAG1 @TAG2.
-SHOT 1/4 @TAG1 [subject & action]. [camera & motion].
-SHOT 2/4 @TAG2 [subject & action]. [camera & motion].
-SHOT 3/4 [subject & action]. [camera & motion].
-SHOT 4/4 [subject & action]. [camera & motion].
---ar 16:9 --no text, watermarks, blur
+Use @image1 as visual anchor for start frame @ALL_CHUNK_TAGS.
+SHOT 1/4 @TAG1 [matches Start Frame 100% + gross-motor action], [varied camera move — MAX 1 push-in per 6-chunk batch], [compact lens/light/grain].
+SHOT 2/4 @TAG2 [subject & action], [distinct camera angle/move], [compact lens/light/grain].
+SHOT 3/4 [subject & action], [distinct camera angle/move], [compact lens/light/grain].
+SHOT 4/4 [subject & action], [distinct camera angle/move], [compact lens/light/grain].
+--ar 16:9 --no text, words, numbers, labels, watermarks, blur, split screen
 ```
+*(Use `SHOT 1/6` through `SHOT 6/6` for 15-second chunks; `SHOT 1/4` through `SHOT 4/4` for 10-second chunks).*
 
-**CRITICAL TAG RULES:**
-- Every @TAG that appears in ANY of the 4 shots MUST also appear in the `Use @image1` header line
-- If @MERIWETHER only appears in Shot 4 — he still goes in the header
-- Tags go at the VERY BEGINNING of each shot line, before any description
-- NEVER put a tag in the middle of a description
-- Example: `SHOT 3/4 @MERIWETHER John Meriwether slowly turns...` ✅
-- Example: `SHOT 3/4 A man @MERIWETHER slowly turns...` ❌
-- Only use @TAG for LOCKED assets with reference sheets. Describe unlocked characters by appearance.
-- Do NOT use @TAG for generic unlocked locations (cities, streets, generic offices)
-
-**CRITICAL UI RULE:**
-User prefers prompts pasted DIRECTLY IN CHAT, not saved to files. Format: script text in plain text, START FRAME in code block, VIDEO PROMPT in separate code block.
-
-**HALLUCINATION PREVENTION:**
-If script text for a chunk is unclear or missing from context, STOP IMMEDIATELY. Do NOT guess or invent narration text. Ask the director to provide it or read it from the saved .vst file.
+**CRITICAL HARMONIZED TAG RULES (RULE #8 & #12):**
+- **Start Frame:** Tag ONLY locked assets visible in `Shot 1, Frame 0`.
+- **Video Header (`Use @image1 as visual anchor...`):** Tag **EVERY** `@TAG` that appears in ANY shot (`SHOT 1` through `SHOT 4/6`) of that chunk.
+- **Shot Lines:** Put `@TAG` at the VERY BEGINNING of each shot line where that asset appears (`SHOT 3/4 @MERIWETHER John Meriwether turns...` ✅ — NEVER in the middle of a sentence ❌).
+- Only use `@TAG` for LOCKED assets from the Phase 1 register.
 
 ---
 
-## SHOT RULES
+## SHOT & CAMERA VARIETY RULES
 
-### Rule: Always 4 shots per chunk
-Every 10-second chunk gets exactly 4 shots. Never 3, never 2, never 5.
+### Rule: Golden Ratio Pacing (~2.5s Per Shot — Rule #7)
+- **10-second chunks:** Exactly **4 shots** (`SHOT 1/4` to `SHOT 4/4`).
+- **15-second chunks:** Exactly **6 shots** (`SHOT 1/6` to `SHOT 6/6`).
+- **Short Phase 3 Pickups (1–5s):** **2 or 3 shots** (`SHOT 1/2`–`2/2` or `SHOT 1/3`–`3/3`).
 
-### Rule: Shot count by word count (short chunks)
-- 2–5 words → 2 shots ONLY
-- 6–12 words → 3 shots
-- 13–20 words → 4 shots
-- 20–30+ words → SPLIT into 2 scenes, 4 shots each
+### Rule: 4-Layer Build in Start Frames AND Every Video Shot (Rule #14)
+1. **Subject & Action** — who/what in grounded gross-motor motion
+2. **Camera & Motion** — explicit framing archetype + movement from `camera/angles.md`
+3. **Lens & Light** — `24mm`/`35mm`/`50mm` lens, chiaroscuro shadows, practical glow, sodium mist
+4. **Texture & Mood** — `film grain`, `anamorphic halation`, `Fincher documentary tension`
+- **CRITICAL FOR SHOTS 2–6:** Because Shots 2–6 cut away from the Start Frame, you MUST include a compact 4–6 word Lens/Light + Texture/Mood anchor in **every single shot line** so Grok does not lose the photographic grade on cuts. Keep each shot line **18–34 words** (strictly under 35 words).
 
-### Rule: 4-Layer Build — every shot must have all 4 layers
-1. **Subject & Action** — who/what, doing what (must be in deliberate motion)
-2. **Camera & Motion** — angle + movement (dolly, crane, rack focus, push in, pan, tracking)
-3. **Lens & Light** — 35-50mm, shadows, practical glow, dramatic lighting
-4. **Texture & Mood** — film grain, cinematic grade, emotional beat
+### Rule: Batch-Level Anti-Monotony & The 2-Chunk Location Ceiling (Rule #6 & #26)
+- **The `SHOT 1` "Slow Push-In" Cap:** Across any 6-chunk batch, `"slow push in"` is allowed in `SHOT 1` **at most ONCE (max 1/6 chunks)**. The other 5 chunks MUST open `SHOT 1` with different camera movements (lateral tracking through foreground occlusion, worm's-eye crane rise, 90° bird's-eye overhead drift, low-slung surface skim, backlit silhouette dolly out, OTS pan/rack focus).
+- **Zero Consecutive Opening Shot Sizes:** Never start two consecutive chunks with `Cinematic medium shot`.
+- **The 2-Chunk Location Ceiling:** Never set more than **2 consecutive chunks** in the same interior room or `@LOCATION` tag. On the 3rd chunk, cut outside to real-world infrastructure scale, a contrast location, or a Rule #38 Light-Table / Vox Explainer plate.
 
-A shot missing any of these 4 layers will produce generic AI output. No exceptions.
+### Rule: Multi-Beat Narrative Mapping (Rule #33)
+When narration references multiple distinct events, places, or clauses in one chunk, map each clause sequentially (`Clause A` $\rightarrow$ `SHOT 1–2`, `Clause B` $\rightarrow$ `SHOT 3–4`, `Clause C` $\rightarrow$ `SHOT 5–6`). Never trap multi-event narration in one room.
 
-**Good shot example:** "Wide shot FBI tactical team surrounding garage at night, spotlights cutting through fog, tense atmosphere, harsh shadows on concrete walls, 35mm lens, deep focus, thriller mood, film grain"
-**Bad shot example:** "Wide shot FBI agents surrounding garage" — NO lens, NO light, NO texture, NO mood.
-
-### Rule: Minimum 3 different camera movements per chunk
-Never: two push-ins in a row, three static shots in a row.
-Mix from: dolly forward/backward, crane up/down, rack focus, slow pan, tracking left/right, tilt up/down, push in fast, static framing (used sparingly), slow zoom.
-
-### Rule: Characters must be in deliberate motion
-Test: "Could I freeze this frame and see implied motion?" If YES = correct. If NO = rewrite.
-Not "standing" but "one foot crossing the threshold, one still outside."
-
-### Rule: Show person, not objects
-- When VO names a living person → show THEM, not their objects
-- From behind, side, silhouette, through glass — but THEM, alive, in motion
-- Objects-only shots = ONLY for ABSENCE scenes (person is gone, office is empty)
-
-### Rule: Character descriptions in shots
-- When character is ALONE → say "[Name] alone walking..."
-- When with UNKNOWN people → say "with other bankers" or "with other people"
-- When with LOCKED characters → say "[Name] with [Other Name]"
-
-### Rule: Non-locked characters
-- Describe with appearance details: "tall man in pinstripe suit, silver hair, 60s"
-- NEVER use @TAG for characters without reference sheets
-
-### Rule: Dynamic Story Variety & Anti-Repetition Across Stories & Batches
-- **Zero Formulaic Repetition:** Never use cookie-cutter shot formulas, predictable openings, or recycled visual setups across chunks or across different stories. Repetition kills viewer engagement and wastes generation credits.
-- **Continuous Creative Invention:** Every single story and chunk must explore fresh creative staging, new visual metaphors, and novel camera viewpoints:
-  - Never use the same camera move, body position, or location twice in a batch of 4–6 chunks.
-  - Never repeat the same opening shot type in consecutive chunks.
-  - Vary visual scale constantly between monumental environmental wide shots and tactile macro inserts.
-  - Tailor the visual world uniquely to the story's domain (e.g. real estate collapse vs. maritime smuggling vs. banking fraud).
-- **Relentless Anti-Slop Enforcement:** Keep physics simple, realistic, and deliberate. Banish chaotic AI action (flailing arms, running mobs, yanking cables, screaming panic) which melts into AI slop. Build cinematic tension through quiet dread, stark shadows, and deliberate micro-actions.
-
-
-### Rule: Multi-Beat Narrative Mapping (Zero Single-Location Trapping)
-When narration references multiple distinct events, locations, or concepts in one chunk (e.g. "ghost cities, a suspicious divorce, and a getaway to Canada"), NEVER trap all shots in only one location (e.g. spending all 6 shots in an airport). Map each distinct clause sequentially across the shots in that chunk:
-- Event A $\rightarrow$ SHOT 1–2 (e.g., ghost cities / @tower)
-- Event B $\rightarrow$ SHOT 3–4 (e.g., suspicious divorce / @hui and @yumei)
-- Event C $\rightarrow$ SHOT 5–6 (e.g., airport getaway / @yumei)
-Every word and concept spoken in that chunk must be visually represented.
-
-### Rule: Creative angles required
-Every chunk must contain at least ONE creative/unexpected angle:
-- Worm's eye (looking up)
-- Bird's eye (looking down)
-- Through glass / through foreground object
-- Macro (extreme close-up of texture or detail)
-- Dutch tilt (slight angle)
-- Ground-level tracking
-- First-person POV
-- Orbital arc (camera circles subject)
-
-### Rule: Only place characters who are narratively present
-Before assigning a character to a shot, ask: "Is this person actually IN this moment of the story?" If not — do not place them.
+### Rule: Mandatory 12 Framing Archetypes (`camera/angles.md`)
+Every chunk must use at least one signature framing archetype from `camera/angles.md`:
+1. Foreground Occlusion (shooting past doorframe/blinds/glass partition)
+2. Architectural Worm's-Eye (`24mm` floor-level looking up)
+3. God's-Eye Perpendicular (`90°` straight-down bird's-eye)
+4. Low-Slung Surface Skimming (inches above wet asphalt/floor)
+5. Over-The-Shoulder (OTS) Evidence/Screen Reveal
+6. Backlit Chiaroscuro Silhouette (dolly out into shadow)
+7. Parallel Steadicam Lateral Glide
+8. Depth-Plane Macro Rack Focus (foreground evidence to background human eyes)
+9. Low-Angle Dutch Tilt (`15°` canted horizon)
+10. Monumental Crane Pull-Back
+11. Threshold Pull-Back (retreating through open doorway)
+12. Tactile Forensic Light-Table / Vox 2D Collage Glide (Rule #38)
 
 ### Rule: No split screens
 Always single-frame shots. Split screens look like AI slop and break immersion. Never write "split screen" in any shot description.
@@ -291,13 +242,12 @@ Locked assets are recurring characters and locations. They are generated ONCE as
 - `@DICAPRIO` — Leonardo DiCaprio (not a locked asset reference sheet, but user uses his online pictures — tag as @DICAPRIO when he appears)
 - `@TRADING_FLOOR` — REMOVED. Do not use.
 
-**Tag format rules:**
-- Start Frame: `@TAG description...`
-- Video header: `Use @image1 as visual anchor for start frame @TAG.`
-- Shot lines: `SHOT X/4 @TAG description...`
-- Tag goes FIRST in every line where asset appears
-- Even if only appears in Shot 4 — tag in header too
-- NEVER put tag in middle of description
+**Tag format rules (Harmonized Rule #8 & #12):**
+- **Start Frame:** `@VISIBLE_TAG description...` (Tag ONLY locked assets visible in `Shot 1, Frame 0`)
+- **Video header:** `Use @image1 as visual anchor for start frame @ALL_CHUNK_TAGS.` (Tag EVERY locked asset appearing in ANY shot `SHOT 1` through `SHOT 4/6` of that chunk)
+- **Shot lines:** `SHOT X/4 @TAG description...` (Tag goes FIRST right after `SHOT X/Y`)
+- Even if a locked asset only appears in Shot 4 — include its `@TAG` in the Video Header `Use @image1...` line (NOT in the Start Frame unless visible in Shot 1)
+- NEVER put `@TAG` in the middle of a sentence
 
 **Locked character in new setting:**
 When using a locked character outside their established location, describe new outfit + reference facial features:
@@ -317,35 +267,36 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 
 ---
 
-## PRE-GENERATION AUDIT CRONJOB — MANDATORY
+## PRE-GENERATION AUDIT CRONJOB — MANDATORY 6-CHUNK MATRIX
 
-Before printing ANY batch of prompts, execute this audit in your head. Print a summary of what you checked AND what you corrected:
+Checkbox lists get rubber-stamped. Before printing ANY batch of 4–6 chunks, you MUST print and fill out this **explicit verification table** proving variety, location rotation, and 4-layer persistence across the batch:
 
+```markdown
+### 📋 PRE-GENERATION AUDIT MATRIX (BATCH [X] — CHUNKS [A]–[B])
+
+| Chunk | Primary Location / Archetype | `SHOT 1` Framing Archetype (`camera/angles.md`) | `SHOT 1` Camera Move | Start Frame Tags (`Shot 1` Visible Only) | Video Header Tags (All Chunk Shots) | Shots 2–4/6 Have Lens + Grain? | Slop / Hand / Contact Check |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **[A]** | `[Location / Archetype]` | `[e.g., #1 Foreground Occlusion]` | `[e.g., lateral tracking right]` | `[@TAG1]` | `[@TAG1 @TAG2]` | `YES (35mm, film grain)` | `PASS — 0 pens/typing/contact` |
+| **[A+1]**| `[Different or 2nd max]` | `[e.g., #2 Worm's-Eye 24mm]` | `[e.g., slow crane rise]` | `[@TAG2]` | `[@TAG2]` | `YES (24mm, film grain)` | `PASS — 0 pens/typing/contact` |
 ```
-### 📋 PRE-GENERATION AUDIT CRONJOB
-- [ ] Tag Compliance: [List every @TAG found in shots. Verify each is in header.]
-- [ ] Creativity & Beauty: [List any drafts that were chaotic/boring. State what was corrected.]
-- [ ] AI Slop Check: [Confirm none of the 15 banned imagery types appear.]
-- [ ] 4-Layer Build: [Confirm all 4 layers present in all shots.]
-- [ ] Camera Variety: [Confirm minimum 3 different movements per chunk.]
-- [ ] Character Placement: [Confirm each character is narratively present in their scene.]
-- [ ] Sync Check: [Confirm exact .vst narration text used for each chunk.]
-- [ ] Multi-Beat Mapping: [Confirm shots cover all distinct clauses/events in VO instead of single-location trapping.]
-- [ ] Story Variety & Novelty: [Confirm fresh angles, new metaphors, zero recycled setups from previous chunks/episodes.]
-- [ ] Grounded Anti-Slop: [Confirm calm, deliberate physical actions, zero chaotic physics/running mobs/melting.]
-- [ ] .vst Source: [Confirm narration text was copied from .vst file, not from memory.]
-```
+
+**HARD BATCH GATES (MUST VERIFY AGAINST THE TABLE BEFORE PRINTING PROMPTS):**
+- **`SHOT 1` Slow Push-In Cap:** Confirm `"slow push in"` appears in the **`SHOT 1` Camera Move** column **at most ONCE (max 1/6 chunks)** across the entire batch.
+- **Zero Consecutive Opening Shot Sizes:** Confirm no two adjacent chunks in the table open with `Cinematic medium shot`.
+- **2-Chunk Location Ceiling:** Confirm no `@LOCATION` or room appears in more than **2 consecutive rows** in the table.
+- **4-Layer Persistence in Shots 2–6:** Confirm every single `SHOT 2` through `SHOT 4/6` line includes a compact 4–6 word Lens/Light + Texture/Mood token (`24mm`/`35mm`/`50mm`, `film grain`, chiaroscuro lighting) and is **18–34 words**.
+- **Rule #44 Human Presence:** Confirm `--no people, faces` is ONLY used on pure architectural/landscape or Rule #38 explainer chunks—never on human drama chunks.
 
 After the batch, print:
 
 ```
 ### 📋 POST-GENERATION AUDIT CRONJOB
-- Beauty Verification: [Summary of visual quality]
-- Tag Validation: [Confirm 100% compliant]
-- Sync Check: [Confirm follows .vst]
+- Beauty & Variety Verification: [Confirm 12-archetype rotation, 0 consecutive medium openings, max 1 SHOT 1 push-in]
+- Tag Validation: [Confirm Start Frame = Shot 1 visible only; Video Header = all chunk tags]
+- Sync Check: [Confirm verbatim .vst narration]
 ```
 
-**CRITICAL: The audit is not cosmetic. Do NOT check a box that was not genuinely verified.**
+**CRITICAL: The audit is not cosmetic. If any row in the matrix violates a cap, rewrite the offending chunk BEFORE printing.**
 
 ---
 
@@ -396,15 +347,15 @@ These do NOT reopen phases: "paste", "show me", "explain", "count words", "summa
 ## PHASE 2 GENERATION CHECKLIST
 
 Before writing EACH chunk:
-1. Read the exact .vst narration text for this chunk number
-2. Understand the narrative moment (what is happening in the story RIGHT NOW)
-3. Identify which locked assets are narratively present
-4. Draft 4 shots mentally
-5. Run the AI Slop Blacklist check
-6. Check all 4 layers are present
-7. Check minimum 3 camera movements
-8. Check at least 1 creative angle
-9. Assign tags to header
+1. Read the exact `.vst` narration text for this chunk number
+2. Run **Subtext Extraction (Rule #42)**: identify the emotional or physical human truth underneath the line (never write literal captions)
+3. Check the **2-Chunk Location Ceiling (Rule #26)**: if the previous 2 chunks were in the same room/`@LOCATION`, pivot to exterior scale, a contrast room, or a Rule #38 Explainer
+4. Select a distinct **`SHOT 1` Framing Archetype** from `camera/angles.md` (no consecutive medium shots; max 1 `SHOT 1 slow push in` per 6 chunks)
+5. Draft 4 shots (10s) or 6 shots (15s) mapping every distinct narrative beat in the VO
+6. Run the **20-Item AI Slop Blacklist** check (zero pens writing, zero fingers typing, zero stamps, zero multi-person contact)
+7. Verify **all 4 layers** (including compact lens/light/grain tokens) are present in `SHOT 1` AND `SHOT 2` through `SHOT 4/6` (18–34 words per shot)
+8. Assign visible tags to Start Frame and all chunk tags to Video Header (`Use @image1...`)
+9. Fill out the row in the **Pre-Generation Audit Matrix**
 10. Write final output
 
 ---
@@ -457,7 +408,7 @@ Rules:
 
 ### Seedance Mode
 - "Open parentheses" = Seedance 2.0 mode
-- "Close parentheses" = Grok/Kling mode
+- "Close parentheses" = Grok mode
 - Switch between them as director instructs
 
 ### Push to GitHub After Every Change
@@ -500,11 +451,11 @@ All of these come from real mistakes that cost the director credits and time:
 
 - **Reflection shots banned** — "reflection visible in screen" causes AI to clone the character. NEVER.
 - **No super fast camera motion** — causes AI artifacts.
-- **Over-describing video prompts** — Grok hallucinates when overloaded. Under 35 words per shot.
-- **Image prompts can be more detailed** — image = detailed scene setting, video = simple action beats.
-- **Doors in AI video are unreliable** — they open/close/multiply. Avoid or use extreme close-up of handle only.
+- **Over-describing video prompts** — Grok hallucinates when overloaded. Under 35 words per shot (18–34 words).
+- **Image prompts can be more detailed** — image = detailed scene setting, video = grounded gross-motor action beats + compact 4-layer tokens.
+- **Doors in AI video are unreliable** — they open/close/multiply. Keep doorways already open or closed.
 - **Plastic-looking characters** — specify skin texture, hair detail, clothing wrinkles.
-- **Hacker at screens** — say "figure facing screens, back to camera" otherwise AI puts screens facing viewer.
+- **Hacker at screens** — say "figure facing screens, back to camera" (OTS) otherwise AI puts screens facing viewer or on back of lid.
 - **Never use trading floor shots** — removed from locked assets. Do not add back.
 - **ElevenLabs VO target = 1400 words** — NOT the full raw script. The compressed Phase 0.4 version only. Verify word count of ElevenLabs version specifically.
 - **Pipeline order is: ElevenLabs → Suno → [WAIT FOR VST] → Chunks** — Suno comes BEFORE VST.
@@ -514,34 +465,31 @@ All of these come from real mistakes that cost the director credits and time:
 
 ---
 
-## COMMON MISTAKES — FROM POST-MORTEM #001 (LTCM SESSION)
+## COMMON MISTAKES — FROM POST-MORTEMS #001–#004
 
-These errors caused 11 minutes of AI video to be redone from scratch:
+These errors caused full episodes of AI video to be redone:
 
 1. **Not reading repo files at session start** — rules exist but AI ignores them
-2. **Chaotic visuals for 35 chunks** — used crowds, shouting, frantic motion
-3. **Missing Start Frame prompts** — outputting only video prompts
-4. **Wrong sync** — not copying exact .vst text, relying on memory
-5. **Asset tags missing from headers** — tags in shots but not in `Use @image1` line
-6. **Fake audit cronjob** — checking boxes without actually verifying
-7. **AI slop imagery** — burning money, reflections, flying calendars, stamps
-8. **Thin shot descriptions** — missing Lens/Light and Texture/Mood layers
-9. **Wrong characters in wrong scenes** — characters placed where they don't belong in story
-10. **Wrong Nano Banana format** — missing or malformed `Use @image1 as visual anchor` line
+2. **Cookie-cutter camera monotony (`SHOT 1 slow push in` loop)** — opening 98% of chunks with `Cinematic medium shot` + `slow push in` instead of rotating the 12 framing archetypes
+3. **Dropping Layer 3 & Layer 4 in Shots 2–6** — omitting lens and `film grain` tokens on cutaways so Shots 2–4 degrade into flat stock video
+4. **Single-location fatigue & `--no people, faces` laziness** — trapping 6–12 consecutive chunks in one room or stripping humans out of sensitive scenes instead of using silhouettes/OTS framing
+5. **Asset tag mismatch** — failing to keep Start Frame tags to Shot 1 visible assets while putting all chunk tags in the Video Header `Use @image1` line
+6. **Rubber-stamping the pre-generation audit** — checking boxes without filling out the 6-Chunk Audit Matrix
+7. **AI slop imagery & hand mechanics** — burning money, reflections, flying calendars, stamps pressing, pens writing, fingers typing
+8. **Wrong characters in wrong scenes** — characters placed where they don't belong in story
+9. **Wrong Nano Banana / Grok format** — missing or malformed `Use @image1 as visual anchor` line
 
 ---
 
-## CTA RULES
+## CTA RULES (RULE #20 — ZERO UI, ZERO LOGOS, PURE STORY CONTINUITY)
 
-NEVER show people talking, waving, or asking to subscribe. CTAs use:
-- Glowing channel logo animations
-- Phone screens showing the channel
-- Comment section scrolling animation
-- Animated subscribe button graphics
-- Dark atmospheric visuals with channel branding
-
-Use `@channellogo` tag when channel logo appears in CTA chunk.
+- **NEVER break narrative immersion during CTA chunks** (Hook CTA, Midpoint CTA, Outro CTA).
+- **STRICTLY BANNED IN CTA PROMPTS:**
+  - Never show people talking to camera, waving, or asking to subscribe.
+  - Never show YouTube subscribe buttons, notification bells, scrolling comment sections, phone screens showing the channel, or `@channellogo` graphics (the editor adds channel branding overlays in post-production).
+- **MANDATORY CTA VISUALS:**
+  - Continue the exact documentary story atmosphere of the surrounding scene using high-tension architectural scale, ominous corridors, or character stillness in shadow so the editor's post-production graphic overlay sits over prestige cinematography.
 
 ---
 
-*AI Director Pipeline — INSOLVENT | Last updated: 2026-07-30*
+*AI Director Pipeline — Verion & Insolvent | Last updated: 2026-10-17*

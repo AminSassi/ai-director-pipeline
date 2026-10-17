@@ -1,177 +1,128 @@
-# Scene Classification Rules — Visual Intent
+# Scene Classification Rules — Visual Intent & Documentary Archetypes
 
-Every chunk receives ONE primary visual type. The classification asks:
+Every chunk receives ONE primary **Visual Archetype** during Phase 0.75. The classification asks:
 
-**"What kind of visual is required to tell this part of the story in the best possible way?"**
+**"What kind of visual is required to tell this part of the story with maximum documentary prestige, camera variety, and zero AI slop?"**
 
-NOT "what words appear in the narration."
+NOT "what literal words appear in the narration" (Rule #42 Subtext Extraction).
 
 ---
 
-## Visual Types
+## The 7 Documentary Visual Archetypes
 
-### CINEMATIC
-Character moments, dialogue, emotional beats, establishing shots, narrative storytelling.
+### 1. `HUMAN_CONFLICT`
+High-stakes character drama, psychological realization, boardroom standoffs, interrogation tension, courtroom confrontations.
 
 **Examples:**
-- Character walking through a corridor
-- Founder arriving in a new city
-- Boardroom decisions
-- Courtroom tension
-- Human moments
+- Executive slowly closing a leather dossier and turning toward a rain-streaked window
+- Prosecutor standing in a dark walnut courtroom while the defendant sits rigid in the dock
+- Two silhouettes separated by a long mahogany table under cold overhead light
+- Moderation-safe human framing for sensitive beats (backlit silhouettes, OTS past a dark suit jacket, low-angle marching boots — Rule #44)
 
-**When to use:** The narration describes a person, place, or moment that benefits from cinematic treatment.
+**Mandatory Constraints:**
+- **Zero Multi-Person Physical Contact (Rule #39):** Never prompt fighting, wrestling, tackling, or hands grabbing wrists. Use pre-impact standoff tension and post-impact aftermath.
+- **Zero Fine Hand Mechanics (Rule #40):** Never prompt pens writing, fingers typing, or stamps pressing. Keep props already printed/signed.
+- **2-Chunk Location Ceiling (Rule #26):** Never stay in the same interior room or `@LOCATION` for more than 2 consecutive chunks.
 
 ---
 
-### ACTION
-High physical motion, chase sequences, destruction, combat, fast camera movement.
+### 2. `INFRASTRUCTURE_SCALE`
+Monumental real-world exterior architecture, industrial supply chains, ports, megastructures, environmental aftermath, and physical world-building. Used both for geographic/industrial beats AND as the mandatory **Chunk 3 Location Ceiling Breaker** after 2 consecutive interior chunks.
 
 **Examples:**
-- Chase scenes
-- Explosions
-- Running, fighting
-- Car sequences
-- Crowd panic
-- Intense physical movement
+- Container gantry cranes towering over a rain-slicked harbor under yellow sodium mist
+- Abandoned unfinished concrete high-rises in a ghost city (`24mm` worm's-eye crane rise)
+- High-altitude aerial pull-back over a massive desert solar array or factory complex
 
-**When to use:** The narration describes or implies physical action that requires dynamic visual treatment.
-
-**NOT for:** Stock charts, graphs, data movements, corporate changes.
+**When to use:**
+- Whenever the narration describes scale, systemic reach, geography, or industry
+- Whenever the previous 2 chunks were set inside an interior room (Rule #26 Location Ceiling)
 
 ---
 
-### EXPLAINER
-Diagrams, maps, timelines, statistics, company structures, money flow, acquisitions, processes, comparisons, "how this worked."
+### 3. `EXPLAINER_LIGHT_TABLE`
+Tactile physical evidence boards, illuminated glass forensic light-tables, physical brass/wooden scale models, and analog blueprints viewed in physical space (**Rule #38 Mode A**).
 
 **Examples:**
-- "Apple acquired Beats for $3 billion" → Apple logo → Arrow → Beats logo → $3B → ownership transfer
-- Company expansion across countries → animated map
-- Debt figures comparison → before/after visualization
-- Corporate structure → organizational diagram
-- Financial flow → money movement animation
+- Overhead `90°` God's-eye drift across a dark frosted glass light-table where already-printed photographs and red string connections sit under warm tungsten edge-lighting
+- Low-angle macro skim across a physical architectural scale model of a dam or facility
+- Over-the-shoulder view of an investigator leaning over an already-marked physical map
 
-**When to use:** The narration explains something that is best understood through visual diagrams, not cinematic footage.
-
-**NOT for:** Biography, character moments, narrative storytelling.
+**Mandatory Constraints (Rule #38 & #40):**
+- **NO 3D CAD wireframes, glowing sci-fi holograms, or isometric 3D cutaways** in video prompts (they melt into slop).
+- **NO readable text/numbers:** Always append `--no text, words, numbers, labels`.
+- **NO active drawing/stamping:** Strings, pins, and markers are already placed on the board before the shot begins.
 
 ---
 
-### MONTAGE
-Time passing, years going by, repeated events, growth sequences.
+### 4. `EXPLAINER_VOX_COLLAGE`
+Flat 2D mixed-media paper cutout collages, halftone newspaper texture layers, and physical timeline strips moving across a textured matte surface (**Rule #38 Mode B**).
 
 **Examples:**
-- "Over the next four decades..." → clinic multiplying into hospitals
-- Years ticking forward on screen
-- Repeated award ceremonies
-- Growth visualization
+- Top-down `90°` perpendicular camera gliding across layered matte paper cutouts on a dark slate surface with stark chiaroscuro drop-shadows
+- High-contrast black-and-white halftone photographic cutouts separated by bold crimson geometric divider lines (zero readable text)
 
-**When to use:** The narration compresses time and the visual should show passage of time.
+**When to use:**
+- Abstract financial flows, corporate shell structures, historical timelines, or statistical comparisons where live-action rooms would feel repetitive.
 
 ---
 
-### ARCHIVAL
-Real footage, photographs, documents, news clips, historical images.
+### 5. `ARCHIVAL_TABLEAU`
+Period-authentic historical reconstructions, static photographic plates with slow Ken Burns optical drift, and physical evidence rooms.
 
 **Examples:**
-- Actual news footage of the collapse
-- Real photographs of the founder
-- Document scans
-- Court filings
-- Newspaper headlines
+- 1990s mahogany vault room with stacked archival bankers boxes under dusty tungsten shafts
+- Static historical portrait plate inside a physical dossier frame with a slow optical push-in (papers never float or fly)
 
-**When to use:** The narration references real historical events where actual footage exists and should be shown.
+**Mandatory Constraints:**
+- Never make newspapers or documents fly, spin, or morph.
+- Never prompt readable paragraphs of English text (`--no text, words, numbers, labels`).
 
 ---
 
-### EMOTIONAL
-Close-ups, atmosphere, mood shots, reaction shots, tension building.
+### 6. `MONTAGE_TIME_COMPRESSION`
+Multi-beat sequences that map 2–3 distinct clauses, locations, or years across `SHOT 1–2`, `SHOT 3`, and `SHOT 4` (**Rule #33 Multi-Beat Narrative Mapping**).
 
 **Examples:**
-- Character's face showing devastation
-- Empty hospital corridor
-- Silence before a reveal
-- Weight of the situation
+- *Narration:* "Ghost cities, a quiet transfer of assets, and a midnight departure to Vancouver."
+  - `SHOT 1–2`: Abandoned concrete megastructure under a crane pull-back
+  - `SHOT 3`: Executive closing a leather briefcase in a dark office (`35mm`, chiaroscuro)
+  - `SHOT 4`: Silhouetted figure walking toward a night airport terminal gate (`50mm`, film grain)
 
-**When to use:** The narration demands emotional impact through visual atmosphere, not action or information.
+**When to use:**
+- Any chunk whose narration spans multiple distinct places, clauses, or time jumps. Never trap multi-beat narration inside a single room.
 
 ---
 
-### TRANSITION
-Connecting scenes, location changes, time jumps, visual bridges.
+### 7. `ATMOSPHERIC_TRANSITION`
+High-contrast mood bridges, threshold pull-backs, and **Rule #20 CTA chunks** (Hook CTA, Midpoint CTA, Outro CTA).
 
 **Examples:**
-- Fade to black between acts
-- Location change from office to courtroom
-- Time jump from past to present
-- Visual metaphor for change
+- Camera retreating backward through a heavy oak doorway into darkness as a lone silhouette stands by a window
+- Low-slung surface skim inches above wet midnight asphalt reflecting amber streetlights
 
-**When to use:** The narration moves between scenes or time periods and needs a visual bridge.
-
----
-
-### TEXT FOCUS
-Headlines, documents, quotes, on-screen text, legal language.
-
-**Examples:**
-- Newspaper headline appearing
-- Court document text
-- Regulatory finding on screen
-- Quote from a report
-- Financial statement numbers
-
-**When to use:** The narration emphasizes specific text, numbers, or documents that should appear on screen.
+**Mandatory CTA Constraint (Rule #20):**
+- CTA chunks MUST use `ATMOSPHERIC_TRANSITION` or `INFRASTRUCTURE_SCALE`. Never show YouTube subscribe buttons, notification bells, phone screens, or `@channellogo` graphics.
 
 ---
 
-### HYBRID
-Multiple visual approaches needed within one chunk.
+## Classification Priority & Anti-Monotony Routing Rules
 
-**Examples:**
-- Narration that starts with character moment, then shifts to data visualization
-- Scene that requires both archival footage and explanatory graphics
-- Transition that combines emotional close-up with text overlay
-
-**When to use:** When no single visual type adequately covers the narration.
-
----
-
-## Classification Priority
-
-When multiple types seem applicable, use this hierarchy:
-
-1. **Does the narration explain a complex concept?** → EXPLAINER
-2. **Does it describe physical action?** → ACTION
-3. **Does it compress time?** → MONTAGE
-4. **Does it reference real historical footage?** → ARCHIVAL
-5. **Does it emphasize text/documents?** → TEXT FOCUS
-6. **Does it connect scenes?** → TRANSITION
-7. **Does it demand emotional atmosphere?** → EMOTIONAL
-8. **Otherwise** → CINEMATIC (default)
+When routing a batch of 6 chunks:
+1. **Enforce the 2-Chunk Location Ceiling (Rule #26):** If Chunks $N$ and $N+1$ are routed to `HUMAN_CONFLICT` in the same room, Chunk $N+2$ MUST route to `INFRASTRUCTURE_SCALE`, `EXPLAINER_LIGHT_TABLE`, `EXPLAINER_VOX_COLLAGE`, or a different location.
+2. **Pre-Assign `SHOT 1` Framing Archetypes (`camera/angles.md`):**
+   - Maximum **1 chunk per 6-chunk batch** may use `"slow push in"` in `SHOT 1`.
+   - Zero consecutive chunks may open with `Cinematic medium shot`.
+3. **Subtext Over Literal Keywords (Rule #42):**
+   - Never route a biography line ("Born in 1942") to an explainer diagram just because it contains a year.
+   - Never route a financial loss ("The stock plunged") to chaotic physical running or screaming; route to `HUMAN_CONFLICT` (Fincher stillness) or `EXPLAINER_LIGHT_TABLE` / `EXPLAINER_VOX_COLLAGE`.
 
 ---
 
-## Common Mistakes
+## Common Routing Mistakes Fixed by v2.0
 
-| Mistake | Why it's wrong | Correct classification |
-|---------|---------------|----------------------|
-| Biography → EXPLAINER | "Born in 1942 in Udupi" is narrative, not diagram | CINEMATIC |
-| Stock chart falling → ACTION | A graph isn't physical action | EXPLAINER (data visualization) |
-| "Four billion dollars" → EXPLAINER | Just because there's a number doesn't mean diagram | Depends on context |
-| Corporate listing → EXPLAINER | This is a milestone moment | CINEMATIC |
-| Regulatory finding → EXPLAINER | This is an institutional action | TEXT FOCUS or CINEMATIC |
-| "Share price began falling" → ACTION | No physical motion involved | EXPLAINER (chart/visualization) |
-
----
-
-## The Core Question
-
-Before classifying, ask:
-
-1. What is the BEST visual to accompany this narration?
-2. Would a diagram explain this better than footage?
-3. Would a chart show this better than a character?
-4. Would archival footage be more powerful than recreation?
-5. Is this about information transfer or emotional impact?
-
-The answer to these questions determines the visual type, NOT the words in the narration.
+| Legacy Mistake | Why It Failed | v2.0 Correct Routing |
+| :--- | :--- | :--- |
+| Routing "fighting / crowd panic / running" to `ACTION` | Violates Rule #1 (Anti-Chaos) & Rule #39 (Contact Ban); produces multi-limb AI body horror | Route to `HUMAN_CONFLICT` using pre-impact standoff tension or post-impact aftermath |
+| Routing headlines/quotes to `TEXT FOCUS` with on-screen text | Grok renders English text as alien gibberish (Blacklist #13) | Route to `EXPLAINER_LIGHT_TABLE`, `ARCHIVAL_TABLEAU`, or `HUMAN_CONFLICT` with `--no text, words, numbers, labels` |
+| Routing 10 consecutive chunks to `CINEMATIC` in one room | Creates single-location fatigue and repetitive `SHOT 1 slow push in` loops | Enforce the **2-Chunk Location Ceiling** by alternating `HUMAN_CONFLICT` with `INFRASTRUCTURE_SCALE` and `EXPLAINER_*` |

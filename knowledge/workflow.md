@@ -370,23 +370,28 @@ Pass 5 — Delete low-impact context
 - **Rule:** When redoing prompts, NEVER reuse old angles, compositions, or failed ideas. Always create completely fresh perspectives and emotional beats.
 
 ## AI-Corrects-AI & Mandatory Pre-Flight Audit
-Every prompt batch MUST pass the internal audit before presenting to the Director:
-1. **Script Faithfulness:** Every word of the VO is translated into tangible physical action or real-world environment.
-2. **Action Over Stagnation:** People actively doing plot-critical actions (drawing, pointing, writing, reviewing, walking with purpose). NEVER camera wandering around an empty desk or blinking LED.
-3. **Mandatory Creative Angles:** At least one distinct dynamic angle per chunk: Dutch-tilt, ground-level tracking, worm's-eye, bird's-eye, macro rack focus, or architectural crane.
-4. **Physical Camera Geometry:** Never describe a front-facing face AND a screen facing the camera simultaneously. Use Over-The-Shoulder (OTS) for screens.
-5. **Zero Mascot Tags on Humans:** Never prefix human characters with `@mascot` tags.
-6. **Anti-Slop Tension (Fincher Stillness):** Tension through absolute stillness, deep shadows, and cold realization. Zero flailing, running, or cartoon panic.
-7. **Filter Safety:** 100% clean of Grok image-to-video triggers (no `female`, `vigorous`, `enamel`).
-8. **Strict CTA Visual Discipline:** Zero logos, zero subscribe buttons, zero phone screens. Atmospheric story scenes only.
+Every prompt batch MUST pass the **Mandatory 6-Chunk Pre-Generation Audit Matrix** (`prompts/quality-checklist.md`) before presenting to the Director:
+1. **Subtext & Script Faithfulness (Rule #42):** Every clause of the VO is translated into tangible human transactions or real-world physical scale—never literal captions.
+2. **Gross-Motor Action Over Stagnation (Rules #37, #39, #40):** Characters in purposeful gross-motor motion (walking mid-stride, turning, leaning over an already-printed blueprint, shutting a dossier). **ZERO fine finger/tool mechanics** (never drawing, writing, typing, or stamping) and **ZERO multi-character physical grappling**.
+3. **Batch-Level Camera Variety (Rule #6 & `camera/angles.md`):**
+   - At least one distinct framing archetype from `camera/angles.md` per chunk.
+   - **Max 1 `SHOT 1 slow push in` per 6-chunk batch.**
+   - **Zero consecutive chunks opening with `Cinematic medium shot`.**
+4. **The 2-Chunk Location Ceiling (Rule #26):** Never set more than 2 consecutive chunks in the same interior room or `@LOCATION` tag.
+5. **4-Layer Persistence Across Shots 1–6 (Rule #14):** Every individual shot line (`SHOT 1` through `SHOT 4/6`) includes a compact 4–6 word Lens/Light + Texture/Mood anchor (`24mm`/`35mm`/`50mm`, `film grain`, chiaroscuro contrast) and stays within **18–34 words**.
+6. **Physical Camera Geometry (Rule #28):** Never describe a front-facing face AND a screen facing the camera simultaneously. Use Over-The-Shoulder (OTS) for screens.
+7. **Harmonized Tagging (Rules #8 & #12):** Start Frame tags ONLY assets visible in `Shot 1, Frame 0`. Video Header (`Use @image1...`) tags ALL locked assets appearing across any shot of the chunk.
+8. **Moderation-Safe Human Presence (Rule #44):** Never strip humans out of human-drama chunks with `--no people, faces`; use backlit silhouettes, OTS framing, or marching boots instead.
+9. **Filter Safety (Rule #41):** 100% clean of Grok image-to-video triggers (no `female`, `vigorous`, `enamel`).
+10. **Strict CTA Visual Discipline (Rule #20):** Zero logos, zero subscribe buttons, zero phone screens. Atmospheric story scenes only.
 
 ## Director's Timeline Workflow
 - Director watches Premiere Pro timeline in real time
 - Passes timing, then gives that chunk of script
 - MiMo generates for that specific segment
 - Director controls the pace
-- **BATCH SIZE RULE (PERMANENT):** Always generate and output EXACTLY 6 chunks per batch in chat (never 4). Standard batch progression: Chunks 1–6, Chunks 7–12, Chunks 13–18, Chunks 19–24, Chunks 25–30, Chunks 31–36, Chunks 37–42, Chunks 43–45.
-- Each batch must include the Pre-Generation Audit Cronjob before the prompts and Post-Generation Audit summary after.
+- **BATCH SIZE RULE (PERMANENT):** Always generate and output EXACTLY 6 chunks per batch in chat (never 4). Standard batch progression: Chunks 1–6, Chunks 7–12, Chunks 13–18, Chunks 19–24, Chunks 25–30, Chunks 31–36, Chunks 37–42, Chunks 43–48, etc.
+- Each batch must include the **Mandatory 6-Chunk Pre-Generation Audit Matrix** table before the prompts and the Post-Generation Audit summary after.
 
 ## Platform Differences
 | Rule | Grok Imagine |

@@ -1,118 +1,29 @@
-# CRITICAL OVERRIDE (2026-08-28): NEVER USE INFOGRAPHICS, DIAGRAMS, OR GEMINI OMNIFLASH. ALL VISUALS MUST BE CINEMATIC/DOCUMENTARY GROK IMAGINE PROMPTS REGARDLESS OF ROUTING TYPE.
-# Generator Mapping
+# Generator & Aesthetic Routing Mapping
 
-Visual type determines the generator. Not keywords. Not word count. Not content detection.
-
----
-
-## Generator Assignment
-
-| Visual Type | Generator | Why |
-|-------------|-----------|-----|
-| **ACTION** | Seedance 2.0 | Handles fast motion, complex physics, multiple moving subjects |
-| **EXPLAINER** | Grok Imagine (Diagram Style) | Animation, diagrams, data visualization, infographic generation |
-| **CINEMATIC** | Default (Grok Imagine) | Standard narrative, character moments, establishing shots |
-| **MONTAGE** | Default (Grok Imagine) | Time compression works fine with standard generation |
-| **ARCHIVAL** | Default (Grok Imagine) | Real footage/photographs, minimal generation needed |
-| **EMOTIONAL** | Default (Grok Imagine) | Close-ups, atmosphere, mood — standard cinematic |
-| **TRANSITION** | Default (Grok Imagine) | Visual bridges, simple generation |
-| **TEXT FOCUS** | Grok Imagine (Diagram Style) | Text overlay, document rendering, headline animation |
-| **HYBRID** | Split or Default | Either split chunk or use default with multiple approaches |
+Visual type determines the aesthetic playbook and framing archetype in **Grok Imagine** + **Nano Banana 2 (Flow)**.
 
 ---
 
-## Generator Details
+## 1. Generator Assignment (Current Production Standard)
 
-### Seedance 2.0
-**Best for:** ACTION scenes only
+All start frames are generated in **Nano Banana 2 (Flow)**, and all 10s/15s video clips are generated in **Grok Imagine** (unless the director explicitly invokes Seedance 2.0 via `"open parentheses"`).
 
-**Use when:**
-- Chase sequences
-- Explosions, combat
-- Fast camera movement (crash zoom, handheld at speed)
-- Multiple moving subjects simultaneously
-- Destruction, collapse
-- Intense physical movement
+However, **Routing (`Phase 0.75`) is where Creative Direction happens.** Every chunk must be routed to one of the **7 Documentary Visual Archetypes** below so the video never gets trapped in a single room or a single visual style:
 
-**Avoid when:**
-- Any non-action scene (overkill)
-- Data visualization
-- Character moments
-- Standard narrative
+| Visual Type | Aesthetic Playbook | When to Route Here |
+| :--- | :--- | :--- |
+| **`CINEMATIC_DRAMA`** | Grounded 35mm/50mm Fincher human tension, foreground occlusion, silhouettes, status dynamics. | Key character moments, confrontations, arrivals, moral turning points. |
+| **`INVESTIGATIVE_PROCEDURAL`** | OTS evidence reveals, archive vaults, clinical/forensic labs, depth-plane rack focus. *(Max 2 consecutive chunks!)* | Audits, legal filings, forensic discoveries, whistleblower revelations. |
+| **`SCALE_INFRASTRUCTURE`** | 24mm monumental wide shots, crane rises, low-slung tracking across ports, factories, highways, skylines. | Systemic impact, supply chains, real estate collapse, geopolitical reach. |
+| **`EXPLAINER_LIGHT_TABLE`** | **Rule #38 Type A:** Physical cyanotype blueprint or dark slate schematic on a backlit wooden drafting lightbox, 35mm macro top-down dolly glide. | Engineering mechanisms, aircraft/vehicle systems, hardware breakdowns. |
+| **`EXPLAINER_VOX_COLLAGE`** | **Rule #38 Type B:** Flat matte charcoal (`#0D0E11`) or parchment backdrop, halftone print texture, paper-cutout map/timeline, single 2D vector route line. | Flight paths, border crossings, money laundering networks, timelines. |
+| **`CONTRAST_MONTAGE`** | Juxtaposes two stark worlds within one chunk (`SHOT 1–2` lavish stage $\rightarrow$ `SHOT 3–4` gritty reality). | Exposing hypocrisy, fraud vs. reality, multi-beat clauses (Rule #33). |
+| **`CTA_ATMOSPHERIC`** | **Rule #20:** Pure story-world mood (rain-slicked glass, night harbor, vaulted library). **Zero UI/logos/buttons.** | Hook CTA, Midpoint CTA, and Outro CTA chunks. |
 
 ---
 
-### Grok Imagine (Diagram Style)
-**Best for:** EXPLAINER and TEXT FOCUS scenes only
+## 2. Mandatory Anti-Trapping Routing Rules
 
-**Use when:**
-- Diagrams need animation
-- Charts and graphs need visualization
-- Maps with data overlays
-- Corporate structure breakdowns
-- Money flow animation
-- Timeline visualization
-- Document text on screen
-- Headlines appearing
-- "How this worked" explanations
-
-**Avoid when:**
-- Character moments
-- Narrative storytelling
-- Physical action
-- Emotional atmosphere
-
----
-
-### Default Cinematic (Grok Imagine / Kling)
-**Best for:** Everything else
-
-**Use when:**
-- Character moments
-- Establishing shots
-- Emotional beats
-- Narrative dialogue
-- Time passage (montage)
-- Archival footage integration
-- Scene transitions
-- Mood and atmosphere
-
-**Grok Imagine is the exclusive video generator for cinematic scenes.**
----
-
-## Decision Tree
-
-```
-What is the best visual to tell this part of the story?
-│
-├── Diagram/chart/map/animation needed?
-│   └── YES → EXPLAINER or TEXT FOCUS → Grok Imagine (Diagram Style)
-│
-├── High physical action/chase/explosion?
-│   └── YES → ACTION → Seedance 2.0
-│
-├── Multiple visual types needed?
-│   └── YES → HYBRID → Split or Default
-│
-└── Otherwise → CINEMATIC/MONTAGE/ARCHIVAL/EMOTIONAL/TRANSITION → Default
-```
-
----
-
-## Chunk Splitting
-
-When a chunk requires HYBRID treatment:
-
-1. Identify the split point in narration
-2. Route each segment to its optimal generator
-3. Ensure visual continuity across split (same tags, lighting, color)
-4. Mark as HYBRID in metadata
-
-**Example:**
-```
-Original: "Apple acquired Beats for $3 billion. Steve Jobs had built the foundation."
-Split:
-  - Segment A: "Apple acquired Beats for $3 billion" → EXPLAINER → grok
-  - Segment B: "Steve Jobs had built the foundation" → CINEMATIC → Default
-```
-
+When building the `Phase 0.75` routing table across the episode:
+1. **The 2-Chunk Location & Type Ceiling:** Never route more than **2 consecutive chunks** to the same interior room (`INVESTIGATIVE_PROCEDURAL` in the same `@LOCATION`). On the 3rd chunk, force a transition to `SCALE_INFRASTRUCTURE`, `EXPLAINER_LIGHT_TABLE`, `EXPLAINER_VOX_COLLAGE`, or `CONTRAST_MONTAGE`.
+2. **Pre-Assign Opening Camera Archetypes (`shot_1_archetype`):** Assign one of the 12 Framing Archetypes from `camera/angles.md` to every chunk during routing so that in every 6-chunk batch, `"slow push in"` is used at most ONCE in `SHOT 1`.
