@@ -172,3 +172,12 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
      * When Grok moderation blocks a real person's face tag in a sensitive trial/medical/arrest chunk, **NEVER** strip all humans out of the batch with `--no people, faces` and film empty courtroom pews or empty desks (which directly violates Rule #37 Anti-Boredom Mandate). Instead, use **Moderation-Safe Human Framing**: backlit anonymous silhouettes, Over-The-Shoulder views past a dark suit jacket, booted feet marching down corridors, hands resting on a wooden defense rail, and tense courtroom/press observers.
   4. **Restored Mandatory 4-Layer Tokens Inside Shots 2–6 (Rule #14):**
      * Because Shots 2–6 cut away from the Start Frame (`@image1`), dropping lens, lighting, and film grain from Shots 2–6 caused Grok to render flat plastic CGI after every cut. Every shot line (`SHOT 1` through `SHOT 4/6`) must now include a compact 4–6 word style anchor (e.g., `35mm lens, chiaroscuro shadows, film grain`) while staying under 35 words.
+
+- [2026-10-18] CRITICAL DIRECTOR RULE — STACK DETAILS IN START FRAME (ANTI-PLASTIC SKIN), KEEP GROK VIDEO PROMPTS ULTRA-SIMPLE:
+  1. **Start Frame (Image Prompt) = Stack Rich Photorealistic Details & Anti-Plastic Skin:**
+     * Stack rich physical, architectural, and texture details in the Start Frame prompt.
+     * Always enforce raw DSLR photorealism to kill plastic AI skin: `raw DSLR photograph, Canon SL3, realistic skin texture, visible pores, natural skin imperfections, realistic fabric weave, natural lighting, 35mm film grain, no plastic skin, no airbrush, no CGI`.
+     * Never overload a single Start Frame with 4–5 character reference tags at once (causes Nano Banana to mash faces into plastic slop). Keep Start Frames focused on 1–2 primary tags with crystal-clear staging.
+  2. **Video Prompt (Grok Imagine) = Keep It VERY Simple & Easy (10–18 Words Per Shot):**
+     * Grok performs best when each `SHOT` line is **very simple, short, and direct**: `[Subject doing one simple action in location]. [One simple camera movement].`
+     * Do NOT overload Grok video shot lines with complex multi-clause sentences or stacked buzzwords—keep all the heavy visual detail in the Start Frame!
