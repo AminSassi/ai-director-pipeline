@@ -181,3 +181,7 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
   2. **Video Prompt (Grok Imagine) = Keep It VERY Simple & Easy (10–18 Words Per Shot):**
      * Grok performs best when each `SHOT` line is **very simple, short, and direct**: `[Subject doing one simple action in location]. [One simple camera movement].`
      * Do NOT overload Grok video shot lines with complex multi-clause sentences or stacked buzzwords—keep all the heavy visual detail in the Start Frame!
+
+- [2026-10-18] CRITICAL DIRECTOR RULE — CHUNK 01 SIGNATURE OPENING (CONTINUOUS FPV / DRONE HOOK SHOT):
+  * **Chunk 01 Must Always Be Visually Special & Catchy:** Never open Chunk 01 (`00:00 - 00:15`) with a flat, static interior room shot.
+  * Always design Chunk 01 as a **showstopping continuous FPV / Steadicam / drone camera journey** gliding smoothly from one space into another (e.g., gliding from the rain-slicked midnight street / subterranean stairwell corridor down two stories underground right up to the massive sealed steel vault door and into the dark vault chamber) to immediately hook the viewer in the first 15 seconds.

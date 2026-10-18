@@ -234,3 +234,7 @@ Every Start Frame AND every individual Video Shot (`SHOT 1` through `SHOT 4/6`) 
 - **STRICT ZERO-TOLERANCE BAN:** Never prompt fingers measuring with calipers, hands holding magnifying loupes, fountain pens writing cursive text, markers drawing lines, highlighters streaking across paper, rubber stamps pressing ink, or fingers typing on keyboards.
 - Video diffusion models melt fingers into tools and spawn grotesque 6-fingered hands.
 - **The Documentary Fix:** Frame documents/charts **already written or highlighted** resting on the desk while the character leans over them, folds them, holds a closed dossier while walking, or looks up in realization. Frame computer scenes OTS looking at the screen while the subject's hands rest stationary on the desk edge.
+
+### Rule #45 — The Chunk 01 Signature Hook Rule (Catchy Continuous FPV / Drone Opening)
+- **The First Chunk (`00:00 - 00:15`) Must Always Be Special:** Never open an episode in Chunk 01 with a flat, ordinary room shot.
+- Design **Chunk 01** around a **breathtaking continuous FPV / drone / single-take camera journey** that glides smoothly through the environment from point A to point B (e.g., gliding across the rain-slicked midnight Diamond District street down two stories through subterranean security grates straight up to the massive sealed 3.5-ton steel vault door), giving the video a high-retention theatrical opening hook.
