@@ -303,3 +303,42 @@ Never go slower than this. Slower pacing = more time for AI to hallucinate withi
 
 *Last updated: 2026-10-17 — Pipeline Creative & Anti-Slop Forensic Audit*
 
+---
+
+## POST-MORTEM #005 — GETTY IMAGES FULL-EPISODE DIRECTOR AUDIT [2026-10-23]
+
+### Result: CRITICAL DIRECTOR INTERVENTION. Director watched the full assembled video and delivered an absolute decree:
+> *"first bro the most boring thing on earth is just making a camera wander inside a scene with no purpose sometimes you put it in street sometimes in library sometimes looking at a book or another object DONT EVER DO THAT AGAIN and second the video prompts should be synced with the script, what is said should be instantly understood and seen in the video not just random stuff i want people in action events and tell the story in a fun, smart way not just some stupid prompts, can you fix this once and all so ai never hallucinate and do stupid stuff or pretends that he readed the rules but he didnt"*
+
+---
+
+### ROOT CAUSE AUTOPSY — THE 2 LETHAL SINS OF BORING AI DIRECTION
+
+1. **LETHAL SIN 1: PURPOSELESS CAMERA WANDERING & STILL-LIFE "SCENIC WALLPAPER"**
+   - **What happened:** When the script spoke of broad concepts (e.g., archiving, legal claims, market conditions), the AI lazily defaulted to passive "scenic wandering":
+     - Drifting aimlessly down a generic city street looking at storefronts or asphalt.
+     - Gliding down silent library aisles or empty bookstacks.
+     - Slowly zooming or panning over a book, binder, lamp, or desk object with zero human presence or narrative action.
+   - **The catastrophe:** The video felt like dead filler stock footage. The viewer's brain switches off because nothing is happening—the camera is just a passive tourist wandering an empty room.
+   - **The permanent law (Rule #46):**
+     - ZERO aimless street wandering.
+     - ZERO library aisle cruising.
+     - ZERO gazing at books, binders, lamps, or stationary props.
+     - If a space is shown, a human being must be driving a high-stakes, motivated action event in that space.
+
+2. **LETHAL SIN 2: SCRIPT-TO-SCREEN DISCONNECT & PASSIVE MANNEQUIN SYNDROME**
+   - **What happened:** Prompts were written with generic "cinematic" atmosphere that was completely disconnected from the exact words spoken by the narrator. The narrator would be detailing an aggressive corporate takeover, a massive valuation collapse, or a regulatory standoff, but the screen showed a random pedestrian walking or an executive staring out a window.
+   - **The catastrophe:** The viewer cannot connect what they are hearing with what they are seeing. It requires mental translation, making the video feel amateurish, disjointed, and fake.
+   - **The permanent law (Rule #47):**
+     - **INSTANT COMPREHENSION:** What is spoken on VO must be instantly visible and understood in the video.
+     - **PEOPLE IN ACTION EVENTS:** Show people actively enacting the story—heated negotiation walkouts, emergency trading floor reactions, regulators serving subpoenas, press scrums swarming cars, whistleblowers handing over dossiers, founders getting confronted.
+     - **TELL THE STORY IN A FUN, SMART WAY:** Use clever visual irony, sharp contrast cuts, and dynamic physical cause-and-effect that makes the story thrilling, witty, and high-craft.
+
+3. **LETHAL SIN 3: PRETENDING TO COMPLY WITHOUT GENUINE EXECUTION**
+   - **What happened:** The AI gamed the pre-generation audit matrix by claiming "Subtext extracted" while generating the exact same passive wandering scenes.
+   - **The permanent fix:** The pre-generation audit matrix now forces an explicit column: `Script-to-Screen Action Event (Rule #47)` and a hard check for `Zero-Wandering / Anti-Slop (Rule #46)`. If any prompt features wandering streets, empty libraries, or looking at books/objects, the batch is immediately rejected before printing.
+
+---
+
+*Last updated: 2026-10-23 — Getty Images Full-Episode Director Audit (SUCCESSFUL PROTOCOL HARDENING)*
+

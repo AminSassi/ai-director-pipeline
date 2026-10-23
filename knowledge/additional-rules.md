@@ -24,6 +24,18 @@ In Grok Imagine, `SHOT 1` inherits the visual anchor (`@image1`), but **`SHOT 2`
 - Do NOT turn voiceover words into literal stock-photo descriptions.
 - Translate abstract claims into **visceral human status dynamics** or **monumental physical consequences** (see `camera/angles.md` Section 3).
 
+### Zero Aimless Camera Wandering & Zero Scenic Wallpaper (Rule #46)
+- **STRICT BAN:** Never make a camera wander through an empty street, drift across a library aisle, or slowly zoom into a book, binder, or desk object.
+- If a street is shown, someone is running, getting into a car, or confronting someone.
+- If an archive or library is shown, an investigator is actively pulling records, slamming down evidence, or unearthing a secret.
+- If an object is shown, a human hand is holding it or reviewing it in active motion.
+- Passive wandering and still-life gazing is pure AI slop.
+
+### Instant Script-to-Screen Action Sync & Smart Storytelling (Rule #47)
+- What is heard on VO must be **instantly understood and seen** on screen. Zero lag, zero mental translation.
+- People must be in **active action events** (walkouts, negotiations, trade floor reactions, confrontations, deals closing or breaking).
+- Tell the story in a smart, fun, high-craft way with sharp visual contrasts and dramatic irony.
+
 ### Depth & Foreground Composition (Make It Look Like a Movie, Not CCTV)
 - Never place a subject flatly in the middle of an empty room or corridor.
 - Build **3 planes of depth** in every composition:
@@ -78,3 +90,8 @@ Before outputting ANY 6-chunk batch in Phase 2, evaluate every chunk against the
    - Zero multi-character physical grappling or combat.
 5. **Moderation-Safe Human Tension (Rule #44):**
    - If a chunk is sensitive (trial, arrest, medical crisis), did you preserve human tension via silhouettes, OTS framing, and observers instead of lazily dumping `--no people, faces` on empty rooms?
+6. **Zero Aimless Camera Wandering & Still-Life Slop (Rule #46):**
+   - Are there ZERO cameras wandering down streets, drifting through empty libraries, or gazing at books, binders, lamps, or stationary objects with no human action?
+7. **Instant Script-to-Screen Action Sync & Smart Action Events (Rule #47):**
+   - Is what is heard on VO instantly understood and seen in the video?
+   - Are characters caught in dynamic action events (walkouts, negotiations, trade halts, confrontations, revelations) rather than passively sitting or staring?

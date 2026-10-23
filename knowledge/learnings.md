@@ -185,3 +185,25 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
 - [2026-10-18] CRITICAL DIRECTOR RULE — CHUNK 01 SIGNATURE OPENING (CONTINUOUS FPV / DRONE HOOK SHOT):
   * **Chunk 01 Must Always Be Visually Special & Catchy:** Never open Chunk 01 (`00:00 - 00:15`) with a flat, static interior room shot.
   * Always design Chunk 01 as a **showstopping continuous FPV / Steadicam / drone camera journey** gliding smoothly from one space into another (e.g., gliding from the rain-slicked midnight street / subterranean stairwell corridor down two stories underground right up to the massive sealed steel vault door and into the dark vault chamber) to immediately hook the viewer in the first 15 seconds.
+
+- [2026-10-22] CRITICAL DIRECTOR RULE — BAN REPEATED SCENES (KILL BOARDROOM SITTING), INJECT CAMERA MOVEMENT SPICE & DYNAMIC ARENA SCENES:
+  1. **Kill Repeated Executive Boardroom Scenes:** NEVER recycle `@boardroom` and characters sitting at conference tables repeatedly. Manifest the wider external world of leadership and crisis: private jet cabins, corporate town cars at night, high-speed rail corridors, regulator headquarters facades, airport tarmacs, industrial server corridors, and urban streetscapes.
+  2. **Spice Up Camera Movements (Beyond Generic Push-In / Push-Out):** Break away from plain push/pull formulas. Use dynamic, high-craft cinematography:
+     * Canted 15° Dutch angle diagonal tracking
+     * Orbiting 45°/90° arc tracking around subjects
+     * Low-angle jib sweeps and vertical pedestal reveals
+     * Parallel Steadicam lateral glides at brisk walking cadence
+     * High-speed highway or tarmac forward pursuit tracking
+     * 90° bird's-eye rotation drift
+     * Macro optical rack focus between foreground textures and background action
+  3. **Smart Arena Diversity for Photographers:** Do not trap photography scenes in a single rainy press scrum. Unleash varied, visually spectacular sports and cultural domains: UEFA Champions League football stadiums under blinding floodlights, Olympic ice hockey rinks with icy spray, Monaco Grand Prix pit lanes with tire smoke, Paris fashion runway scrums, and international red carpet terraces. Only tag `@field` when anchoring to the master press board; describe unique arena settings richly without forcing locked tags!
+
+- [2026-10-23] CRITICAL DIRECTOR DECREE — PERMANENT BAN ON AIMLESS CAMERA WANDERING & 100% SCRIPT-TO-SCREEN ACTION SYNC (Rules #46 & #47):
+  1. **Permanent Ban on Aimless Camera Wandering & Scenic Wallpaper (Rule #46):**
+     * Never let the camera wander through a street, drift through a library, or slowly zoom/pan over a book, binder, lamp, or stationary object.
+     * The camera is NOT a passive tourist. Every single shot must be anchored to an active, motivated human action event or dramatic transaction. If you remove the audio and nothing is happening, it is BANNED AI SLOP.
+  2. **100% Script-to-Screen Action Sync & Smart Storytelling (Rule #47):**
+     * What is heard on VO must be INSTANTLY understood and seen on screen. Zero mental translation.
+     * Put people in action events: walkouts, heated negotiations, trade floor sudden halts, regulators serving summons, press swarms, whistleblowers trading files.
+     * Tell the story with wit, irony, and sharp contrast cuts—not generic, boring corporate wallpaper.
+

@@ -23,6 +23,13 @@ AI models naturally decay into repetitive, low-effort camera formulas (such as s
 
 ---
 
+5. **The Anti-Wandering Mandate (Zero Purposeless B-Roll — Rule #46):**
+   - The camera must NEVER wander through an empty street, cruise through a library, or slowly zoom on a book, binder, or desk object. Every camera move must be anchored to an active, motivated human action event.
+6. **100% Instant Script-to-Screen Action Sync (Rule #47):**
+   - What is spoken on VO must be INSTANTLY visible and understood on screen. Put people in dynamic action events (walkouts, negotiations, trade halts, confrontations, revelations) rather than passive staring.
+
+---
+
 ## 2. THE 12 SIGNATURE DOCUMENTARY FRAMING ARCHETYPES
 
 Every chunk in a 6-chunk batch must draw from these **12 AI-stable, high-craft cinematic archetypes** so no two chunks in a batch feel alike:

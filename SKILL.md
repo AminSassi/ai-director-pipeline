@@ -63,20 +63,26 @@ This is the most important rule. Read it twice.
 
 ---
 
-## 🚨 THE ANTI-BOREDOM MANDATE — STRICT BAN ON INERT OBJECTS & DOCUMENT SLIDESHOWS (RULE #37)
+## 🚨 THE ANTI-BOREDOM MANDATE — STRICT BAN ON INERT OBJECTS, WANDERING CAMERAS & SCENIC WALLPAPER (RULES #37 & #46)
 
 **AUDIENCE RETENTION IS WON THROUGH HUMAN DRAMA, NOT STILL-LIFE PHOTOGRAPHY.**
 
 Never turn a scene into a boring corporate still-life. The AI video camera must **NEVER wander aimlessly around stationary objects, empty desks, paper documents, binders, folders, brass lamps, or ticking clocks.**
 
 ❌ **STRICTLY BANNED BORING SLOP (ZERO TOLERANCE):**
+- **Aimless street wandering:** Camera drifting down a generic city street looking at storefronts, cars, or asphalt with zero narrative purpose (Rule #46).
+- **Library / Archive wandering:** Camera drifting down bookshelves, reading tables, or empty bookstacks (Rule #46).
+- **Purposeless object gazing:** Camera slowly tilting or panning over a book, binder, lamp, clock, or desk stationery while nothing happens (Rules #37, #46).
 - Camera slowly panning across legal files, case dockets, binders, or paper stacks on an empty desk.
 - Macro rack focus from a desk lamp / coffee mug / clock / keyboard to a piece of paper or stamp.
 - Tracking shots past empty leather boardroom chairs, empty cubicles, or empty court benches.
 - Entire chunks spent wandering through lifeless rooms with zero active human conflict (including lazy `--no people, faces` bypasses on sensitive chunks—see Rule #44).
 - Treating physical documents/evidence as the *main subject* of a video sequence (documents are props, never the protagonist).
 
-✅ **MANDATORY: HUMAN CONFLICT, VISCERAL ACTION & MONUMENTAL CINEMATICS:**
+✅ **MANDATORY: 100% SCRIPT-TO-SCREEN ACTION SYNC & SMART STORYTELLING (RULES #46 & #47):**
+- **Instant Comprehension:** What is spoken on VO must be **instantly understood and seen** on screen. Zero mental lag.
+- **People in Action Events:** Put characters into dramatic physical action events (negotiation walkouts, trade halts, regulators serving subpoenas, press scrums swarming town cars, whistleblowers passing encrypted files, founders getting confronted).
+- **Smart, Fun, High-Craft Storytelling:** Use visual irony, sharp contrast cuts, and physical cause-and-effect that makes the story thrilling, witty, and clever—never generic, boring wallpaper.
 - **Subtext Extraction (The Golden Rule — Rule #42):** Never write literal captions of the voiceover. Ask: *What is the emotional/institutional truth underneath, and what concrete physical human transaction or architectural scale shows it?*
 - **Status & Purposeful Gross-Motor Movement:** Characters must be caught mid-action in purposeful gross-motor movement and authentic psychological reactions dictated by their role in that exact beat.
 - **Active Prop Integration:** Objects, documents, and technology exist strictly as already-printed props reviewed or held by living characters—never as standalone still-life subjects, and never with fine finger writing/typing mechanics.
@@ -84,7 +90,7 @@ Never turn a scene into a boring corporate still-life. The AI video camera must 
 
 ---
 
-## AI SLOP BLACKLIST — 20 PERMANENT BANS
+## AI SLOP BLACKLIST — 22 PERMANENT BANS
 
 These specific images cause AI hallucination, look cheap, or are permanently banned by the director:
 
@@ -108,6 +114,8 @@ These specific images cause AI hallucination, look cheap, or are permanently ban
 18. **Burning dollar bills or spiderwebs connecting skyscrapers** — cliché AI slop.
 19. **Characters posed statically or locked-off surveillance cameras** — characters and cameras must always have deliberate cinematic intent.
 20. **Talking heads looking into the lens** — never frame a narrator or character looking directly into the camera speaking.
+21. **Aimless camera wandering down streets or library aisles (Rule #46)** — camera drifting down empty city streets, cruising bookshelves, or wandering with no active human action.
+22. **Purposeless gazing at books, binders, lamps, or stationary objects (Rule #46)** — camera slowly tilting or panning over a book or desk object with zero human presence or narrative action.
 
 ---
 

@@ -238,3 +238,41 @@ Every Start Frame AND every individual Video Shot (`SHOT 1` through `SHOT 4/6`) 
 ### Rule #45 — The Chunk 01 Signature Hook Rule (Catchy Continuous FPV / Drone Opening)
 - **The First Chunk (`00:00 - 00:15`) Must Always Be Special:** Never open an episode in Chunk 01 with a flat, ordinary room shot.
 - Design **Chunk 01** around a **breathtaking continuous FPV / drone / single-take camera journey** that glides smoothly through the environment from point A to point B (e.g., gliding across the rain-slicked midnight Diamond District street down two stories through subterranean security grates straight up to the massive sealed 3.5-ton steel vault door), giving the video a high-retention theatrical opening hook.
+
+---
+
+### Rule #46 — Permanent Ban on Aimless Camera Wandering & Filler B-Roll (Zero Purposeless Scenery)
+- **STRICT ZERO-TOLERANCE BAN (DIRECTOR MANDATE):** The camera must **NEVER wander inside a scene with no narrative purpose**.
+  - **Banned Clichés & Filler Archetypes:**
+    1. **Aimless street wandering:** Camera drifting down a generic city street, gazing at storefronts, asphalt, or cars passing by with zero plot relevance.
+    2. **Library / Archive wandering:** Camera drifting down book aisles, gliding along empty reading tables, or staring at book spines.
+    3. **Purposeless object gazing:** Camera slowly tilting or panning over a book, binder, lamp, phone, clock, coffee cup, or desk stationery while nothing happens.
+- **The Golden Litmus Test:** If you freeze any shot or mute the voiceover, does the scene show a **meaningful, motivated, physical human action event or dramatic transaction**? If it just looks like generic scenic B-roll, decorative wallpaper, or a passive museum tour, it is **BANNED AI SLOP**.
+- **The Action Replacement Law:** Every camera trajectory must be anchored to active human conflict:
+  - Don't wander down a street $\rightarrow$ show a grim-faced executive briskly crossing the street in rain while gripping a confidential folder, or an aggressive press photographer fighting for an angle.
+  - Don't gaze at a book on a shelf $\rightarrow$ show an investigative auditor violently pulling a sealed archive box down, slapping a forensic ledger open, and stabbing a finger at a falsified entry.
+  - Don't drift through an empty hallway $\rightarrow$ show employees abruptly carrying banker boxes out of an office after sudden termination.
+
+---
+
+### Rule #47 — 100% Script-to-Screen Action Sync & Smart Visual Storytelling (Instant Comprehension Law)
+- **WHAT IS SAID MUST BE INSTANTLY UNDERSTOOD AND SEEN:** The viewer should NEVER have to wonder why a visual is on screen. The visual action must immediately, smartly, and unmistakably embody the exact sentence being narrated.
+  - ❌ **Disconnected / Random:** Voiceover explains *"a disastrous private equity leveraged buyout that loaded the balance sheet with debt,"* but the video shows a random camera drifting past a library window or a pedestrian walking down the sidewalk.
+  - ✅ **Synced & Smart:** Show a sleek high-rise conference room where predatory private equity partners in dark suits slide an intimidating mountain of debt binders across the mahogany table toward a sweating, cornered CEO, followed by a cut to workers outside carrying cardboard boxes.
+- **People in Action Events (Not Passive Mannequins):**
+  - Stop making characters stare blankly out windows or sit passively around tables.
+  - Put people into **dynamic, high-stakes physical action events**:
+    - Abrupt, angry walkouts from high-stakes negotiations
+    - Tense whispered huddles in stairwells or fire escapes
+    - Sudden shockwaves across trading floors or trading desks as tickers flash red
+    - Regulators or bailiffs serving legal summons at corporate reception desks
+    - Aggressive press scrums swarming an executive ducking into a black town car
+    - Whistleblowers passing encrypted drives or dossiers across parking garage roofs
+- **Fun, Smart, High-Craft Storytelling:**
+  - Tell the story with wit, irony, and sharp visual contrast.
+  - Pair ironic visual juxtaposition: when the script speaks of *"invincible market dominance,"* show the opulent marble foyer, then immediately contrast it with a cut to a cramped basement server room with overheating wires and panicked technicians.
+  - When the script describes algorithmic takeover, show human photographers getting shoved aside by automated robotic camera rigs or a wall of screens displacing human editors.
+- **Zero Pretending / Zero Hallucination:**
+  - Never write prompts that merely "sound cinematic" while ignoring the specific narrative beat of that chunk.
+  - Audit every single prompt against the exact words of the narration before presenting it.
+

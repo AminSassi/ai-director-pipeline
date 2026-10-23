@@ -11,14 +11,14 @@ Before printing any batch of 6 chunks, you MUST print this exact verification ma
 ```markdown
 ### 🛡️ PRE-GENERATION AUDIT MATRIX (BATCH X: CHUNKS A–B)
 
-| Chunk | Primary Location / Tag | Subtext / Visual Metaphor (Non-Literal) | Start Frame Archetype (`camera/angles.md`) | `SHOT 1` Camera Move (Max 1 Push-In/Batch!) | Shots 2–4/6 Movements | Locked Tags (SF vs Video Header) |
-| :---: | :--- | :--- | :--- | :--- | :--- | :--- |
-| **01** | ... | ... | ... | ... | ... | SF: `[...]` / VH: `[...]` |
-| **02** | ... | ... | ... | ... | ... | SF: `[...]` / VH: `[...]` |
-| **03** | ... | ... | ... | ... | ... | SF: `[...]` / VH: `[...]` |
-| **04** | ... | ... | ... | ... | ... | SF: `[...]` / VH: `[...]` |
-| **05** | ... | ... | ... | ... | ... | SF: `[...]` / VH: `[...]` |
-| **06** | ... | ... | ... | ... | ... | SF: `[...]` / VH: `[...]` |
+| Chunk | Primary Location / Tag | Script-to-Screen Action Event (Rule #47) | Start Frame Archetype (`camera/angles.md`) | `SHOT 1` Camera Move (Max 1 Push-In/Batch!) | Shots 2–4/6 Movements | Zero-Wandering / Anti-Slop (Rule #46) | Locked Tags (SF vs Video Header) |
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **01** | ... | ... | ... | ... | ... | ✅ No wandering/B-roll | SF: `[...]` / VH: `[...]` |
+| **02** | ... | ... | ... | ... | ... | ✅ No wandering/B-roll | SF: `[...]` / VH: `[...]` |
+| **03** | ... | ... | ... | ... | ... | ✅ No wandering/B-roll | SF: `[...]` / VH: `[...]` |
+| **04** | ... | ... | ... | ... | ... | ✅ No wandering/B-roll | SF: `[...]` / VH: `[...]` |
+| **05** | ... | ... | ... | ... | ... | ✅ No wandering/B-roll | SF: `[...]` / VH: `[...]` |
+| **06** | ... | ... | ... | ... | ... | ✅ No wandering/B-roll | SF: `[...]` / VH: `[...]` |
 ```
 
 ---
@@ -26,6 +26,8 @@ Before printing any batch of 6 chunks, you MUST print this exact verification ma
 ## 2. Hard Gate Verification Checks (Zero Exceptions)
 
 ### A. Anti-Monotony & Creative Staging Checks
+- [ ] **Instant Script-to-Screen Action Sync (Rule #47):** Is what is spoken on VO instantly understood and seen in the video? Are characters placed in dynamic action events (walkouts, negotiations, trade halts, confrontations, revelations) rather than passively sitting or staring?
+- [ ] **Zero Aimless Camera Wandering & Scenic Wallpaper (Rule #46):** Are there ZERO cameras wandering down streets, drifting in empty libraries, or gazing at books, binders, lamps, or stationary objects? Every frame must show active human narrative purpose.
 - [ ] **`SHOT 1` Slow Push-In Cap:** Is `"slow push in"` used in `SHOT 1` **at most ONCE** across all 6 chunks in this batch? (If 2+ chunks use `slow push in` in `SHOT 1`, STOP and rewrite using lateral tracking, crane rise, dolly out, overhead 90° drift, or foreground-occluded glide).
 - [ ] **Opening Archetype Diversity:** Does every chunk in the batch open with a distinct framing archetype from `camera/angles.md`? Zero consecutive `Cinematic medium shot` openings.
 - [ ] **2-Chunk Location Ceiling (Rule #26):** Are there ZERO instances of 3+ consecutive chunks trapped in the same interior room or `@LOCATION` tag?
@@ -42,7 +44,8 @@ Before printing any batch of 6 chunks, you MUST print this exact verification ma
   - Zero doors opening or closing mid-shot.
   - Zero requests for readable English text/sentences on screens or papers inside the prompt.
   - Zero frontal face shots combined with readable laptop screens (always use OTS for screens per Rule #28).
-- [ ] **Zero Inert Object Wandering & Zero Empty-Room `--no people` Bypasses (Rule #37 & #44):**
+- [ ] **Zero Inert Object Wandering, Zero Street/Library B-Roll & Zero Empty-Room `--no people` Bypasses (Rules #37, #44, #46):**
+  - Zero cameras wandering down streets, drifting through empty libraries, or gazing at books, binders, lamps, or stationary objects.
   - Zero cameras wandering across empty desks, paper stacks, brass lamps, or empty courtroom pews.
   - In sensitive/moderation-prone chunks, human tension is preserved via backlit silhouettes, OTS framing past a suit jacket, marching boots, hands gripping a rail, or courtroom observers—NEVER `--no people, faces` on empty rooms.
 
