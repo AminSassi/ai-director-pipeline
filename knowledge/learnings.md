@@ -28,7 +28,11 @@ Accumulated corrections and discoveries from live production sessions. Updated a
 
 - [2026-06-25] INSIGHT: Locked Assets Workflow — Before generating chunk prompts, identify ALL recurring characters, locations, and signature vehicles/objects that appear more than once. Present reference sheet prompts for each in Phase 1 FIRST. Wait for the director to generate and lock them before starting Phase 2.
 
-## LOCKED ASSET TEMPLATES (USE THESE)
+- [2026-11-01] CRITICAL POST-MORTEM — TEMPLATE COLLAPSE & MONOTONY BAN:
+  1. NEVER RECYCLE SHOT SEQUENCES: Repeating the same structural pattern (e.g., Shot 5 always being "Macro rack focus from prop to face" and Shot 6 always being "High-angle wide crane shot of the room") across consecutive chunks turns premium cinema into robotic formula. Every chunk MUST have a completely distinct camera progression (whip pans, handheld drifts, ground-skimming tracks, backlit silhouettes, Dutch tilts, static holds, monumental crane rises).
+  2. ESCAPE THE 4-WALLS TRAP: Never trap multiple chunks in generic offices, boardrooms, or analyst bullpens leaning over papers and screens. Expand the visual canvas to the external physical reality of the story: neon-drenched financial avenues, subterranean telecommunications vaults, monumental neoclassical central bank facades, cold storage blast vaults, crowded transit terminals, and geopolitical corridors.
+  3. STRICT BAN ON FINE MOTOR MECHANICS: Remember Rule #40 — NEVER prompt fine finger/tool mechanics (typing on keyboards, writing with pens/highlighters, pressing rubber stamps, holding magnifying loupes). Keep documents and displays already static, and use bold gross-motor actions (walking stairs, boarding trains, turning from windows, closing doors).
+
 
 ### CHARACTER REFERENCE SHEET TEMPLATE
 ```
@@ -207,3 +211,11 @@ Professional location reference sheet, full-frame photographs, no borders, no ma
      * Put people in action events: walkouts, heated negotiations, trade floor sudden halts, regulators serving summons, press swarms, whistleblowers trading files.
      * Tell the story with wit, irony, and sharp contrast cuts—not generic, boring corporate wallpaper.
 
+
+- [2026-10-31] CRITICAL DIRECTOR RULE — ALWAYS PUT ALL PROMPTS IN CODE BOXES:
+  * Every single prompt without exception—both Start Frame (Image) prompts AND Grok Video prompts—must ALWAYS be placed inside its own dedicated markdown code block (code box) with explicit closing fences for instant one-click copying.
+  * Never output prompts as raw unboxed text or inline markdown. Keep exact narration in plain text, followed by Start Frame in a code box, followed by Video Prompt in a code box.
+
+- [2026-11-03] CRITICAL DIRECTOR DECREE — PERMANENT STANDARD TARGET IS ALWAYS 1,400 WORDS:
+  * NEVER propose extended cuts (17–18 min / ~2,600w) even if the raw script provided has 2,600+ words.
+  * The ElevenLabs VO target is permanently locked to **1,400 ±25 words** (~10 minutes). Always execute the deterministic 5-pass compression to hit 1,375–1,425 words automatically.
